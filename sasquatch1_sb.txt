@@ -1,0 +1,1960 @@
+Level #1
+####  
+#@ #  
+#  #  
+#  ###
+#.$$ #
+#  . #
+#  ###
+####  
+
+Found solution with 16 pushes.
+Level #2
+ #####
+ #@  #
+##.# #
+#    #
+#  $ #
+# #*##
+#   # 
+##### 
+
+Found solution with 7 pushes.
+Level #3
+   ####
+####@ #
+#  #  #
+# . . #
+#  $$ #
+# # ###
+#   #  
+#####  
+
+Found solution with 11 pushes.
+Level #4
+ #####    
+##@  #### 
+#  #  . ##
+# #      #
+# $$ #.  #
+##    ####
+ ##   #   
+  #####   
+
+Found solution with 17 pushes.
+Level #5
+######  
+#@   #  
+# $$ ###
+###    #
+  #  . #
+  ## .##
+   #### 
+
+Found solution with 18 pushes.
+Level #6
+   ####  
+####  #  
+#@.*  #  
+#  #  ###
+####  $ #
+   #  # #
+   ##   #
+    #####
+
+Found solution with 18 pushes.
+Level #7
+  #####
+###@  #
+#  $# #
+#  .$ #
+## ##.#
+ #    #
+ ######
+
+Found solution with 9 pushes.
+Level #8
+########
+#@     #
+#   *  #
+###.$###
+  # * # 
+  #   # 
+  ##### 
+
+Found solution with 11 pushes.
+Level #9
+######
+#@   #
+# #$ #
+# .*.#
+# #$ #
+#    #
+######
+
+Found solution with 6 pushes.
+Level #10
+#####  
+#   #  
+#   ###
+#$$$@ #
+#...  #
+#######
+
+Found solution with 7 pushes.
+Level #11
+######
+#+#  #
+# $$ #
+#..$ #
+##   #
+ #####
+
+Found solution with 10 pushes.
+Level #12
+ #######
+ #  #@ #
+ #  #$ #
+##  .*.#
+#   #$ #
+#   #  #
+##  ####
+ #  #   
+ ####   
+
+Found solution with 32 pushes.
+Level #13
+#####  
+#   ###
+#     #
+#     #
+###.###
+#@$*$ #
+#  .  #
+#######
+
+Found solution with 24 pushes.
+Level #14
+ ####  
+##@ ###
+# .$  #
+# .$  #
+# .$ ##
+##  ## 
+ ####  
+
+Found solution with 9 pushes.
+Level #15
+####   
+#  ####
+#  #@ #
+#.$** #
+##    #
+ #   ##
+ ##### 
+
+Found solution with 11 pushes.
+Level #16
+    ####
+  ###@ #
+  # $$ #
+ ## #  #
+## .#$ #
+#      #
+# ..####
+#####   
+
+Found solution with 26 pushes.
+Level #17
+ #####
+ #@  #
+ #$# #
+## $ #
+#   ##
+#.*. #
+#    #
+######
+
+Found solution with 10 pushes.
+Level #18
+ ##### 
+ #@  ##
+ #$#  #
+ # $  #
+##  ###
+# $.  #
+#. .  #
+#######
+
+Found solution with 19 pushes.
+Level #19
+#######
+#@    #
+# $$$.#
+## # .#
+ # # .#
+ #  # #
+ ##   #
+  #####
+
+Found solution with 15 pushes.
+Level #20
+ ####  
+ #@ ###
+ #$   #
+ # .# #
+##*.  #
+# $ ###
+#   #  
+#####  
+
+Found solution with 14 pushes.
+Level #21
+   #### 
+####@ # 
+#. .  ##
+#  #   #
+## #   #
+## ##  #
+# $  ###
+#  $ #  
+# # ##  
+#   #   
+#####   
+
+Found solution with 32 pushes.
+Level #22
+ ######### 
+ #    #@ # 
+ # $ $   # 
+ ## ###  # 
+### # # ###
+#   ###   #
+# # . .   #
+#   #######
+#####      
+
+Found solution with 30 pushes.
+Level #23
+ ##### #####
+ #@  ###   #
+ # $  ##.. #
+###$#      #
+#   ## ##  #
+#       ####
+#   #   #   
+#########   
+
+Found solution with 36 pushes.
+Level #24
+     #####  
+######@  #  
+#   ## # #  
+# $ $    #  
+### ### ### 
+#         ##
+#   ### .. #
+#####    # #
+    # #  # #
+    #  ##  #
+    ##    ##
+     ###### 
+
+Found solution with 37 pushes.
+Level #25
+ ##### 
+##@  ##
+# .$. #
+# $#$ #
+# .$. #
+#    ##
+##  ## 
+ ####  
+
+Found solution with 6 pushes.
+Level #26
+########
+#@     #
+# ###$ #
+# #  $ #
+# #.*$ #
+# #.#  #
+#  .#  #
+########
+
+Found solution with 20 pushes.
+Level #27
+#######
+#@ .  #
+# *$* #
+#. # .#
+#  #  #
+#  #  #
+#  #  #
+# $#$ #
+#  #  #
+#######
+
+Found solution with 27 pushes.
+Level #28
+  #######
+  #@    #
+### ### #
+# ..*   #
+#  $$  ##
+####  ## 
+   #  #  
+   ####  
+
+Found solution with 14 pushes.
+Level #29
+######  
+#@   #  
+# ##$###
+# # $  #
+#  .*. #
+##     #
+ #  ####
+ ####   
+
+Found solution with 9 pushes.
+Level #30
+         #####
+         #@  #
+########## # #
+#.     #  $  #
+#.     #    ##
+#.# #######  #
+#         $$ #
+##  #####    #
+ ####   ######
+
+Found solution with 65 pushes.
+Level #31
+  ########
+  #@ #   #
+  #  $   #
+  #  ##$##
+#### ##  #
+#  ...#$ #
+#        #
+######  ##
+     #### 
+
+Found solution with 40 pushes.
+Level #32
+########
+#@     #
+#    # #
+###..$.#
+  # #$##
+  #    #
+  ## $ #
+   # # #
+   #   #
+   #####
+
+Found solution with 24 pushes.
+Level #33
+     #####
+  ####@  #
+  # ...# #
+###$   # #
+#  $$### #
+#        #
+##########
+
+Found solution with 16 pushes.
+Level #34
+#####    
+#@  #### 
+#  .#  # 
+## ..  ##
+ # ##   #
+ # #    #
+ # $ ####
+ # $##   
+ # $ #   
+ #   #   
+ #####   
+
+Found solution with 34 pushes.
+Level #35
+ ########## 
+ #@ ##    ##
+ #     ##  #
+ # # $#  # #
+ # #    $# #
+ # #  #$   #
+ # ###  ####
+## .   ##   
+#  .####    
+#  .#       
+#####       
+
+Found solution with 47 pushes.
+Level #36
+    ###### 
+    #@   ##
+ #### ##  #
+##      # #
+#  $**. # #
+#   # ##  #
+#####    ##
+    ###### 
+
+Found solution with 13 pushes.
+Level #37
+ #####  
+ #@  #  
+## # ## 
+# $   ##
+#  $#. #
+## $ . #
+ #  #. #
+ ####  #
+    #  #
+    ####
+
+Found solution with 28 pushes.
+Level #38
+  ######
+  #@   #
+### ## #
+# ...  #
+#  $ ###
+# #$##  
+#  $ #  
+#    #  
+######  
+
+Found solution with 14 pushes.
+Level #39
+ ###### 
+##@   # 
+#  ## # 
+# # $ # 
+#  *..# 
+## #$###
+ #     #
+ ###   #
+   #####
+
+Found solution with 13 pushes.
+Level #40
+ #####
+ #@  #
+## . #
+#  * #
+# # ##
+#  $ #
+## * #
+ #   #
+ #####
+
+Found solution with 11 pushes.
+Level #41
+#####   
+#@  ####
+# # .  #
+# #$.  #
+#  $*# #
+####   #
+   #####
+
+Found solution with 10 pushes.
+Level #42
+ #######  
+ #@    ###
+## ###$  #
+#  .. $  #
+#  .##$ ##
+### #  ## 
+  #   ##  
+  #####   
+
+Found solution with 23 pushes.
+Level #43
+     ####  
+     #@ ## 
+###### $ ##
+#  . # $  #
+#      $# #
+## ..#    #
+ ##  ######
+  ####     
+
+Found solution with 23 pushes.
+Level #44
+    ####   
+ ####  ### 
+ #     $ # 
+ #  $$ # # 
+ # #@ #  # 
+## ####  ##
+#  ...    #
+# ### #   #
+#     #####
+#######    
+
+Found solution with 38 pushes.
+Level #45
+        #####
+#### ####   #
+#  ###      #
+# ..  $$$$  #
+# ..  #@ #  #
+#############
+
+Found solution with 40 pushes.
+Level #46
+########    
+#@ #   #    
+#      #    
+#  ## ###   
+## ##   ####
+ # ## $$$  #
+## ## #    #
+# . . . ####
+#   #####   
+#####       
+
+Found solution with 49 pushes.
+Level #47
+######   
+#@   ### 
+# $    # 
+#  ### # 
+# $$ $ # 
+#     ###
+### ##  #
+# ....  #
+#       #
+#  ######
+####     
+
+Found solution with 52 pushes.
+Level #48
+     #####
+ #####@  #
+##  .  # #
+# $$.$$  #
+#  #.# ###
+##  .  #  
+ #######  
+
+Found solution with 22 pushes.
+Level #49
+ ##### 
+##   # 
+#    # 
+# .$.##
+##$#$@#
+ #.$. #
+ #    #
+ #   ##
+ ##### 
+
+Found solution with 10 pushes.
+Level #50
+ ########
+ #  #   #
+##  #$  #
+# .*@*. #
+#  $#  ##
+#   #  # 
+######## 
+
+Found solution with 16 pushes.
+Level #51
+########
+#  $.  #
+#  $.  #
+###  ###
+#@ $.  #
+#  $.  #
+########
+
+Found solution with 14 pushes.
+Level #52
+   #### 
+   #@ # 
+   #$ # 
+   #  # 
+#### ###
+#  $   #
+#  ..* #
+#   #  #
+########
+
+Found solution with 19 pushes.
+Level #53
+ ###### 
+ #@   # 
+ #. ..##
+###$   #
+# $  $ #
+#   ####
+#####   
+
+Found solution with 18 pushes.
+Level #54
+     ##### 
+    ##@  # 
+    #  # # 
+    #    # 
+    #    # 
+  #####.###
+  #    .  #
+### #$#.  #
+#  $$  ####
+# #    #   
+#   ####   
+#####      
+
+Found solution with 52 pushes.
+Level #55
+   ####  
+ ###@ ## 
+ # $ $ # 
+ #   # # 
+ ##$   # 
+  #  # # 
+  ## # # 
+  #. # # 
+  #.## # 
+###.## ##
+#       #
+#       #
+#########
+
+Found solution with 58 pushes.
+Level #56
+   #####
+  ##@  #
+### .# #
+#  $*$ #
+#   .# #
+### #  #
+  #   ##
+  ##### 
+
+Found solution with 20 pushes.
+Level #57
+   #####
+ ###@  #
+##     #
+# **$ ##
+#  * .# 
+### # # 
+  #   # 
+  ##### 
+
+Found solution with 14 pushes.
+Level #58
+    #### 
+ ####  ##
+ #    $@#
+ # #  # #
+## #$$$ #
+# ..  ###
+# .. ##  
+###  #   
+  ####   
+
+Found solution with 31 pushes.
+Level #59
+ ######   
+ #@   ### 
+ # $  $ # 
+ ##$# # # 
+### # # ##
+# . . .  #
+#   ##   #
+##########
+
+Found solution with 22 pushes.
+Level #60
+ #######    #####
+ #@    ######   #
+##        ...   #
+#  ########## ###
+# $  $   $     # 
+#  #   #   #   # 
+################ 
+
+Found solution with 69 pushes.
+Level #61
+#####     
+#   #     
+#   ######
+#$$$$@$  #
+#.....   #
+##########
+
+Found solution with 28 pushes.
+Level #62
+   ####  
+   #@ ###
+   # .  #
+   #$.  #
+#### .$ #
+#  $$.###
+#     #  
+#######  
+
+Found solution with 22 pushes.
+Level #63
+#####       
+#   #####   
+#   $@$ ### 
+## $    $ ##
+ ###### .. #
+     #. .  #
+     #     #
+     ###  ##
+       #### 
+
+Found solution with 42 pushes.
+Level #64
+######### 
+#@ ##   ##
+# $ $$*  #
+#  # . # #
+## #. .  #
+ #   #####
+ #####    
+
+Found solution with 17 pushes.
+Level #65
+######   
+#    #   
+# ## ##  
+# #@* ## 
+# # *  ##
+# # *   #
+# # * $ #
+# ## #.##
+#    ### 
+######   
+
+Found solution with 9 pushes.
+Level #66
+     #####    
+     #   #    
+     # # #    
+     #   #    
+#######$ #    
+#    $..$#####
+# # $.  .#   #
+#   #.  .$ # #
+#####$..$    #
+    #@$#######
+    #   #     
+    # # #     
+    #   #     
+    #####     
+
+[hash=205K queue=140K]
+[hash=392K queue=261K]
+Found solution with 28 pushes.
+Level #67
+   ####   
+  ##@ ##  
+ ## *  ## 
+## $ .$ ##
+#  .   * #
+# *   .  #
+## $. $ ##
+ ##  * ## 
+  ##  ##  
+   ####   
+
+Found solution with 12 pushes.
+Level #68
+    ###    
+   ##.##   
+  ## $ ##  
+ ##     ## 
+##  ***  ##
+#.$ *@* $.#
+##  ***  ##
+ ##     ## 
+  ## $ ##  
+   ##.##   
+    ###    
+
+Found solution with 24 pushes.
+Level #69
+#######
+# . . #
+#.$$$.#
+# $@$ #
+#.$$$.#
+# . . #
+#######
+
+Found solution with 12 pushes.
+Level #70
+########
+#@ #   #
+#  #.. #
+# $$$$$#
+#  #...#
+#  #   #
+#      #
+########
+
+Found solution with 29 pushes.
+Level #71
+########
+#@  #  #
+# $.$. #
+##.  $ #
+# $  .##
+# .$.$ #
+#  #   #
+########
+
+Found solution with 10 pushes.
+Level #72
+#########
+#@      #
+# *$*$* #
+# $...$ #
+# *. .* #
+# $...$ #
+# *$*$* #
+#       #
+#########
+
+Found solution with 12 pushes.
+Level #73
+#########
+#       #
+# .$.$. #
+# $.$.$ #
+# .$@$. #
+# $.$.$ #
+# .$.$. #
+#       #
+#########
+
+Found solution with 12 pushes.
+Level #74
+#########
+#       #
+# $.$.$ #
+# .$+$. #
+##$. .$##
+# .$.$. #
+# $.$.$ #
+#       #
+#########
+
+Found solution with 16 pushes.
+Level #75
+#########
+#   #   #
+# .$.$. #
+# $.$.$ #
+##.$@$.##
+# $.$.$ #
+# .$.$. #
+#   #   #
+#########
+
+[hash=188K queue=122K]
+Found solution with 22 pushes.
+Level #76
+ ######  
+ #  . ###
+## $.   #
+#  $*$$ #
+#..*@*..#
+# $$*$  #
+#   .$ ##
+### .  # 
+  ###### 
+
+Found solution with 16 pushes.
+Level #77
+  #####    
+  #   ###  
+ ## #   ###
+ #  .$#   #
+## #$+$.# #
+#  $. .$  #
+# #.$.$# ##
+#   #$.  # 
+###   # ## 
+  ###   #  
+    #####  
+
+Found solution with 12 pushes.
+Level #78
+ ####### 
+##@    ##
+#  $.$  #
+# $#.#$ #
+##.. .. #
+# $#.#$ #
+#  $.$  #
+#   #  ##
+######## 
+
+Found solution with 22 pushes.
+Level #79
+    #### 
+ ####  # 
+ #     # 
+##.# # ##
+#@$ $#  #
+# .$    #
+##.$##  #
+ #. #####
+ ####    
+
+Found solution with 22 pushes.
+Level #80
+ #### #####
+##  ###@  #
+#  . #  $ #
+# . .$ $ ##
+###*## # # 
+  #  #   # 
+  #  ##### 
+  #  #     
+  ####     
+
+Found solution with 31 pushes.
+Level #81
+ #######    
+ #  #@ ###  
+ #  #  . ###
+ #   $ #   #
+ ## # $ $  #
+  # ##..####
+  #  #  #   
+### ### ### 
+#     $   # 
+#   ###.  # 
+##### ##### 
+
+Found solution with 40 pushes.
+Level #82
+ ##########
+ #        #
+ #.####   #
+##.$@  $$ #
+# .*.$ #  #
+# ### ## ##
+#        # 
+########## 
+
+Found solution with 31 pushes.
+Level #83
+###### #### 
+#@.  ###  # 
+#         ##
+#....# $#  #
+###### $   #
+     ##$ $ #
+      #   ##
+      # $## 
+      #  #  
+      ####  
+
+Found solution with 55 pushes.
+Level #84
+########
+#@ ##  #
+#  ..  #
+# .  . #
+### ####
+ #    ##
+ # $$  #
+ ### $ #
+###  # #
+#    $ #
+#    ###
+######  
+
+Found solution with 45 pushes.
+Level #85
+        #### 
+        #  # 
+      ###  # 
+     ##    # 
+     #  #$###
+     # $@$  #
+     ##$    #
+#######  ####
+#     #  ##  
+#     ##  #  
+#  #  ....#  
+#    ######  
+######       
+
+Found solution with 88 pushes.
+Level #86
+  #####   
+ ##   #   
+ #  # #   
+##    #   
+#  $ #### 
+#  $$#+ # 
+###$    # 
+  #  #  # 
+  ####. # 
+   # #. ##
+   #  .  #
+   #     #
+   #######
+
+Found solution with 69 pushes.
+Level #87
+     ####   
+     #@ ### 
+    ## .  ##
+    #. .   #
+    #.  #  #
+    ## ##  #
+   ##  #####
+  ## $ #    
+ ## $  #    
+## $  ##    
+# $  ##     
+#   ##      
+#####       
+
+Found solution with 46 pushes.
+Level #88
+ ###### 
+ #+ . # 
+ #  *.##
+###$   #
+# $  $ #
+#   ####
+#####   
+
+Found solution with 28 pushes.
+Level #89
+########
+#      #
+# #.#  #
+#  *   #
+##$*$ ##
+#  *@## 
+# #.##  
+#   #   
+#####   
+
+Found solution with 24 pushes.
+Level #90
+ ##### 
+ #   # 
+ #   ##
+ #$*$@#
+##. . #
+# . .##
+# $*$# 
+##   # 
+ #   # 
+ ##### 
+
+Found solution with 16 pushes.
+Level #91
+  ####   
+  #@ #   
+  #  #   
+  #  ### 
+###$ $ ##
+#  $ $  #
+#   #   #
+###### ##
+  ## . .#
+  #  . .#
+  #     #
+  #  ####
+  ####   
+
+Found solution with 52 pushes.
+Level #92
+ ######    ####
+ #@   ######  #
+ #  #   $     #
+## ....# $ #  #
+#   ## ## $  ##
+#      ### $ # 
+######## ##  # 
+          #### 
+
+Found solution with 52 pushes.
+Level #93
+    ####
+  ###  #
+ ## .  #
+##     #
+# .$. ##
+# $ ### 
+# .$####
+###@   #
+ ##$#  #
+ #  #  #
+ #    ##
+ ###  # 
+   #### 
+
+Found solution with 22 pushes.
+Level #94
+       ######     
+    ####@   ###   
+    #    ##   #   
+ #### ###..## ####
+ #  #$$     #    #
+##  $ $ #...   # #
+#  #  $ ##### #  #
+#    ####  #    ##
+##   #     #   ## 
+ #####     #####  
+
+[hash=97.8K queue=32.3K]
+[hash=168K queue=36.9K]
+[hash=224K queue=26.7K]
+Found solution with 73 pushes.
+Level #95
+#############
+#@      #   #
+#    ## #   #
+## ### $ $ ##
+# ...# $$$ # 
+#          # 
+##..######## 
+ ####        
+
+[hash=85.8K queue=20.3K]
+Found solution with 54 pushes.
+Level #96
+     ####  
+     #  #  
+ #####  #  
+ #@ $ $ #  
+ # .#  ### 
+ # .#$$  ##
+## .#     #
+#  *###   #
+#        ##
+## .###### 
+ ####      
+
+Found solution with 71 pushes.
+Level #97
+#####    #####
+#@  ######   #
+#          # #
+## ####### # #
+ # #     # # #
+ # #$$ ..... #
+## #   #######
+#  #$# #      
+# $ $  #      
+#  #  ##      
+####  #       
+   ####       
+
+[hash=106K queue=40.7K]
+[hash=174K queue=42.9K]
+[hash=229K queue=32.2K]
+Found solution with 114 pushes.
+Level #98
+#####    
+#   ###  
+# # $@###
+# # $   #
+# #.$## #
+# #.$   #
+#  .#####
+## .  #  
+ #    #  
+ ######  
+
+Found solution with 16 pushes.
+Level #99
+  #####     
+  #@  #     
+  #   #     
+  #  ##     
+###. # #####
+#  . ###   #
+#  . # $   #
+# #.## $ $ #
+#  .    $$##
+##  ###   # 
+ #### ##### 
+
+[hash=80.5K queue=15.0K]
+Found solution with 77 pushes.
+Level #100
+#######    
+#@    ##   
+# ###  ####
+#   ##    #
+#  $ #### #
+###$ .....#
+  #  #### #
+###$$#    #
+#  $ # ####
+#    # #   
+# #### #   
+#      #   
+########   
+
+Found solution with 51 pushes.
+Level #101
+  #####   
+### . #   
+#  . $##  
+#  $$. ###
+### .$$@ #
+  ##$ .  #
+   # . ###
+   #####  
+
+Found solution with 18 pushes.
+Level #102
+   ####     
+  ##  #     
+  #   ##### 
+  #       # 
+  #   #   # 
+  ##    .## 
+   #####.#  
+  ######.###
+  #     .  #
+###  #$#.  #
+#  $$@$ ####
+#   $   #   
+###  ####   
+  ####      
+
+[hash=87.2K queue=21.6K]
+[hash=169K queue=37.7K]
+[hash=244K queue=47.3K]
+[hash=314K queue=52.1K]
+[hash=386K queue=58.7K]
+[hash=452K queue=59.1K]
+[hash=513K queue=53.9K]
+[hash=573K queue=48.9K]
+[hash=626K queue=35.9K]
+[hash=683K queue=27.4K]
+[hash=734K queue=12.9K]
+Found solution with 112 pushes.
+Level #103
+  ##########  
+  #@  #    #  
+### ... .# #  
+#    ## ## #  
+#    ##  # #  
+###  #   # #  
+  #  ##  # ###
+  ##### $#$  #
+      # $    #
+      # $##  #
+      #  #####
+      ####    
+
+[hash=71.1K queue=5.5K]
+Found solution with 80 pushes.
+Level #104
+   ###### 
+####    # 
+#    ## ##
+# ##     #
+# #  #   #
+#  $$#$$ #
+###$@$ $##
+  #     # 
+ #### ####
+ #  . .. #
+ # .. .  #
+ # .##   #
+ #####   #
+     #####
+
+[hash=176K queue=110K]
+[hash=328K queue=197K]
+[hash=493K queue=296K]
+[hash=669K queue=407K]
+[hash=840K queue=512K]
+[hash=948K queue=555K]
+No solution found.
+Level #105
+ ####   
+ #  ### 
+##    ##
+#  * . #
+# *$*$ #
+##@.$. #
+ #   ###
+ #####  
+
+Found solution with 15 pushes.
+Level #106
+  #### 
+###@ # 
+#  . ##
+# #*  #
+# $.# #
+##$.# #
+#  $  #
+#   ###
+#  ##  
+####   
+
+Found solution with 28 pushes.
+Level #107
+  ####   
+ ##@ ####
+ #  $$  #
+ # #  # #
+ # $ $# #
+ # #  # #
+ # #  # #
+## #$#  #
+# .....##
+#   #### 
+#####    
+
+Found solution with 46 pushes.
+Level #108
+   ####    
+   #  #    
+  ## $###  
+  #  .  ###
+### .$.   #
+# $.$@$.$ #
+#   .$. ###
+###  .  #  
+  ###$ ##  
+    #  #   
+    ####   
+
+Found solution with 14 pushes.
+Level #109
+ #####    
+ #@. #####
+ #$ $$ $ #
+ # .. . .#
+##$   .$ #
+# $.   $##
+#. . .. # 
+# $ $$ $# 
+##### . # 
+    ##### 
+
+[hash=655K queue=589K]
+No solution found.
+Level #110
+  ########
+  #@ #   #
+###... . #
+#    # ###
+#      #  
+###  # ## 
+  ### $ # 
+  ## $  # 
+### $  ## 
+#  $  ####
+#    #   #
+#  ##    #
+#       ##
+##  #  ## 
+ ####  #  
+    ####  
+
+[hash=75.5K queue=10.0K]
+Found solution with 137 pushes.
+Level #111
+  ####      
+  #  #      
+###  ##     
+#  $ .# ####
+#  $#.###@ #
+#  $ .#    #
+#####.# $  #
+  ###.#$#  #
+  #  .  $  #
+  #   ###  #
+  ##  # ####
+   ####     
+
+[hash=71.5K queue=5.9K]
+[hash=138K queue=7.0K]
+[hash=209K queue=12.2K]
+[hash=268K queue=5.8K]
+Found solution with 96 pushes.
+Level #112
+#########
+#@  #   #
+# $...$ #
+# $* *$ #
+# $...$ #
+#   #   #
+#########
+
+Found solution with 14 pushes.
+Level #113
+###########
+#@        #
+#  * . *  #
+##*$* *$*##
+#  * . *  #
+#    #    #
+###########
+
+Found solution with 14 pushes.
+Level #114
+      #####    
+    ###   #    
+    #   # #    
+    # #   #    
+##### $ $##### 
+#   ##@# #   # 
+# # $ ... $# ##
+#    #. .#    #
+## #$ ... $ # #
+ #   # # ##   #
+ #####$ $ #####
+    #   # #    
+    # #   #    
+    #   ###    
+    #####      
+
+[hash=225K queue=159K]
+[hash=405K queue=274K]
+Found solution with 44 pushes.
+Level #115
+     ###     
+    ## ##    
+   ##   ##   
+  ## .$. ##  
+ ## .$.$. ## 
+## .$ $ $. ##
+#  $.$@$.$  #
+## .$ $ $. ##
+ ## .$.$. ## 
+  ## .$. ##  
+   ##   ##   
+    ## ##    
+     ###     
+
+[hash=636K queue=570K]
+Found solution with 20 pushes.
+Level #116
+########        
+#@ #   #        
+#      #        
+#  ## ##########
+## ##  #       #
+ # ##  #       #
+ # ##  $ $ $ $ #
+## ### ####### #
+#    . . . .   #
+#   ############
+#####           
+
+Found solution with 100 pushes.
+Level #117
+       ####
+ #######  #
+##@  ##   #
+#    #  $ #
+# # ##$  ##
+# #   $ ## 
+# # .#$ #  
+#  ..  ##  
+###. ###   
+  #  #     
+  ####     
+
+Found solution with 50 pushes.
+Level #118
+     #####   
+     #@  ##  
+######  $ ## 
+#    ##  $ ##
+#     ##  $ #
+#...#  ##   #
+#      ##$  #
+#...# ## $ ##
+##### # $  # 
+    #     ## 
+    #  ####  
+    ####     
+
+[hash=120K queue=54.7K]
+[hash=263K queue=131K]
+[hash=415K queue=218K]
+[hash=531K queue=267K]
+[hash=618K queue=288K]
+[hash=713K queue=317K]
+[hash=798K queue=336K]
+[hash=888K queue=361K]
+[hash=985K queue=392K]
+No solution found.
+Level #119
+ #######  
+ #@    ###
+ # ###.  #
+ # # . # #
+## #...  #
+#    .####
+#  #  #   
+## #####  
+# $$   ## 
+#  $$   # 
+### $$  # 
+  #     # 
+  ##   ## 
+   #####  
+
+Found solution with 84 pushes.
+Level #120
+     ####      
+   ###@ ###### 
+   #         # 
+ ###$  $## # # 
+ #   #   # $ ##
+###    ## $$  #
+#  ## $   #   #
+#   #  ########
+#     ##       
+#......#       
+#      #       
+########       
+
+[hash=195K queue=129K]
+[hash=413K queue=281K]
+[hash=557K queue=359K]
+[hash=698K queue=433K]
+[hash=834K queue=504K]
+[hash=969K queue=573K]
+No solution found.
+Level #121
+   #######
+  ##@.   #
+ ##  .   #
+ # $*.# ##
+ # # .  # 
+## # . ## 
+#  ### #  
+# #    ## 
+# $$$#  # 
+#     # # 
+###   # # 
+  #$##  # 
+  #    ## 
+  ######  
+
+[hash=135K queue=67.5K]
+[hash=222K queue=85.9K]
+[hash=294K queue=88.3K]
+[hash=358K queue=83.3K]
+Found solution with 65 pushes.
+Level #122
+   #### 
+ ###@ ##
+ #     #
+##*  # #
+# *$*. #
+#     ##
+####### 
+
+Found solution with 16 pushes.
+Level #123
+  #####     
+###@  ####  
+#   $  $ #  
+# $##  $ #  
+##     # #  
+ ##### # ###
+     # ... #
+     ##.   #
+      ##  ##
+       #  # 
+       #### 
+
+Found solution with 48 pushes.
+Level #124
+#########
+#   #   #
+# $ * $ #
+#..# #..#
+# $ # $ #
+# .$@$. #
+# $ # $ #
+#..# #..#
+# $ * $ #
+#   #   #
+#########
+
+[hash=227K queue=120K]
+[hash=424K queue=216K]
+[hash=623K queue=306K]
+[hash=806K queue=384K]
+[hash=990K queue=465K]
+No solution found.
+Level #125
+     ########## 
+     #@       ##
+ ##### #### $  #
+ #.. #     #   #
+ #   .  # $  # #
+ #.. #### # $  #
+ ## ##  # $$#  #
+  # #   ##    ##
+### ###  ###### 
+#     #         
+#     #         
+#  #  #         
+####  #         
+   ####         
+
+[hash=93.5K queue=27.7K]
+[hash=154K queue=22.6K]
+[hash=229K queue=32.3K]
+[hash=304K queue=41.2K]
+[hash=364K queue=36.4K]
+[hash=422K queue=27.9K]
+[hash=478K queue=19.2K]
+[hash=551K queue=26.6K]
+[hash=614K queue=24.0K]
+[hash=669K queue=13.0K]
+[hash=727K queue=5.8K]
+Found solution with 133 pushes.
+Level #126
+ #######      
+ #@    #      
+ # $$  #      
+ #  $###      
+ # #  #       
+ # #$ #       
+ # #  #       
+## ## ##      
+#    ..#######
+# ###...     #
+#   #.#### $ #
+### #.# $ $$ #
+  #  .    #  #
+  #########  #
+          ####
+
+[hash=129K queue=62.5K]
+[hash=247K queue=112K]
+[hash=378K queue=177K]
+[hash=499K queue=231K]
+[hash=625K queue=290K]
+[hash=734K queue=333K]
+[hash=875K queue=408K]
+[hash=998K queue=466K]
+No solution found.
+Level #127
+#####     
+#@  ######
+#  $ #   #
+#.*.*. $ #
+#  $ #####
+##   #    
+ #####    
+
+Found solution with 18 pushes.
+Level #128
+   ####### 
+  ##@    ##
+###  ###  #
+#   #   # #
+# $***. # #
+##      # #
+ #### ##  #
+    #    ##
+    ###### 
+
+Found solution with 14 pushes.
+Level #129
+       ####
+########@ #
+#     $   #
+#  ##.##  #
+##$##  . ##
+ #  . $# ##
+ # ###.#  #
+ # ###    #
+ #   $ ####
+ #  ####   
+ ####      
+
+Found solution with 60 pushes.
+Level #130
+            ####  
+           ##@ ###
+          ##     #
+         ##  *$ .#
+        ##  **  ##
+       ##  **  ## 
+      ##  **  ##  
+     ##  **  ##   
+    ##  **  ##    
+   ##  **  ##     
+  ##  **  ##      
+ ##  **  ##       
+##  **  ##        
+#  **  ##         
+# **  ##          
+#  ####           
+####              
+
+[hash=118K queue=52.6K]
+[hash=236K queue=105K]
+[hash=356K queue=159K]
+[hash=457K queue=195K]
+[hash=594K queue=266K]
+[hash=703K queue=310K]
+[hash=804K queue=345K]
+[hash=949K queue=425K]
+No solution found.
+Level #131
+            ####  
+          ###  ###
+         ##.$.   #
+        ##.$.$$. #
+       ##.$.$$.$##
+      ##.$.$$.$.# 
+     ##.$.$$.$.## 
+    ##.$.$$.$.##  
+   ##.$.$$.$.##   
+  ##.$.$$.$.##    
+ ##.$.$$.$.##     
+##.$.$$.$.##      
+#.$.$$.$.##       
+##@$$.$.##        
+ #   $.##         
+ ####.##          
+    ###           
+
+[hash=825K queue=733K]
+No solution found.
+Level #132
+                  #####    
+            ##### #@  #    
+            #   ### # #    
+      ##### # #       #    
+##### #   # #   #### ##    
+#   ### # # ### #  # #     
+# #       #   # #  # ###   
+#   ####$###### ####   #   
+### #  # .      #    # #   
+  # #  #  ##  #    #   #   
+ ## #####  ##    # #####   
+ #         ##  ### #       
+ # # ### #  #####  # ##### 
+ #   # #    # #    # #   # 
+ ##### #  #####  # ### # # 
+       # ###  ##         # 
+   ##### #    ##  ##### ## 
+   #   #    #  ##  #  # #  
+   # #    #        #  # ###
+   #   #### ###### ####   #
+   ### #  # #   #       # #
+     # #  # ### # # ###   #
+    ## ####   # #   # #####
+    #       # # #####      
+    # # ###   #            
+    #   # #####            
+    #####                  
+
+Found solution with 110 pushes.
+Level #133
+    ##########################    
+   ##@    #                  ##   
+  ##  #  #  ################  ##  
+ ##  #  #  #                #  ## 
+##  #  #  #  ##############  #  ##
+#  #  #  #  #              #  #  #
+# #  #  #  #  ############  #  # #
+# # #  #  #  #            #  #   #
+# # # #  #  #  ##########  #  #  #
+# # # # #  #  #          #  #  # #
+# # # # # #  #  ########  #  #  ##
+# # # # # # #  #        #  #  #  #
+# # # # # # # #  ######  #  #  # #
+# # # # # # # # #      #  #  # # #
+# # # # # # # # # ####  #  # # # #
+# # # # # # # #       #  # # # # #
+# # # # # # #   ## ##  # # # # # #
+# # # # # #  ## ##   # # # # # # #
+# # # # #  #     .$# # # # # # # #
+# # # #  #  #### # # # # # # # # #
+# # #  #  #      # # # # # # # # #
+# #  #  #  ######  # # # # # # # #
+#  #  #  #        #  # # # # # # #
+##  #  #  ########  #  # # # # # #
+# #  #  #          #  #  # # # # #
+#  #  #  ##########  #  #  # # # #
+#   #  #            #  #  #  # # #
+# #  #  ############  #  #  #  # #
+#  #  #              #  #  #  #  #
+##  #  ##############  #  #  #  ##
+ ##  #                #  #  #  ## 
+  ##  ################  #  #  ##  
+   ##                  #     ##   
+    ##########################    
+
+Found solution with 11 pushes.
+Level #134
+            #####    ####            
+            #@  ######  #            
+            #           #            
+         ##### #######  ####         
+         #   #  #   ## ##  #         
+         #      #####      #         
+      ##### ##  ## ##   #  ####      
+      #   #  ####   ##### ##  #      
+      #      ###     ###      #      
+   ##### ##  ##  #    ##   #  ####   
+   #   #  ####   # #   ##### ##  #   
+   #      ###    # #    ###      #   
+##### ##  ##     # # #   ##   #  ####
+#   #  ####   ## #   #    ##### ##  #
+#      ###         # # #   ###      #
+## ##  ##   ######   # #    ##   #  #
+ # #####           # #       ##### ##
+ # # ##   ### # ## # # #####  ## # # 
+ # # #                         # # # 
+ # # ##  ##### # # ## # ###   ## # # 
+## #####       # #           ##### # 
+#  #   ##    # #   ######   ##  ## ##
+#      ###   # # #         ###      #
+#  ## #####    #   # ##   ####  #   #
+####  #   ##   # # #     ##  ## #####
+   #      ###    # #    ###      #   
+   #  ## #####   # #   ####  #   #   
+   ####  #   ##    #  ##  ## #####   
+      #      ###     ###      #      
+      #  ## #####   ####  #   #      
+      ####  #   ## ##  ## #####      
+         #      #   #      #         
+         #  ## ## # #  #   #         
+         ####  ## # ## #####         
+            #   $ # .   #            
+            #  ######   #            
+            ####    #####            
+
+Found solution with 124 pushes.
+Level #135
+          ####                                 
+          #  #          ####                   
+      #####  #          #  #         ####      
+      #   #  #      #####  #         #  #      
+      #     ####    #   #  #     #####  #      
+      ####     #    #     ####   #   #  #      
+         # #   #   #####     #   #     ####    
+         # #####   #   # #   #  #####     #    
+     ##### ##  #####     #####  #   # #   #    
+     #   # ##  #  #####     #####     #####    
+     #     ##  #  #  ## #   #  #####     ####  
+     ####     ##  #  ## #####  #  ## #   #  #  
+       #  ##     ##  ## #####  #  ## #####  #  
+       #  #  ##     ###       ##  ## #####  #  
+       #  #  #  ##       ###     ###       ####
+       ####  #  #  ##### ##  ##       ###     #
+         #####  #  ##### ##  #  ##### ##  #   #
+         #  #####  #   # ##  #  ##### ##  #####
+     #####  #   ####     #####  #   # ##  #    
+     #   #  #     #####     #####     #####    
+     #     ####   #   # #   #   ####     #     
+    #####     #####     #####     #  #   #     
+    #  ## #   #  #####     ####   #  #####     
+#####  ## #####  #  ## #   #  #####  #         
+#   #  ## #####  #  ## #####  #  #####         
+#     ###       ##  ## #####  #  #  ####       
+####       ###     ###       ##  #  #  #       
+  #  ##### ##  ##       ###     ##  #  #       
+  #  ##### ##  #  ##### ##  ##     ##  #       
+  #  #   # ##  #  ##### ##  #  ##     ####     
+  ####     #####  #   # ##  #  #  ##     #     
+    #####     #####     #####  #  ## #   #     
+    #   # #   #  #####     #####  ## #####     
+    #     #####  #   # #   #   ##### #         
+    ####     #   #     #####   #   # #         
+      #  #   #   ####     #    #     ####      
+      #  #####     #@$#   #    ####     #      
+      #  #         # .#####      #  #   #      
+      ####         #  #          #  #####      
+                   ####          #  #          
+                                 ####          
+
+Found solution with 591 pushes.
+Solved 127 out of 136 levels.
+totalSet 5910344, totalQueue 2052811
+Flat profile of 107.43 secs (10588 total ticks): main
+
+  Interpreted + native   Method                        
+  0.0%     5  +     0    base.Key.create
+  0.0%     4  +     0    base.Key.boxes
+  0.0%     4  +     0    java.util.Arrays.copyOf
+  0.0%     3  +     0    base.Cells$MinimalPushes.<init>
+  0.0%     3  +     0    java.lang.String.substring
+  0.0%     3  +     0    base.KeySearch.init
+  0.0%     2  +     0    java.util.PriorityQueue.size
+  0.0%     1  +     0    java.util.Arrays.copyOfRange
+  0.0%     1  +     0    java.util.Arrays.copyOf
+  0.0%     1  +     0    java.util.ArrayList.<init>
+  0.0%     1  +     0    java.util.ArrayDeque.isEmpty
+  0.0%     1  +     0    base.Dir.reverse
+  0.0%     1  +     0    java.lang.AbstractStringBuilder.<init>
+  0.0%     1  +     0    java.util.AbstractCollection.isEmpty
+  0.0%     1  +     0    base.Cell.get
+  0.0%     1  +     0    java.util.Formatter.parse
+  0.0%     1  +     0    java.lang.ClassLoader.defineClass1
+  0.0%     1  +     0    java.util.ArrayDeque.add
+  0.0%     1  +     0    base.Cells.<init>
+  0.0%     1  +     0    base.Cells.markDeadCells
+  0.0%     1  +     0    java.lang.Enum.ordinal
+  0.0%     1  +     0    java.util.regex.Matcher.<init>
+  0.0%     1  +     0    Main.search
+  0.0%     1  +     0    base.CellSearch.access$0
+  0.0%     0  +     1    java.lang.Object.getClass
+  0.4%    41  +     1    Total interpreted
+
+     Compiled + native   Method                        
+ 40.5%  4291  +     0    Main.estimateSimpleBipartite
+ 31.1%  3297  +     0    base.Key.normalizeAgent
+ 11.4%  1205  +     1    Main.search
+  8.7%   918  +     7    base.Cells$MinimalPushes.<init>
+  2.2%   233  +     0    java.util.PriorityQueue.siftDownComparable
+  1.7%   177  +     0    base.Cells.markDeadCells
+  1.6%   171  +     1    util.KeySet.resize
+  1.5%   163  +     0    base.Key.boxes
+  0.3%    33  +     0    java.util.PriorityQueue.offer
+  0.3%    27  +     1    base.Key.push
+  0.1%    14  +     0    base.KeySearch$1.next
+  0.0%     1  +     0    base.Builder.build
+  0.0%     1  +     0    base.Builder.<init>
+ 99.6% 10531  +    10    Total compiled
+
+         Stub + native   Method                        
+  0.0%     0  +     5    java.lang.System.arraycopy
+  0.0%     0  +     5    Total stub
+
+
+Flat profile of 0.00 secs (1 total ticks): DestroyJavaVM
+
+  Thread-local ticks:
+100.0%     1             Blocked (of total)
+
+
+Global summary of 107.43 seconds:
+100.0% 10661             Received ticks
+  0.7%    72             Received GC ticks
+  0.8%    85             Compilation

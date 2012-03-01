@@ -1,0 +1,8655 @@
+8 cores
+6400m memory
+20M hashset limit
+result: 18 timeout, 5 noSolution
+
+Level #1 [cells 16, boxes 1, alive 6, complexity 6.1]
+######
+#@   #
+# $  #
+#    #
+# .  #
+######
+
+[set 5, closed 2, open 0]
+Found solution in 2 pushes.
+FrozenBoxes 0
+
+Level #2 [cells 99, boxes 5, alive 90, complexity 26.6]
+###########
+#@        #
+#$#$#$#$#$#
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+# # # # # #
+#.#.#.#.#.#
+###########
+
+[set 544, closed 137, open 405]
+Found solution in 85 pushes.
+FrozenBoxes 86
+
+Level #3 [cells 163, boxes 8, alive 152, complexity 39.4]
+#############
+#@          #
+#$$#$$#$$#$$#
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#..#..#..#..#
+#############
+
+[set 4.7K, closed 571, open 4.1K]
+Found solution in 144 pushes.
+FrozenBoxes 8
+
+Level #4 [cells 164, boxes 8, alive 136, complexity 38.4]
+#############
+#@       #  #
+##$#$$#$$#  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+# $# $# $#  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#  #  #  #  #
+#   ........#
+#############
+
+[set 5.6K, closed 547, open 5.0K]
+Found solution in 139 pushes.
+FrozenBoxes 25
+
+Level #5 [cells 14, boxes 2, alive 9, complexity 8.0]
+####  
+# .#  
+#  ###
+#*@  #
+#  $ #
+#  ###
+####  
+
+[set 16, closed 13, open 1]
+Found solution in 8 pushes.
+FrozenBoxes 8
+
+Level #6 [cells 19, boxes 3, alive 5, complexity 5.8]
+######
+#    #
+# #@ #
+# $* #
+# .* #
+#    #
+######
+
+[set 7, closed 3, open 2]
+Found solution in 3 pushes.
+FrozenBoxes 5
+
+Level #7 [cells 20, boxes 2, alive 11, complexity 9.1]
+  ####   
+###  ####
+#     $ #
+# #  #$ #
+# . .#@ #
+#########
+
+[set 65, closed 62, open 1]
+Found solution in 13 pushes.
+FrozenBoxes 30
+
+Level #8 [cells 20, boxes 3, alive 8, complexity 8.5]
+########
+#      #
+# .**$@#
+#      #
+#####  #
+    ####
+
+[set 45, closed 34, open 9]
+Found solution in 7 pushes.
+FrozenBoxes 23
+
+Level #9 [cells 27, boxes 4, alive 12, complexity 11.4]
+ #######
+ #     #
+ # .$. #
+## $@$ #
+#  .$. #
+#      #
+########
+
+[set 134, closed 28, open 100]
+Found solution in 6 pushes.
+FrozenBoxes 10
+
+Level #10 [cells 28, boxes 3, alive 14, complexity 11.5]
+###### #####
+#    ###   #
+# $$     #@#
+# $ #...   #
+#   ########
+#####       
+
+[set 242, closed 172, open 67]
+Found solution in 29 pushes.
+FrozenBoxes 49
+
+Level #11 [cells 30, boxes 6, alive 12, complexity 11.8]
+#######
+#     #
+# .$. #
+# $.$ #
+# .$. #
+# $.$ #
+#  @  #
+#######
+
+[set 322, closed 74, open 238]
+Found solution in 6 pushes.
+FrozenBoxes 55
+
+Level #12 [cells 27, boxes 2, alive 15, complexity 10.4]
+  ######
+  # ..@#
+  # $$ #
+  ## ###
+   # #  
+   # #  
+#### #  
+#    ## 
+# #   # 
+#   # # 
+###   # 
+  ##### 
+
+[set 119, closed 117, open 0]
+Found solution in 32 pushes.
+FrozenBoxes 15
+
+Level #13 [cells 13, boxes 2, alive 8, complexity 7.5]
+##### 
+#.  ##
+#@$$ #
+##   #
+ ##  #
+  ##.#
+   ###
+
+[set 16, closed 13, open 1]
+Found solution in 10 pushes.
+FrozenBoxes 2
+
+Level #14 [cells 27, boxes 3, alive 14, complexity 11.5]
+      #####
+      #.  #
+      #.# #
+#######.# #
+# @ $ $ $ #
+# # # # ###
+#       #  
+#########  
+
+[set 109, closed 105, open 2]
+Found solution in 21 pushes.
+FrozenBoxes 55
+
+Level #15 [cells 25, boxes 2, alive 13, complexity 9.9]
+  ###### 
+  #    # 
+  # ##@##
+### # $ #
+# ..# $ #
+#       #
+#  ######
+####     
+
+[set 71, closed 56, open 12]
+Found solution in 16 pushes.
+FrozenBoxes 23
+
+Level #16 [cells 23, boxes 2, alive 9, complexity 8.6]
+#####    
+#   ##   
+# $  #   
+## $ ####
+ ###@.  #
+  #  .# #
+  #     #
+  #######
+
+[set 27, closed 20, open 3]
+Found solution in 13 pushes.
+FrozenBoxes 14
+
+Level #17 [cells 20, boxes 3, alive 14, complexity 11.1]
+####   
+#. ##  
+#.@ #  
+#. $#  
+##$ ###
+ # $  #
+ #    #
+ #  ###
+ ####  
+
+[set 111, closed 78, open 31]
+Found solution in 21 pushes.
+FrozenBoxes 22
+
+Level #18 [cells 16, boxes 2, alive 6, complexity 6.7]
+#######
+#     #
+# # # #
+#. $*@#
+#   ###
+#####  
+
+[set 14, closed 12, open 0]
+Found solution in 10 pushes.
+FrozenBoxes 1
+
+Level #19 [cells 19, boxes 2, alive 8, complexity 8.0]
+     ### 
+######@##
+#    .* #
+#   #   #
+#####$# #
+    #   #
+    #####
+
+[set 32, closed 30, open 0]
+Found solution in 14 pushes.
+FrozenBoxes 4
+
+Level #20 [cells 31, boxes 3, alive 21, complexity 13.4]
+ ####     
+ #  ####  
+ #     ## 
+## ##   # 
+#. .# @$##
+#   # $$ #
+#  .#    #
+##########
+
+[set 273, closed 171, open 100]
+Found solution in 39 pushes.
+FrozenBoxes 80
+
+Level #21 [cells 17, boxes 3, alive 9, complexity 8.9]
+##### 
+# @ # 
+#...# 
+#$$$##
+#    #
+#    #
+######
+
+[set 31, closed 21, open 8]
+Found solution in 9 pushes.
+FrozenBoxes 7
+
+Level #22 [cells 22, boxes 2, alive 13, complexity 9.8]
+#######
+#     #
+#. .  #
+# ## ##
+#  $ # 
+###$ # 
+  #@ # 
+  #  # 
+  #### 
+
+[set 55, closed 39, open 13]
+Found solution in 13 pushes.
+FrozenBoxes 5
+
+Level #23 [cells 19, boxes 2, alive 11, complexity 9.0]
+########
+#   .. #
+#  @$$ #
+##### ##
+   #  # 
+   #  # 
+   #  # 
+   #### 
+
+[set 64, closed 59, open 3]
+Found solution in 20 pushes.
+FrozenBoxes 6
+
+Level #24 [cells 23, boxes 2, alive 12, complexity 9.5]
+#######  
+#     ###
+#  @$$..#
+#### ## #
+  #     #
+  #  ####
+  #  #   
+  ####   
+
+[set 65, closed 61, open 2]
+Found solution in 16 pushes.
+FrozenBoxes 13
+
+Level #25 [cells 15, boxes 2, alive 5, complexity 6.0]
+####   
+#  ####
+# . . #
+# $$#@#
+##    #
+ ######
+
+[set 9, closed 6, open 0]
+Found solution in 5 pushes.
+FrozenBoxes 1
+
+Level #26 [cells 25, boxes 2, alive 12, complexity 9.6]
+#####  
+#   ###
+#. .  #
+#   # #
+## #  #
+ #@$$ #
+ #    #
+ #  ###
+ ####  
+
+[set 65, closed 59, open 4]
+Found solution in 15 pushes.
+FrozenBoxes 14
+
+Level #27 [cells 18, boxes 2, alive 11, complexity 9.0]
+#######
+#  *  #
+#     #
+## # ##
+ #$@.# 
+ #   # 
+ ##### 
+
+[set 19, closed 16, open 1]
+Found solution in 10 pushes.
+FrozenBoxes 9
+
+Level #28 [cells 19, boxes 2, alive 9, complexity 8.4]
+  #####
+  #   #
+###$$@#
+#   ###
+#     #
+# . . #
+#######
+
+[set 38, closed 36, open 0]
+Found solution in 9 pushes.
+FrozenBoxes 24
+
+Level #29 [cells 18, boxes 3, alive 9, complexity 8.9]
+ ####  
+ #  ###
+ # $$ #
+##... #
+#  @$ #
+#   ###
+#####  
+
+[set 37, closed 26, open 6]
+Found solution in 7 pushes.
+FrozenBoxes 27
+
+Level #30 [cells 18, boxes 3, alive 10, complexity 9.4]
+ #####
+ # @ #
+ #   #
+###$ #
+# ...#
+# $$ #
+###  #
+  ####
+
+[set 78, closed 73, open 3]
+Found solution in 10 pushes.
+FrozenBoxes 45
+
+Level #31 [cells 18, boxes 2, alive 14, complexity 9.8]
+###### 
+#   .# 
+# ## ##
+#  $$@#
+# #   #
+#.  ###
+#####  
+
+[set 41, closed 39, open 0]
+Found solution in 12 pushes.
+FrozenBoxes 11
+
+Level #32 [cells 17, boxes 2, alive 7, complexity 7.4]
+#####  
+#   #  
+# @ #  
+# $$###
+##. . #
+ #    #
+ ######
+
+[set 23, closed 20, open 0]
+Found solution in 9 pushes.
+FrozenBoxes 5
+
+Level #33 [cells 35, boxes 2, alive 12, complexity 10.0]
+     ##### 
+     #   ##
+     #    #
+ ######   #
+##     #. #
+# $ $ @  ##
+# ######.# 
+#        # 
+########## 
+
+[set 74, closed 72, open 0]
+Found solution in 22 pushes.
+FrozenBoxes 23
+
+Level #34 [cells 17, boxes 3, alive 9, complexity 8.9]
+####  
+#  ###
+# $$ #
+#... #
+# @$ #
+#   ##
+##### 
+
+[set 23, closed 10, open 8]
+Found solution in 5 pushes.
+FrozenBoxes 15
+
+Level #35 [cells 18, boxes 3, alive 8, complexity 8.3]
+  #### 
+ ##  # 
+##@$.##
+# $$  #
+# . . #
+###   #
+  #####
+
+[set 53, closed 34, open 15]
+Found solution in 6 pushes.
+FrozenBoxes 35
+
+Level #36 [cells 17, boxes 3, alive 9, complexity 8.9]
+ ####  
+##  ###
+#     #
+#.**$@#
+#   ###
+##  #  
+ ####  
+
+[set 27, closed 23, open 2]
+Found solution in 9 pushes.
+FrozenBoxes 16
+
+Level #37 [cells 22, boxes 3, alive 13, complexity 10.9]
+#######
+#. #  #
+#  $  #
+#. $#@#
+#  $  #
+#. #  #
+#######
+
+[set 83, closed 35, open 46]
+Found solution in 10 pushes.
+FrozenBoxes 16
+
+Level #38 [cells 23, boxes 4, alive 10, complexity 10.1]
+  ####   
+###  ####
+#       #
+#@$***. #
+#       #
+#########
+
+[set 103, closed 37, open 63]
+Found solution in 8 pushes.
+FrozenBoxes 37
+
+Level #39 [cells 24, boxes 5, alive 17, complexity 14.2]
+ #### 
+##  # 
+#. $# 
+#.$ # 
+#.$ # 
+#.$ # 
+#. $##
+#   @#
+##   #
+ #####
+
+[set 207, closed 131, open 73]
+Found solution in 31 pushes.
+FrozenBoxes 225
+
+Level #40 [cells 28, boxes 5, alive 22, complexity 16.1]
+####           
+#  ############
+# $ $ $ $ $ @ #
+# .....       #
+###############
+
+[set 16.4K, closed 16.1K, open 330]
+Found solution in 61 pushes.
+FrozenBoxes 11.8K
+
+Level #41 [cells 23, boxes 3, alive 14, complexity 11.3]
+      ###
+##### #.#
+#   ###.#
+#   $ #.#
+# $  $  #
+#####@# #
+    #   #
+    #####
+
+[set 154, closed 87, open 65]
+Found solution in 23 pushes.
+FrozenBoxes 51
+
+Level #42 [cells 28, boxes 3, alive 9, complexity 9.4]
+##########
+#        #
+# ##.### #
+# # $$ . #
+# . @$## #
+#####    #
+    ######
+
+[set 34, closed 18, open 12]
+Found solution in 8 pushes.
+FrozenBoxes 8
+
+Level #43 [cells 30, boxes 2, alive 14, complexity 10.3]
+#####     
+#   ####  
+# # # .#  
+#    $ ###
+### #$.  #
+#   #@   #
+# # ######
+#   #     
+#####     
+
+[set 102, closed 97, open 3]
+Found solution in 27 pushes.
+FrozenBoxes 8
+
+Level #44 [cells 16, boxes 3, alive 9, complexity 8.8]
+ ##### 
+ #   # 
+##   ##
+# $$$ #
+# .+. #
+#######
+
+[set 38, closed 13, open 23]
+Found solution in 7 pushes.
+FrozenBoxes 2
+
+Level #45 [cells 19, boxes 3, alive 8, complexity 8.4]
+####### 
+#     # 
+#@$$$ ##
+#  #...#
+##    ##
+ ###### 
+
+[set 44, closed 30, open 12]
+Found solution in 13 pushes.
+FrozenBoxes 5
+
+Level #46 [cells 19, boxes 3, alive 11, complexity 10.0]
+   ####
+   #  #
+   #@ #
+####$.#
+#   $.#
+# # $.#
+#    ##
+###### 
+
+[set 145, closed 129, open 13]
+Found solution in 15 pushes.
+FrozenBoxes 36
+
+Level #47 [cells 25, boxes 3, alive 17, complexity 12.3]
+     ####
+     # @#
+     #  #
+###### .#
+#   $  .#
+#  $$# .#
+#    ####
+###  #   
+  ####   
+
+[set 225, closed 175, open 48]
+Found solution in 22 pushes.
+FrozenBoxes 79
+
+Level #48 [cells 3, boxes 1, alive 2, complexity 1.4]
+#####
+#@$.#
+#####
+
+[set 2, closed 0, open 0]
+Found solution in 1 pushes.
+FrozenBoxes 0
+
+Level #49 [cells 18, boxes 3, alive 11, complexity 9.9]
+######
+#... #
+#  $ #
+# #$##
+#  $ #
+#  @ #
+######
+
+[set 52, closed 39, open 11]
+Found solution in 11 pushes.
+FrozenBoxes 15
+
+Level #50 [cells 21, boxes 2, alive 9, complexity 8.5]
+ ######
+##    #
+#  ## #
+# # $ #
+#  * .#
+## #@##
+ #   # 
+ ##### 
+
+[set 17, closed 15, open 0]
+Found solution in 8 pushes.
+FrozenBoxes 6
+
+Level #51 [cells 29, boxes 2, alive 13, complexity 10.1]
+  #######  
+###     #  
+# $ $   #  
+# ### #####
+# @ . .   #
+#   ###   #
+##### #####
+
+[set 89, closed 82, open 4]
+Found solution in 22 pushes.
+FrozenBoxes 11
+
+Level #52 [cells 25, boxes 3, alive 11, complexity 10.3]
+######  
+#  @ #  
+#  # ## 
+# .#  ##
+# .$$$ #
+# .#   #
+####   #
+   #####
+
+[set 105, closed 83, open 20]
+Found solution in 14 pushes.
+FrozenBoxes 48
+
+Level #53 [cells 29, boxes 3, alive 11, complexity 10.4]
+######  
+# @  #  
+# $# #  
+# $  #  
+# $ ##  
+### ####
+ #  #  #
+ #...  #
+ #     #
+ #######
+
+[set 166, closed 147, open 17]
+Found solution in 21 pushes.
+FrozenBoxes 42
+
+Level #54 [cells 25, boxes 2, alive 14, complexity 10.1]
+  ####    
+###  #####
+#  $  @..#
+# $    # #
+### #### #
+  #      #
+  ########
+
+[set 61, closed 59, open 0]
+Found solution in 17 pushes.
+FrozenBoxes 12
+
+Level #55 [cells 19, boxes 2, alive 8, complexity 8.0]
+####    
+#  ###  
+#    ###
+#  $*@ #
+### .# #
+  #    #
+  ######
+
+[set 25, closed 15, open 7]
+Found solution in 8 pushes.
+FrozenBoxes 2
+
+Level #56 [cells 20, boxes 4, alive 12, complexity 11.1]
+  ####
+### @#
+#  $ #
+#  *.#
+#  *.#
+#  $ #
+###  #
+  ####
+
+[set 103, closed 41, open 60]
+Found solution in 8 pushes.
+FrozenBoxes 24
+
+Level #57 [cells 20, boxes 4, alive 11, complexity 10.5]
+ ##### 
+##. .##
+# * * #
+#  #  #
+# $ $ #
+## @ ##
+ ##### 
+
+[set 111, closed 79, open 29]
+Found solution in 14 pushes.
+FrozenBoxes 52
+
+Level #58 [cells 34, boxes 4, alive 17, complexity 13.7]
+      ######
+      #    #
+  ##### .  #
+###  ###.  #
+# $  $  . ##
+# @$$ # . # 
+##    ##### 
+ ######     
+
+[set 1.4K, closed 929, open 462]
+Found solution in 30 pushes.
+FrozenBoxes 503
+
+Level #59 [cells 21, boxes 2, alive 13, complexity 9.7]
+########  
+# @ #  #  
+#      #  
+#####$ #  
+    #  ###
+    #$ ..#
+    #  ###
+    ####  
+
+[set 100, closed 98, open 0]
+Found solution in 27 pushes.
+FrozenBoxes 14
+
+Level #60 [cells 16, boxes 2, alive 6, complexity 6.7]
+#####  
+#   ###
+#  $  #
+##* . #
+ #   @#
+ ######
+
+[set 12, closed 7, open 1]
+Found solution in 6 pushes.
+FrozenBoxes 9
+
+Level #61 [cells 21, boxes 2, alive 12, complexity 9.4]
+  ####  
+  #  #  
+  #@ #  
+  #  #  
+### ####
+#    * #
+#  $   #
+#####. #
+    ####
+
+[set 84, closed 79, open 3]
+Found solution in 23 pushes.
+FrozenBoxes 25
+
+Level #62 [cells 18, boxes 3, alive 9, complexity 8.9]
+####   
+#  ####
+#.*$  #
+# .$# #
+## @  #
+ #   ##
+ ##### 
+
+[set 41, closed 28, open 11]
+Found solution in 11 pushes.
+FrozenBoxes 20
+
+Level #63 [cells 48, boxes 3, alive 24, complexity 14.5]
+############ 
+#          # 
+# ####### @##
+# #         #
+# #  $   #  #
+# $$ #####  #
+###  # # ...#
+  #### #    #
+       ######
+
+[set 1.3K, closed 828, open 425]
+Found solution in 50 pushes.
+FrozenBoxes 261
+
+Level #64 [cells 42, boxes 4, alive 20, complexity 14.9]
+ #########
+ #       #
+##@##### #
+#  #   # #
+#  #   $.#
+#  ##$##.#
+##$##  #.#
+#   $  #.#
+#   #  ###
+########  
+
+[set 676, closed 488, open 186]
+Found solution in 44 pushes.
+FrozenBoxes 121
+
+Level #65 [cells 32, boxes 4, alive 15, complexity 12.9]
+######## 
+#      # 
+# #### # 
+# #...@# 
+# ###$###
+# #     #
+#  $$ $ #
+####   ##
+   #.### 
+   ###   
+
+[set 137, closed 99, open 36]
+Found solution in 23 pushes.
+FrozenBoxes 43
+
+Level #66 [cells 28, boxes 4, alive 13, complexity 11.9]
+   ##########
+####    ##  #
+#  $$$....$@#
+#      ###  #
+#   #### ####
+#####        
+
+[set 194, closed 114, open 78]
+Found solution in 30 pushes.
+FrozenBoxes 112
+
+Level #67 [cells 33, boxes 2, alive 20, complexity 11.6]
+#####   ####       
+#   ##### .#       
+#       $  ########
+###  #### .$    @ #
+  #  #  #  ####   #
+  ####  ####  #####
+
+[set 218, closed 208, open 8]
+Found solution in 50 pushes.
+FrozenBoxes 17
+
+Level #68 [cells 27, boxes 4, alive 13, complexity 11.9]
+ ######   
+##    #   
+#   $ #   
+#  $$ #   
+### .#####
+  ##.# @ #
+   #.  $ #
+   #. ####
+   ####   
+
+[set 245, closed 215, open 27]
+Found solution in 30 pushes.
+FrozenBoxes 64
+
+Level #69 [cells 32, boxes 4, alive 19, complexity 14.3]
+  ###### 
+  #    # 
+  #  $ # 
+ ####$ # 
+## $ $ # 
+#....# ##
+#     @ #
+##  #   #
+ ########
+
+[set 908, closed 404, open 499]
+Found solution in 41 pushes.
+FrozenBoxes 137
+
+Level #70 [cells 46, boxes 3, alive 18, complexity 13.2]
+   ###   
+   #@#   
+ ###$### 
+##  .  ##
+#  # #  #
+# #   # #
+# #   # #
+# #   # #
+#  # #  #
+## $ $ ##
+ ##. .## 
+  #   #  
+  #   #  
+  #####  
+
+[set 199, closed 107, open 87]
+Found solution in 15 pushes.
+FrozenBoxes 89
+
+Level #71 [cells 20, boxes 3, alive 8, complexity 8.5]
+#####  
+#   ## 
+# #  # 
+#@$*.##
+##  . #
+ # $# #
+ ##   #
+  #####
+
+[set 27, closed 21, open 4]
+Found solution in 8 pushes.
+FrozenBoxes 11
+
+Level #72 [cells 23, boxes 3, alive 15, complexity 11.6]
+ ####     
+ #  ######
+##    $  #
+# .# $   #
+# .#$#####
+# .@ #    
+######    
+
+[set 303, closed 273, open 28]
+Found solution in 28 pushes.
+FrozenBoxes 105
+
+Level #73 [cells 39, boxes 3, alive 22, complexity 13.9]
+####  #### 
+#  ####  # 
+#  #  #  # 
+#  #    $##
+#  . .#$  #
+#@ ## # $ #
+#   . #   #
+###########
+
+[set 1.4K, closed 1.2K, open 152]
+Found solution in 37 pushes.
+FrozenBoxes 275
+
+Level #74 [cells 32, boxes 4, alive 16, complexity 13.3]
+#####   
+# @ ####
+#      #
+# $ $$ #
+##$##  #
+#   ####
+# ..  # 
+##..  # 
+ ###  # 
+   #### 
+
+[set 231, closed 111, open 118]
+Found solution in 26 pushes.
+FrozenBoxes 97
+
+Level #75 [cells 52, boxes 2, alive 18, complexity 11.7]
+###########  
+#     #   ###
+# $@$ # .  .#
+# ## ### ## #
+# #       # #
+# #   #   # #
+# ######### #
+#           #
+#############
+
+[set 105, closed 93, open 10]
+Found solution in 23 pushes.
+FrozenBoxes 39
+
+Level #76 [cells 37, boxes 3, alive 18, complexity 12.9]
+  ####    
+ ##  #####
+ #  $  @ #
+ #  $#   #
+#### #####
+#  #   #  
+#    $ #  
+# ..#  #  
+#  .####  
+#  ##     
+####      
+
+[set 728, closed 665, open 61]
+Found solution in 40 pushes.
+FrozenBoxes 104
+
+Level #77 [cells 33, boxes 3, alive 21, complexity 13.5]
+####    
+#  #####
+# $$ $ #
+#      #
+## ## ##
+#...#@# 
+# ### ##
+#      #
+#  #   #
+########
+
+[set 425, closed 326, open 97]
+Found solution in 29 pushes.
+FrozenBoxes 108
+
+Level #78 [cells 30, boxes 4, alive 21, complexity 14.8]
+ ####      
+ #  #######
+ #$ @#   .#
+## #$$   .#
+#  $  ##..#
+#   # #####
+###   #    
+  #####    
+
+[set 929, closed 702, open 225]
+Found solution in 34 pushes.
+FrozenBoxes 224
+
+Level #79 [cells 26, boxes 4, alive 16, complexity 13.1]
+ #######  
+## ....#  
+#   ######
+#   $ $ @#
+###  $ $ #
+  ###    #
+    ######
+
+[set 440, closed 294, open 143]
+Found solution in 34 pushes.
+FrozenBoxes 198
+
+Level #80 [cells 41, boxes 3, alive 24, complexity 14.3]
+ #####    
+##   #    
+#    #####
+#  #.#   #
+#@ #.# $ #
+#  #.#  ##
+#    #  # 
+##  ##$$# 
+ ##     # 
+  #  #### 
+  ####    
+
+[set 486, closed 311, open 173]
+Found solution in 56 pushes.
+FrozenBoxes 113
+
+Level #81 [cells 30, boxes 4, alive 20, complexity 14.5]
+########## 
+# @ .... # 
+#   ####$##
+## #  $ $ #
+ # $      #
+ #   ######
+ #####     
+
+[set 2.2K, closed 1.2K, open 1.1K]
+Found solution in 55 pushes.
+FrozenBoxes 654
+
+Level #82 [cells 34, boxes 5, alive 19, complexity 15.4]
+ #######   
+##     ##  
+#  $ $  #  
+# $ $ $ #  
+## ### ####
+ #@  .....#
+ ##     ###
+  #######  
+
+[set 1.7K, closed 700, open 912]
+Found solution in 35 pushes.
+FrozenBoxes 808
+
+Level #83 [cells 26, boxes 3, alive 12, complexity 10.7]
+ #########
+ #    #  #
+## $#$#  #
+#  .$.@  #
+#  .#    #
+##########
+
+[set 62, closed 52, open 8]
+Found solution in 18 pushes.
+FrozenBoxes 28
+
+Level #84 [cells 40, boxes 4, alive 20, complexity 14.8]
+####      
+#  #######
+#  . ## .#
+# $#    .#
+## ## # .#
+ #    #  #
+ #### #  #
+  # @$ ###
+  # $$ #  
+  #    #  
+  ######  
+
+[set 1.4K, closed 1.3K, open 128]
+Found solution in 40 pushes.
+FrozenBoxes 244
+
+Level #85 [cells 21, boxes 3, alive 10, complexity 9.6]
+ #####
+ #   #
+ # . #
+## * #
+#  *##
+#  @##
+## $ #
+ #   #
+ #####
+
+[set 101, closed 66, open 33]
+Found solution in 12 pushes.
+FrozenBoxes 42
+
+Level #86 [cells 25, boxes 3, alive 10, complexity 9.8]
+#####   
+#   ### 
+# .   ##
+##*#$  #
+# .# $ #
+# @## ##
+#     # 
+####### 
+
+[set 32, closed 29, open 0]
+Found solution in 14 pushes.
+FrozenBoxes 10
+
+Level #87 [cells 32, boxes 4, alive 21, complexity 14.9]
+######  
+#    ## 
+# $ $ ##
+## $$  #
+ # #   #
+ # ## ##
+ #  . .#
+ # @. .#
+ #  ####
+ ####   
+
+[set 5.1K, closed 4.2K, open 913]
+Found solution in 51 pushes.
+FrozenBoxes 1.5K
+
+Level #88 [cells 42, boxes 3, alive 25, complexity 14.5]
+########    
+#  ... #    
+#  ### ##   
+#  # $  #   
+## #@$  #   
+ # # $  #   
+ # ### #####
+ #         #
+ #   ###   #
+ ##### #####
+
+[set 1.1K, closed 750, open 330]
+Found solution in 68 pushes.
+FrozenBoxes 114
+
+Level #89 [cells 43, boxes 3, alive 30, complexity 15.3]
+       ####
+ #######  #
+ # $      #
+ #   $ $  #
+ # ########
+## # .  #  
+#  # #  #  
+#  @ . ##  
+## # # #   
+ #   . #   
+ #######   
+
+[set 444, closed 283, open 158]
+Found solution in 51 pushes.
+FrozenBoxes 157
+
+Level #90 [cells 26, boxes 4, alive 15, complexity 12.7]
+    #### 
+  ###  ##
+ ## $   #
+## $  # #
+# @#$$  #
+# ..  ###
+# ..###  
+#####    
+
+[set 250, closed 131, open 117]
+Found solution in 25 pushes.
+FrozenBoxes 76
+
+Level #91 [cells 34, boxes 4, alive 21, complexity 14.9]
+     ####
+######  #
+#       #
+#  ... .#
+##$######
+# $  #   
+#   $### 
+##  $  # 
+ ## @  # 
+  ###### 
+
+[set 841, closed 525, open 314]
+Found solution in 53 pushes.
+FrozenBoxes 235
+
+Level #92 [cells 36, boxes 3, alive 26, complexity 14.5]
+     ####
+   ###  #
+   #    #
+   #  # #
+   #$ #.#
+   #  # #
+   #$ #.#
+   #  # #
+####$ #.#
+# @     #
+#   #  ##
+######## 
+
+[set 1.4K, closed 982, open 360]
+Found solution in 65 pushes.
+FrozenBoxes 311
+
+Level #93 [cells 31, boxes 4, alive 21, complexity 14.8]
+##########
+#   ##   #
+# $  $@# #
+#### # $ #
+   #.#  ##
+   #.# $# 
+   #.   # 
+   #.   # 
+   ###### 
+
+[set 1.1K, closed 462, open 557]
+Found solution in 35 pushes.
+FrozenBoxes 204
+
+Level #94 [cells 30, boxes 4, alive 18, complexity 13.9]
+ ######## 
+ #  @   # 
+ # $  $ # 
+### ## ###
+#  $..$  #
+#   ..   #
+##########
+
+[set 1.3K, closed 843, open 400]
+Found solution in 16 pushes.
+FrozenBoxes 326
+
+Level #95 [cells 23, boxes 4, alive 14, complexity 12.2]
+###########
+#    .##  #
+# $$@..$$ #
+#   ##.   #
+###########
+
+[set 124, closed 84, open 38]
+Found solution in 14 pushes.
+FrozenBoxes 31
+
+Level #96 [cells 42, boxes 3, alive 22, complexity 13.9]
+  ####         
+  #  #    #####
+  #  #    #   #
+  #  ######.# #
+####  $    .  #
+#   $$# ###.# #
+#   #   # #   #
+######### #@ ##
+          #  # 
+          #### 
+
+[set 1.1K, closed 901, open 146]
+Found solution in 48 pushes.
+FrozenBoxes 107
+
+Level #97 [cells 65, boxes 8, alive 41, complexity 25.9]
+ ######### 
+##   #   ##
+#    #    #
+#  $ # $  #
+#   *.*   #
+####.@.####
+#   *.*   #
+#  $ # $  #
+#    #    #
+##   #   ##
+ ######### 
+
+[set 1.03M, closed 524K, open 502K]
+[set 1.90M, closed 1.05M, open 851K]
+[set 2.78M, closed 1.58M, open 1.21M]
+[set 3.54M, closed 2.10M, open 1.44M]
+[set 4.29M, closed 2.63M, open 1.67M]
+[set 5.14M, closed 3.15M, open 1.99M]
+[set 5.87M, closed 3.68M, open 2.20M]
+[set 6.57M, closed 4.20M, open 2.37M]
+[set 7.27M, closed 4.72M, open 2.55M]
+[set 7.98M, closed 5.25M, open 2.74M]
+[set 8.66M, closed 5.77M, open 2.89M]
+[set 9.24M, closed 6.30M, open 2.95M]
+[set 10.1M, closed 6.82M, open 3.23M]
+[set 10.7M, closed 7.35M, open 3.35M]
+[set 11.4M, closed 7.87M, open 3.46M]
+[set 12.0M, closed 8.39M, open 3.56M]
+[set 12.6M, closed 8.92M, open 3.67M]
+[set 13.2M, closed 9.44M, open 3.67M]
+[set 13.9M, closed 9.97M, open 3.86M]
+[set 14.5M, closed 10.5M, open 3.94M]
+[set 15.1M, closed 11.1M, open 4.00M]
+[set 15.7M, closed 11.6M, open 4.14M]
+[set 16.2M, closed 12.1M, open 4.08M]
+[set 16.8M, closed 12.6M, open 4.22M]
+[set 17.4M, closed 13.2M, open 4.25M]
+[set 17.6M, closed 13.3M, open 4.23M]
+Found solution in 34 pushes.
+FrozenBoxes 6.51M
+
+Level #98 [cells 30, boxes 3, alive 13, complexity 11.3]
+#########
+# @ #   #
+# $ $   #
+##$### ##
+#  ...  #
+#   #   #
+######  #
+     ####
+
+[set 393, closed 384, open 7]
+Found solution in 29 pushes.
+FrozenBoxes 104
+
+Level #99 [cells 36, boxes 8, alive 16, complexity 14.9]
+########
+#@     #
+# .$$. #
+# $..$ #
+# $..$ #
+# .$$. #
+#      #
+########
+
+[set 233, closed 43, open 185]
+Found solution in 8 pushes.
+FrozenBoxes 65
+
+Level #100 [cells 37, boxes 3, alive 19, complexity 13.2]
+  ######   
+  #    #   
+  #    #   
+#####  #   
+#   #.#####
+#   $@$   #
+#####.#   #
+   ## ## ##
+   #   $.# 
+   #   ### 
+   #####   
+
+[set 900, closed 858, open 40]
+Found solution in 37 pushes.
+FrozenBoxes 133
+
+Level #101 [cells 36, boxes 5, alive 23, complexity 16.7]
+   ####       
+   #  ########
+#### $ $.....#
+#   $   ######
+#@### ###     
+#  $  #       
+# $ # #       
+## #  #       
+ #    #       
+ ######       
+
+[set 1.4K, closed 871, open 517]
+Found solution in 41 pushes.
+FrozenBoxes 424
+
+Level #102 [cells 53, boxes 5, alive 27, complexity 18.3]
+#####           
+#   ## ####     
+#  $ ### .#     
+# $   $  .#     
+## $#####.# ####
+# $  # # .###  #
+#    # # .#  @ #
+###  # #       #
+  #### ##     ##
+        ####### 
+
+[set 71.7K, closed 71.6K, open 61]
+Found solution in 110 pushes.
+FrozenBoxes 22.9K
+
+Level #103 [cells 69, boxes 4, alive 41, complexity 19.3]
+               #####  
+               #   #  
+#######  ####### # #  
+#     #  #  #      #  
+#  @  ####  #     ####
+#  #    ....## ####  #
+#    ##### ## $$ $ $ #
+######   #           #
+         #  ##########
+         ####         
+
+[set 131K, closed 130K, open 169]
+Found solution in 131 pushes.
+FrozenBoxes 29.1K
+
+Level #104 [cells 28, boxes 4, alive 17, complexity 13.5]
+####### 
+# @#  # 
+#.$   # 
+#. # $##
+#.$#   #
+#. # $ #
+#  #   #
+########
+
+[set 1.3K, closed 959, open 242]
+Found solution in 52 pushes.
+FrozenBoxes 519
+
+Level #105 [cells 56, boxes 5, alive 32, complexity 19.4]
+  #####      
+  #   #      
+  # # #######
+  #  *  #   #
+  ## ##   # #
+  #     #*  #
+### # # # ###
+#  *#$+   #  
+# #   ## ##  
+#   #  *  #  
+####### # #  
+      #   #  
+      #####  
+
+[set 428, closed 198, open 226]
+Found solution in 15 pushes.
+FrozenBoxes 60
+
+Level #106 [cells 38, boxes 4, alive 20, complexity 14.8]
+###########
+#....#    #
+#  #   $$ #
+#  @  ##  #
+#     ##$ #
+######  $ #
+     #    #
+     ######
+
+[set 941, closed 547, open 392]
+Found solution in 44 pushes.
+FrozenBoxes 204
+
+Level #107 [cells 24, boxes 4, alive 14, complexity 12.2]
+  ##### 
+  # . ##
+### $  #
+# . $#@#
+# #$ . #
+#  $ ###
+## . #  
+ #####  
+
+[set 253, closed 120, open 129]
+Found solution in 12 pushes.
+FrozenBoxes 42
+
+Level #108 [cells 28, boxes 3, alive 16, complexity 12.1]
+    #####
+#####   #
+#    $  #
+#  $#$#@#
+### #   #
+  # ... #
+  ###  ##
+    #  # 
+    #### 
+
+[set 338, closed 313, open 23]
+Found solution in 31 pushes.
+FrozenBoxes 94
+
+Level #109 [cells 57, boxes 8, alive 37, complexity 24.7]
+ #### #### 
+##  ###  ##
+#   # #   #
+#  *. .*  #
+###$   $###
+ #   @   # 
+###$   $###
+#  *. .*  #
+#   # #   #
+##  ###  ##
+ #### #### 
+
+[set 22.7K, closed 17.0K, open 5.7K]
+Found solution in 24 pushes.
+FrozenBoxes 19.5K
+
+Level #110 [cells 34, boxes 5, alive 19, complexity 15.4]
+ ######## 
+ #      # 
+ #@   $ # 
+## ###$ # 
+# .....###
+# $ $ $  #
+###### # #
+     #   #
+     #####
+
+[set 4.0K, closed 2.3K, open 1.7K]
+Found solution in 52 pushes.
+FrozenBoxes 1.9K
+
+Level #111 [cells 36, boxes 11, alive 16, complexity 13.2]
+########
+#      #
+# $*** #
+# *  * #
+# *  * #
+# ***. #
+#     @#
+########
+
+[set 283, closed 124, open 151]
+Found solution in 10 pushes.
+FrozenBoxes 385
+
+Level #112 [cells 45, boxes 4, alive 30, complexity 17.2]
+####     ##### 
+#  ###   #   ##
+#    #   #$ $ #
+#..# ##### #  #
+#  @    # $ $ #
+#..#         ##
+##   ######### 
+ #####         
+
+[set 30.7K, closed 29.8K, open 917]
+Found solution in 70 pushes.
+FrozenBoxes 7.0K
+
+Level #113 [cells 42, boxes 5, alive 27, complexity 18.0]
+  #######
+  #     #
+  # # # #
+  # @ $ #
+### ### #
+#   ### #
+# $  ##.#
+## $  #.#
+ ## $  .#
+  ## $#.#
+   ## #.#
+    #   #
+    #####
+
+[set 32.0K, closed 27.1K, open 5.0K]
+Found solution in 42 pushes.
+FrozenBoxes 8.3K
+
+Level #114 [cells 24, boxes 4, alive 16, complexity 13.0]
+  ####   
+  #  #   
+  # $####
+###. .  #
+# $ # $ #
+#  . .###
+####$ #  
+   # @#  
+   ####  
+
+[set 783, closed 591, open 186]
+Found solution in 14 pushes.
+FrozenBoxes 362
+
+Level #115 [cells 45, boxes 6, alive 26, complexity 19.0]
+######   
+#    ####
+#    ...#
+#    ...#
+######  #
+  #  #  #
+  # $$ ##
+  # @$  #
+  # $$  #
+  ## $# #
+   #    #
+   ######
+
+[set 215K, closed 190K, open 25.4K]
+Found solution in 61 pushes.
+FrozenBoxes 53.8K
+
+Level #116 [cells 53, boxes 5, alive 32, complexity 19.4]
+ #####    
+##   #### 
+#  $$$  # 
+# #   $ # 
+#   $## ##
+###  #.  #
+  #  #   #
+ ##### ###
+ #   # ## 
+ # @....# 
+ #      # 
+ #   #  # 
+ ######## 
+
+[set 177K, closed 169K, open 8.6K]
+Found solution in 94 pushes.
+FrozenBoxes 50.6K
+
+Level #117 [cells 51, boxes 4, alive 28, complexity 17.0]
+   #####      
+  ##   #      
+###  # #      
+#    . #      
+#  ## #####   
+#  . . #  ##  
+#  # @ $   ###
+#####. #  $  #
+    ####  $  #
+       ## $ ##
+        #  ## 
+        #  #  
+        ####  
+
+[set 16.5K, closed 13.3K, open 3.2K]
+Found solution in 51 pushes.
+FrozenBoxes 3.2K
+
+Level #118 [cells 37, boxes 6, alive 23, complexity 17.8]
+######     
+#    ###   
+#  # $ #   
+#  $ @ #   
+## ## #####
+#  #......#
+# $ $ $ $ #
+##   ######
+ #####     
+
+[set 19.7K, closed 13.9K, open 5.8K]
+Found solution in 62 pushes.
+FrozenBoxes 9.0K
+
+Level #119 [cells 37, boxes 5, alive 23, complexity 16.8]
+    #####   
+#####   ####
+#     #    #
+#  #.....  #
+##  ## # ###
+ #$$@$$$ #  
+ #     ###  
+ #######    
+
+[set 1.6K, closed 896, open 615]
+Found solution in 29 pushes.
+FrozenBoxes 557
+
+Level #120 [cells 25, boxes 5, alive 16, complexity 13.8]
+     #####
+   ###   #
+####.....#
+# @$$$$$ #
+#     # ##
+#####   # 
+    ##### 
+
+[set 283, closed 153, open 126]
+Found solution in 14 pushes.
+FrozenBoxes 46
+
+Level #121 [cells 48, boxes 5, alive 29, complexity 18.6]
+ #### #### 
+ #  ###  ##
+ #      @ #
+##..###   #
+#      #  #
+#...#$  # #
+# ## $$ $ #
+#  $    ###
+####  ###  
+   ####    
+
+[set 45.7K, closed 38.3K, open 7.4K]
+Found solution in 51 pushes.
+FrozenBoxes 16.8K
+
+Level #122 [cells 38, boxes 4, alive 21, complexity 15.1]
+ #####    
+##   ##   
+#  $  ##  
+# $ $  ## 
+###$# . ##
+  # # .  #
+ ## ##.  #
+ # @  . ##
+ #   #  # 
+ ######## 
+
+[set 2.2K, closed 1.3K, open 885]
+Found solution in 46 pushes.
+FrozenBoxes 375
+
+Level #123 [cells 36, boxes 3, alive 12, complexity 11.1]
+  ###### 
+  #    ##
+ ## ##  #
+ # $$ # #
+ # @$ # #
+ #    # #
+#### #  #
+#  ... ##
+#     ## 
+#######  
+
+[set 161, closed 110, open 49]
+Found solution in 18 pushes.
+FrozenBoxes 39
+
+Level #124 [cells 40, boxes 4, alive 22, complexity 15.4]
+      #### 
+#######  # 
+# $      ##
+# $#####  #
+#  @#  #  #
+## ##..   #
+#  # ..####
+# $  ###   
+# $###     
+#  #       
+####       
+
+[set 1.9K, closed 1.5K, open 457]
+Found solution in 64 pushes.
+FrozenBoxes 352
+
+Level #125 [cells 41, boxes 5, alive 20, complexity 15.9]
+ ######    
+ # .  #    
+##$.# #    
+#  *  #    
+# ..###    
+##$ # #####
+## ## #   #
+#  #### # #
+#   @ $ $ #
+##  #     #
+ ##########
+
+[set 4.4K, closed 4.0K, open 415]
+Found solution in 49 pushes.
+FrozenBoxes 1.5K
+
+Level #126 [cells 45, boxes 5, alive 29, complexity 18.6]
+#####      
+#   ###    
+# #$  #    
+# $   #    
+# $ $ #    
+# $#  #    
+#  @###    
+## ########
+#      ...#
+#         #
+########..#
+       ####
+
+[set 100K, closed 93.1K, open 7.0K]
+Found solution in 90 pushes.
+FrozenBoxes 33.1K
+
+Level #127 [cells 52, boxes 5, alive 37, complexity 20.3]
+########       
+#      #       
+# $ $$ ########
+##### @##. .  #
+    #$  # .   #
+    #   #. . ##
+    #$# ## # # 
+    #        # 
+    #  ###  ## 
+    #  # ####  
+    ####       
+
+[set 176K, closed 112K, open 64.1K]
+Found solution in 101 pushes.
+FrozenBoxes 42.9K
+
+Level #128 [cells 56, boxes 3, alive 23, complexity 14.4]
+##############
+#      #     #
+# $@$$ # . ..#
+## ## ### ## #
+ # #       # #
+ # #   #   # #
+ # ######### #
+ #           #
+ #############
+
+[set 2.0K, closed 2.0K, open 0]
+No solution.
+FrozenBoxes 469
+
+Level #129 [cells 35, boxes 4, alive 22, complexity 15.2]
+      #####  
+      #   ## 
+      # $  # 
+######## #@##
+# .  # $ $  #
+#        $# #
+#...#####   #
+#####   #####
+
+[set 682, closed 348, open 331]
+Found solution in 40 pushes.
+FrozenBoxes 150
+
+Level #130 [cells 35, boxes 7, alive 22, complexity 18.1]
+ ###########
+##.......  #
+# $$$$$$$@ #
+#   # # # ##
+# # #     # 
+#   ####### 
+#####       
+
+[set 13.8K, closed 8.6K, open 5.3K]
+Found solution in 23 pushes.
+FrozenBoxes 3.9K
+
+Level #131 [cells 34, boxes 4, alive 17, complexity 13.7]
+   ####   
+ ###  ####
+ # $ $.  #
+## #  .$ #
+#   ##.###
+#  $  . # 
+# @ #   # 
+#  ###### 
+####      
+
+[set 682, closed 581, open 97]
+Found solution in 32 pushes.
+FrozenBoxes 258
+
+Level #132 [cells 33, boxes 4, alive 15, complexity 13.0]
+  #########
+###   #   #
+# * $ . . #
+#   $ ## ##
+####*#   # 
+ #  @  ### 
+ #   ###   
+ #####     
+
+[set 326, closed 243, open 80]
+Found solution in 19 pushes.
+FrozenBoxes 134
+
+Level #133 [cells 34, boxes 5, alive 16, complexity 14.1]
+  #########
+### @ #   #
+# * $ *.. #
+#   $ #   #
+####*#  ###
+ #     ##  
+ #   ###   
+ #####     
+
+[set 1.1K, closed 872, open 215]
+Found solution in 26 pushes.
+FrozenBoxes 615
+
+Level #134 [cells 36, boxes 4, alive 20, complexity 14.7]
+#####  #####
+#   ####.. #
+# $$$      #
+#   $#  .. #
+### @#  ## #
+  #  ##    #
+  ##########
+
+[set 2.6K, closed 1.9K, open 696]
+Found solution in 36 pushes.
+FrozenBoxes 570
+
+Level #135 [cells 30, boxes 4, alive 18, complexity 13.9]
+#####  
+#   #  
+# . #  
+#.@.###
+##.#  #
+#  $  #
+# $   #
+##$$  #
+ #  ###
+ #  #  
+ ####  
+
+[set 476, closed 301, open 173]
+Found solution in 31 pushes.
+FrozenBoxes 176
+
+Level #136 [cells 27, boxes 4, alive 17, complexity 13.5]
+####      
+# @###    
+#.*  #####
+#..#$$ $ #
+##       #
+ # # ##  #
+ #   #####
+ #####    
+
+[set 745, closed 627, open 116]
+Found solution in 37 pushes.
+FrozenBoxes 288
+
+Level #137 [cells 33, boxes 5, alive 22, complexity 16.3]
+ #######  
+ #  . .###
+ # . . . #
+### #### #
+#  @$  $ #
+#  $$  $ #
+####   ###
+   #####  
+
+[set 4.0K, closed 2.0K, open 2.0K]
+Found solution in 39 pushes.
+FrozenBoxes 1.9K
+
+Level #138 [cells 44, boxes 4, alive 31, complexity 17.3]
+        ####
+#########  #
+#   ## $   #
+#  $   ##  #
+### #. .# ##
+  # #. .#$##
+  # #   #  #
+  # @ $    #
+  #  #######
+  ####      
+
+[set 16.7K, closed 12.0K, open 4.8K]
+Found solution in 76 pushes.
+FrozenBoxes 4.2K
+
+Level #139 [cells 32, boxes 4, alive 23, complexity 15.4]
+#######    
+#     #####
+# $$#@##..#
+# #       #
+#  $ # #  #
+#### $  ..#
+   ########
+
+[set 1.3K, closed 1.1K, open 204]
+Found solution in 36 pushes.
+FrozenBoxes 311
+
+Level #140 [cells 29, boxes 4, alive 17, complexity 13.6]
+ ####### 
+ #     # 
+## ###$##
+#.$   @ #
+# .. #$ #
+#.##  $ #
+#    ####
+######   
+
+[set 615, closed 396, open 217]
+Found solution in 25 pushes.
+FrozenBoxes 305
+
+Level #141 [cells 44, boxes 4, alive 27, complexity 16.6]
+       ####  
+      ##  ###
+####  #  $  #
+#  #### $ $ #
+#   ..# #$  #
+#  #   @  ###
+## #..# ###  
+ # ## # #    
+ #      #    
+ ########    
+
+[set 11.8K, closed 9.6K, open 2.2K]
+Found solution in 50 pushes.
+FrozenBoxes 2.5K
+
+Level #142 [cells 45, boxes 5, alive 26, complexity 17.8]
+  ####      
+###  #      
+#    ###    
+# # . .#    
+# @ ...#### 
+# # # #   ##
+#   # $$   #
+#####  $ $ #
+    ##$ # ##
+     #    # 
+     ###### 
+
+[set 60.3K, closed 54.7K, open 5.6K]
+Found solution in 56 pushes.
+FrozenBoxes 17.0K
+
+Level #143 [cells 58, boxes 6, alive 35, complexity 21.6]
+ ####           
+##  ####        
+#   ...#        
+#   ...#        
+#   # ##        
+#   #@ #### ####
+##### $   ###  #
+    #  ##$ $   #
+   ###     $$  #
+   # $  ##   ###
+   #    ######  
+   ######       
+
+[set 715K, closed 524K, open 191K]
+[set 1.25M, closed 1.05M, open 192K]
+[set 1.63M, closed 1.52M, open 114K]
+Found solution in 110 pushes.
+FrozenBoxes 539K
+
+Level #144 [cells 49, boxes 4, alive 27, complexity 16.7]
+######## #####
+#  #   ###   #
+#      ## $  #
+#.# @ ## $  ##
+#.#   # $  ## 
+#.#    $  ##  
+#. ## #####   
+##    #       
+ ######       
+
+[set 9.6K, closed 7.2K, open 2.4K]
+Found solution in 80 pushes.
+FrozenBoxes 2.3K
+
+Level #145 [cells 39, boxes 6, alive 20, complexity 16.7]
+  ########
+  #  # . #
+  #   .*.#
+  #  # * #
+####$##.##
+#      $ #
+# $ ## $ #
+#   @#   #
+##########
+
+[set 10.4K, closed 9.8K, open 669]
+Found solution in 52 pushes.
+FrozenBoxes 4.5K
+
+Level #146 [cells 25, boxes 4, alive 17, complexity 13.4]
+  ####   
+  #  #   
+  #  ####
+###$.$  #
+#  .@.  #
+#  $.$###
+####  #  
+   #  #  
+   ####  
+
+[set 1.7K, closed 1.5K, open 202]
+Found solution in 20 pushes.
+FrozenBoxes 896
+
+Level #147 [cells 45, boxes 6, alive 28, complexity 19.6]
+####     
+#  ####  
+# $   #  
+# .#  #  
+# $# ##  
+# .  #   
+#### #   
+   # #   
+ ### ### 
+ #  $  # 
+## #$# ##
+# $ @ $ #
+# ..#.. #
+###   ###
+  #####  
+
+[set 56.3K, closed 52.2K, open 4.2K]
+Found solution in 67 pushes.
+FrozenBoxes 26.5K
+
+Level #148 [cells 64, boxes 16, alive 44, complexity 34.0]
+   ####     
+ ###  ##### 
+ # $$ #   # 
+ # $ . .$$##
+ # .. #. $ #
+### #** .  #
+#  . **# ###
+# $ .# .. # 
+##$$.@. $ # 
+ #   # $$ # 
+ #####  ### 
+     ####   
+
+[set 1.46M, closed 524K, open 932K]
+[set 2.68M, closed 1.05M, open 1.64M]
+[set 3.93M, closed 1.58M, open 2.36M]
+[set 5.18M, closed 2.10M, open 3.08M]
+[set 6.21M, closed 2.63M, open 3.58M]
+[set 7.27M, closed 3.15M, open 4.12M]
+[set 8.37M, closed 3.68M, open 4.70M]
+[set 9.47M, closed 4.20M, open 5.27M]
+[set 10.6M, closed 4.72M, open 5.84M]
+[set 11.7M, closed 5.25M, open 6.42M]
+[set 12.8M, closed 5.77M, open 7.01M]
+[set 13.7M, closed 6.30M, open 7.40M]
+[set 14.7M, closed 6.82M, open 7.83M]
+[set 15.6M, closed 7.35M, open 8.24M]
+[set 16.6M, closed 7.87M, open 8.71M]
+[set 17.6M, closed 8.39M, open 9.14M]
+[set 18.6M, closed 8.92M, open 9.65M]
+[set 19.5M, closed 9.44M, open 10.1M]
+[set 20.1M, closed 9.68M, open 10.4M]
+Timed out after key: pushes 20, total 34
+FrozenBoxes 11.7M
+
+Level #149 [cells 48, boxes 12, alive 36, complexity 27.7]
+   #####   
+   # @ #   
+  ##   ##  
+###.$$$.###
+#  $...$  #
+#  $.#.$  #
+#  $...$  #
+###.$$$.###
+  ##   ##  
+   #   #   
+   #####   
+
+[set 8.9K, closed 1.8K, open 7.1K]
+Found solution in 18 pushes.
+FrozenBoxes 375
+
+Level #150 [cells 45, boxes 12, alive 37, complexity 28.1]
+ ####### 
+##  .  ##
+# .$$$. #
+# $. .$ #
+#.$ @ $.#
+# $. .$ #
+# .$$$. #
+##  .  ##
+ ####### 
+
+[set 38.1K, closed 5.3K, open 32.8K]
+Found solution in 14 pushes.
+FrozenBoxes 16.8K
+
+Level #151 [cells 42, boxes 3, alive 25, complexity 14.5]
+       #####
+########   #
+#.   .  @#.#
+#  ###     #
+## $  #    #
+ # $   #####
+ # $#  #    
+ ## #  #    
+  #   ##    
+  #####     
+
+[set 2.4K, closed 2.3K, open 127]
+Found solution in 50 pushes.
+FrozenBoxes 343
+
+Level #152 [cells 42, boxes 4, alive 18, complexity 14.3]
+###########    
+#  .  #   #    
+# #.  @   #    
+#  #..# #######
+##  ## $$ $ $ #
+ ##           #
+  #############
+
+[set 2.5K, closed 2.4K, open 105]
+Found solution in 49 pushes.
+FrozenBoxes 980
+
+Level #153 [cells 33, boxes 4, alive 19, complexity 14.3]
+ ####     
+##  ###   
+#@$   #   
+### $ #   
+ #  ######
+ #  $....#
+ #  # ####
+ ## # #   
+ # $# #   
+ #    #   
+ #  ###   
+ ####     
+
+[set 436, closed 394, open 40]
+Found solution in 35 pushes.
+FrozenBoxes 201
+
+Level #154 [cells 41, boxes 5, alive 31, complexity 18.9]
+     ####      
+ #####  #      
+ #     $#######
+## ## ..#  ...#
+# $ $$#$  @   #
+#        ###  #
+#######  # ####
+      ####     
+
+[set 11.0K, closed 5.1K, open 5.9K]
+Found solution in 43 pushes.
+FrozenBoxes 3.5K
+
+Level #155 [cells 38, boxes 4, alive 28, complexity 16.6]
+   ####     
+   #  #     
+ ###  #     
+##  $ #     
+#   # #     
+# #$$ ######
+# #   #   .#
+#  $  @   .#
+###  ####..#
+  ####  ####
+
+[set 3.8K, closed 2.2K, open 1.6K]
+Found solution in 50 pushes.
+FrozenBoxes 792
+
+Level #156 [cells 62, boxes 4, alive 35, complexity 18.4]
+############   
+#     #    ##  
+#.##  #$##  ## 
+#   #     #  ##
+#$  # ###  #  #
+# #      #  # #
+# # ####  # # #
+#. @    $ * . #
+###############
+
+[set 2.1K, closed 1.5K, open 551]
+Found solution in 37 pushes.
+FrozenBoxes 668
+
+Level #157 [cells 63, boxes 10, alive 49, complexity 30.5]
+#############
+#.# @#  #   #
+#.#$$   # $ #
+#.#  # $#   #
+#.# $#  # $##
+#.#  # $#  # 
+#.# $#  # $# 
+#..  # $   # 
+#..  #  #  # 
+############ 
+
+[set 603K, closed 524K, open 78.6K]
+[set 1.40M, closed 1.05M, open 342K]
+[set 2.01M, closed 1.58M, open 435K]
+[set 2.64M, closed 2.10M, open 534K]
+[set 3.39M, closed 2.63M, open 768K]
+[set 4.03M, closed 3.15M, open 884K]
+[set 4.70M, closed 3.68M, open 1.03M]
+[set 5.32M, closed 4.20M, open 1.13M]
+[set 5.95M, closed 4.72M, open 1.23M]
+[set 6.56M, closed 5.25M, open 1.32M]
+[set 7.15M, closed 5.77M, open 1.38M]
+[set 7.74M, closed 6.30M, open 1.44M]
+[set 8.33M, closed 6.82M, open 1.51M]
+[set 8.94M, closed 7.35M, open 1.60M]
+[set 9.57M, closed 7.87M, open 1.70M]
+[set 10.3M, closed 8.39M, open 1.83M]
+[set 10.9M, closed 8.92M, open 1.96M]
+[set 11.6M, closed 9.44M, open 2.09M]
+[set 12.2M, closed 9.97M, open 2.16M]
+[set 12.8M, closed 10.5M, open 2.23M]
+[set 13.4M, closed 11.1M, open 2.30M]
+[set 13.9M, closed 11.6M, open 2.35M]
+[set 14.5M, closed 12.1M, open 2.40M]
+[set 15.0M, closed 12.6M, open 2.41M]
+[set 15.6M, closed 13.2M, open 2.43M]
+[set 16.1M, closed 13.7M, open 2.44M]
+[set 16.7M, closed 14.2M, open 2.49M]
+[set 17.3M, closed 14.7M, open 2.54M]
+[set 18.0M, closed 15.3M, open 2.70M]
+[set 18.6M, closed 15.8M, open 2.86M]
+[set 19.3M, closed 16.3M, open 3.03M]
+[set 20.0M, closed 16.8M, open 3.17M]
+[set 20.1M, closed 16.9M, open 3.18M]
+Timed out after key: pushes 111, total 332
+FrozenBoxes 12.7M
+
+Level #160 [cells 16, boxes 2, alive 10, complexity 8.5]
+####  
+#  #  
+#  #  
+#  ###
+#.$$@#
+#  . #
+#  ###
+####  
+
+[set 41, closed 39, open 0]
+Found solution in 16 pushes.
+FrozenBoxes 14
+
+Level #161 [cells 18, boxes 2, alive 6, complexity 6.9]
+ #####
+ #   #
+##.# #
+#  @ #
+#  $ #
+# #*##
+#   # 
+##### 
+
+[set 13, closed 8, open 2]
+Found solution in 7 pushes.
+FrozenBoxes 3
+
+Level #162 [cells 21, boxes 2, alive 8, complexity 8.1]
+   ####
+####  #
+#  #  #
+# . . #
+# @$$ #
+# # ###
+#   #  
+#####  
+
+[set 29, closed 22, open 5]
+Found solution in 11 pushes.
+FrozenBoxes 6
+
+Level #163 [cells 30, boxes 2, alive 14, complexity 10.3]
+ #####    
+## @ #### 
+#  #  . ##
+# #      #
+# $$ #.  #
+##    ####
+ ##   #   
+  #####   
+
+[set 91, closed 79, open 10]
+Found solution in 17 pushes.
+FrozenBoxes 24
+
+Level #164 [cells 18, boxes 2, alive 9, complexity 8.3]
+######  
+#    #  
+# $$ ###
+### @  #
+  #  . #
+  ## .##
+   #### 
+
+[set 38, closed 36, open 0]
+Found solution in 18 pushes.
+FrozenBoxes 4
+
+Level #165 [cells 21, boxes 2, alive 10, complexity 8.8]
+   ####  
+####  #  
+#@.*  #  
+#  #  ###
+####  $ #
+   #  # #
+   ##   #
+    #####
+
+[set 46, closed 39, open 5]
+Found solution in 18 pushes.
+FrozenBoxes 7
+
+Level #166 [cells 18, boxes 2, alive 9, complexity 8.3]
+  #####
+###   #
+#  $# #
+#  .$ #
+## ##.#
+ #   @#
+ ######
+
+[set 23, closed 19, open 2]
+Found solution in 9 pushes.
+FrozenBoxes 7
+
+Level #167 [cells 20, boxes 3, alive 8, complexity 8.5]
+########
+#   @  #
+#   *  #
+###.$###
+  # * # 
+  #   # 
+  ##### 
+
+[set 41, closed 37, open 2]
+Found solution in 11 pushes.
+FrozenBoxes 25
+
+Level #168 [cells 18, boxes 3, alive 7, complexity 7.6]
+######
+#    #
+# #$@#
+# .*.#
+# #$ #
+#    #
+######
+
+[set 18, closed 13, open 2]
+Found solution in 6 pushes.
+FrozenBoxes 6
+
+Level #169 [cells 16, boxes 3, alive 11, complexity 9.8]
+#####  
+#   #  
+#   ###
+#$$$@ #
+#...  #
+#######
+
+[set 50, closed 33, open 15]
+Found solution in 7 pushes.
+FrozenBoxes 12
+
+Level #170 [cells 14, boxes 3, alive 7, complexity 7.3]
+######
+#.#  #
+#@$$ #
+#..$ #
+##   #
+ #####
+
+[set 21, closed 19, open 0]
+Found solution in 10 pushes.
+FrozenBoxes 15
+
+Level #171 [cells 27, boxes 3, alive 17, complexity 12.3]
+ #######
+ #  #  #
+ #  #$ #
+##  .*+#
+#   #$ #
+#   #  #
+##  ####
+ #  #   
+ ####   
+
+[set 479, closed 416, open 60]
+Found solution in 32 pushes.
+FrozenBoxes 116
+
+Level #172 [cells 24, boxes 3, alive 13, complexity 11.0]
+#####  
+#   ###
+#     #
+#     #
+###.###
+# $*$ #
+#  +  #
+#######
+
+[set 175, closed 162, open 10]
+Found solution in 24 pushes.
+FrozenBoxes 44
+
+Level #173 [cells 18, boxes 3, alive 8, complexity 8.3]
+ ####  
+##  ###
+# .$  #
+#@.$  #
+# .$ ##
+##  ## 
+ ####  
+
+[set 22, closed 16, open 4]
+Found solution in 9 pushes.
+FrozenBoxes 16
+
+Level #174 [cells 18, boxes 3, alive 9, complexity 8.9]
+####   
+#  ####
+#  #  #
+#.$**@#
+##    #
+ #   ##
+ ##### 
+
+[set 44, closed 35, open 5]
+Found solution in 11 pushes.
+FrozenBoxes 33
+
+Level #175 [cells 22, boxes 3, alive 12, complexity 10.5]
+    ####
+  ###  #
+  # $$ #
+ ## #  #
+## .#$@#
+#      #
+# ..####
+#####   
+
+[set 187, closed 184, open 1]
+Found solution in 26 pushes.
+FrozenBoxes 66
+
+Level #176 [cells 19, boxes 3, alive 8, complexity 8.4]
+ #####
+ #   #
+ #$#@#
+## $ #
+#   ##
+#.*. #
+#    #
+######
+
+[set 38, closed 33, open 3]
+Found solution in 10 pushes.
+FrozenBoxes 15
+
+Level #177 [cells 22, boxes 3, alive 14, complexity 11.2]
+ ##### 
+ #   ##
+ #$#@ #
+ # $  #
+##  ###
+# $.  #
+#. .  #
+#######
+
+[set 207, closed 189, open 16]
+Found solution in 19 pushes.
+FrozenBoxes 86
+
+Level #178 [cells 22, boxes 3, alive 10, complexity 9.7]
+#######
+#     #
+# $$$.#
+## #@.#
+ # # .#
+ #  # #
+ ##   #
+  #####
+
+[set 91, closed 89, open 0]
+Found solution in 15 pushes.
+FrozenBoxes 29
+
+Level #179 [cells 19, boxes 3, alive 10, complexity 9.5]
+ ####  
+ #  ###
+ #$   #
+ # .# #
+##*.  #
+# $ ###
+# @ #  
+#####  
+
+[set 36, closed 32, open 1]
+Found solution in 14 pushes.
+FrozenBoxes 35
+
+Level #180 [cells 32, boxes 2, alive 16, complexity 10.8]
+   #### 
+####  # 
+#. .  ##
+#  # @ #
+## #   #
+## ##  #
+# $  ###
+#  $ #  
+# # ##  
+#   #   
+#####   
+
+[set 127, closed 123, open 2]
+Found solution in 32 pushes.
+FrozenBoxes 21
+
+Level #181 [cells 35, boxes 2, alive 19, complexity 11.5]
+ ######### 
+ #    #  # 
+ # $ $   # 
+ ## ###  # 
+### # #@###
+#   ###   #
+# # . .   #
+#   #######
+#####      
+
+[set 164, closed 124, open 38]
+Found solution in 30 pushes.
+FrozenBoxes 13
+
+Level #182 [cells 39, boxes 2, alive 17, complexity 11.2]
+ ##### #####
+ #   ###   #
+ #@$  ##.. #
+###$#      #
+#   ## ##  #
+#       ####
+#   #   #   
+#########   
+
+[set 152, closed 146, open 2]
+Found solution in 36 pushes.
+FrozenBoxes 76
+
+Level #183 [cells 51, boxes 2, alive 22, complexity 12.3]
+     #####  
+######   #  
+#   ## # #  
+# $@$    #  
+### ### ### 
+#         ##
+#   ### .. #
+#####    # #
+    # #  # #
+    #  ##  #
+    ##    ##
+     ###### 
+
+[set 281, closed 238, open 41]
+Found solution in 41 pushes.
+FrozenBoxes 17
+
+Level #184 [cells 23, boxes 4, alive 10, complexity 10.1]
+ ##### 
+##   ##
+# .$. #
+# $#$ #
+# .$. #
+#    ##
+## @## 
+ ####  
+
+[set 65, closed 43, open 19]
+Found solution in 6 pushes.
+FrozenBoxes 34
+
+Level #185 [cells 28, boxes 4, alive 10, complexity 10.3]
+########
+#      #
+# ###$ #
+# #  $ #
+# #.*$@#
+# #.#  #
+#  .#  #
+########
+
+[set 57, closed 53, open 2]
+Found solution in 20 pushes.
+FrozenBoxes 30
+
+Level #186 [cells 34, boxes 5, alive 28, complexity 18.0]
+#######
+#  +  #
+# *$* #
+#. # .#
+#  #  #
+#  #  #
+#  #  #
+# $#$ #
+#  #  #
+#######
+
+[set 16.2K, closed 10.9K, open 5.3K]
+Found solution in 27 pushes.
+FrozenBoxes 6.8K
+
+Level #187 [cells 24, boxes 3, alive 12, complexity 10.6]
+  #######
+  #     #
+### ### #
+# ..*   #
+#  $$@ ##
+####  ## 
+   #  #  
+   ####  
+
+[set 102, closed 82, open 18]
+Found solution in 14 pushes.
+FrozenBoxes 51
+
+Level #188 [cells 24, boxes 3, alive 11, complexity 10.2]
+######  
+#    #  
+# ##$###
+# # $  #
+# @.*. #
+##     #
+ #  ####
+ ####   
+
+[set 62, closed 33, open 24]
+Found solution in 11 pushes.
+FrozenBoxes 18
+
+Level #189 [cells 48, boxes 3, alive 30, complexity 15.4]
+         #####
+         #   #
+########## # #
+#.     #  $  #
+#.  @  #    ##
+#.# #######  #
+#         $$ #
+##  #####    #
+ ####   ######
+
+[set 4.5K, closed 4.1K, open 422]
+Found solution in 65 pushes.
+FrozenBoxes 576
+
+Level #190 [cells 34, boxes 3, alive 19, complexity 13.1]
+  ########
+  #  #   #
+  #  $   #
+  #  ##$##
+#### ##  #
+# @...#$ #
+#        #
+######  ##
+     #### 
+
+[set 634, closed 440, open 192]
+Found solution in 40 pushes.
+FrozenBoxes 76
+
+Level #191 [cells 29, boxes 3, alive 15, complexity 11.9]
+########
+#      #
+#    # #
+###..$.#
+  # #$##
+  #  @ #
+  ## $ #
+   # # #
+   #   #
+   #####
+
+[set 263, closed 260, open 1]
+Found solution in 24 pushes.
+FrozenBoxes 85
+
+Level #192 [cells 26, boxes 3, alive 9, complexity 9.4]
+     #####
+  ####   #
+  # ...# #
+###$   # #
+#  $$### #
+# @      #
+##########
+
+[set 68, closed 66, open 0]
+Found solution in 16 pushes.
+FrozenBoxes 32
+
+Level #193 [cells 33, boxes 3, alive 17, complexity 12.6]
+#####    
+#   #### 
+#  .#  # 
+## ..  ##
+ # ## @ #
+ # #    #
+ # $ ####
+ # $##   
+ # $ #   
+ #   #   
+ #####   
+
+[set 519, closed 399, open 118]
+Found solution in 34 pushes.
+FrozenBoxes 123
+
+Level #194 [cells 47, boxes 3, alive 26, complexity 14.8]
+ ########## 
+ #  ##    ##
+ #     ##  #
+ # # $#  # #
+ # #  @ $# #
+ # #  #$   #
+ # ###  ####
+## .   ##   
+#  .####    
+#  .#       
+#####       
+
+[set 1.2K, closed 853, open 331]
+Found solution in 47 pushes.
+FrozenBoxes 284
+
+Level #195 [cells 32, boxes 3, alive 11, complexity 10.6]
+    ###### 
+    #    ##
+ #### ##  #
+##      # #
+# @$**. # #
+#   # ##  #
+#####    ##
+    ###### 
+
+[set 107, closed 83, open 20]
+Found solution in 13 pushes.
+FrozenBoxes 35
+
+Level #196 [cells 28, boxes 3, alive 14, complexity 11.5]
+ #####  
+ #   #  
+## # ## 
+# $   ##
+#  $#. #
+## $ . #
+ #  #. #
+ #### @#
+    #  #
+    ####
+
+[set 206, closed 158, open 46]
+Found solution in 28 pushes.
+FrozenBoxes 59
+
+Level #197 [cells 26, boxes 3, alive 10, complexity 9.9]
+  ######
+  #    #
+### ## #
+# ...  #
+#  $ ###
+# #$##  
+#  $ #  
+#  @ #  
+######  
+
+[set 109, closed 103, open 4]
+Found solution in 14 pushes.
+FrozenBoxes 29
+
+Level #198 [cells 26, boxes 3, alive 12, complexity 10.7]
+ ###### 
+##    # 
+#  ## # 
+#@# $ # 
+#  *..# 
+## #$###
+ #     #
+ ###   #
+   #####
+
+[set 101, closed 88, open 10]
+Found solution in 13 pushes.
+FrozenBoxes 36
+
+Level #199 [cells 22, boxes 3, alive 9, complexity 9.2]
+ #####
+ #   #
+## . #
+#  * #
+# # ##
+#  $ #
+## * #
+ # @ #
+ #####
+
+[set 77, closed 63, open 11]
+Found solution in 11 pushes.
+FrozenBoxes 55
+
+Level #200 [cells 21, boxes 3, alive 9, complexity 9.1]
+#####   
+#   ####
+# # .  #
+# #$.  #
+# @$*# #
+####   #
+   #####
+
+[set 41, closed 30, open 8]
+Found solution in 10 pushes.
+FrozenBoxes 16
+
+Level #201 [cells 28, boxes 3, alive 13, complexity 11.2]
+ #######  
+ #     ###
+## ###$  #
+#  .. $  #
+#  .##$ ##
+### # @## 
+  #   ##  
+  #####   
+
+[set 130, closed 121, open 7]
+Found solution in 25 pushes.
+FrozenBoxes 58
+
+Level #202 [cells 30, boxes 3, alive 15, complexity 11.9]
+     ####  
+     # @## 
+###### $ ##
+#  . # $  #
+#      $# #
+## ..#    #
+ ##  ######
+  ####     
+
+[set 237, closed 128, open 107]
+Found solution in 23 pushes.
+FrozenBoxes 41
+
+Level #203 [cells 42, boxes 3, alive 23, complexity 14.1]
+    ####   
+ ####  ### 
+ #     $ # 
+ #  $$ # # 
+ # # @#  # 
+## ####  ##
+#  ...    #
+# ### #   #
+#     #####
+#######    
+
+[set 536, closed 430, open 104]
+Found solution in 40 pushes.
+FrozenBoxes 193
+
+Level #204 [cells 31, boxes 4, alive 16, complexity 13.3]
+        #####
+#### ####   #
+#  ###      #
+# ..  $$$$  #
+# ..  # @#  #
+#############
+
+[set 1.5K, closed 1.1K, open 351]
+Found solution in 40 pushes.
+FrozenBoxes 337
+
+Level #205 [cells 41, boxes 3, alive 25, complexity 14.5]
+########    
+#  #   #    
+#      #    
+#  ## ###   
+## ##   ####
+ # ## $$$@ #
+## ## #    #
+# . . . ####
+#   #####   
+#####       
+
+[set 2.1K, closed 2.1K, open 11]
+Found solution in 47 pushes.
+FrozenBoxes 447
+
+Level #206 [cells 43, boxes 4, alive 23, complexity 15.7]
+######   
+#    ### 
+# $ @  # 
+#  ### # 
+# $$ $ # 
+#     ###
+### ##  #
+# ....  #
+#       #
+#  ######
+####     
+
+[set 7.7K, closed 6.3K, open 1.4K]
+Found solution in 52 pushes.
+FrozenBoxes 1.9K
+
+Level #207 [cells 26, boxes 4, alive 16, complexity 13.1]
+     #####
+ #####   #
+##  +  # #
+# $$.$$  #
+#  #.# ###
+##  .  #  
+ #######  
+
+[set 660, closed 461, open 195]
+Found solution in 22 pushes.
+FrozenBoxes 273
+
+Level #208 [cells 25, boxes 4, alive 14, complexity 12.3]
+ ##### 
+##   # 
+#    # 
+# .$.##
+##$#$ #
+ #.$. #
+ #    #
+ # @ ##
+ ##### 
+
+[set 140, closed 71, open 64]
+Found solution in 10 pushes.
+FrozenBoxes 68
+
+Level #209 [cells 27, boxes 4, alive 13, complexity 11.9]
+ ########
+ #  #   #
+##  #$  #
+# .*@*. #
+#  $#  ##
+#   #  # 
+######## 
+
+[set 294, closed 235, open 55]
+Found solution in 16 pushes.
+FrozenBoxes 122
+
+Level #210 [cells 26, boxes 4, alive 18, complexity 13.8]
+########
+#  $.  #
+#  $.  #
+###  ###
+#  $.  #
+#@ $.  #
+########
+
+[set 347, closed 222, open 122]
+Found solution in 14 pushes.
+FrozenBoxes 166
+
+Level #211 [cells 24, boxes 3, alive 11, complexity 10.2]
+   #### 
+   #  # 
+   #$ # 
+   #  # 
+####@###
+#  $   #
+#  ..* #
+#   #  #
+########
+
+[set 162, closed 125, open 35]
+Found solution in 19 pushes.
+FrozenBoxes 66
+
+Level #212 [cells 21, boxes 3, alive 11, complexity 10.1]
+ ###### 
+ #    # 
+ #. ..##
+###$ @ #
+# $  $ #
+#   ####
+#####   
+
+[set 159, closed 127, open 29]
+Found solution in 18 pushes.
+FrozenBoxes 53
+
+Level #213 [cells 41, boxes 3, alive 22, complexity 13.9]
+     ##### 
+    ##   # 
+    #  # # 
+    #  @ # 
+    #    # 
+  #####.###
+  #    .  #
+### #$#.  #
+#  $$  ####
+# #    #   
+#   ####   
+#####      
+
+[set 1.8K, closed 1.7K, open 53]
+Found solution in 50 pushes.
+FrozenBoxes 279
+
+Level #214 [cells 41, boxes 3, alive 25, complexity 14.5]
+   ####  
+ ###  ## 
+ # $ $ # 
+ #   # # 
+ ##$   # 
+  #  # # 
+  ## # # 
+  #. # # 
+  #.## # 
+###.## ##
+#       #
+#   @   #
+#########
+
+[set 1.5K, closed 940, open 480]
+Found solution in 60 pushes.
+FrozenBoxes 233
+
+Level #215 [cells 23, boxes 3, alive 9, complexity 9.2]
+   #####
+  ##   #
+### .# #
+#  $*$@#
+#   .# #
+### #  #
+  #   ##
+  ##### 
+
+[set 64, closed 61, open 0]
+Found solution in 18 pushes.
+FrozenBoxes 20
+
+Level #216 [cells 23, boxes 4, alive 13, complexity 11.7]
+   #####
+ ###   #
+##     #
+# **$ ##
+#  * .# 
+### #@# 
+  #   # 
+  ##### 
+
+[set 144, closed 83, open 58]
+Found solution in 14 pushes.
+FrozenBoxes 76
+
+Level #217 [cells 28, boxes 4, alive 17, complexity 13.5]
+    #### 
+ ####  ##
+ #    $ #
+ # #  # #
+## #$$$@#
+# ..  ###
+# .. ##  
+###  #   
+  ####   
+
+[set 309, closed 154, open 153]
+Found solution in 31 pushes.
+FrozenBoxes 71
+
+Level #218 [cells 30, boxes 3, alive 16, complexity 12.2]
+ ######   
+ #    ### 
+ # $  $ # 
+ ##$# # # 
+### #@# ##
+# . . .  #
+#   ##   #
+##########
+
+[set 486, closed 398, open 85]
+Found solution in 22 pushes.
+FrozenBoxes 131
+
+Level #219 [cells 50, boxes 3, alive 27, complexity 15.0]
+ #######    #####
+ #     ######   #
+##      @ ...   #
+#  ########## ###
+# $  $   $     # 
+#  #   #   #   # 
+################ 
+
+[set 4.6K, closed 4.3K, open 250]
+Found solution in 69 pushes.
+FrozenBoxes 757
+
+Level #220 [cells 22, boxes 5, alive 17, complexity 14.0]
+#####     
+#   #     
+#   ######
+#$$$$ $ @#
+#.....   #
+##########
+
+[set 475, closed 310, open 162]
+Found solution in 30 pushes.
+FrozenBoxes 237
+
+Level #221 [cells 24, boxes 4, alive 13, complexity 11.8]
+   ####  
+   #  ###
+   # .  #
+   #$.@ #
+#### .$ #
+#  $$.###
+#     #  
+#######  
+
+[set 386, closed 280, open 104]
+Found solution in 22 pushes.
+FrozenBoxes 217
+
+Level #222 [cells 34, boxes 4, alive 21, complexity 14.9]
+#####       
+#   #####   
+#   $ $ ### 
+## $    $ ##
+ ###### .. #
+     #. . @#
+     #     #
+     ###  ##
+       #### 
+
+[set 3.6K, closed 2.2K, open 1.4K]
+Found solution in 42 pushes.
+FrozenBoxes 804
+
+Level #223 [cells 28, boxes 4, alive 15, complexity 12.8]
+######### 
+#  ##   ##
+# $ $$*@ #
+#  # . # #
+## #. .  #
+ #   #####
+ #####    
+
+[set 734, closed 554, open 177]
+Found solution in 17 pushes.
+FrozenBoxes 484
+
+Level #224 [cells 34, boxes 5, alive 12, complexity 12.0]
+######   
+#    #   
+# ## ##  
+# # * ## 
+# #@*  ##
+# # *   #
+# # * $ #
+# ## #.##
+#    ### 
+######   
+
+[set 79, closed 53, open 24]
+Found solution in 9 pushes.
+FrozenBoxes 34
+
+Level #225 [cells 56, boxes 8, alive 36, complexity 24.4]
+     #####    
+     #   #    
+     # # #    
+     #   #    
+#######$ #    
+#    $..$#####
+# # $.  .#   #
+#   #.  .$ # #
+#####$..$    #
+    # $#######
+    #   #     
+    # # #     
+    # @ #     
+    #####     
+
+[set 331K, closed 126K, open 205K]
+Found solution in 28 pushes.
+FrozenBoxes 95.7K
+
+Level #226 [cells 40, boxes 8, alive 24, complexity 19.7]
+   ####   
+  ##  ##  
+ ## *  ## 
+## $ .$ ##
+#  . @ * #
+# *   .  #
+## $. $ ##
+ ##  * ## 
+  ##  ##  
+   ####   
+
+[set 4.8K, closed 1.1K, open 3.8K]
+Found solution in 12 pushes.
+FrozenBoxes 1.8K
+
+Level #227 [cells 41, boxes 12, alive 29, complexity 24.0]
+    ###    
+   ##.##   
+  ## $ ##  
+ ##     ## 
+##  ***  ##
+#.$ *@* $.#
+##  ***  ##
+ ##     ## 
+  ## $ ##  
+   ##.##   
+    ###    
+
+[set 53.7K, closed 24.7K, open 29.0K]
+Found solution in 24 pushes.
+FrozenBoxes 54.1K
+
+Level #228 [cells 25, boxes 8, alive 21, complexity 17.6]
+#######
+# . . #
+#.$$$.#
+# $@$ #
+#.$$$.#
+# . . #
+#######
+
+[set 233, closed 81, open 150]
+Found solution in 12 pushes.
+FrozenBoxes 266
+
+Level #229 [cells 32, boxes 5, alive 17, complexity 14.5]
+########
+#  #   #
+#  #.. #
+# $$$$$#
+#  #...#
+#  #   #
+#  @   #
+########
+
+[set 2.2K, closed 1.3K, open 903]
+Found solution in 29 pushes.
+FrozenBoxes 862
+
+Level #230 [cells 32, boxes 6, alive 16, complexity 14.5]
+########
+#   #  #
+# $.$. #
+##.  $ #
+# $  .##
+# .$.$ #
+#  #  @#
+########
+
+[set 395, closed 156, open 234]
+Found solution in 10 pushes.
+FrozenBoxes 161
+
+Level #231 [cells 49, boxes 16, alive 25, complexity 20.2]
+#########
+#       #
+# *$*$* #
+# $...$ #
+# *. .* #
+# $...$ #
+# *$*$* #
+#      @#
+#########
+
+[set 1.9K, closed 271, open 1.6K]
+Found solution in 12 pushes.
+FrozenBoxes 823
+
+Level #232 [cells 49, boxes 12, alive 25, complexity 21.6]
+#########
+#       #
+# .$.$. #
+# $.$.$ #
+# .$@$. #
+# $.$.$ #
+# .$.$. #
+#       #
+#########
+
+[set 7.7K, closed 760, open 6.9K]
+Found solution in 12 pushes.
+FrozenBoxes 592
+
+Level #233 [cells 47, boxes 12, alive 25, complexity 21.6]
+#########
+#       #
+# $.$.$ #
+# .$.$. #
+##$.@.$##
+# .$.$. #
+# $.$.$ #
+#       #
+#########
+
+[set 102K, closed 17.6K, open 84.1K]
+Found solution in 16 pushes.
+FrozenBoxes 10.0K
+
+Level #234 [cells 45, boxes 12, alive 25, complexity 21.5]
+#########
+#   #   #
+# .$.$. #
+# $.$.$ #
+##.$@$.##
+# $.$.$ #
+# .$.$. #
+#   #   #
+#########
+
+[set 121K, closed 48.6K, open 72.5K]
+Found solution in 22 pushes.
+FrozenBoxes 49.0K
+
+Level #235 [cells 41, boxes 12, alive 33, complexity 26.1]
+ ######  
+ #  . ###
+## $.   #
+#  $*$$ #
+#..*@*..#
+# $$*$  #
+#   .$ ##
+### .  # 
+  ###### 
+
+[set 1.7K, closed 228, open 1.5K]
+Found solution in 16 pushes.
+FrozenBoxes 209
+
+Level #236 [cells 49, boxes 8, alive 33, complexity 23.4]
+  #####    
+  #   ###  
+ ## #   ###
+ #  .$#   #
+## #$.$.# #
+#  $.@.$  #
+# #.$.$# ##
+#   #$.  # 
+###   # ## 
+  ###   #  
+    #####  
+
+[set 4.2K, closed 816, open 3.4K]
+Found solution in 12 pushes.
+FrozenBoxes 626
+
+Level #237 [cells 40, boxes 8, alive 21, complexity 18.3]
+ ####### 
+##     ##
+#  $.$  #
+# $#.#$ #
+##..@.. #
+# $#.#$ #
+#  $.$  #
+#   #  ##
+######## 
+
+[set 2.6K, closed 782, open 1.8K]
+Found solution in 22 pushes.
+FrozenBoxes 1.5K
+
+Level #238 [cells 29, boxes 4, alive 19, complexity 14.2]
+    #### 
+ ####  # 
+ #     # 
+##.# # ##
+#@$ $#  #
+# .$    #
+##.$##  #
+ #. #####
+ ####    
+
+[set 404, closed 235, open 166]
+Found solution in 22 pushes.
+FrozenBoxes 183
+
+Level #239 [cells 33, boxes 4, alive 16, complexity 13.4]
+ #### #####
+##  ###   #
+#  . #  $ #
+# . .$ $ ##
+###*## # # 
+  #  # @ # 
+  #  ##### 
+  #  #     
+  ####     
+
+[set 919, closed 820, open 97]
+Found solution in 33 pushes.
+FrozenBoxes 273
+
+Level #240 [cells 49, boxes 4, alive 31, complexity 17.5]
+ #######    
+ #  #  ###  
+ #  #  . ###
+ #   $ # @ #
+ ## # $ $  #
+  # ##..####
+  #  #  #   
+### ### ### 
+#     $   # 
+#   ###.  # 
+##### ##### 
+
+[set 5.3K, closed 3.7K, open 1.6K]
+Found solution in 38 pushes.
+FrozenBoxes 405
+
+Level #241 [cells 39, boxes 5, alive 17, complexity 14.7]
+ ##########
+ #        #
+ #.####   #
+##.$ @ $$ #
+# .*.$ #  #
+# ### ## ##
+#        # 
+########## 
+
+[set 2.1K, closed 1.7K, open 443]
+Found solution in 31 pushes.
+FrozenBoxes 847
+
+Level #242 [cells 39, boxes 5, alive 28, complexity 18.2]
+###### #### 
+# .  ###  # 
+#      @  ##
+#....# $#  #
+###### $   #
+     ##$ $ #
+      #   ##
+      # $## 
+      #  #  
+      ####  
+
+[set 9.5K, closed 4.1K, open 5.5K]
+Found solution in 55 pushes.
+FrozenBoxes 2.3K
+
+Level #243 [cells 42, boxes 4, alive 21, complexity 15.2]
+########
+#  ##  #
+#  ..  #
+# .  . #
+### ####
+ #    ##
+ # $$@ #
+ ### $ #
+###  # #
+#    $ #
+#    ###
+######  
+
+[set 634, closed 425, open 207]
+Found solution in 45 pushes.
+FrozenBoxes 230
+
+Level #244 [cells 50, boxes 4, alive 28, complexity 16.9]
+        #### 
+        #  # 
+      ###  # 
+     ##    # 
+     #  #$###
+     # $ $  #
+     ##$    #
+#######  ####
+#     #  ##  
+#  @  ##  #  
+#  #  ....#  
+#    ######  
+######       
+
+[set 23.9K, closed 23.9K, open 61]
+Found solution in 86 pushes.
+FrozenBoxes 5.6K
+
+Level #245 [cells 44, boxes 4, alive 25, complexity 16.2]
+  #####   
+ ##   #   
+ #  # #   
+##    #   
+#  $ #### 
+#  $$#. # 
+###$    # 
+  #  #  # 
+  ####. # 
+   #@#. ##
+   #  .  #
+   #     #
+   #######
+
+[set 9.2K, closed 6.2K, open 3.0K]
+Found solution in 65 pushes.
+FrozenBoxes 2.7K
+
+Level #246 [cells 40, boxes 4, alive 21, complexity 15.1]
+     ####   
+     #  ### 
+    ## .  ##
+    #. .   #
+    #.  #@ #
+    ## ##  #
+   ##  #####
+  ## $ #    
+ ## $  #    
+## $  ##    
+# $  ##     
+#   ##      
+#####       
+
+[set 1.8K, closed 1.5K, open 346]
+Found solution in 46 pushes.
+FrozenBoxes 422
+
+Level #247 [cells 21, boxes 4, alive 13, complexity 11.6]
+ ###### 
+ #. . # 
+ #  *.##
+###$ @ #
+# $  $ #
+#   ####
+#####   
+
+[set 561, closed 558, open 1]
+Found solution in 24 pushes.
+FrozenBoxes 387
+
+Level #248 [cells 29, boxes 5, alive 12, complexity 11.8]
+########
+#      #
+# #.#  #
+#  *   #
+##$*$ ##
+#  *@## 
+# #.##  
+#   #   
+#####   
+
+[set 230, closed 157, open 70]
+Found solution in 24 pushes.
+FrozenBoxes 126
+
+Level #249 [cells 28, boxes 6, alive 18, complexity 15.4]
+ ##### 
+ #   # 
+ #   ##
+ #$*$ #
+##. . #
+# .@.##
+# $*$# 
+##   # 
+ #   # 
+ ##### 
+
+[set 2.5K, closed 1.2K, open 1.3K]
+Found solution in 16 pushes.
+FrozenBoxes 1.4K
+
+Level #250 [cells 40, boxes 4, alive 24, complexity 15.9]
+  ####   
+  #  #   
+  #  #   
+  #  ### 
+###$ $ ##
+#  $@$  #
+#   #   #
+###### ##
+  ## . .#
+  #  . .#
+  #     #
+  #  ####
+  ####   
+
+[set 3.9K, closed 2.5K, open 1.5K]
+Found solution in 52 pushes.
+FrozenBoxes 924
+
+Level #251 [cells 46, boxes 4, alive 26, complexity 16.4]
+ ######    ####
+ # @  ######  #
+ #  #   $     #
+## ....# $ #  #
+#   ## ## $  ##
+#      ### $ # 
+######## ##  # 
+          #### 
+
+[set 6.1K, closed 4.4K, open 1.7K]
+Found solution in 52 pushes.
+FrozenBoxes 1.6K
+
+Level #252 [cells 39, boxes 4, alive 22, complexity 15.3]
+    ####
+  ###  #
+ ## .  #
+##     #
+# .$. ##
+# $ ### 
+# .$####
+###    #
+ ##$#  #
+ #  #  #
+ #  @ ##
+ ###  # 
+   #### 
+
+[set 1.8K, closed 1.2K, open 630]
+Found solution in 24 pushes.
+FrozenBoxes 424
+
+Level #253 [cells 64, boxes 5, alive 34, complexity 20.0]
+       ######     
+    ####    ###   
+    #    ##   #   
+ #### ###..## ####
+ #  #$$     #    #
+##  $ $ #... @ # #
+#  #  $ ##### #  #
+#    ####  #    ##
+##   #     #   ## 
+ #####     #####  
+
+[set 203K, closed 195K, open 8.7K]
+Found solution in 73 pushes.
+FrozenBoxes 75.6K
+
+Level #254 [cells 45, boxes 5, alive 28, complexity 18.3]
+#############
+#       #   #
+#    ## #   #
+## ### $ $ ##
+#@...# $$$ # 
+#          # 
+##..######## 
+ ####        
+
+[set 72.7K, closed 59.1K, open 13.7K]
+Found solution in 54 pushes.
+FrozenBoxes 32.3K
+
+Level #255 [cells 43, boxes 5, alive 30, complexity 18.7]
+     ####  
+     #  #  
+ #####  #  
+ #  $ $ #  
+ # .#  ### 
+ # .#$$  ##
+## .#     #
+#  *###@  #
+#        ##
+## .###### 
+ ####      
+
+[set 56.5K, closed 33.8K, open 22.8K]
+Found solution in 71 pushes.
+FrozenBoxes 11.4K
+
+Level #256 [cells 58, boxes 5, alive 35, complexity 20.1]
+#####    #####
+#   ######   #
+#          # #
+## ####### # #
+ # #     # # #
+ # #$$ ..... #
+## #   #######
+#  #$#@#      
+# $ $  #      
+#  #  ##      
+####  #       
+   ####       
+
+[set 212K, closed 202K, open 9.9K]
+Found solution in 114 pushes.
+FrozenBoxes 47.6K
+
+Level #257 [cells 34, boxes 4, alive 17, complexity 13.7]
+#####    
+#   ###  
+# # $ ###
+# # $   #
+# #.$##@#
+# #.$   #
+#  .#####
+## .  #  
+ #    #  
+ ######  
+
+[set 176, closed 93, open 81]
+Found solution in 16 pushes.
+FrozenBoxes 72
+
+Level #258 [cells 47, boxes 5, alive 27, complexity 18.1]
+  #####     
+  #   #     
+  #   #     
+  #  ##     
+###. # #####
+#  . ###   #
+#  . # $   #
+# #.## $ $ #
+#  . @  $$##
+##  ###   # 
+ #### ##### 
+
+[set 94.9K, closed 91.1K, open 3.8K]
+Found solution in 77 pushes.
+FrozenBoxes 28.0K
+
+Level #259 [cells 54, boxes 5, alive 18, complexity 15.5]
+#######    
+#     ##   
+# ###  ####
+#   ##    #
+#  $ #### #
+###$ .....#
+  #  #### #
+###$$#    #
+#  $ # ####
+#  @ # #   
+# #### #   
+#      #   
+########   
+
+[set 2.8K, closed 1.9K, open 920]
+Found solution in 47 pushes.
+FrozenBoxes 1.3K
+
+Level #260 [cells 28, boxes 6, alive 18, complexity 15.4]
+  #####   
+### . #   
+#  . $##  
+#  $$. ###
+### .$$@ #
+  ##$ .  #
+   # . ###
+   #####  
+
+[set 1.9K, closed 782, open 1.1K]
+Found solution in 18 pushes.
+FrozenBoxes 641
+
+Level #261 [cells 55, boxes 5, alive 38, complexity 20.5]
+   ####     
+  ##  #     
+  #   ##### 
+  #       # 
+  #   #   # 
+  ##    .## 
+   #####.#  
+  ######.###
+  #     .  #
+###  #$#.  #
+#  $$ $ ####
+#   $ @ #   
+###  ####   
+  ####      
+
+[set 538K, closed 524K, open 13.4K]
+[set 561K, closed 561K, open 848]
+Found solution in 112 pushes.
+FrozenBoxes 188K
+
+Level #262 [cells 55, boxes 4, alive 36, complexity 18.4]
+  ##########  
+  #   #    #  
+### ... .# #  
+#    ## ## #  
+#    ##  # #  
+###  #@  # #  
+  #  ##  # ###
+  ##### $#$  #
+      # $    #
+      # $##  #
+      #  #####
+      ####    
+
+[set 65.3K, closed 63.0K, open 2.4K]
+Found solution in 82 pushes.
+FrozenBoxes 16.5K
+
+Level #263 [cells 61, boxes 7, alive 38, complexity 23.8]
+   ###### 
+####    # 
+#    ## ##
+# ##     #
+# #  #   #
+#  $$#$$ #
+###$ $ $##
+  #     # 
+ ####@####
+ #  . .. #
+ # .. .  #
+ # .##   #
+ #####   #
+     #####
+
+[set 1.15M, closed 524K, open 617K]
+[set 2.01M, closed 1.05M, open 957K]
+[set 2.82M, closed 1.58M, open 1.25M]
+[set 3.40M, closed 2.10M, open 1.30M]
+[set 4.02M, closed 2.63M, open 1.40M]
+[set 4.17M, closed 2.74M, open 1.44M]
+Found solution in 82 pushes.
+FrozenBoxes 1.95M
+
+Level #264 [cells 26, boxes 6, alive 15, complexity 13.7]
+ ####   
+ #  ### 
+##    ##
+#  * . #
+# *$*$ #
+## .$. #
+ #@  ###
+ #####  
+
+[set 1.5K, closed 870, open 575]
+Found solution in 15 pushes.
+FrozenBoxes 876
+
+Level #265 [cells 27, boxes 4, alive 13, complexity 11.9]
+  #### 
+###  # 
+#  . ##
+# #*  #
+# $.#@#
+##$.# #
+#  $  #
+#   ###
+#  ##  
+####   
+
+[set 234, closed 188, open 43]
+Found solution in 28 pushes.
+FrozenBoxes 88
+
+Level #266 [cells 38, boxes 5, alive 23, complexity 16.8]
+  ####   
+ ##  ####
+ #  $$  #
+ # #  # #
+ # $ $# #
+ # #  # #
+ #@#  # #
+## #$#  #
+# .....##
+#   #### 
+#####    
+
+[set 16.2K, closed 14.1K, open 2.1K]
+Found solution in 50 pushes.
+FrozenBoxes 8.1K
+
+Level #267 [cells 41, boxes 8, alive 29, complexity 21.8]
+   ####    
+   #  #    
+  ## $###  
+  #  .  ###
+### .$.   #
+# $.$@$.$ #
+#   .$. ###
+###  .  #  
+  ###$ ##  
+    #  #   
+    ####   
+
+[set 35.6K, closed 6.7K, open 28.9K]
+Found solution in 14 pushes.
+FrozenBoxes 2.6K
+
+Level #268 [cells 48, boxes 12, alive 40, complexity 29.4]
+ #####    
+ # . #####
+ #$ $$ $ #
+ # .. . .#
+##$   .$ #
+# $.   $##
+#. . .. # 
+#@$ $$ $# 
+##### . # 
+    ##### 
+
+[set 3.64M, closed 524K, open 3.12M]
+[set 6.80M, closed 1.05M, open 5.75M]
+[set 10.1M, closed 1.58M, open 8.50M]
+[set 13.8M, closed 2.10M, open 11.7M]
+[set 17.1M, closed 2.63M, open 14.4M]
+[set 19.9M, closed 3.15M, open 16.8M]
+[set 20.1M, closed 3.18M, open 16.9M]
+Timed out after key: pushes 29, total 40
+FrozenBoxes 7.27M
+
+Level #269 [cells 67, boxes 4, alive 35, complexity 18.4]
+  ########
+  #  #   #
+###... . #
+#    # ###
+# @    #  
+###  # ## 
+  ### $ # 
+  ## $  # 
+### $  ## 
+#  $  ####
+#    #   #
+#  ##    #
+#       ##
+##  #  ## 
+ ####  #  
+    ####  
+
+[set 77.4K, closed 71.7K, open 5.8K]
+Found solution in 137 pushes.
+FrozenBoxes 10.3K
+
+Level #270 [cells 48, boxes 6, alive 30, complexity 20.2]
+  ####      
+  #  #      
+###  ##     
+#  $ .# ####
+#  $#.###  #
+#  $ .#    #
+#####.# $  #
+  ###.#$#@ #
+  #  .  $  #
+  #   ###  #
+  ##  # ####
+   ####     
+
+[set 152K, closed 149K, open 2.5K]
+Found solution in 96 pushes.
+FrozenBoxes 59.9K
+
+Level #271 [cells 33, boxes 8, alive 15, complexity 13.9]
+#########
+#   #   #
+# $...$ #
+# $*@*$ #
+# $...$ #
+#   #   #
+#########
+
+[set 3.3K, closed 2.1K, open 1.3K]
+Found solution in 14 pushes.
+FrozenBoxes 1.3K
+
+Level #272 [cells 42, boxes 10, alive 21, complexity 18.6]
+###########
+#         #
+#  * . *  #
+##*$*@*$*##
+#  * . *  #
+#    #    #
+###########
+
+[set 16.3K, closed 5.2K, open 11.2K]
+Found solution in 14 pushes.
+FrozenBoxes 4.3K
+
+Level #273 [cells 77, boxes 8, alive 45, complexity 27.0]
+      #####    
+    ###   #    
+    #   # #    
+    # #   #    
+##### $ $##### 
+#   ## # #   # 
+# # $ ... $# ##
+#    #.@.#    #
+## #$ ... $ # #
+ #   # # ##   #
+ #####$ $ #####
+    #   # #    
+    # #   #    
+    #   ###    
+    #####      
+
+[set 326K, closed 110K, open 216K]
+Found solution in 44 pushes.
+FrozenBoxes 39.9K
+
+Level #274 [cells 61, boxes 16, alive 41, complexity 32.4]
+     ###     
+    ## ##    
+   ##   ##   
+  ## .$. ##  
+ ## .$.$. ## 
+## .$ $ $. ##
+#  $.$@$.$  #
+## .$ $ $. ##
+ ## .$.$. ## 
+  ## .$. ##  
+   ##   ##   
+    ## ##    
+     ###     
+
+[set 733K, closed 89.8K, open 643K]
+Found solution in 20 pushes.
+FrozenBoxes 145K
+
+Level #275 [cells 65, boxes 4, alive 40, complexity 19.1]
+########        
+#  #   #        
+#      #        
+#  ## ##########
+## ##  #       #
+ # ##  #       #
+ # ##  $ $ $ $ #
+## ### #######@#
+#    . . . .   #
+#   ############
+#####           
+
+[set 48.4K, closed 47.5K, open 840]
+Found solution in 100 pushes.
+FrozenBoxes 11.3K
+
+Level #276 [cells 42, boxes 4, alive 22, complexity 15.4]
+       ####
+ #######  #
+##   ##   #
+#    #  $ #
+# # ##$  ##
+# #   $ ## 
+#@# .#$ #  
+#  ..  ##  
+###. ###   
+  #  #     
+  ####     
+
+[set 4.9K, closed 3.7K, open 1.2K]
+Found solution in 48 pushes.
+FrozenBoxes 1.2K
+
+Level #277 [cells 60, boxes 6, alive 36, complexity 21.9]
+     #####   
+     #   ##  
+######  $ ## 
+#    ##  $ ##
+#     ##  $ #
+#...#  ##   #
+#   @  ##$  #
+#...# ## $ ##
+##### # $  # 
+    #     ## 
+    #  ####  
+    ####     
+
+[set 870K, closed 524K, open 345K]
+[set 1.28M, closed 935K, open 337K]
+Found solution in 127 pushes.
+FrozenBoxes 336K
+
+Level #278 [cells 56, boxes 6, alive 33, complexity 21.1]
+ #######  
+ #     ###
+ # ###.  #
+ # # . # #
+## #...  #
+#@   .####
+#  #  #   
+## #####  
+# $$   ## 
+#  $$   # 
+### $$  # 
+  #     # 
+  ##   ## 
+   #####  
+
+[set 72.5K, closed 28.6K, open 43.9K]
+Found solution in 84 pushes.
+FrozenBoxes 15.4K
+
+Level #279 [cells 67, boxes 6, alive 44, complexity 23.5]
+     ####      
+   ###  ###### 
+   #         # 
+ ###$  $## # # 
+ #   #   # $ ##
+###    ## $$  #
+#  ## $   #   #
+# @ #  ########
+#     ##       
+#......#       
+#      #       
+########       
+
+[set 1.15M, closed 524K, open 625K]
+[set 1.92M, closed 1.05M, open 868K]
+[set 2.51M, closed 1.58M, open 931K]
+[set 2.72M, closed 1.75M, open 969K]
+Found solution in 96 pushes.
+FrozenBoxes 828K
+
+Level #280 [cells 56, boxes 6, alive 29, complexity 20.1]
+   #######
+  ## .   #
+ ##  .   #
+ # $*.# ##
+ # # .  # 
+## # . ## 
+#  ### #  
+# #   @## 
+# $$$#  # 
+#     # # 
+###   # # 
+  #$##  # 
+  #    ## 
+  ######  
+
+[set 268K, closed 223K, open 45.8K]
+Found solution in 65 pushes.
+FrozenBoxes 149K
+
+Level #281 [cells 22, boxes 4, alive 10, complexity 10.0]
+   #### 
+ ###  ##
+ #     #
+##*  # #
+# *$*. #
+#  @  ##
+####### 
+
+[set 104, closed 101, open 0]
+Found solution in 16 pushes.
+FrozenBoxes 103
+
+Level #282 [cells 38, boxes 4, alive 26, complexity 16.2]
+  #####     
+###   ####  
+#   $  $ #  
+# $##  $ #  
+##     # #  
+ ##### # ###
+     # ... #
+     ##.   #
+      ## @##
+       #  # 
+       #### 
+
+[set 6.6K, closed 4.4K, open 2.3K]
+Found solution in 48 pushes.
+FrozenBoxes 1.6K
+
+Level #283 [cells 55, boxes 12, alive 37, complexity 28.3]
+#########
+#   #   #
+# $ * $ #
+#..# #..#
+# $ # $ #
+# .$@$. #
+# $ # $ #
+#..# #..#
+# $ * $ #
+#   #   #
+#########
+
+[set 1.12M, closed 524K, open 589K]
+[set 1.82M, closed 849K, open 966K]
+Found solution in 30 pushes.
+FrozenBoxes 1.28M
+
+Level #284 [cells 71, boxes 5, alive 39, complexity 21.0]
+     ########## 
+     #        ##
+ ##### #### $  #
+ #.. #     #   #
+ #   .  # $  # #
+ #.. #### # $  #
+ ## ##  # $$#  #
+  # #   ##    ##
+###@###  ###### 
+#     #         
+#     #         
+#  #  #         
+####  #         
+   ####         
+
+[set 508K, closed 506K, open 2.7K]
+Found solution in 133 pushes.
+FrozenBoxes 155K
+
+Level #285 [cells 65, boxes 8, alive 42, complexity 26.2]
+ #######      
+ #     #      
+ # $$  #      
+ #  $###      
+ # #  #       
+ # #$ #       
+ # #  #       
+## ## ##      
+#    ..#######
+#@###...     #
+#   #.#### $ #
+### #.# $ $$ #
+  #  .    #  #
+  #########  #
+          ####
+
+[set 1.06M, closed 524K, open 526K]
+[set 1.85M, closed 1.05M, open 793K]
+[set 2.60M, closed 1.58M, open 1.02M]
+[set 3.48M, closed 2.10M, open 1.38M]
+[set 4.46M, closed 2.63M, open 1.84M]
+[set 5.25M, closed 3.15M, open 2.10M]
+[set 5.77M, closed 3.68M, open 2.10M]
+[set 6.37M, closed 4.20M, open 2.18M]
+[set 7.01M, closed 4.72M, open 2.29M]
+[set 7.70M, closed 5.25M, open 2.45M]
+[set 8.43M, closed 5.77M, open 2.67M]
+[set 9.21M, closed 6.30M, open 2.92M]
+[set 9.84M, closed 6.82M, open 3.02M]
+[set 10.5M, closed 7.35M, open 3.07M]
+[set 11.0M, closed 7.87M, open 3.13M]
+[set 11.6M, closed 8.39M, open 3.17M]
+[set 12.2M, closed 8.92M, open 3.23M]
+[set 12.8M, closed 9.44M, open 3.31M]
+[set 13.4M, closed 9.97M, open 3.40M]
+[set 14.1M, closed 10.5M, open 3.52M]
+[set 14.9M, closed 11.1M, open 3.80M]
+[set 15.6M, closed 11.6M, open 3.99M]
+[set 16.2M, closed 12.1M, open 4.14M]
+[set 16.8M, closed 12.6M, open 4.19M]
+[set 17.4M, closed 13.2M, open 4.24M]
+[set 18.0M, closed 13.7M, open 4.29M]
+[set 18.6M, closed 14.2M, open 4.37M]
+[set 19.2M, closed 14.7M, open 4.43M]
+[set 19.7M, closed 15.3M, open 4.47M]
+[set 20.1M, closed 15.6M, open 4.50M]
+Timed out after key: pushes 50, total 100
+FrozenBoxes 7.17M
+
+Level #286 [cells 25, boxes 5, alive 13, complexity 12.2]
+#####     
+#@  ######
+#  $ #   #
+#.*.*. $ #
+#  $ #####
+##   #    
+ #####    
+
+[set 376, closed 331, open 42]
+Found solution in 16 pushes.
+FrozenBoxes 233
+
+Level #287 [cells 38, boxes 4, alive 12, complexity 11.8]
+   ####### 
+  ##     ##
+###  ###  #
+#   #   # #
+#@$***. # #
+##      # #
+ #### ##  #
+    #    ##
+    ###### 
+
+[set 159, closed 110, open 46]
+Found solution in 16 pushes.
+FrozenBoxes 76
+
+Level #288 [cells 43, boxes 4, alive 32, complexity 17.5]
+       ####
+########  #
+#     $   #
+#  ##.##  #
+##$##  . ##
+ #  . $# ##
+ # ###.#  #
+ # ### @  #
+ #   $ ####
+ #  ####   
+ ####      
+
+[set 3.7K, closed 1.5K, open 2.3K]
+Found solution in 60 pushes.
+FrozenBoxes 709
+
+Level #289 [cells 38, boxes 10, alive 23, complexity 19.8]
+     ####  
+    ##  ###
+   ##  @  #
+  ##  *$ .#
+ ##  **  ##
+##  **  ## 
+#  **  ##  
+# **  ##   
+#  ####    
+####       
+
+[set 432, closed 356, open 73]
+Found solution in 20 pushes.
+FrozenBoxes 621
+
+Level #290 [cells 80, boxes 24, alive 51, complexity 40.4]
+            ####  
+           ##  ###
+          ##  @  #
+         ##  *$ .#
+        ##  **  ##
+       ##  **  ## 
+      ##  **  ##  
+     ##  **  ##   
+    ##  **  ##    
+   ##  **  ##     
+  ##  **  ##      
+ ##  **  ##       
+##  **  ##        
+#  **  ##         
+# **  ##          
+#  ####           
+####              
+
+[set 416K, closed 253K, open 163K]
+Found solution in 48 pushes.
+FrozenBoxes 544K
+
+Level #291 [cells 50, boxes 20, alive 45, complexity 35.4]
+      ####  
+    ###  ###
+   ##.$.   #
+  ##.$.$$. #
+ ##.$.$$.$##
+##.$.$$.$.# 
+#.$.$$.$.## 
+## $$.$.##  
+ #@  $.##   
+ ####.##    
+    ###     
+
+[set 233K, closed 116K, open 117K]
+Found solution in 40 pushes.
+FrozenBoxes 351K
+
+Level #292 [cells 98, boxes 44, alive 93, complexity 69.7]
+            ####  
+          ###  ###
+         ##.$.   #
+        ##.$.$$. #
+       ##.$.$$.$##
+      ##.$.$$.$.# 
+     ##.$.$$.$.## 
+    ##.$.$$.$.##  
+   ##.$.$$.$.##   
+  ##.$.$$.$.##    
+ ##.$.$$.$.##     
+##.$.$$.$.##      
+#.$.$$.$.##       
+## $$.$.##        
+ #@  $.##         
+ ####.##          
+    ###           
+
+[set 978K, closed 524K, open 453K]
+[set 1.97M, closed 1.05M, open 916K]
+[set 2.95M, closed 1.58M, open 1.38M]
+[set 4.07M, closed 2.10M, open 1.97M]
+[set 5.02M, closed 2.63M, open 2.40M]
+[set 6.05M, closed 3.15M, open 2.90M]
+[set 7.11M, closed 3.68M, open 3.44M]
+[set 8.36M, closed 4.20M, open 4.17M]
+[set 9.54M, closed 4.72M, open 4.82M]
+[set 10.6M, closed 5.25M, open 5.27M]
+[set 11.5M, closed 5.77M, open 5.70M]
+[set 12.5M, closed 6.30M, open 6.18M]
+[set 13.6M, closed 6.82M, open 6.72M]
+[set 14.6M, closed 7.35M, open 7.17M]
+[set 15.7M, closed 7.87M, open 7.80M]
+[set 16.9M, closed 8.39M, open 8.43M]
+[set 18.1M, closed 8.92M, open 9.10M]
+[set 19.2M, closed 9.44M, open 9.75M]
+[set 20.1M, closed 9.81M, open 10.2M]
+Timed out after key: pushes 54, total 76
+FrozenBoxes 39.1M
+
+Level #297 [cells 20, boxes 3, alive 14, complexity 11.1]
+####    
+#  #    
+#  #    
+#  #####
+#.$$ $@#
+#  . . #
+#  #####
+####    
+
+[set 279, closed 253, open 24]
+Found solution in 23 pushes.
+FrozenBoxes 133
+
+Level #298 [cells 16, boxes 3, alive 9, complexity 8.8]
+  #### 
+###  # 
+# $.@##
+#  *  #
+#  *  #
+#######
+
+[set 28, closed 20, open 5]
+Found solution in 11 pushes.
+FrozenBoxes 24
+
+Level #299 [cells 26, boxes 3, alive 10, complexity 9.9]
+#######
+#     #
+# .$  #
+##.$###
+#  @  #
+# .$# #
+#     #
+#######
+
+[set 152, closed 148, open 2]
+Found solution in 15 pushes.
+FrozenBoxes 27
+
+Level #300 [cells 23, boxes 4, alive 13, complexity 11.7]
+######
+#  @ #
+# #$ #
+# .*.#
+###$ #
+#  * #
+#    #
+###  #
+  ####
+
+[set 117, closed 80, open 35]
+Found solution in 12 pushes.
+FrozenBoxes 37
+
+Level #301 [cells 20, boxes 3, alive 11, complexity 10.0]
+######    
+#    #####
+#   $ $  #
+###$...@ #
+  #  #####
+  ####    
+
+[set 131, closed 107, open 22]
+Found solution in 20 pushes.
+FrozenBoxes 53
+
+Level #302 [cells 23, boxes 4, alive 11, complexity 10.7]
+####### 
+#  #  # 
+# *#$.##
+# * $. #
+# @    #
+#   ####
+#####   
+
+[set 170, closed 132, open 35]
+Found solution in 20 pushes.
+FrozenBoxes 98
+
+Level #303 [cells 28, boxes 4, alive 20, complexity 14.4]
+ ####    
+ #  #####
+ #$   $ #
+ # .#.  #
+## ### ##
+# $.#. # 
+# @   $# 
+#####  # 
+    #### 
+
+[set 2.7K, closed 2.5K, open 166]
+Found solution in 49 pushes.
+FrozenBoxes 1.1K
+
+Level #304 [cells 64, boxes 4, alive 36, complexity 18.5]
+################
+#  #  #  #  #  #
+#  .  #  #  #  #
+# $#  *  #  #  #
+#  #  # @*  #$ #
+#  #  #  #  .  #
+#  #  #  #  #  #
+################
+
+[set 3.8K, closed 3.3K, open 552]
+Found solution in 34 pushes.
+FrozenBoxes 1.1K
+
+Level #305 [cells 43, boxes 4, alive 25, complexity 16.2]
+  ####         
+ ##  ######### 
+ #           # 
+ #  ##### ## ##
+### ## # .$.$ #
+# $@$  #      #
+# . .  ########
+########       
+
+[set 2.5K, closed 2.1K, open 375]
+Found solution in 60 pushes.
+FrozenBoxes 484
+
+Level #306 [cells 26, boxes 5, alive 11, complexity 11.0]
+######## 
+#      # 
+# $.#..##
+##$.$$@ #
+# $.#   #
+#   #####
+#####    
+
+[set 8, closed 8, open 0]
+No solution.
+FrozenBoxes 28
+
+Level #307 [cells 39, boxes 3, alive 23, complexity 14.1]
+####### #####
+#   ..###   #
+#  ##.#     #
+# @##$# $  ##
+#      $ ### 
+#  #  #  #   
+#######  #   
+      ####   
+
+[set 1.8K, closed 1.6K, open 222]
+Found solution in 54 pushes.
+FrozenBoxes 262
+
+Level #308 [cells 24, boxes 4, alive 14, complexity 12.2]
+####    
+#  #### 
+#...  # 
+#.##  ##
+#  $ $ #
+###$ $ #
+  #@   #
+  ######
+
+[set 655, closed 601, open 52]
+Found solution in 30 pushes.
+FrozenBoxes 296
+
+Level #309 [cells 21, boxes 4, alive 11, complexity 10.6]
+ ####  
+ #  ###
+ # *  #
+ # *#@#
+## *  #
+#  .$##
+#    # 
+###### 
+
+[set 197, closed 194, open 1]
+Found solution in 23 pushes.
+FrozenBoxes 188
+
+Level #310 [cells 27, boxes 4, alive 14, complexity 12.3]
+########
+#    @ #
+# $  $ #
+## ## ##
+# $# $# 
+#  .. # 
+## .. # 
+ ###### 
+
+[set 594, closed 477, open 115]
+Found solution in 34 pushes.
+FrozenBoxes 274
+
+Level #311 [cells 25, boxes 4, alive 13, complexity 11.8]
+####    
+# @#### 
+#     ##
+# .#.  #
+##$$$$ #
+# . .###
+#    #  
+######  
+
+[set 371, closed 305, open 63]
+Found solution in 20 pushes.
+FrozenBoxes 168
+
+Level #312 [cells 30, boxes 4, alive 18, complexity 13.9]
+   #### 
+ ###@ # 
+ #    ##
+##$#.. #
+#  $ # #
+# # $  #
+# ..#$##
+##    # 
+ #  ### 
+ ####   
+
+[set 233, closed 103, open 125]
+Found solution in 22 pushes.
+FrozenBoxes 95
+
+Level #313 [cells 28, boxes 4, alive 15, complexity 12.8]
+#####    
+#   #    
+#   #### 
+## $ * ##
+##$#... #
+# $   @ #
+#   ##  #
+#########
+
+[set 756, closed 600, open 154]
+Found solution in 36 pushes.
+FrozenBoxes 422
+
+Level #314 [cells 29, boxes 6, alive 21, complexity 16.7]
+######## 
+#   .  # 
+# $ #  ##
+# ** ** #
+##  # $ #
+ #  . @ #
+ ########
+
+[set 1.4K, closed 463, open 841]
+Found solution in 14 pushes.
+FrozenBoxes 242
+
+Level #315 [cells 30, boxes 8, alive 16, complexity 14.6]
+######   
+#    ##  
+#.$$. ## 
+# .$$. ##
+## .$$. #
+ ## .$$.#
+  ## @  #
+   ######
+
+[set 802, closed 503, open 297]
+Found solution in 16 pushes.
+FrozenBoxes 531
+
+Level #316 [cells 36, boxes 6, alive 19, complexity 16.2]
+    ####   
+ ####  ##  
+ #  # * ## 
+##.$#  * ##
+#   @ * * #
+#   #  *  #
+######    #
+     ##  ##
+      #### 
+
+[set 2.6K, closed 1.4K, open 1.3K]
+Found solution in 19 pushes.
+FrozenBoxes 821
+
+Level #317 [cells 31, boxes 3, alive 19, complexity 13.0]
+    #####
+   ##   #
+   #  @ #
+#### # ##
+#. .  . #
+#  ###  #
+## $ $ ##
+ #  $ ## 
+ ###  #  
+   ####  
+
+[set 388, closed 377, open 9]
+Found solution in 39 pushes.
+FrozenBoxes 132
+
+Level #318 [cells 55, boxes 3, alive 29, complexity 15.4]
+##### #####
+#   ###   #
+#    ##   #
+##    $$ ##
+ #  #  $ # 
+ ###  #  # 
+   # @#### 
+   #    #  
+ ### ## #  
+ #    # #  
+ #.. .# #  
+ ## ### #  
+  #     #  
+  #######  
+
+[set 2.5K, closed 1.7K, open 868]
+Found solution in 64 pushes.
+FrozenBoxes 285
+
+Level #319 [cells 65, boxes 8, alive 37, complexity 24.9]
+    ####       
+    #  ###     
+    #  . #     
+    #  $ #     
+    ## ########
+ #####   ##   #
+ #  #  *      #
+##.$# *@* #$.##
+#      *  #  # 
+#   ##   ##### 
+######## ##    
+     # $  #    
+     # .  #    
+     ###  #    
+       ####    
+
+[set 165K, closed 50.4K, open 115K]
+Found solution in 42 pushes.
+FrozenBoxes 12.8K
+
+Level #320 [cells 61, boxes 8, alive 33, complexity 23.6]
+    ####       
+    #  ###     
+    #  . #     
+    #  $ #     
+    ## ########
+ #####  ###   #
+ #  ## *      #
+##.$# * * #$.##
+#      * ##  # 
+#   ###  ##### 
+######## ##    
+     # $  #    
+     # .@ #    
+     ###  #    
+       ####    
+
+[set 664K, closed 524K, open 140K]
+[set 1.29M, closed 1.05M, open 233K]
+[set 1.91M, closed 1.58M, open 335K]
+[set 2.50M, closed 2.10M, open 397K]
+[set 3.05M, closed 2.63M, open 420K]
+[set 3.60M, closed 3.15M, open 450K]
+[set 4.15M, closed 3.68M, open 479K]
+[set 4.68M, closed 4.20M, open 480K]
+[set 5.22M, closed 4.72M, open 496K]
+[set 5.74M, closed 5.25M, open 490K]
+[set 6.24M, closed 5.77M, open 468K]
+[set 6.77M, closed 6.30M, open 477K]
+[set 7.32M, closed 6.82M, open 499K]
+[set 7.83M, closed 7.35M, open 488K]
+[set 8.39M, closed 7.87M, open 518K]
+[set 8.74M, closed 8.25M, open 496K]
+Found solution in 80 pushes.
+FrozenBoxes 3.48M
+
+Level #321 [cells 38, boxes 6, alive 18, complexity 15.8]
+#####   
+#   ##  
+# #  #  
+# #$.###
+#  .$  #
+# #$.# #
+# #.$# #
+#  $. @#
+###.$# #
+  #  # #
+  ##   #
+   #####
+
+[set 651, closed 229, open 409]
+Found solution in 10 pushes.
+FrozenBoxes 185
+
+Level #322 [cells 44, boxes 3, alive 24, complexity 14.4]
+  #####      
+  #   #      
+  #.# #######
+  # $       #
+  #.# ### # #
+  #  #   $$ #
+ ##.# #   ###
+##      ###  
+#  @ ####    
+#   ##       
+#####        
+
+[set 1.9K, closed 1.8K, open 60]
+Found solution in 41 pushes.
+FrozenBoxes 523
+
+Level #323 [cells 47, boxes 4, alive 30, complexity 17.2]
+     ####    
+###### .#    
+#      .#    
+#  #$#@.#####
+## #   . #  #
+ #  ###  $$ #
+ # #   ##$  #
+ #         ##
+ #  ######## 
+ ####        
+
+[set 8.2K, closed 5.5K, open 2.8K]
+Found solution in 71 pushes.
+FrozenBoxes 1.7K
+
+Level #324 [cells 30, boxes 6, alive 16, complexity 14.5]
+####  ####
+#  ####  #
+# $$  $$ #
+# .$..$. #
+## .  . ##
+ ## @  ## 
+  ######  
+
+[set 277, closed 110, open 161]
+Found solution in 12 pushes.
+FrozenBoxes 104
+
+Level #325 [cells 40, boxes 8, alive 26, complexity 20.6]
+       #####
+ #######   #
+##   ..# $ #
+# $ $..# $ #
+# $ #..$ $ #
+# $ #..   ##
+# @ ####### 
+#####       
+
+[set 630K, closed 524K, open 105K]
+[set 894K, closed 795K, open 98.8K]
+Found solution in 42 pushes.
+FrozenBoxes 486K
+
+Level #326 [cells 33, boxes 6, alive 23, complexity 17.7]
+###########
+#  *.*.*  #
+#   $+$   #
+### ### ###
+  #  $   # 
+  #  #   # 
+  #  ##### 
+  ####     
+
+[set 2.8K, closed 2.3K, open 478]
+Found solution in 28 pushes.
+FrozenBoxes 1.2K
+
+Level #327 [cells 50, boxes 5, alive 30, complexity 18.9]
+       #### 
+  ###### .# 
+###       # 
+#  $$ # ..# 
+# $  #  .## 
+#  $$# #.###
+###  #     #
+  #    # # #
+  ##### @  #
+      #   ##
+      ##### 
+
+[set 106K, closed 92.3K, open 13.9K]
+Found solution in 68 pushes.
+FrozenBoxes 35.9K
+
+Level #328 [cells 61, boxes 4, alive 32, complexity 17.9]
+############    
+#   .#  #  #    
+#   .#    $###  
+# @#.# $#  $ ## 
+#   .   # $   ##
+#  ########    #
+####    #    # #
+        # #  # #
+        #  ##  #
+        ##    ##
+         ###### 
+
+[set 8.4K, closed 4.9K, open 3.5K]
+Found solution in 92 pushes.
+FrozenBoxes 1.1K
+
+Level #329 [cells 74, boxes 6, alive 42, complexity 23.3]
+           ####### 
+          ##     # 
+         ##  ### # 
+         #  $ $  ##
+         # $ $ $  #
+ #########  ###   #
+ # . . . # ## #####
+##        @  $ #   
+#  . . . # #   #   
+# ######## #####   
+#          #       
+############       
+
+[set 1.02M, closed 524K, open 494K]
+[set 1.75M, closed 1.05M, open 693K]
+[set 2.36M, closed 1.58M, open 783K]
+[set 2.77M, closed 1.92M, open 852K]
+Found solution in 125 pushes.
+FrozenBoxes 1.16M
+
+Level #330 [cells 23, boxes 5, alive 10, complexity 10.0]
+  #####  
+### @ ###
+# $$$$$ #
+# ..... #
+#   #   #
+#########
+
+[set 197, closed 169, open 26]
+Found solution in 21 pushes.
+FrozenBoxes 169
+
+Level #331 [cells 26, boxes 6, alive 14, complexity 13.1]
+#####   
+#   ### 
+# .$. # 
+# $*  ##
+##  *$ #
+ # .$. #
+ ###  @#
+   #####
+
+[set 257, closed 105, open 146]
+Found solution in 12 pushes.
+FrozenBoxes 96
+
+Level #332 [cells 61, boxes 8, alive 29, complexity 22.3]
+###########
+#   #     #
+#  .$ ##  #
+# #.$##.. #
+# ##   $$##
+#  #   #  #
+##$$   ## #
+# ..##$.# #
+#  ## $.  #
+#   @ #   #
+###########
+
+[set 14.1K, closed 6.5K, open 7.6K]
+Found solution in 26 pushes.
+FrozenBoxes 2.4K
+
+Level #333 [cells 24, boxes 4, alive 18, complexity 13.7]
+####      
+#  #      
+#  #      
+#  #######
+#.$$ $ $@#
+#  . . . #
+#  #######
+####      
+
+[set 1.6K, closed 1.5K, open 146]
+Found solution in 34 pushes.
+FrozenBoxes 1.1K
+
+Level #334 [cells 28, boxes 5, alive 20, complexity 15.5]
+####    
+# @#    
+#  ###  
+#.$$ #  
+#  . #  
+#  #####
+#.$$ $ #
+#  . . #
+#  #####
+####    
+
+[set 6.6K, closed 5.3K, open 1.3K]
+Found solution in 31 pushes.
+FrozenBoxes 4.5K
+
+Level #335 [cells 38, boxes 5, alive 20, complexity 15.9]
+      ####
+     ##  #
+   ### @ #
+   #  $  #
+   #    ##
+  ### ### 
+### $$ #  
+# .....#  
+#   $$ #  
+# # #  #  
+#   ####  
+#####     
+
+[set 3.8K, closed 2.3K, open 1.6K]
+Found solution in 28 pushes.
+FrozenBoxes 843
+
+Level #336 [cells 62, boxes 4, alive 35, complexity 18.4]
+   ########
+   #   #  #
+   #      #
+ #####$## #
+ #   # ## #
+ #   #  #.#
+ ##  $  #.#
+  #  #  #.#
+  #$#####.#
+### #  ## #
+#        @#
+# $##  #  #
+#      ####
+########   
+
+[set 24.0K, closed 21.5K, open 2.5K]
+Found solution in 66 pushes.
+FrozenBoxes 4.4K
+
+Level #337 [cells 40, boxes 4, alive 22, complexity 15.4]
+######### 
+#   ##  # 
+#@#$    # 
+#  $$## # 
+##    # ##
+ ##$##.  #
+  #  #. .#
+  ##  .###
+   #    # 
+   ##   # 
+    ##### 
+
+[set 3.3K, closed 3.2K, open 103]
+Found solution in 54 pushes.
+FrozenBoxes 1.6K
+
+Level #338 [cells 41, boxes 6, alive 27, complexity 19.2]
+#####      
+#   #######
+#   ...   #
+## $ $ $  #
+######@####
+#  $ $ $ # 
+#   ...  # 
+#######  # 
+      #  # 
+      #### 
+
+[set 65.9K, closed 51.1K, open 14.8K]
+Found solution in 56 pushes.
+FrozenBoxes 20.0K
+
+Level #339 [cells 37, boxes 8, alive 25, complexity 20.1]
+   ####    
+   #  #    
+   #  ##   
+  ##$. ####
+### $.$$  #
+#  ..@..  #
+#  $$.$ ###
+#### .$##  
+   ##  #   
+    #  #   
+    ####   
+
+[set 493K, closed 463K, open 29.9K]
+Found solution in 36 pushes.
+FrozenBoxes 531K
+
+Level #340 [cells 38, boxes 12, alive 28, complexity 23.3]
+  ####  
+###  ###
+#      #
+# $ $ $#
+#*.*.*.#
+# $ $ $#
+#*.*.*.#
+# @    #
+########
+
+[set 2.6K, closed 910, open 1.7K]
+Found solution in 14 pushes.
+FrozenBoxes 3.1K
+
+Level #341 [cells 51, boxes 4, alive 22, complexity 15.6]
+  ####     
+  #  ####  
+  # $ $ #  
+### #.#.###
+#     #   #
+# # #.#.# #
+# # $ $ # #
+#  #  # # #
+##  #   # #
+ ##  ###  #
+  ##  @  ##
+   ####### 
+
+[set 2.1K, closed 1.4K, open 680]
+Found solution in 28 pushes.
+FrozenBoxes 928
+
+Level #342 [cells 76, boxes 12, alive 36, complexity 28.3]
+####     #####
+#  ##   ##   #
+# $ ## ##  $ #
+#  $ ###  $ ##
+##  $ #  $ ## 
+ ##  .... ##  
+  ## .##.##   
+   ##.##. ##  
+  ## ....  ## 
+ ## $  # $  ##
+## $  ### $  #
+# $  ## ## $ #
+#@  ##   ##  #
+#####     ####
+
+[set 765K, closed 524K, open 241K]
+[set 1.52M, closed 1.05M, open 462K]
+[set 1.93M, closed 1.37M, open 563K]
+Found solution in 60 pushes.
+FrozenBoxes 501K
+
+Level #343 [cells 85, boxes 12, alive 63, complexity 36.8]
+     #####     
+   ###   ###   
+#### $ # $ ####
+#  #  $ $  #  #
+#      #      #
+#* ######### *#
+#  ....@....  #
+#* ######### *#
+#      #      #
+#  #  $ $  #  #
+#### $ # $ ####
+   ###   ###   
+     #####     
+
+[set 1.38M, closed 524K, open 848K]
+[set 2.77M, closed 1.05M, open 1.72M]
+[set 3.93M, closed 1.58M, open 2.36M]
+[set 4.98M, closed 2.10M, open 2.88M]
+[set 6.13M, closed 2.63M, open 3.51M]
+[set 7.40M, closed 3.15M, open 4.25M]
+[set 8.69M, closed 3.68M, open 5.02M]
+[set 10.1M, closed 4.20M, open 5.84M]
+[set 11.6M, closed 4.72M, open 6.79M]
+[set 12.9M, closed 5.25M, open 7.66M]
+[set 14.4M, closed 5.77M, open 8.59M]
+[set 16.0M, closed 6.30M, open 9.64M]
+[set 17.5M, closed 6.82M, open 10.7M]
+[set 19.1M, closed 7.35M, open 11.7M]
+[set 20.1M, closed 7.66M, open 12.4M]
+Timed out after key: pushes 21, total 92
+FrozenBoxes 16.6M
+
+Level #344 [cells 25, boxes 4, alive 13, complexity 11.8]
+######## 
+# @ #  # 
+#  *#$.##
+## * $. #
+ #      #
+ ###   ##
+   ##### 
+
+[set 215, closed 149, open 64]
+Found solution in 20 pushes.
+FrozenBoxes 159
+
+Level #345 [cells 22, boxes 4, alive 12, complexity 11.2]
+   #### 
+  ##  # 
+###   ##
+#  .*$ #
+#  *.$@#
+##   ###
+ #  ##  
+ ####   
+
+[set 103, closed 61, open 40]
+Found solution in 13 pushes.
+FrozenBoxes 35
+
+Level #346 [cells 22, boxes 4, alive 12, complexity 11.2]
+   #### 
+  ##  # 
+###   ##
+#  .*$ #
+#  *.$@#
+##   ###
+ ##  #  
+  ####  
+
+[set 220, closed 206, open 12]
+Found solution in 19 pushes.
+FrozenBoxes 174
+
+Level #347 [cells 29, boxes 4, alive 17, complexity 13.6]
+    #####
+ ####   #
+ #   $  #
+##  #$###
+# * .  # 
+#  * #@# 
+### .  # 
+  #  ### 
+  ####   
+
+[set 1.8K, closed 1.5K, open 328]
+Found solution in 25 pushes.
+FrozenBoxes 845
+
+Level #348 [cells 33, boxes 5, alive 20, complexity 15.7]
+    #####
+ ####   #
+ #   $  #
+##  #$###
+# * .  # 
+#  * #@# 
+##  *  # 
+ # . ### 
+ ##  #   
+  ####   
+
+[set 2.1K, closed 825, open 1.3K]
+Found solution in 17 pushes.
+FrozenBoxes 435
+
+Level #349 [cells 35, boxes 6, alive 21, complexity 17.0]
+    #####
+ ####   #
+ #   $  #
+##  #$###
+# * .  # 
+#  * #@# 
+##  *  # 
+ # * .## 
+ ##   #  
+  #####  
+
+[set 6.0K, closed 2.6K, open 3.4K]
+Found solution in 19 pushes.
+FrozenBoxes 1.4K
+
+Level #350 [cells 56, boxes 5, alive 37, complexity 20.4]
+####            
+#  ######       
+#       ####    
+# $ $   #  #####
+##### ###    $ #
+   #     $ #   #
+   #  @  #$#####
+   ##### #  .#  
+      #  ###.#  
+      #   ...#  
+      #####  #  
+          ####  
+
+[set 125K, closed 99.1K, open 25.6K]
+Found solution in 134 pushes.
+FrozenBoxes 24.6K
+
+Level #351 [cells 61, boxes 12, alive 33, complexity 26.6]
+##### #####
+#   ###   #
+# #. #  # #
+#  $.$ $. #
+##  $.$. ##
+ ##$.@.$## 
+## .$.$  ##
+# .$ $.$  #
+# #  # .# #
+#   ###   #
+##### #####
+
+[set 1.78M, closed 524K, open 1.26M]
+[set 3.21M, closed 1.05M, open 2.16M]
+[set 3.22M, closed 1.06M, open 2.16M]
+Found solution in 26 pushes.
+FrozenBoxes 912K
+
+Level #352 [cells 45, boxes 12, alive 33, complexity 26.2]
+   #####   
+   #   #   
+   # .$#   
+####$. ####
+# $ $.$$  #
+# ...@... #
+#  $$.$ $ #
+#### .$####
+   #$. #   
+   #   #   
+   #####   
+
+[set 2.42M, closed 524K, open 1.90M]
+[set 4.35M, closed 1.05M, open 3.31M]
+[set 5.83M, closed 1.58M, open 4.26M]
+[set 7.51M, closed 2.10M, open 5.41M]
+[set 9.45M, closed 2.63M, open 6.83M]
+[set 11.0M, closed 3.15M, open 7.81M]
+[set 12.3M, closed 3.68M, open 8.61M]
+[set 13.5M, closed 4.20M, open 9.25M]
+[set 14.6M, closed 4.72M, open 9.85M]
+[set 15.7M, closed 5.25M, open 10.4M]
+[set 16.7M, closed 5.77M, open 10.9M]
+[set 18.0M, closed 6.30M, open 11.7M]
+[set 19.5M, closed 6.82M, open 12.7M]
+[set 20.1M, closed 7.02M, open 13.0M]
+Timed out after key: pushes 30, total 44
+FrozenBoxes 11.2M
+
+Level #353 [cells 89, boxes 20, alive 61, complexity 44.3]
+  #########  
+  #       #  
+### # # # ###
+#  $.$.$.$  #
+# #.$.$.$.# #
+#  $.# #.$  #
+# #.$ @ $.# #
+#  $.# #.$  #
+# #.$.$.$.# #
+#  $.$.$.$  #
+### # # # ###
+  #       #  
+  #########  
+
+[set 17.8K, closed 1.5K, open 16.4K]
+Found solution in 22 pushes.
+FrozenBoxes 195
+
+Level #354 [cells 149, boxes 40, alive 101, complexity 74.1]
+###############
+#             #
+# # # # # # # #
+#  $.$.$.$.$  #
+# #.$.$.$.$.# #
+#  $.$.$.$.$  #
+# #.$.$.$.$.# #
+#  $.$.@.$.$  #
+# #.$.$.$.$.# #
+#  $.$.$.$.$  #
+# #.$.$.$.$.# #
+#  $.$.$.$.$  #
+# # # # # # # #
+#             #
+###############
+
+[set 10.3M, closed 524K, open 9.72M]
+[set 20.1M, closed 1.04M, open 19.0M]
+Timed out after key: pushes 26, total 42
+FrozenBoxes 5.84M
+
+Level #355 [cells 95, boxes 13, alive 58, complexity 37.0]
+#################
+#               #
+#.$.$.######### #
+#$.$.$          #
+#.$.$.######### #
+#$.$.$          #
+#.$.$.######### #
+#       $       #
+# ############# #
+#       @       #
+#################
+
+[set 23.2K, closed 2.5K, open 20.8K]
+Found solution in 20 pushes.
+FrozenBoxes 9.2K
+
+Level #356 [cells 29, boxes 3, alive 11, complexity 10.4]
+  ##### 
+  #   ##
+  # #  #
+###$.# #
+#  $.#@#
+# #$.# #
+# #    #
+#  # ###
+##   #  
+ #####  
+
+[set 80, closed 71, open 6]
+Found solution in 15 pushes.
+FrozenBoxes 21
+
+Level #357 [cells 21, boxes 3, alive 8, complexity 8.5]
+########
+#      #
+# #$.@ #
+#  $.###
+# #$.#  
+#   ##  
+#####   
+
+[set 41, closed 28, open 11]
+Found solution in 9 pushes.
+FrozenBoxes 4
+
+Level #358 [cells 18, boxes 3, alive 9, complexity 8.9]
+#####   
+#   ####
+#  $.  #
+## $.  #
+ ##$.###
+  #@ #  
+  ####  
+
+[set 38, closed 32, open 3]
+Found solution in 11 pushes.
+FrozenBoxes 12
+
+Level #359 [cells 19, boxes 3, alive 9, complexity 9.0]
+  #### 
+  #  # 
+  #  # 
+###$.# 
+#  $.##
+# #$. #
+#   @ #
+#######
+
+[set 57, closed 54, open 0]
+Found solution in 17 pushes.
+FrozenBoxes 22
+
+Level #360 [cells 30, boxes 3, alive 16, complexity 12.2]
+##### ####
+#   ###  #
+#    ##@ #
+##    #$.#
+ ##    $.#
+  ##  #$.#
+   ## #  #
+    ######
+
+[set 424, closed 391, open 31]
+Found solution in 37 pushes.
+FrozenBoxes 140
+
+Level #361 [cells 21, boxes 3, alive 11, complexity 10.1]
+#####   
+#   ####
+# #$.  #
+#  .$#@#
+###$.  #
+  #  ###
+  #  #  
+  ####  
+
+[set 74, closed 53, open 17]
+Found solution in 13 pushes.
+FrozenBoxes 29
+
+Level #362 [cells 27, boxes 3, alive 12, complexity 10.8]
+  ######
+###    #
+#   ## #
+# #$.  #
+#@#.$###
+# #$.## 
+#     # 
+###   # 
+  ##### 
+
+[set 63, closed 41, open 18]
+Found solution in 11 pushes.
+FrozenBoxes 39
+
+Level #363 [cells 21, boxes 3, alive 8, complexity 8.5]
+  ######
+###    #
+#  $.# #
+#@#.$  #
+# #$.###
+#    #  
+######  
+
+[set 37, closed 32, open 3]
+Found solution in 9 pushes.
+FrozenBoxes 17
+
+Level #364 [cells 23, boxes 3, alive 10, complexity 9.7]
+   #####
+####   #
+#  $.# #
+#@#.$  #
+# #$.###
+# #  #  
+#    #  
+######  
+
+[set 36, closed 26, open 8]
+Found solution in 7 pushes.
+FrozenBoxes 9
+
+Level #365 [cells 20, boxes 3, alive 9, complexity 9.1]
+  ####
+ ##  #
+ # . #
+ # * #
+## *##
+#  $ #
+#  @ #
+#  ###
+####  
+
+[set 54, closed 39, open 12]
+Found solution in 21 pushes.
+FrozenBoxes 21
+
+Level #366 [cells 25, boxes 3, alive 14, complexity 11.4]
+####    
+#  #### 
+#     # 
+#  .# # 
+###*# ##
+ #@*   #
+ # $   #
+ ###  ##
+   #### 
+
+[set 119, closed 77, open 39]
+Found solution in 13 pushes.
+FrozenBoxes 25
+
+Level #367 [cells 19, boxes 4, alive 9, complexity 9.2]
+ #####
+ # . #
+ # * #
+## * #
+#  * #
+# @$ #
+#  ###
+####  
+
+[set 82, closed 72, open 8]
+Found solution in 14 pushes.
+FrozenBoxes 86
+
+Level #368 [cells 26, boxes 4, alive 12, complexity 11.4]
+######
+# .  #
+# *# #
+#@*  #
+# * ##
+##$  #
+#    #
+# # ##
+#   # 
+##### 
+
+[set 300, closed 261, open 36]
+Found solution in 24 pushes.
+FrozenBoxes 151
+
+Level #369 [cells 25, boxes 3, alive 10, complexity 9.8]
+#####   
+#   ##  
+#  . #  
+#  $ ###
+## * @ #
+ ##$ # #
+  #.#  #
+  #   ##
+  ##### 
+
+[set 99, closed 73, open 23]
+Found solution in 16 pushes.
+FrozenBoxes 22
+
+Level #370 [cells 25, boxes 3, alive 11, complexity 10.3]
+#####   
+#   ##  
+# #. ###
+#  $ @ #
+###*   #
+#  $ ###
+# #.##  
+#   #   
+#####   
+
+[set 132, closed 110, open 19]
+Found solution in 16 pushes.
+FrozenBoxes 47
+
+Level #371 [cells 21, boxes 3, alive 10, complexity 9.6]
+##### 
+#   # 
+# . # 
+# $ # 
+##* ##
+# $  #
+# . @#
+###  #
+  ####
+
+[set 86, closed 44, open 36]
+Found solution in 18 pushes.
+FrozenBoxes 27
+
+Level #372 [cells 24, boxes 3, alive 12, complexity 10.6]
+   ####
+ ###  #
+ # . @#
+ # $  #
+###* ##
+#  $ # 
+# #. # 
+#   ## 
+##  #  
+ ####  
+
+[set 152, closed 148, open 2]
+Found solution in 18 pushes.
+FrozenBoxes 71
+
+Level #373 [cells 25, boxes 3, alive 12, complexity 10.7]
+ ####   
+ #  #   
+ #  #   
+ #  ####
+###$$  #
+#  $.  #
+# #..###
+# @# #  
+##   #  
+ #####  
+
+[set 146, closed 143, open 0]
+Found solution in 21 pushes.
+FrozenBoxes 43
+
+Level #374 [cells 20, boxes 3, alive 9, complexity 9.1]
+#####   
+#  @####
+# #$$  #
+#  $.# #
+###..  #
+  ##   #
+   #####
+
+[set 39, closed 23, open 13]
+Found solution in 11 pushes.
+FrozenBoxes 7
+
+Level #375 [cells 20, boxes 3, alive 10, complexity 9.6]
+   #### 
+#### @# 
+#  $$ ##
+# #$.  #
+#  ..# #
+####   #
+   #####
+
+[set 44, closed 24, open 17]
+Found solution in 9 pushes.
+FrozenBoxes 11
+
+Level #376 [cells 22, boxes 3, alive 10, complexity 9.7]
+ ##### 
+ #   # 
+ # # # 
+ # @ # 
+##$$###
+# $.  #
+# ..# #
+###   #
+  #####
+
+[set 67, closed 55, open 10]
+Found solution in 21 pushes.
+FrozenBoxes 31
+
+Level #377 [cells 19, boxes 3, alive 9, complexity 9.0]
+   ####
+  ##  #
+###   #
+#  $  #
+# .*.##
+## $ # 
+ ##@ # 
+  #### 
+
+[set 47, closed 36, open 8]
+Found solution in 16 pushes.
+FrozenBoxes 26
+
+Level #378 [cells 18, boxes 3, alive 9, complexity 8.9]
+  ####
+  #  #
+###$ #
+# .*.#
+# #$ #
+#  @ #
+#   ##
+##### 
+
+[set 58, closed 52, open 4]
+Found solution in 14 pushes.
+FrozenBoxes 21
+
+Level #379 [cells 29, boxes 3, alive 11, complexity 10.4]
+   ##### 
+   #   ##
+ ### #  #
+##  $ # #
+#  .*.  #
+# # $  ##
+#  #@### 
+##   #   
+ #####   
+
+[set 68, closed 35, open 29]
+Found solution in 8 pushes.
+FrozenBoxes 15
+
+Level #380 [cells 21, boxes 3, alive 9, complexity 9.1]
+    #####
+  ###   #
+### $ # #
+# @.*.  #
+# # $ ###
+#   ###  
+#####    
+
+[set 37, closed 26, open 7]
+Found solution in 10 pushes.
+FrozenBoxes 15
+
+Level #381 [cells 22, boxes 3, alive 10, complexity 9.7]
+#####   
+#   ##  
+#  $ ## 
+##$*. ##
+ # .@  #
+ #  #  #
+ ####  #
+    ####
+
+[set 50, closed 38, open 10]
+Found solution in 20 pushes.
+FrozenBoxes 21
+
+Level #382 [cells 23, boxes 3, alive 11, complexity 10.2]
+#####   
+#   ####
+# #@$  #
+#  $*. #
+####. ##
+ #    # 
+ #   ## 
+ #####  
+
+[set 99, closed 88, open 7]
+Found solution in 16 pushes.
+FrozenBoxes 43
+
+Level #383 [cells 33, boxes 3, alive 11, complexity 10.6]
+  ########
+  #      #
+### #### #
+#  @$  # #
+#  $*. # #
+#  #.### #
+#  #     #
+##########
+
+[set 107, closed 89, open 16]
+Found solution in 16 pushes.
+FrozenBoxes 40
+
+Level #384 [cells 37, boxes 3, alive 22, complexity 13.8]
+  ####    
+  #  #####
+  #      #
+### ###  #
+# @$  #  #
+# $*. # ##
+###.### # 
+ #      # 
+ #   #  # 
+ ######## 
+
+[set 258, closed 195, open 61]
+Found solution in 24 pushes.
+FrozenBoxes 91
+
+Level #385 [cells 20, boxes 3, alive 10, complexity 9.6]
+  #####
+  #   #
+###   #
+#  * ##
+# .@$# 
+#  * # 
+##  ## 
+ ####  
+
+[set 97, closed 73, open 21]
+Found solution in 14 pushes.
+FrozenBoxes 33
+
+Level #386 [cells 19, boxes 3, alive 8, complexity 8.4]
+ ####  
+ #  ## 
+## * ##
+# .@$ #
+#  *  #
+#  #  #
+#######
+
+[set 35, closed 26, open 5]
+Found solution in 10 pushes.
+FrozenBoxes 29
+
+Level #387 [cells 19, boxes 3, alive 8, complexity 8.4]
+  #####
+ ##   #
+## *  #
+# .@$##
+#  *  #
+###   #
+  #####
+
+[set 24, closed 15, open 4]
+Found solution in 8 pushes.
+FrozenBoxes 17
+
+Level #388 [cells 27, boxes 3, alive 11, complexity 10.4]
+ #####  
+ #   ## 
+## #  ##
+# * #  #
+#.@$ # #
+# *  # #
+###    #
+  #  ###
+  ####  
+
+[set 22, closed 11, open 9]
+Found solution in 6 pushes.
+FrozenBoxes 0
+
+Level #389 [cells 20, boxes 3, alive 10, complexity 9.6]
+  ####  
+  #  #  
+ ##  ###
+## $*  #
+#  *. @#
+#   ####
+#  ##   
+####    
+
+[set 81, closed 71, open 7]
+Found solution in 12 pushes.
+FrozenBoxes 34
+
+Level #390 [cells 22, boxes 3, alive 11, complexity 10.1]
+#####    
+#   #####
+#   #   #
+## $*@  #
+ # *.  ##
+ #  #### 
+ ####    
+
+[set 73, closed 46, open 25]
+Found solution in 12 pushes.
+FrozenBoxes 18
+
+Level #391 [cells 21, boxes 3, alive 12, complexity 10.5]
+  ####  
+  #@ #  
+  #  ## 
+###$* ##
+#  *.  #
+#      #
+#####  #
+    ####
+
+[set 89, closed 64, open 21]
+Found solution in 14 pushes.
+FrozenBoxes 49
+
+Level #392 [cells 25, boxes 3, alive 12, complexity 10.7]
+     ####
+######  #
+#  ##   #
+#   $*  #
+#  #*. ##
+##  @ ## 
+ #  ###  
+ ####    
+
+[set 96, closed 65, open 27]
+Found solution in 20 pushes.
+FrozenBoxes 29
+
+Level #393 [cells 17, boxes 3, alive 9, complexity 8.9]
+####    
+#@ ###  
+# $$ ###
+# $ .  #
+## ..  #
+ #######
+
+[set 38, closed 33, open 3]
+Found solution in 12 pushes.
+FrozenBoxes 21
+
+Level #394 [cells 22, boxes 3, alive 10, complexity 9.7]
+####   
+#  #   
+#@ ### 
+# $$ ##
+# $ . #
+###.. #
+ #   ##
+ #   # 
+ ##### 
+
+[set 128, closed 117, open 9]
+Found solution in 24 pushes.
+FrozenBoxes 46
+
+Level #395 [cells 18, boxes 3, alive 11, complexity 9.9]
+###### 
+#    # 
+#    # 
+## $$##
+ # $@.#
+ ## ..#
+  #####
+
+[set 74, closed 55, open 17]
+Found solution in 20 pushes.
+FrozenBoxes 12
+
+Level #396 [cells 17, boxes 3, alive 8, complexity 8.3]
+  #####
+###   #
+# $$# #
+# $@. #
+#  .. #
+#######
+
+[set 26, closed 20, open 4]
+Found solution in 8 pushes.
+FrozenBoxes 13
+
+Level #398 [cells 16, boxes 2, alive 7, complexity 7.3]
+   #####
+####@  #
+#  $*. #
+#     ##
+#  #### 
+####    
+
+[set 21, closed 17, open 2]
+Found solution in 12 pushes.
+FrozenBoxes 9
+
+Level #399 [cells 24, boxes 4, alive 13, complexity 11.8]
+      #####
+   ####   #
+####  $*. #
+#  $*.   ##
+# @   #### 
+#  ####    
+####       
+
+[set 319, closed 240, open 74]
+Found solution in 26 pushes.
+FrozenBoxes 158
+
+Level #400 [cells 28, boxes 6, alive 12, complexity 11.7]
+########
+#  #   #
+# $$*. #
+# .  . #
+# .*$$@#
+#   #  #
+########
+
+[set 21, closed 21, open 0]
+No solution.
+FrozenBoxes 34
+
+Level #401 [cells 27, boxes 7, alive 14, complexity 13.1]
+#########
+#   @   #
+#.$$.$$.#
+#$..$..$#
+#   #   #
+#########
+
+[set 279, closed 135, open 142]
+Found solution in 11 pushes.
+FrozenBoxes 259
+
+Level #402 [cells 30, boxes 3, alive 14, complexity 11.6]
+       ####   
+###### #  #   
+#    ###$ ##  
+## @ ... $ ## 
+ ## $###    ##
+  #  # #     #
+  #### #######
+
+[set 212, closed 187, open 23]
+Found solution in 35 pushes.
+FrozenBoxes 59
+
+Level #403 [cells 38, boxes 4, alive 22, complexity 15.3]
+#######  ####   
+#     #  #  #   
+## $  ####$ ##  
+ ## $ .... $ ## 
+  ##  ####  @ ##
+   #  #  #     #
+   ####  #  ####
+         ####   
+
+[set 6.4K, closed 6.1K, open 220]
+Found solution in 56 pushes.
+FrozenBoxes 2.3K
+
+Level #404 [cells 32, boxes 4, alive 20, complexity 14.6]
+ ####    
+ #  #### 
+ #   $ # 
+##$#.#.# 
+#  #@# ##
+# $#.#. #
+#    $  #
+#### #  #
+   #   ##
+   ##### 
+
+[set 817, closed 492, open 322]
+Found solution in 28 pushes.
+FrozenBoxes 326
+
+Level #405 [cells 36, boxes 12, alive 32, complexity 25.4]
+########
+# .  . #
+#.$$$$.#
+# $..$ #
+# $.+$ #
+#.$$$$.#
+# .  . #
+########
+
+[set 9.1K, closed 2.4K, open 6.8K]
+Found solution in 20 pushes.
+FrozenBoxes 9.1K
+
+Level #406 [cells 41, boxes 10, alive 29, complexity 23.2]
+    ####   
+    #  #   
+  ###$.##  
+###     #  
+# .  *  ###
+# $ *@* $ #
+### *** . #
+  #     ###
+  ##.$###  
+   #  #    
+   ####    
+
+[set 353K, closed 112K, open 241K]
+Found solution in 24 pushes.
+FrozenBoxes 114K
+
+Level #407 [cells 42, boxes 6, alive 24, complexity 18.3]
+   ####       
+   #  #       
+   #  #       
+   #  ########
+#####$@$ $ $ #
+#    **....  #
+#   ## #######
+#####   ##    
+    #    #    
+    ##   #    
+     ##  #    
+      ####    
+
+[set 47.2K, closed 42.3K, open 4.9K]
+Found solution in 104 pushes.
+FrozenBoxes 22.4K
+
+Level #408 [cells 28, boxes 6, alive 12, complexity 11.7]
+#######
+#  # @#
+# $.$ #
+# .$. #
+# .$. #
+# $.$ #
+#  #  #
+#######
+
+[set 113, closed 39, open 68]
+Found solution in 6 pushes.
+FrozenBoxes 29
+
+Level #409 [cells 30, boxes 6, alive 15, complexity 13.9]
+#######
+#  @  #
+# $ $ #
+##.*.##
+##   ##
+# $.$ #
+# .$. #
+#  #  #
+#######
+
+[set 2.8K, closed 2.2K, open 536]
+Found solution in 17 pushes.
+FrozenBoxes 1.9K
+
+Level #410 [cells 24, boxes 4, alive 12, complexity 11.3]
+ ######
+ # @  #
+ # *$ #
+ # .###
+## $$ #
+#  .. #
+#   ###
+#  ##  
+####   
+
+[set 147, closed 106, open 36]
+Found solution in 22 pushes.
+FrozenBoxes 62
+
+Level #411 [cells 27, boxes 3, alive 12, complexity 10.8]
+  ######
+  # @  #
+###$.  #
+# . $###
+# #$. # 
+# # # # 
+#     # 
+##   ## 
+ #####  
+
+[set 189, closed 151, open 36]
+Found solution in 20 pushes.
+FrozenBoxes 79
+
+Level #412 [cells 29, boxes 4, alive 15, complexity 12.8]
+ #######   
+ #  #  ### 
+##.$#  * ##
+#   @ * * #
+#   ##    #
+######   ##
+     ##### 
+
+[set 286, closed 172, open 111]
+Found solution in 17 pushes.
+FrozenBoxes 66
+
+Level #413 [cells 21, boxes 3, alive 9, complexity 9.1]
+    #####
+ ####   #
+## .**@ #
+#  $   ##
+# ## ### 
+#    #   
+######   
+
+[set 66, closed 59, open 5]
+Found solution in 17 pushes.
+FrozenBoxes 20
+
+Level #414 [cells 23, boxes 5, alive 16, complexity 13.7]
+#####  
+#   ###
+#  @  #
+##$*#.#
+ #  $$#
+ # .. #
+ #  * #
+ ######
+
+[set 507, closed 455, open 50]
+Found solution in 25 pushes.
+FrozenBoxes 602
+
+Level #415 [cells 34, boxes 6, alive 24, complexity 18.0]
+  ####    
+  #  #####
+ ##      #
+ # .**$  #
+## #  #@##
+#  $**. # 
+#      ## 
+#####  #  
+    ####  
+
+[set 1.4K, closed 563, open 814]
+Found solution in 14 pushes.
+FrozenBoxes 441
+
+Level #416 [cells 22, boxes 3, alive 13, complexity 10.9]
+  ####  
+###  ## 
+#  $  # 
+#@#$# ##
+# .$. .#
+###    #
+  #  ###
+  ####  
+
+[set 209, closed 206, open 1]
+Found solution in 18 pushes.
+FrozenBoxes 90
+
+Level #417 [cells 22, boxes 4, alive 11, complexity 10.6]
+ #####  
+ #   #  
+##   ###
+# **.. #
+#  $ $@#
+#  ##  #
+########
+
+[set 195, closed 136, open 57]
+Found solution in 13 pushes.
+FrozenBoxes 116
+
+Level #418 [cells 25, boxes 4, alive 15, complexity 12.7]
+  ####  
+ ##  #  
+## * ## 
+#  $  # 
+#@#$# ##
+# .$. .#
+###    #
+  #  ###
+  ####  
+
+[set 566, closed 480, open 83]
+Found solution in 20 pushes.
+FrozenBoxes 291
+
+Level #419 [cells 22, boxes 4, alive 13, complexity 11.7]
+#######
+#  .  #
+#  $# #
+##**@ #
+#  $# #
+#  .  #
+#######
+
+[set 59, closed 24, open 30]
+Found solution in 6 pushes.
+FrozenBoxes 17
+
+Level #420 [cells 31, boxes 6, alive 15, complexity 13.9]
+#######
+#  #  #
+#@ $  #
+#  *. #
+##* *##
+# .*  #
+#  $  #
+#  #  #
+#######
+
+[set 3.3K, closed 2.8K, open 461]
+Found solution in 22 pushes.
+FrozenBoxes 2.0K
+
+Level #421 [cells 31, boxes 4, alive 17, complexity 13.6]
+  ########
+###   #  #
+# @..*.$ #
+# $ $ #  #
+##### # ##
+    # #  #
+    #    #
+    ###  #
+      ####
+
+[set 931, closed 854, open 74]
+Found solution in 30 pushes.
+FrozenBoxes 634
+
+Level #422 [cells 46, boxes 4, alive 26, complexity 16.4]
+        #####  
+ ########   ###
+## ....   #   #
+#  #@###    # #
+# $$$$ # #    #
+#      #   # ##
+##########   # 
+         ##### 
+
+[set 7.9K, closed 7.7K, open 223]
+Found solution in 74 pushes.
+FrozenBoxes 2.2K
+
+Level #423 [cells 29, boxes 4, alive 16, complexity 13.2]
+   #####
+   #   #
+####   #
+#  ..$##
+#  ..$ #
+##$#@# #
+# $    #
+#   ####
+#####   
+
+[set 404, closed 197, open 202]
+Found solution in 14 pushes.
+FrozenBoxes 119
+
+Level #424 [cells 28, boxes 4, alive 18, complexity 13.8]
+     #####
+  ####   #
+  #   $  #
+###  #$###
+#  * .  # 
+#   * #@# 
+#####.  # 
+    ##### 
+
+[set 884, closed 577, open 304]
+Found solution in 19 pushes.
+FrozenBoxes 308
+
+Level #425 [cells 38, boxes 7, alive 21, complexity 17.7]
+     ##### 
+ #####   # 
+ #  # $# ##
+## **  *  #
+#  *.@#   #
+#  ** #   #
+##   ######
+ #   #     
+ #####     
+
+[set 297, closed 169, open 125]
+Found solution in 16 pushes.
+FrozenBoxes 162
+
+Level #426 [cells 43, boxes 9, alive 26, complexity 21.3]
+  ####       
+ ##  ####### 
+##  * $ #  # 
+#  * *  ** ##
+#     #@.*  #
+###  ## **  #
+  ######   ##
+       #   # 
+       ##### 
+
+[set 9.8K, closed 5.1K, open 4.7K]
+Found solution in 24 pushes.
+FrozenBoxes 5.3K
+
+Level #427 [cells 59, boxes 6, alive 31, complexity 20.7]
+       ####  
+       #  ###
+       # .. #
+       # $$ #
+     #### ###
+    ##  #   #
+    #       #
+ ####  ##$.##
+ #  ##@##  # 
+##.$##  #### 
+#       #    
+#   #  ##    
+### ####     
+# $$ #       
+# .. #       
+###  #       
+  ####       
+
+[set 335K, closed 330K, open 4.7K]
+Found solution in 142 pushes.
+FrozenBoxes 94.6K
+
+Level #428 [cells 24, boxes 4, alive 13, complexity 11.8]
+ ####   
+##  ### 
+#  .  ##
+#  .#  #
+# $*$$ #
+###.  ##
+  #  @# 
+  ##### 
+
+[set 281, closed 281, open 0]
+No solution.
+FrozenBoxes 197
+
+Level #429 [cells 43, boxes 6, alive 25, complexity 18.6]
+ #######  
+ #  #  ###
+##.$# .. #
+# .$  $$ #
+#   ## ###
+######   #
+# .      #
+# $ @#$.##
+###  #  # 
+  ####### 
+
+[set 25.0K, closed 23.6K, open 1.4K]
+Found solution in 76 pushes.
+FrozenBoxes 11.8K
+
+Level #430 [cells 38, boxes 6, alive 17, complexity 15.3]
+#########
+#   #   #
+# # # # #
+#  *$*  #
+###.@.###
+#  *$*  #
+# # # # #
+#       #
+#########
+
+[set 2.3K, closed 2.1K, open 223]
+Found solution in 26 pushes.
+FrozenBoxes 1.7K
+
+Level #431 [cells 32, boxes 7, alive 18, complexity 16.0]
+ ####    
+##  #####
+#  * .  #
+#  $.$# #
+#  * *@ #
+## $.$. #
+ ##  #  #
+  #######
+
+[set 1.9K, closed 770, open 1.2K]
+Found solution in 12 pushes.
+FrozenBoxes 1.1K
+
+Level #432 [cells 41, boxes 8, alive 37, complexity 24.3]
+#########
+#   .   #
+# #$#$# #
+# $. .$ #
+#.#   #.#
+# $. .$ #
+# #$#$# #
+#   +   #
+#########
+
+[set 13.3K, closed 2.5K, open 10.8K]
+Found solution in 14 pushes.
+FrozenBoxes 1.6K
+
+Level #433 [cells 68, boxes 8, alive 28, complexity 22.0]
+############
+#         @#
+# #$###### #
+# #.#   .$ #
+# # .$ .## #
+# #  ##$ # #
+# # $##  # #
+# ##. $. # #
+# $.   #.# #
+# ######$# #
+#          #
+############
+
+[set 3.4K, closed 1.4K, open 2.0K]
+Found solution in 16 pushes.
+FrozenBoxes 921
+
+Level #434 [cells 37, boxes 12, alive 29, complexity 23.8]
+  #####  
+ ## . ## 
+##.$ $.##
+# $ * $ #
+#. *@* .#
+# $ * $ #
+##.$ $.##
+ ## . ## 
+  #####  
+
+[set 56.5K, closed 24.7K, open 31.8K]
+Found solution in 24 pushes.
+FrozenBoxes 47.7K
+
+Level #435 [cells 45, boxes 12, alive 25, complexity 21.5]
+ ####### 
+##     ##
+# $.$.$ #
+# .$.$. #
+# $.@.$ #
+# .$.$. #
+# $.$.$ #
+##     ##
+ ####### 
+
+[set 1.1K, closed 87, open 953]
+Found solution in 12 pushes.
+FrozenBoxes 85
+
+Level #436 [cells 59, boxes 3, alive 37, complexity 16.5]
+   ####             
+ ###  #  ####       
+##    ####  #  #####
+#  #        # ##   #
+#  $$$ #### # #  # #
+###  ###  # # #  @ #
+  #  #   ## # #   ##
+  ####   #  #####.# 
+         #        # 
+         ####### .# 
+               # .# 
+               #### 
+
+[set 5.8K, closed 5.5K, open 323]
+Found solution in 103 pushes.
+FrozenBoxes 664
+
+Level #437 [cells 60, boxes 4, alive 37, complexity 18.6]
+   ####               
+  ## .######          
+ ##        #          
+ # ...###  #    ####  
+##   ## # ##  ###  ###
+#    #  # #  ## $$   #
+#   ##  # ####  @$   #
+#####   #       $##  #
+        #  #####    ##
+        ####   ###### 
+
+[set 62.1K, closed 62.1K, open 0]
+No solution.
+FrozenBoxes 13.3K
+
+Level #438 [cells 54, boxes 3, alive 36, complexity 16.3]
+ ####             
+ #  #####   ####  
+ #      #   #  #  
+ # ###$ #####  ## 
+ # # #. . .   @ ##
+ # # ##$#####    #
+## #### ##  ##   #
+#  #  $  #   #####
+#        #        
+#####  ###        
+    ####          
+
+[set 4.6K, closed 4.5K, open 32]
+Found solution in 76 pushes.
+FrozenBoxes 709
+
+Level #439 [cells 99, boxes 7, alive 66, complexity 29.1]
+    #####                  
+    #   ####    #####      
+    #      #    #   ###### 
+    ## $$  #    #        # 
+   ####  $##    ## ...  .# 
+   #   $$ ##     ##  #. .# 
+#### ## #  #      #  #.  # 
+#   $## ## ############ ###
+# #    $                  #
+#   ### ### ###########   #
+##### #  @  #         #####
+      #######              
+
+[set 1.23M, closed 524K, open 701K]
+[set 2.45M, closed 1.05M, open 1.40M]
+[set 3.86M, closed 1.58M, open 2.29M]
+[set 5.04M, closed 2.10M, open 2.95M]
+[set 6.23M, closed 2.63M, open 3.60M]
+[set 7.59M, closed 3.15M, open 4.44M]
+[set 8.93M, closed 3.68M, open 5.26M]
+[set 10.4M, closed 4.20M, open 6.13M]
+[set 11.8M, closed 4.72M, open 7.06M]
+[set 13.3M, closed 5.25M, open 7.98M]
+[set 14.7M, closed 5.77M, open 8.92M]
+[set 16.3M, closed 6.30M, open 9.95M]
+[set 17.9M, closed 6.82M, open 11.1M]
+[set 19.5M, closed 7.35M, open 12.1M]
+[set 20.1M, closed 7.54M, open 12.5M]
+Timed out after key: pushes 50, total 207
+FrozenBoxes 2.92M
+
+Level #440 [cells 31, boxes 3, alive 16, complexity 12.2]
+        ####
+#########  #
+#      . . #
+# $$$   #  #
+### #### . #
+  #@     ###
+  ########  
+
+[set 290, closed 177, open 111]
+Found solution in 33 pushes.
+FrozenBoxes 71
+
+Level #441 [cells 39, boxes 4, alive 23, complexity 15.6]
+   ####  ####
+####  ####  #
+#   $   ... #
+#  $ $   #  #
+#### #### . #
+  # $  @  ###
+  #   #####  
+  #####      
+
+[set 3.1K, closed 2.2K, open 822]
+Found solution in 42 pushes.
+FrozenBoxes 919
+
+Level #442 [cells 39, boxes 5, alive 20, complexity 15.9]
+########   
+#   #  ####
+# # @     #
+# # $ $$# #
+#  #*##   #
+##  *.  ###
+ ##.. ###  
+  #  ##    
+  #  #     
+  ####     
+
+[set 745, closed 356, open 387]
+Found solution in 27 pushes.
+FrozenBoxes 190
+
+Level #443 [cells 73, boxes 8, alive 43, complexity 26.5]
+ ############  
+ #   #      #  
+ # #  $$#$# ## 
+ # #         # 
+ # ### ##### # 
+ # @# .... # # 
+##  # .... # ##
+#  ######$##  #
+#  $  $    $$ #
+####   #   #  #
+   ############
+
+[set 822K, closed 524K, open 297K]
+[set 1.55M, closed 1.05M, open 500K]
+[set 2.12M, closed 1.47M, open 647K]
+Found solution in 62 pushes.
+FrozenBoxes 758K
+
+Level #444 [cells 36, boxes 5, alive 22, complexity 16.4]
+#######  
+#     #  
+#.### ###
+#.# $ $ #
+#.#  $  #
+#.# $ $ #
+#.###@ ##
+#      # 
+#  ##### 
+####     
+
+[set 15.1K, closed 13.4K, open 1.8K]
+Found solution in 66 pushes.
+FrozenBoxes 6.1K
+
+Level #445 [cells 35, boxes 5, alive 21, complexity 16.1]
+#######  
+#     #  
+#.### ###
+#.# $ $ #
+#.#  $  #
+#.# $ $ #
+#.## @###
+#     #  
+#  ####  
+####     
+
+[set 5.7K, closed 4.8K, open 878]
+Found solution in 68 pushes.
+FrozenBoxes 2.4K
+
+Level #446 [cells 34, boxes 5, alive 22, complexity 16.4]
+#######  
+#     #  
+#.### ###
+#.# $ $ #
+#.#  $  #
+#.# $ $ #
+#.#@ ####
+#    #   
+#  ###   
+####     
+
+[set 6.4K, closed 3.6K, open 2.8K]
+Found solution in 60 pushes.
+FrozenBoxes 2.8K
+
+Level #447 [cells 86, boxes 4, alive 52, complexity 20.8]
+ ####  ####   
+ #  ####  ####
+ #    #  $   #
+## #  #  ### #
+#  # ###   #.#
+#  #     $ #.#
+#  #  ###  # #
+## #  # ## #@#
+#  ####  # # #
+#        # #.#
+######## ###.#
+     # #$$ # #
+     #       #
+     #   #   #
+     #########
+
+[set 67.6K, closed 44.2K, open 23.4K]
+Found solution in 108 pushes.
+FrozenBoxes 6.2K
+
+Level #448 [cells 25, boxes 6, alive 12, complexity 11.6]
+  #####
+ ##   #
+##.$. #
+# $.$##
+# .$. #
+# $.$ #
+##   @#
+ ######
+
+[set 263, closed 163, open 94]
+Found solution in 12 pushes.
+FrozenBoxes 161
+
+Level #449 [cells 28, boxes 6, alive 14, complexity 13.2]
+ ######
+ #    #
+##.$. #
+# $.$ #
+# .$.##
+# $.$ #
+##   @#
+ ##  ##
+  #### 
+
+[set 771, closed 384, open 379]
+Found solution in 10 pushes.
+FrozenBoxes 242
+
+Level #450 [cells 27, boxes 6, alive 14, complexity 13.1]
+ ######
+ #    #
+##.$. #
+# $.$##
+# .$.##
+# $.$ #
+##   @#
+ ###  #
+   ####
+
+[set 613, closed 426, open 185]
+Found solution in 16 pushes.
+FrozenBoxes 452
+
+Level #451 [cells 26, boxes 6, alive 15, complexity 13.7]
+  #####
+ ##   #
+##.$. #
+# $.$##
+# .$.##
+# $.$ #
+##   @#
+ #  ###
+ ####  
+
+[set 605, closed 469, open 134]
+Found solution in 20 pushes.
+FrozenBoxes 487
+
+Level #452 [cells 36, boxes 6, alive 20, complexity 16.6]
+ #######   
+ #  #  ####
+##.$#  *  #
+#   @ * * #
+#   #  *  #
+######* ###
+     #   # 
+     #   # 
+     ##### 
+
+[set 16.6K, closed 15.7K, open 953]
+Found solution in 33 pushes.
+FrozenBoxes 9.7K
+
+Level #453 [cells 69, boxes 7, alive 42, complexity 24.8]
+###########
+#  ##     #
+# $   $ #.#
+#  ### ##.#
+## ###  #.#
+# $   $ #.#
+#   ##  #.#
+### #####.#
+###$#  $ .#
+#         #
+# $#  # @ #
+#     #   #
+###########
+
+[set 1.08M, closed 524K, open 550K]
+[set 2.06M, closed 1.05M, open 1.01M]
+[set 2.94M, closed 1.58M, open 1.36M]
+[set 3.81M, closed 2.10M, open 1.71M]
+[set 4.53M, closed 2.63M, open 1.91M]
+[set 5.00M, closed 2.97M, open 2.04M]
+Found solution in 116 pushes.
+FrozenBoxes 1.21M
+
+Level #454 [cells 55, boxes 14, alive 35, complexity 28.3]
+  ######        
+###    #   #### 
+#    * ##  #  # 
+# ****  ####$.##
+#  *@*      $. #
+#  **** ####   #
+## *    #  #####
+ #    ###       
+ ######         
+
+[set 1.95M, closed 524K, open 1.42M]
+[set 3.51M, closed 1.05M, open 2.46M]
+[set 5.00M, closed 1.58M, open 3.43M]
+[set 6.15M, closed 2.10M, open 4.05M]
+[set 7.65M, closed 2.63M, open 5.03M]
+[set 8.98M, closed 3.15M, open 5.84M]
+[set 10.2M, closed 3.68M, open 6.46M]
+[set 11.2M, closed 4.20M, open 6.97M]
+[set 12.1M, closed 4.72M, open 7.31M]
+[set 13.4M, closed 5.25M, open 8.16M]
+[set 14.6M, closed 5.77M, open 8.82M]
+[set 15.7M, closed 6.30M, open 9.39M]
+[set 16.8M, closed 6.82M, open 9.98M]
+[set 17.8M, closed 7.35M, open 10.5M]
+[set 18.7M, closed 7.87M, open 10.8M]
+[set 19.6M, closed 8.39M, open 11.2M]
+[set 20.1M, closed 8.75M, open 11.3M]
+Timed out after key: pushes 14, total 40
+FrozenBoxes 11.7M
+
+Level #455 [cells 49, boxes 12, alive 33, complexity 26.3]
+   #####   
+  ##   #   
+  #  . ### 
+### $*$  ##
+#  $#.#$  #
+# .*.@.*. #
+#  $#.#$  #
+##  $*$ ###
+ ### .  #  
+   #   ##  
+   #####   
+
+[set 29.8K, closed 10.0K, open 19.8K]
+Found solution in 26 pushes.
+FrozenBoxes 8.1K
+
+Level #456 [cells 53, boxes 12, alive 41, complexity 29.9]
+   ####      
+   #  #      
+   #  ###    
+   #  . #####
+  ## $*$    #
+  # $#.#$   #
+###.*.@.*.###
+#   $#.#$ #  
+#    $*$ ##  
+##### .  #   
+    ###  #   
+      #  #   
+      ####   
+
+[set 993K, closed 524K, open 469K]
+[set 1.97M, closed 1.05M, open 913K]
+[set 2.93M, closed 1.58M, open 1.36M]
+[set 3.86M, closed 2.10M, open 1.76M]
+[set 4.77M, closed 2.63M, open 2.15M]
+[set 5.74M, closed 3.15M, open 2.59M]
+[set 6.69M, closed 3.68M, open 3.02M]
+[set 7.60M, closed 4.20M, open 3.41M]
+[set 8.47M, closed 4.72M, open 3.75M]
+[set 9.30M, closed 5.25M, open 4.06M]
+[set 10.3M, closed 5.77M, open 4.51M]
+[set 11.3M, closed 6.30M, open 4.94M]
+[set 12.2M, closed 6.82M, open 5.37M]
+[set 13.2M, closed 7.35M, open 5.77M]
+[set 14.0M, closed 7.87M, open 6.08M]
+[set 14.9M, closed 8.39M, open 6.48M]
+[set 15.8M, closed 8.92M, open 6.84M]
+[set 16.6M, closed 9.44M, open 7.15M]
+[set 17.4M, closed 9.97M, open 7.41M]
+[set 18.2M, closed 10.5M, open 7.64M]
+[set 19.2M, closed 11.1M, open 8.11M]
+[set 20.1M, closed 11.5M, open 8.51M]
+Timed out after key: pushes 29, total 46
+FrozenBoxes 13.9M
+
+Level #457 [cells 68, boxes 24, alive 48, complexity 38.1]
+    #####    
+    #   #    
+   ##.$.##   
+  ## $ $ ##  
+### $.$.$ ###
+# .$.*.*.$. #
+# $ $.#.$ $ #
+# .$.*.*.$. #
+### $.$.$ ###
+  ## $ $ ##  
+   ##.$.##   
+    # @ #    
+    #####    
+
+[set 907K, closed 372K, open 536K]
+Found solution in 32 pushes.
+FrozenBoxes 669K
+
+Level #458 [cells 44, boxes 8, alive 24, complexity 19.9]
+ ####      
+ #  #######
+ # $* #   #
+ #  ..$ # #
+### # *   #
+#   * #@###
+# # $..  # 
+#   # *$ # 
+#######  # 
+      #### 
+
+[set 1.4K, closed 529, open 812]
+Found solution in 12 pushes.
+FrozenBoxes 307
+
+Level #459 [cells 54, boxes 10, alive 32, complexity 24.9]
+ ####        
+ #  ###      
+ # $* #######
+ #  . $ #   #
+### # . $ # #
+#   .*#*.   #
+# # $ . #@###
+#   # $ .  # 
+####### *$ # 
+      ###  # 
+        #### 
+
+[set 81.4K, closed 33.9K, open 47.5K]
+Found solution in 24 pushes.
+FrozenBoxes 26.9K
+
+Level #460 [cells 47, boxes 10, alive 29, complexity 23.4]
+  #######  
+###  #  ###
+#   $*$   #
+# # .$. # #
+# #$.+.$# #
+# # .$. # #
+#   *$*   #
+###  #  ###
+  #######  
+
+[set 67.2K, closed 24.6K, open 42.7K]
+Found solution in 20 pushes.
+FrozenBoxes 31.9K
+
+Level #461 [cells 47, boxes 10, alive 27, complexity 22.4]
+  #######  
+###  #  ###
+#   **$ $ #
+# # .$.   #
+# ##.+ ## #
+#   .$. # #
+# $ **$   #
+###  #  ###
+  #######  
+
+[set 1.9K, closed 756, open 1.1K]
+Found solution in 15 pushes.
+FrozenBoxes 690
+
+Level #462 [cells 37, boxes 7, alive 19, complexity 16.7]
+######## 
+#   #  # 
+#  $*$ # 
+#  .$. # 
+###.  ###
+ # .@.  #
+ # $*$  #
+ #  #   #
+ ########
+
+[set 4.5K, closed 3.2K, open 1.4K]
+Found solution in 20 pushes.
+FrozenBoxes 2.2K
+
+Level #463 [cells 39, boxes 10, alive 23, complexity 19.9]
+ ####### 
+ #     # 
+## **$ ##
+# $.$.  #
+# #.@.# #
+#  .$.$ #
+## **$ ##
+ #     # 
+ ####### 
+
+[set 1.1K, closed 318, open 708]
+Found solution in 12 pushes.
+FrozenBoxes 693
+
+Level #464 [cells 41, boxes 10, alive 26, complexity 21.7]
+    ####
+#####  #
+# $ $$ #
+# ..*  #
+##. $# #
+ #..@  #
+##. $# #
+# ..*  #
+# $ $$ #
+#####  #
+    ####
+
+[set 49.9K, closed 21.7K, open 28.3K]
+Found solution in 45 pushes.
+FrozenBoxes 61.9K
+
+Level #465 [cells 36, boxes 8, alive 24, complexity 19.6]
+     ####
+ #####  #
+ # $ $$ #
+ # ..*  #
+###.#$# #
+# $..@  #
+#  . $###
+###.  #  
+  ##$ #  
+   #  #  
+   ####  
+
+[set 38.3K, closed 25.1K, open 13.2K]
+Found solution in 39 pushes.
+FrozenBoxes 30.4K
+
+Level #466 [cells 48, boxes 12, alive 32, complexity 25.8]
+     ####  
+   ###  ###
+  ## $$ $ #
+ ## ...   #
+ # .## $ ##
+##$.$.*$## 
+# $.##.  # 
+#   ...  # 
+## $ $$@## 
+ ###  ###  
+   ####    
+
+[set 837K, closed 524K, open 312K]
+[set 1.64M, closed 1.05M, open 584K]
+[set 2.41M, closed 1.58M, open 831K]
+[set 3.11M, closed 2.10M, open 1.01M]
+[set 3.81M, closed 2.63M, open 1.19M]
+[set 4.50M, closed 3.15M, open 1.35M]
+[set 5.14M, closed 3.68M, open 1.47M]
+[set 5.77M, closed 4.20M, open 1.58M]
+[set 6.05M, closed 4.42M, open 1.63M]
+Found solution in 46 pushes.
+FrozenBoxes 5.13M
+
+Level #467 [cells 56, boxes 11, alive 40, complexity 28.7]
+   #####   
+   #   #   
+####   ### 
+#  $$$$$ # 
+#   . .  # 
+## #.#.### 
+ # #*+.  # 
+ ###.#.# ##
+ #  . .   #
+ # $$$$$  #
+ ###   ####
+   #   #   
+   #####   
+
+[set 481K, closed 218K, open 263K]
+Found solution in 43 pushes.
+FrozenBoxes 118K
+
+Level #468 [cells 40, boxes 9, alive 26, complexity 21.2]
+####    
+#  #####
+# @$ $ #
+# ...  #
+##$.$ ##
+ # .$## 
+##$. ###
+# ...  #
+# $ $$ #
+#####  #
+    #  #
+    ####
+
+[set 560K, closed 419K, open 141K]
+Found solution in 48 pushes.
+FrozenBoxes 658K
+
+Level #469 [cells 45, boxes 8, alive 26, complexity 20.8]
+   ####    
+   #  #####
+   # @$ $ #
+   # ...  #
+#### $.$$ #
+#   ##. ###
+#   .$.##  
+### #.  #  
+ #  $ $ #  
+ #  #####  
+ #  #      
+ ####      
+
+[set 348K, closed 287K, open 60.7K]
+Found solution in 57 pushes.
+FrozenBoxes 197K
+
+Level #470 [cells 43, boxes 10, alive 29, complexity 23.3]
+    ####  
+#####  #  
+# $.$ *#  
+#  . . ###
+###*. $$ #
+ # .@.   #
+##$. $.###
+# $ #$ #  
+#      #  
+########  
+
+[set 74.5K, closed 25.5K, open 49.0K]
+Found solution in 25 pushes.
+FrozenBoxes 65.1K
+
+Level #471 [cells 35, boxes 7, alive 20, complexity 17.2]
+####     
+#  #     
+#  ###   
+# $$@#   
+## . #   
+ #$.##   
+ # .#    
+##$.#### 
+#  ... ##
+# $ $$  #
+#  ##   #
+#########
+
+[set 7.6K, closed 6.5K, open 1.2K]
+Found solution in 51 pushes.
+FrozenBoxes 4.1K
+
+Level #472 [cells 86, boxes 15, alive 56, complexity 38.4]
+      #######    
+      #     ##   
+      # $ $  #   
+  #########  #   
+### $ *.$.* ##   
+#   $ . . . #    
+# $ #@.#.#.$#####
+#   # . . . #   #
+##### * $ *  $# #
+   #  ######    #
+   #  $ $ ## # ##
+   ##     ##   # 
+    ############ 
+
+[set 751K, closed 524K, open 226K]
+[set 1.48M, closed 1.05M, open 424K]
+[set 2.16M, closed 1.58M, open 587K]
+[set 2.83M, closed 2.10M, open 732K]
+[set 3.52M, closed 2.63M, open 889K]
+[set 4.12M, closed 3.15M, open 971K]
+[set 4.77M, closed 3.68M, open 1.10M]
+[set 5.61M, closed 4.20M, open 1.41M]
+[set 6.36M, closed 4.72M, open 1.65M]
+[set 7.06M, closed 5.25M, open 1.82M]
+[set 7.90M, closed 5.77M, open 2.14M]
+[set 8.69M, closed 6.30M, open 2.40M]
+[set 9.42M, closed 6.82M, open 2.61M]
+[set 10.1M, closed 7.35M, open 2.76M]
+[set 10.8M, closed 7.87M, open 2.89M]
+[set 11.5M, closed 8.39M, open 3.09M]
+[set 12.3M, closed 8.92M, open 3.31M]
+[set 13.0M, closed 9.44M, open 3.54M]
+[set 13.7M, closed 9.97M, open 3.73M]
+[set 14.4M, closed 10.5M, open 3.90M]
+[set 15.1M, closed 11.1M, open 4.02M]
+[set 15.7M, closed 11.6M, open 4.14M]
+[set 16.4M, closed 12.1M, open 4.25M]
+[set 17.0M, closed 12.6M, open 4.33M]
+[set 17.6M, closed 13.2M, open 4.41M]
+[set 18.3M, closed 13.7M, open 4.62M]
+[set 19.2M, closed 14.2M, open 5.02M]
+[set 20.0M, closed 14.7M, open 5.24M]
+[set 20.1M, closed 14.8M, open 5.26M]
+Timed out after key: pushes 42, total 167
+FrozenBoxes 21.9M
+
+Level #473 [cells 65, boxes 13, alive 41, complexity 30.9]
+###### ######
+#    ###    #
+# $$ $ $ $$ #
+### .#@#. ###
+  # ..  . #  
+  ##.#*#.##  
+  # .  .. #  
+### .# #. ###
+# $$ $ $ $$ #
+#    ###    #
+###### ######
+
+[set 1.23M, closed 524K, open 696K]
+[set 2.47M, closed 1.05M, open 1.42M]
+[set 3.61M, closed 1.58M, open 2.03M]
+[set 4.66M, closed 2.10M, open 2.56M]
+[set 5.88M, closed 2.63M, open 3.26M]
+[set 7.05M, closed 3.15M, open 3.90M]
+[set 8.20M, closed 3.68M, open 4.53M]
+[set 9.27M, closed 4.20M, open 5.08M]
+[set 10.4M, closed 4.72M, open 5.63M]
+[set 11.4M, closed 5.25M, open 6.12M]
+[set 12.3M, closed 5.77M, open 6.51M]
+[set 13.3M, closed 6.30M, open 6.95M]
+[set 14.4M, closed 6.82M, open 7.58M]
+[set 15.6M, closed 7.35M, open 8.18M]
+[set 16.7M, closed 7.87M, open 8.79M]
+[set 17.8M, closed 8.39M, open 9.40M]
+[set 19.0M, closed 8.92M, open 10.1M]
+[set 20.1M, closed 9.41M, open 10.6M]
+Timed out after key: pushes 30, total 58
+FrozenBoxes 12.0M
+
+Level #474 [cells 43, boxes 10, alive 23, complexity 20.0]
+ #####   
+ #   #   
+ # # ####
+ # $.*  #
+ # .$ * #
+###*#$.@#
+#  .$ * #
+# #$.*  #
+#    #  #
+#   #####
+#####    
+
+[set 16.5K, closed 10.5K, open 6.0K]
+Found solution in 23 pushes.
+FrozenBoxes 11.2K
+
+Level #475 [cells 45, boxes 8, alive 31, complexity 22.6]
+    ####  
+    #  #  
+    # $#  
+  ###  #  
+  # $ $###
+  # ..$  #
+  ##.@*  #
+   #.. ###
+####.$$###
+#   . $  #
+#   ##   #
+######  ##
+     #  # 
+     #### 
+
+[set 90.5K, closed 55.2K, open 35.4K]
+Found solution in 42 pushes.
+FrozenBoxes 62.0K
+
+Level #476 [cells 44, boxes 10, alive 22, complexity 19.4]
+ #####   
+ #   ####
+ # # #  #
+ # $.*  #
+ # .$ * #
+###*#$.@#
+#  .$.$ #
+# #$.$. #
+#    #  #
+######  #
+     ####
+
+[set 33.4K, closed 21.8K, open 11.7K]
+Found solution in 23 pushes.
+FrozenBoxes 21.8K
+
+Level #477 [cells 56, boxes 12, alive 36, complexity 27.9]
+###########  
+#   @ #   #  
+# $ $ # # #  
+####$...  #  
+   # .# * ###
+   #$...$#  #
+   # .#.$ $ #
+   #$.$$.   #
+   #  #  ####
+   ####$ #   
+      #  #   
+      ####   
+
+[set 523K, closed 297K, open 227K]
+Found solution in 51 pushes.
+FrozenBoxes 215K
+
+Level #478 [cells 46, boxes 10, alive 34, complexity 25.5]
+ ####     
+ #  ##### 
+ #  $ $ # 
+## #*.. # 
+#  .   ###
+# $$..$$ #
+###   .@ #
+ # ..*# ##
+ # $ $  # 
+ #####  # 
+     #### 
+
+[set 52.2K, closed 8.7K, open 43.6K]
+Found solution in 40 pushes.
+FrozenBoxes 15.4K
+
+Level #479 [cells 42, boxes 9, alive 30, complexity 23.0]
+     #### 
+  ####  # 
+  #  #  # 
+  # $$$ # 
+###.....# 
+#  #$.$## 
+#   $. ###
+# $  . @ #
+####$.$  #
+   #  ####
+   ####   
+
+[set 38.1K, closed 14.7K, open 23.4K]
+Found solution in 24 pushes.
+FrozenBoxes 13.1K
+
+Level #480 [cells 43, boxes 10, alive 30, complexity 23.7]
+    ####  
+ ####  #  
+ #  #  #  
+##$.#$.###
+# $.$ .  #
+#  .#$.$ #
+##$.@ .$##
+ # $*.  # 
+ ##   ### 
+  #   #   
+  #####   
+
+[set 873K, closed 351K, open 523K]
+Found solution in 30 pushes.
+FrozenBoxes 455K
+
+Level #481 [cells 42, boxes 9, alive 27, complexity 21.7]
+ #######  
+ #  #  ## 
+ #.$#$. ##
+ #.$ $.  #
+ # . . $ #
+##$.#.$###
+# $ . $ # 
+# @ #   # 
+##  ##### 
+ ####     
+
+[set 285K, closed 188K, open 97.0K]
+Found solution in 31 pushes.
+FrozenBoxes 212K
+
+Level #482 [cells 84, boxes 13, alive 54, complexity 35.7]
+    ############ 
+   ##     ##   # 
+   #  $ $ ## # ##
+   #  ######    #
+##### *   .  $# #
+#   # .#.#. #   #
+# $ #@.#.#.$#####
+#   $ . . . #    
+### $ $.$.$ ##   
+  #########  #   
+      # $ $  #   
+      #     ##   
+      #######    
+
+[set 820K, closed 524K, open 296K]
+[set 1.75M, closed 1.05M, open 693K]
+[set 2.73M, closed 1.58M, open 1.15M]
+[set 3.69M, closed 2.10M, open 1.59M]
+[set 4.69M, closed 2.63M, open 2.07M]
+[set 5.58M, closed 3.15M, open 2.44M]
+[set 6.52M, closed 3.68M, open 2.85M]
+[set 7.47M, closed 4.20M, open 3.27M]
+[set 8.64M, closed 4.72M, open 3.92M]
+[set 9.59M, closed 5.25M, open 4.35M]
+[set 10.6M, closed 5.77M, open 4.76M]
+[set 11.5M, closed 6.30M, open 5.20M]
+[set 12.5M, closed 6.82M, open 5.60M]
+[set 13.3M, closed 7.35M, open 5.94M]
+[set 14.2M, closed 7.87M, open 6.25M]
+[set 15.0M, closed 8.39M, open 6.59M]
+[set 16.0M, closed 8.92M, open 7.08M]
+[set 17.0M, closed 9.44M, open 7.51M]
+[set 17.8M, closed 9.97M, open 7.82M]
+[set 18.6M, closed 10.5M, open 8.11M]
+[set 19.5M, closed 11.1M, open 8.41M]
+[set 20.1M, closed 11.5M, open 8.59M]
+Timed out after key: pushes 63, total 207
+FrozenBoxes 19.5M
+
+Level #483 [cells 47, boxes 9, alive 29, complexity 22.8]
+ ####### 
+ #     # 
+## #$# ##
+# . $ . #
+# $. .$ #
+### * ###
+# $.@.$ #
+# . $ . #
+## #$# ##
+ #     # 
+ ####### 
+
+[set 809K, closed 359K, open 450K]
+Found solution in 24 pushes.
+FrozenBoxes 355K
+
+Level #484 [cells 32, boxes 7, alive 20, complexity 17.0]
+#######  
+#  #  #  
+#.$#$.###
+# * *   #
+#  .  $ #
+## * ####
+#  * #   
+#  @##   
+#####    
+
+[set 9.2K, closed 7.4K, open 1.9K]
+Found solution in 29 pushes.
+FrozenBoxes 8.8K
+
+Level #485 [cells 55, boxes 9, alive 34, complexity 24.8]
+#########   
+#   ##  #   
+#  ..*$@#   
+## $ .  #   
+ ###.####   
+ # .   #    
+ # ***$#####
+ #   $     #
+ ####$#    #
+   #  ###  #
+   #      ##
+   #####  # 
+       #### 
+
+[set 716K, closed 524K, open 192K]
+[set 764K, closed 561K, open 203K]
+Found solution in 56 pushes.
+FrozenBoxes 438K
+
+Level #486 [cells 55, boxes 17, alive 51, complexity 37.5]
+#############
+#  .     .  #
+# .$.$$$.$. #
+#.$$$.*.$$$.#
+# .$.$$$.$. #
+#@ .     .  #
+#############
+
+[set 80.1K, closed 7.0K, open 73.2K]
+Found solution in 24 pushes.
+FrozenBoxes 20.1K
+
+Level #487 [cells 55, boxes 18, alive 51, complexity 38.1]
+#############
+#    .$.    #
+#.$  $.$  $.#
+#$.*** ***.$#
+#.$  $.$  $.#
+#@   .$.    #
+#############
+
+[set 2.74M, closed 524K, open 2.21M]
+[set 5.33M, closed 1.05M, open 4.28M]
+[set 7.41M, closed 1.46M, open 5.95M]
+Found solution in 26 pushes.
+FrozenBoxes 3.51M
+
+Level #488 [cells 55, boxes 15, alive 45, complexity 33.7]
+#############
+#  $.   .$  #
+#  * .$. *  #
+#  $.$*$.$  #
+#  * .$. *  #
+#@ $.   .$  #
+#############
+
+[set 932K, closed 158K, open 774K]
+Found solution in 20 pushes.
+FrozenBoxes 198K
+
+Level #489 [cells 55, boxes 17, alive 45, complexity 34.7]
+#############
+# $       . #
+# .**   **$ #
+# *  ***  * #
+# $**   **. #
+#@.       $ #
+#############
+
+[set 87.3K, closed 11.2K, open 76.2K]
+Found solution in 28 pushes.
+FrozenBoxes 29.4K
+
+Level #490 [cells 55, boxes 19, alive 51, complexity 38.6]
+#############
+#   .   .   #
+# $$*$$$*$$ #
+#.....*.....#
+# $$*$$$*$$ #
+#@  .   .   #
+#############
+
+[set 1.72M, closed 315K, open 1.40M]
+Found solution in 24 pushes.
+FrozenBoxes 439K
+
+Level #491 [cells 55, boxes 16, alive 51, complexity 36.8]
+#############
+#     .     #
+# .$ $$$.$. #
+#*$.$...*.$*#
+# .$.$$$ $. #
+#@    .     #
+#############
+
+[set 76.7K, closed 5.9K, open 70.9K]
+Found solution in 18 pushes.
+FrozenBoxes 16.0K
+
+Level #492 [cells 55, boxes 19, alive 51, complexity 38.6]
+#############
+#  .  .  .  #
+# $$* $$* $ #
+#.*.* * *.*.#
+# $ *$$ *$$ #
+#@ .  .  .  #
+#############
+
+[set 3.85M, closed 524K, open 3.33M]
+[set 7.46M, closed 1.05M, open 6.41M]
+[set 11.0M, closed 1.58M, open 9.39M]
+[set 14.4M, closed 2.10M, open 12.3M]
+[set 15.2M, closed 2.22M, open 13.0M]
+Found solution in 22 pushes.
+FrozenBoxes 6.03M
+
+Level #493 [cells 55, boxes 19, alive 51, complexity 38.6]
+#############
+#  . . . .  #
+# $.$.$.$.$ #
+#*$$$ * $$$*#
+# $.$.$.$.$ #
+#@ . . . .  #
+#############
+
+[set 3.28M, closed 524K, open 2.75M]
+[set 6.54M, closed 1.05M, open 5.49M]
+[set 9.96M, closed 1.58M, open 8.38M]
+[set 13.5M, closed 2.10M, open 11.4M]
+[set 17.1M, closed 2.63M, open 14.5M]
+[set 20.1M, closed 3.10M, open 17.0M]
+Timed out after key: pushes 22, total 32
+FrozenBoxes 10.2M
+
+Level #494 [cells 72, boxes 22, alive 48, complexity 38.1]
+##############
+#            #
+#$.$  .$.$.$.#
+#.$.$.$.$.$.$#
+#$.$.$.$.$.$.#
+#.$.$.$.  $.$#
+#@           #
+##############
+
+[set 1.85M, closed 132K, open 1.71M]
+Found solution in 24 pushes.
+FrozenBoxes 690K
+
+Level #495 [cells 72, boxes 26, alive 48, complexity 37.9]
+##############
+#            #
+#**.**$$$*.**#
+#  $. ..$.$  #
+#  $.$.. .$  #
+#**.*$$$**.**#
+#@           #
+##############
+
+[set 412K, closed 63.2K, open 349K]
+Found solution in 26 pushes.
+FrozenBoxes 134K
+
+Level #496 [cells 72, boxes 26, alive 60, complexity 46.1]
+##############
+#   ..  ..   #
+# $*$*$$$$*$ #
+# *. .. .$.$ #
+# $.$. .. .* #
+# $*$$$$*$*$ #
+#@  ..  ..   #
+##############
+
+[set 3.76M, closed 524K, open 3.24M]
+[set 7.61M, closed 1.05M, open 6.56M]
+[set 11.2M, closed 1.58M, open 9.55M]
+[set 14.8M, closed 2.10M, open 12.7M]
+[set 16.6M, closed 2.35M, open 14.3M]
+Found solution in 32 pushes.
+FrozenBoxes 5.44M
+
+Level #497 [cells 72, boxes 22, alive 68, complexity 48.3]
+##############
+# $ . $. $ . #
+#  $ $.$. .  #
+#.$.$.  $.$.$#
+#$.$.$  .$.$.#
+#  . .$.$ $  #
+#@. $ .$ . $ #
+##############
+
+[set 1.28M, closed 114K, open 1.17M]
+Found solution in 32 pushes.
+FrozenBoxes 239K
+
+Level #500 [cells 32, boxes 3, alive 19, complexity 13.0]
+  #####  #### 
+  #   #  # .# 
+  # # #### .##
+###    $   . #
+#   $#####$ @#
+#    #   #  ##
+######   #### 
+
+[set 617, closed 553, open 62]
+Found solution in 65 pushes.
+FrozenBoxes 98
+
+Level #501 [cells 42, boxes 5, alive 28, complexity 18.2]
+       ######
+       #    #
+       #  @ #
+    #### .###
+    #  #$.#  
+    #  # .#  
+##### $ $.#  
+#   #  # .#  
+#    $$####  
+#####  #     
+    #  #     
+    #  #     
+    ####     
+
+[set 101K, closed 94.6K, open 6.2K]
+Found solution in 105 pushes.
+FrozenBoxes 29.1K
+
+Level #502 [cells 57, boxes 12, alive 41, complexity 30.0]
+  #######  
+  #  #  #  
+###$.#$.###
+# .  $  $ #
+# $  .  . #
+###$.@.$###
+# .  .  $ #
+# $  $  . #
+###.$#.$###
+  #  #  #  
+  #######  
+
+[set 362K, closed 53.6K, open 308K]
+Found solution in 30 pushes.
+FrozenBoxes 71.6K
+
+Level #503 [cells 73, boxes 8, alive 48, complexity 27.6]
+#########           
+#  ## @ #           
+#  ## # #           
+# ..  ..##          
+#    #.. #          
+#### #.. ###    ####
+   # ####  ### ##  #
+   #  ###    ###   #
+   # $$ $$  $$ $$  #
+   #      #       ##
+   #  ##########  # 
+   ####        #### 
+
+[set 1.15M, closed 524K, open 617K]
+[set 2.26M, closed 1.05M, open 1.22M]
+[set 3.22M, closed 1.58M, open 1.64M]
+[set 4.18M, closed 2.10M, open 2.09M]
+[set 5.27M, closed 2.63M, open 2.65M]
+[set 6.39M, closed 3.15M, open 3.24M]
+[set 7.48M, closed 3.68M, open 3.81M]
+[set 8.39M, closed 4.20M, open 4.20M]
+[set 9.17M, closed 4.72M, open 4.45M]
+[set 10.1M, closed 5.25M, open 4.76M]
+[set 10.9M, closed 5.77M, open 5.13M]
+[set 11.9M, closed 6.30M, open 5.53M]
+[set 12.8M, closed 6.82M, open 5.95M]
+[set 13.8M, closed 7.35M, open 6.39M]
+[set 14.8M, closed 7.87M, open 6.84M]
+[set 15.7M, closed 8.39M, open 7.29M]
+[set 16.7M, closed 8.92M, open 7.72M]
+[set 17.5M, closed 9.44M, open 8.05M]
+[set 18.2M, closed 9.97M, open 8.21M]
+[set 18.9M, closed 10.5M, open 8.39M]
+[set 19.7M, closed 11.1M, open 8.61M]
+[set 20.1M, closed 11.3M, open 8.74M]
+Timed out after key: pushes 90, total 160
+FrozenBoxes 7.68M
+
+Level #504 [cells 38, boxes 10, alive 19, complexity 17.0]
+  #######  
+ ##  #  ## 
+##  *$*  ##
+#  **.**  #
+#  * * *  #
+#    @    #
+###########
+
+[set 2.0K, closed 923, open 1.1K]
+Found solution in 17 pushes.
+FrozenBoxes 2.2K
+
+Level #505 [cells 54, boxes 16, alive 32, complexity 26.6]
+#############
+#     #     #
+# **  @  ** #
+# * * * * * #
+#   **.**   #
+###  *$*  ###
+  ##  #  ##  
+   #######   
+
+[set 145K, closed 61.4K, open 83.7K]
+Found solution in 27 pushes.
+FrozenBoxes 150K
+
+Level #506 [cells 41, boxes 4, alive 28, complexity 16.7]
+ ####    
+ #  #### 
+ #   $ # 
+ # ##$ # 
+ # ##  # 
+ # ##$ # 
+ # @#  # 
+ # ##$ # 
+ # ##  ##
+## ###  #
+#  .... #
+#   #  ##
+######## 
+
+[set 20.0K, closed 20.0K, open 29]
+Found solution in 101 pushes.
+FrozenBoxes 7.6K
+
+Level #507 [cells 61, boxes 4, alive 37, complexity 18.6]
+#####           
+#   #######     
+#  $      #     
+## ###### #     
+ # #    # ####  
+ # # ## @ $  ## 
+ # #.   ## $  ##
+## #.#   ## $  #
+#  #.#   ###   #
+#   .##  # #####
+##########      
+
+[set 7.8K, closed 6.1K, open 1.8K]
+Found solution in 60 pushes.
+FrozenBoxes 1.1K
+
+Level #508 [cells 36, boxes 4, alive 18, complexity 14.1]
+   ####     
+####  ###   
+#  .    #   
+# $.$ # ##  
+### ###  #  
+  #  ### ###
+  ## # $.$ #
+   # @  .  #
+   ###  ####
+     ####   
+
+[set 250, closed 167, open 81]
+Found solution in 10 pushes.
+FrozenBoxes 68
+
+Level #509 [cells 29, boxes 5, alive 19, complexity 15.2]
+###### 
+#  @ ##
+#  #  #
+#.$#$.#
+#  *  #
+#.$#$.#
+#  #  #
+##    #
+ ######
+
+[set 2.4K, closed 1.2K, open 1.3K]
+Found solution in 18 pushes.
+FrozenBoxes 923
+
+Level #510 [cells 37, boxes 7, alive 27, complexity 20.1]
+###### 
+#  @ ##
+#  #  #
+#.$#$.#
+#  #  #
+#.$*$.#
+#  #  #
+#.$#$.#
+#  #  #
+##    #
+ ######
+
+[set 101K, closed 51.1K, open 50.0K]
+Found solution in 36 pushes.
+FrozenBoxes 70.8K
+
+Level #511 [cells 36, boxes 5, alive 21, complexity 16.1]
+######## 
+#  ##  ##
+#  .$.  #
+#  #$#  #
+##  *  @#
+## #$# ##
+#  .$. # 
+#   #  # 
+######## 
+
+[set 4.0K, closed 2.4K, open 1.6K]
+Found solution in 22 pushes.
+FrozenBoxes 1.8K
+
+Level #512 [cells 25, boxes 4, alive 14, complexity 12.3]
+    #### 
+#####  # 
+#  ..  # 
+#  *.$@##
+#  $#$  #
+##  #   #
+ ########
+
+[set 491, closed 420, open 69]
+Found solution in 22 pushes.
+FrozenBoxes 222
+
+Level #513 [cells 28, boxes 6, alive 15, complexity 13.8]
+   ####  
+  ##  #  
+###  @## 
+# $*$. ##
+#  . .  #
+## .$*$ #
+ ##  #  #
+  #######
+
+[set 528, closed 346, open 178]
+Found solution in 16 pushes.
+FrozenBoxes 334
+
+Level #514 [cells 31, boxes 7, alive 16, complexity 14.7]
+######## 
+#      ##
+#  *.*  #
+# #$*$#@#
+#  *.*  #
+###   ###
+  #   #  
+  #####  
+
+[set 223, closed 99, open 122]
+Found solution in 12 pushes.
+FrozenBoxes 122
+
+Level #515 [cells 32, boxes 7, alive 20, complexity 17.0]
+  #######  
+###  @  ###
+#   ***   #
+# $ $.$ $ #
+####...####
+   #   #   
+   #   #   
+   #####   
+
+[set 15.6K, closed 9.1K, open 6.5K]
+Found solution in 19 pushes.
+FrozenBoxes 10.8K
+
+Level #516 [cells 26, boxes 4, alive 12, complexity 11.4]
+  ####  
+  #  #  
+  #$ #  
+  #  #  
+### ### 
+#  .. ##
+# $*.  #
+#  #$ @#
+####   #
+   #####
+
+[set 47, closed 33, open 12]
+Found solution in 7 pushes.
+FrozenBoxes 42
+
+Level #517 [cells 36, boxes 5, alive 23, complexity 16.7]
+ ####    
+##  #### 
+#      # 
+#  # $$# 
+## ### ##
+##@ . $ #
+#  . *# #
+# . *   #
+###  ####
+  ####   
+
+[set 3.2K, closed 1.8K, open 1.5K]
+Found solution in 29 pushes.
+FrozenBoxes 1.3K
+
+Level #518 [cells 61, boxes 16, alive 41, complexity 32.4]
+     ###     
+    ## ##    
+   ## . ##   
+  ##  *  ##  
+ ##  $.$  ## 
+##  $.$.$  ##
+# .*.$@$.*. #
+##  $.$.$  ##
+ ##  $.$  ## 
+  ##  *  ##  
+   ## . ##   
+    ## ##    
+     ###     
+
+[set 999K, closed 110K, open 889K]
+Found solution in 22 pushes.
+FrozenBoxes 94.7K
+
+Level #519 [cells 45, boxes 12, alive 39, complexity 28.9]
+######## 
+#  .   ##
+# .$.$# #
+#.$ $.$ #
+# .$@$. #
+# $.$ $.#
+# #$.$. #
+##   .  #
+ ########
+
+[set 609K, closed 97.7K, open 511K]
+Found solution in 22 pushes.
+FrozenBoxes 399K
+
+Level #520 [cells 60, boxes 16, alive 32, complexity 26.8]
+##########
+#        #
+# .$.$.$ #
+# $.$.$. #
+# .$##.$ #
+# $.##$. #
+# .$.$.$ #
+# $.$.$. #
+#@       #
+##########
+
+[set 57.3K, closed 6.0K, open 51.4K]
+Found solution in 16 pushes.
+FrozenBoxes 39.4K
+
+Level #521 [cells 53, boxes 8, alive 37, complexity 24.6]
+   ######  
+ ### .  ## 
+##  $ $  # 
+#  ##.## ##
+# $#   #$ #
+#. . @ . .#
+# $#   #$ #
+## ##.##  #
+ #  $ $  ##
+ ##  . ### 
+  ######   
+
+[set 1.08M, closed 518K, open 562K]
+Found solution in 26 pushes.
+FrozenBoxes 313K
+
+Level #522 [cells 53, boxes 8, alive 32, complexity 23.2]
+##### #####
+#   # #   #
+# # ### # #
+#  $ $ $  #
+### ... ###
+  #$.#.$#  
+### ... ###
+#  $ $ $  #
+# # ## ##@#
+#   ##    #
+###########
+
+[set 984K, closed 376K, open 608K]
+Found solution in 68 pushes.
+FrozenBoxes 271K
+
+Level #523 [cells 69, boxes 16, alive 41, complexity 32.5]
+###########
+#    #    #
+# #  #  # #
+#  **$**  #
+#  *. .*  #
+###$ @ $###
+#  *. .*  #
+#  **$**  #
+# #  #  # #
+#    #    #
+###########
+
+[set 1.56M, closed 524K, open 1.04M]
+[set 3.07M, closed 1.05M, open 2.02M]
+[set 4.14M, closed 1.58M, open 2.56M]
+[set 5.74M, closed 2.10M, open 3.65M]
+[set 7.25M, closed 2.63M, open 4.63M]
+[set 8.87M, closed 3.15M, open 5.73M]
+[set 10.2M, closed 3.68M, open 6.47M]
+[set 11.7M, closed 4.20M, open 7.43M]
+[set 12.8M, closed 4.72M, open 8.07M]
+[set 14.1M, closed 5.25M, open 8.79M]
+[set 15.1M, closed 5.77M, open 9.28M]
+[set 16.1M, closed 6.30M, open 9.79M]
+[set 17.0M, closed 6.82M, open 10.2M]
+[set 18.6M, closed 7.35M, open 11.2M]
+[set 20.1M, closed 7.85M, open 12.2M]
+Timed out after key: pushes 20, total 28
+FrozenBoxes 5.50M
+
+Level #524 [cells 64, boxes 20, alive 60, complexity 43.4]
+##########
+# $.   . #
+#.$$. .$$#
+# .$$.$$.#
+#  .  $. #
+# .$@ .  #
+#.$$.$$. #
+#$$. .$$.#
+# .   .$ #
+##########
+
+[set 6.47M, closed 524K, open 5.95M]
+[set 12.5M, closed 1.05M, open 11.5M]
+[set 13.9M, closed 1.17M, open 12.7M]
+Found solution in 28 pushes.
+FrozenBoxes 4.52M
+
+Level #525 [cells 89, boxes 16, alive 81, complexity 46.5]
+#############
+#.    .    .#
+# ##  #  ## #
+# ### $ ### #
+#  ##$$$##  #
+#   $...$   #
+#.#$$.@.$$#.#
+#   $...$   #
+#  ##$$$##  #
+# ### $ ### #
+# ##  #  ## #
+#.    .    .#
+#############
+
+[set 5.49M, closed 524K, open 4.96M]
+[set 10.6M, closed 1.05M, open 9.47M]
+[set 14.7M, closed 1.58M, open 13.1M]
+[set 18.7M, closed 2.10M, open 16.6M]
+[set 20.1M, closed 2.28M, open 17.8M]
+Timed out after key: pushes 28, total 52
+FrozenBoxes 3.04M
+
+Summary:
+Levels 526 (Timeout 18, NoSolution 5, Unsupported 9)
+TotalClosed 61.8M, TotalOpened 76.5M
+TotalSet 138.3M, TotalFrozenBoxes 274.3M
+TotalPushes 16.1K
+Heuristic heuristic.SimpleBipartiteHeuristic
+Concurrent = true
+Simplest level Timeout: 285
+ #######      
+ #     #      
+ # $$  #      
+ #  $###      
+ # #  #       
+ # #$ #       
+ # #  #       
+## ## ##      
+#    ..#######
+#@###...     #
+#   #.#### $ #
+### #.# $ $$ #
+  #  .    #  #
+  #########  #
+          ####
+
+Simplest level NoSolution: 306
+######## 
+#      # 
+# $.#..##
+##$.$$@ #
+# $.#   #
+#   #####
+#####    
+
+PrintDeadCells false
+VerboseSearch false
+CheckFrozenBoxes true
+IncludeAgentInHashCode false
+CacheHashCode true
+
+Flat profile of 2238.23 secs (196255 total ticks): main
+
+  Interpreted + native   Method                        
+  3.6%     0  +    14    java.io.FileInputStream.readBytes
+  2.6%     0  +    10    java.io.FileInputStream.open
+  1.8%     0  +     7    java.io.WinNTFileSystem.getBooleanAttributes
+  1.8%     7  +     0    java.lang.String.toCharArray
+  1.5%     6  +     0    base.KeyUtil.createBoxset
+  1.3%     0  +     5    java.io.FileOutputStream.writeBytes
+  1.3%     0  +     5    java.lang.ClassLoader.findBootstrapClass
+  1.0%     4  +     0    java.util.Formatter$FormatSpecifier.checkGeneral
+  1.0%     0  +     4    java.lang.Thread.currentThread
+  1.0%     4  +     0    java.util.Arrays.copyOf
+  1.0%     4  +     0    base.KeySet.<init>
+  0.8%     0  +     3    java.lang.Class.getDeclaredFields0
+  0.8%     3  +     0    base.Key.create
+  0.5%     2  +     0    java.util.ArrayDeque.clear
+  0.5%     2  +     0    java.lang.Integer.toString
+  0.5%     0  +     2    sun.misc.Unsafe.compareAndSwapLong
+  0.5%     2  +     0    java.util.ArrayDeque.addLast
+  0.5%     2  +     0    Search.human
+  0.3%     1  +     0    java.util.ArrayList.<init>
+  0.3%     1  +     0    java.util.ArrayDeque.pollFirst
+  0.3%     1  +     0    base.Key.equals
+  0.3%     1  +     0    java.lang.ClassLoader.defineClass1
+  0.3%     1  +     0    base.KeySet.clear
+  0.3%     1  +     0    base.MCell.<init>
+  0.3%     1  +     0    base.Builder.build
+ 26.8%    51  +    53    Total interpreted (including elided)
+
+     Compiled + native   Method                        
+ 34.0%   132  +     0    base.KeyUtil.frozenBoxes
+ 24.0%    89  +     4    base.Cells$MinimalPushes.<init>
+  4.4%    17  +     0    base.KeyUtil.reachable
+  1.8%     7  +     0    java.io.BufferedReader.readLine
+  1.8%     7  +     0    base.Builder.build
+  0.3%     1  +     0    base.KeyUtil.getBox
+  0.3%     1  +     0    base.Builder.isPartOfLevel
+  0.3%     1  +     0    UncommonTrapBlob
+ 66.8%   255  +     4    Total compiled
+
+         Stub + native   Method                        
+  4.1%     0  +    16    java.lang.System.arraycopy
+  0.5%     0  +     2    java.lang.Thread.currentThread
+  4.6%     0  +    18    Total stub
+
+  Thread-local ticks:
+ 99.8% 195867            Blocked (of total)
+  1.8%     7             Class loader
+
+
+Flat profile of 0.02 secs (3 total ticks): DestroyJavaVM
+
+  Thread-local ticks:
+ 33.3%     1             Blocked (of total)
+100.0%     2             Class loader
+
+
+Flat profile of 2238.26 secs (196260 total ticks): Thread-7
+
+  Interpreted + native   Method                        
+  0.0%     2  +     0    java.lang.Enum.ordinal
+  0.0%     1  +     0    java.lang.ThreadLocal$ThreadLocalMap.resize
+  0.0%     1  +     0    base.CellSearch2.<init>
+  0.0%     1  +     0    java.io.PrintStream.write
+  0.0%     0  +     1    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     5  +     1    Total interpreted
+
+     Compiled + native   Method                        
+ 43.6% 53193  +     0    base.KeyUtil.frozenBoxes
+ 35.6% 43421  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  9.6%  1948  +  9698    Search$Runner.computePushes
+  2.0%  2407  +     7    base.KeyUtil.computePushes
+  2.0%  2410  +     0    base.KeyUtil.reachable
+  1.1%    75  +  1228    ConcurrentWorkPriorityQueue.exchange
+  1.1%  1280  +     2    base.KeyUtil.getBoxes
+  0.4%   502  +     7    base.KeySet.resize
+  0.2%   251  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.1%   121  +     0    Search$Runner.run
+  0.0%    27  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     6  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+  0.0%     0  +     3    java.util.Arrays.copyOf
+ 95.6% 105641  + 10945   Total compiled
+
+         Stub + native   Method                        
+  4.4%     0  +  5315    java.lang.Object.notify
+  0.0%     0  +     1    java.lang.System.arraycopy
+  0.0%     0  +     1    java.lang.Thread.currentThread
+  4.4%     0  +  5317    Total stub
+
+  Thread-local ticks:
+ 37.9% 74351             Blocked (of total)
+
+
+Flat profile of 2238.26 secs (196260 total ticks): Thread-6
+
+  Interpreted + native   Method                        
+  0.0%     1  +     0    java.lang.String.toCharArray
+  0.0%     0  +     1    java.lang.System.arraycopy
+  0.0%     0  +     1    sun.misc.Unsafe.unpark
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.abort
+  0.0%     0  +     1    java.io.FileOutputStream.writeBytes
+  0.0%     2  +     3    Total interpreted
+
+     Compiled + native   Method                        
+ 40.9% 48601  +     0    base.KeyUtil.frozenBoxes
+ 35.6% 42229  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+ 11.2%  1616  + 11697    Search$Runner.computePushes
+  1.8%  2090  +    12    base.KeyUtil.computePushes
+  1.7%  2015  +     0    base.KeyUtil.reachable
+  1.1%    28  +  1261    ConcurrentWorkPriorityQueue.exchange
+  0.9%  1123  +     4    base.KeyUtil.getBoxes
+  0.7%   774  +     7    base.KeySet.resize
+  0.1%   116  +     0    Search$Runner.run
+  0.1%    97  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     3  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     0  +     3    java.util.Arrays.copyOf
+  0.0%     1  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+ 94.1% 98693  + 12984    Total compiled
+
+         Stub + native   Method                        
+  5.9%     0  +  7047    java.lang.Object.notify
+  5.9%     0  +  7047    Total stub
+
+  Thread-local ticks:
+ 39.5% 77531             Blocked (of total)
+
+
+Flat profile of 2238.26 secs (196260 total ticks): Thread-5
+
+  Interpreted + native   Method                        
+  0.0%     1  +     0    base.KeySet.resize
+  0.0%     0  +     1    java.io.FileOutputStream.writeBytes
+  0.0%     1  +     0    java.util.Formatter$FormatSpecifier.print
+  0.0%     1  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  0.0%     3  +     1    Total interpreted
+
+     Compiled + native   Method                        
+ 41.5% 49258  +     0    base.KeyUtil.frozenBoxes
+ 35.9% 42663  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+ 10.6%  1586  + 11006    Search$Runner.computePushes
+  1.8%  2144  +     7    base.KeyUtil.computePushes
+  1.6%  1951  +     0    base.KeyUtil.reachable
+  1.1%    43  +  1216    ConcurrentWorkPriorityQueue.exchange
+  0.9%  1094  +     7    base.KeyUtil.getBoxes
+  0.8%   892  +     8    base.KeySet.resize
+  0.1%    96  +     0    Search$Runner.run
+  0.1%    83  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     5  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     2  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+  0.0%     0  +     1    java.util.Arrays.copyOf
+ 94.4% 99817  + 12245    Total compiled
+
+         Stub + native   Method                        
+  5.6%     0  +  6669    java.lang.Object.notify
+  0.0%     0  +     2    java.lang.Thread.currentThread
+  5.6%     0  +  6671    Total stub
+
+  Thread-local ticks:
+ 39.5% 77523             Blocked (of total)
+
+
+Flat profile of 2238.26 secs (196260 total ticks): Thread-4
+
+  Interpreted + native   Method                        
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.exchange
+  0.0%     1  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  0.0%     1  +     0    java.util.Formatter.parse
+  0.0%     3  +     0    Total interpreted
+
+     Compiled + native   Method                        
+ 40.6% 48469  +     0    base.KeyUtil.frozenBoxes
+ 36.0% 42977  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+ 10.8%  1613  + 11318    Search$Runner.computePushes
+  1.7%  1979  +     8    base.KeyUtil.computePushes
+  1.6%  1961  +     0    base.KeyUtil.reachable
+  1.4%  1628  +    12    base.KeySet.resize
+  1.0%    40  +  1184    ConcurrentWorkPriorityQueue.exchange
+  0.9%  1115  +     0    base.KeyUtil.getBoxes
+  0.1%    84  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.1%    82  +     0    Search$Runner.run
+  0.0%     6  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     0  +     3    java.util.Arrays.copyOf
+  0.0%     1  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+ 94.2% 99955  + 12525    Total compiled
+
+         Stub + native   Method                        
+  5.8%     0  +  6876    java.lang.Object.notify
+  5.8%     0  +  6876    Total stub
+
+  Thread-local ticks:
+ 39.2% 76901             Blocked (of total)
+
+
+Flat profile of 2238.26 secs (196260 total ticks): Thread-3
+
+  Interpreted + native   Method                        
+  0.0%     0  +     2    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.exchange
+  0.0%     1  +     0    java.util.regex.Matcher.<init>
+  0.0%     1  +     0    util.BitSet.setBit
+  0.0%     0  +     1    java.lang.Object.notify
+  0.0%     3  +     3    Total interpreted
+
+     Compiled + native   Method                        
+ 40.3% 47739  +     0    base.KeyUtil.frozenBoxes
+ 35.6% 42124  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+ 11.1%  1731  + 11417    Search$Runner.computePushes
+  1.9%  2198  +     9    base.KeyUtil.computePushes
+  1.7%  2005  +     0    base.KeyUtil.reachable
+  1.1%  1283  +    12    base.KeySet.resize
+  1.0%  1233  +     1    base.KeyUtil.getBoxes
+  1.0%    42  +  1147    ConcurrentWorkPriorityQueue.exchange
+  0.1%   110  +     0    Search$Runner.run
+  0.1%    98  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     0  +     3    java.util.Arrays.copyOf
+  0.0%     2  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     1  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+ 93.9% 98566  + 12589    Total compiled
+
+         Stub + native   Method                        
+  6.1%     0  +  7252    java.lang.Object.notify
+  0.0%     0  +     1    java.lang.System.arraycopy
+  6.1%     0  +  7253    Total stub
+
+  Thread-local ticks:
+ 39.7% 77846             Blocked (of total)
+
+
+Flat profile of 2238.26 secs (196260 total ticks): Thread-2
+
+  Interpreted + native   Method                        
+  0.0%     1  +     0    java.lang.String.toCharArray
+  0.0%     1  +     0    Total interpreted
+
+     Compiled + native   Method                        
+ 41.1% 48185  +     0    base.KeyUtil.frozenBoxes
+ 36.3% 42603  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+ 10.8%  1626  + 11030    Search$Runner.computePushes
+  1.7%  2015  +     5    base.KeyUtil.computePushes
+  1.7%  1938  +     0    base.KeyUtil.reachable
+  1.0%  1149  +     1    base.KeyUtil.getBoxes
+  1.0%    48  +  1092    ConcurrentWorkPriorityQueue.exchange
+  0.5%   570  +     5    base.KeySet.resize
+  0.1%    98  +     0    Search$Runner.run
+  0.1%    73  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     0  +     3    java.util.Arrays.copyOf
+  0.0%     2  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     1  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+ 94.1% 98308  + 12136    Total compiled
+
+         Stub + native   Method                        
+  5.9%     0  +  6915    java.lang.Object.notify
+  5.9%     0  +  6915    Total stub
+
+  Thread-local ticks:
+ 40.2% 78900             Blocked (of total)
+
+
+Flat profile of 2238.26 secs (196260 total ticks): Thread-1
+
+  Interpreted + native   Method                        
+  0.0%     0  +     1    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     0  +     1    java.io.FileOutputStream.writeBytes
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.exchange
+  0.0%     1  +     0    java.util.Formatter$FormatSpecifier.checkGeneral
+  0.0%     2  +     2    Total interpreted
+
+     Compiled + native   Method                        
+ 41.8% 49432  +     0    base.KeyUtil.frozenBoxes
+ 35.9% 42514  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+ 10.4%  1580  + 10686    Search$Runner.computePushes
+  1.8%  2113  +     5    base.KeyUtil.computePushes
+  1.7%  1997  +     0    base.KeyUtil.reachable
+  0.9%  1099  +     3    base.KeyUtil.getBoxes
+  0.9%  1083  +     7    base.KeySet.resize
+  0.9%    46  +   982    ConcurrentWorkPriorityQueue.exchange
+  0.1%   103  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.1%   101  +     0    Search$Runner.run
+  0.0%     0  +     6    java.util.Arrays.copyOf
+  0.0%     6  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+ 94.4% 100074  + 11689   Total compiled
+
+         Stub + native   Method                        
+  5.6%     0  +  6601    java.lang.Object.notify
+  5.6%     0  +  6601    Total stub
+
+  Thread-local ticks:
+ 39.7% 77892             Blocked (of total)
+
+
+Flat profile of 2238.26 secs (196260 total ticks): Thread-0
+
+  Interpreted + native   Method                        
+  0.0%     0  +     1    java.io.FileOutputStream.writeBytes
+  0.0%     1  +     0    base.CellSearch2.<init>
+  0.0%     1  +     1    Total interpreted
+
+     Compiled + native   Method                        
+ 42.8% 50380  +     0    base.KeyUtil.frozenBoxes
+ 36.0% 42305  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+ 10.4%  1668  + 10521    Search$Runner.computePushes
+  1.8%  2083  +     5    base.KeyUtil.computePushes
+  1.6%  1893  +     0    base.KeyUtil.reachable
+  1.0%  1118  +     2    base.KeyUtil.getBoxes
+  0.9%    42  +   982    ConcurrentWorkPriorityQueue.exchange
+  0.4%   466  +     3    base.KeySet.resize
+  0.1%   130  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.1%    85  +     0    Search$Runner.run
+  0.0%    10  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     0  +     4    java.util.Arrays.copyOf
+ 94.9% 100180  + 11517   Total compiled
+
+         Stub + native   Method                        
+  5.1%     0  +  5953    java.lang.Object.notify
+  5.1%     0  +  5953    Total stub
+
+  Thread-local ticks:
+ 40.1% 78608             Blocked (of total)
+
+
+Global summary of 2238.29 seconds:
+100.0% 219501            Received ticks
+ 10.6% 23234             Received GC ticks
+  0.0%    83             Compilation
+  0.0%     3             Other VM operations
+  0.0%     9             Class loader

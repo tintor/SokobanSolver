@@ -1,0 +1,2410 @@
+Level #1 [cells 45, boxes 3, alive 25, complexity 14.6]
+   ###     
+  ## # ####
+ ##  ###  #
+## $      #
+#   @$ #  #
+### $###  #
+  #  #..  #
+ ## ##.# ##
+ #      ## 
+ #     ##  
+ #######   
+
+[set 552, closed 313, open 237, branching 1.8, freemem 121.3M]
+Found solution in 30 pushes.
+FrozenBoxes 159
+
+Level #2 [cells 26, boxes 4, alive 13, complexity 11.9]
+    #####
+   ## . #
+  ## $. #
+ ## $   #
+## $@ ###
+# $  ##  
+#.. ##   
+#   #    
+#####    
+
+[set 102, closed 32, open 68, branching 3.2, freemem 121.3M]
+Found solution in 16 pushes.
+FrozenBoxes 19
+
+Level #3 [cells 68, boxes 10, alive 49, complexity 30.6]
+           #####
+          ##   #
+          #    #
+    ####  # $ ##
+    #  ####$ $# 
+    #     $ $ # 
+   ## ## $ $ $# 
+   #  .#  $ $ # 
+   #  .#      # 
+##### ######### 
+#.... @  #      
+#....    #      
+##  ######      
+ ####           
+
+[set 701K, closed 524K, open 177K, branching 1.3, key 63/177, freemem 91.3M]
+[set 1.72M, closed 1.05M, open 668K, branching 1.6, key 61/169, freemem 321.8M]
+[set 2.76M, closed 1.58M, open 1.19M, branching 1.8, key 42/167, freemem 450.2M]
+[set 3.95M, closed 2.10M, open 1.85M, branching 1.9, key 44/171, freemem 658.5M]
+[set 4.74M, closed 2.63M, open 2.12M, branching 1.8, key 56/173, freemem 363.8M]
+[set 5.41M, closed 3.15M, open 2.27M, branching 1.7, key 49/173, freemem 581.6M]
+[set 6.24M, closed 3.68M, open 2.57M, branching 1.7, key 41/173, freemem 366.7M]
+[set 7.47M, closed 4.20M, open 3.28M, branching 1.8, key 36/173, freemem 839.5M]
+[set 8.13M, closed 4.72M, open 3.41M, branching 1.7, key 56/175, freemem 679.1M]
+[set 8.67M, closed 5.25M, open 3.43M, branching 1.7, key 50/175, freemem 606.0M]
+[set 9.30M, closed 5.77M, open 3.53M, branching 1.6, key 46/175, freemem 532.7M]
+[set 10.1M, closed 6.30M, open 3.81M, branching 1.6, key 41/175, freemem 473.9M]
+[set 11.1M, closed 6.82M, open 4.24M, branching 1.6, key 46/175, freemem 418.6M]
+[set 12.2M, closed 7.35M, open 4.77M, branching 1.6, key 33/175, freemem 377.7M]
+[set 13.3M, closed 7.87M, open 5.40M, branching 1.7, key 63/177, freemem 811.2M]
+[set 13.7M, closed 8.39M, open 5.24M, branching 1.6, key 54/177, freemem 657.3M]
+[set 14.1M, closed 8.92M, open 5.19M, branching 1.6, key 49/177, freemem 760.1M]
+[set 14.7M, closed 9.44M, open 5.24M, branching 1.6, key 46/177, freemem 846.4M]
+[set 15.4M, closed 9.97M, open 5.36M, branching 1.5, key 46/177, freemem 926.2M]
+[set 16.1M, closed 10.5M, open 5.58M, branching 1.5, key 41/177, freemem 965.0M]
+[set 16.9M, closed 11.1M, open 5.85M, branching 1.5, key 38/177, freemem 1.8B]
+[set 17.7M, closed 11.6M, open 6.12M, branching 1.5, key 35/177, freemem 1.7B]
+[set 18.6M, closed 12.1M, open 6.47M, branching 1.5, key 31/177, freemem 1.7B]
+[set 19.6M, closed 12.6M, open 7.00M, branching 1.6, key 62/175, freemem 1.1B]
+[set 20.4M, closed 13.2M, open 7.28M, branching 1.6, key 61/177, freemem 1.6B]
+[set 21.3M, closed 13.7M, open 7.65M, branching 1.6, key 62/171, freemem 1.7B]
+[set 22.1M, closed 14.2M, open 7.90M, branching 1.6, key 68/175, freemem 1.7B]
+[set 22.8M, closed 14.7M, open 8.12M, branching 1.6, key 69/177, freemem 1.7B]
+[set 23.6M, closed 15.3M, open 8.35M, branching 1.5, key 47/177, freemem 1.7B]
+[set 24.5M, closed 15.8M, open 8.77M, branching 1.6, key 68/175, freemem 1.8B]
+[set 25.3M, closed 16.3M, open 8.99M, branching 1.6, key 66/177, freemem 719.3M]
+[set 26.2M, closed 16.8M, open 9.37M, branching 1.6, key 76/171, freemem 1.2B]
+[set 27.1M, closed 17.4M, open 9.79M, branching 1.6, key 70/175, freemem 1.5B]
+[set 27.9M, closed 17.9M, open 9.99M, branching 1.6, key 68/177, freemem 2.2B]
+[set 28.7M, closed 18.4M, open 10.4M, branching 1.6, key 71/177, freemem 1.6B]
+[set 29.6M, closed 18.9M, open 10.8M, branching 1.6, key 79/171, freemem 1.6B]
+[set 30.4M, closed 19.4M, open 11.0M, branching 1.6, key 75/177, freemem 1.6B]
+[set 31.4M, closed 20.0M, open 11.4M, branching 1.6, key 68/175, freemem 1.8B]
+[set 32.2M, closed 20.5M, open 11.7M, branching 1.6, key 93/177, freemem 1.1B]
+[set 33.1M, closed 21.0M, open 12.1M, branching 1.6, key 83/175, freemem 1.3B]
+[set 33.9M, closed 21.5M, open 12.4M, branching 1.6, key 97/171, freemem 1.3B]
+[set 34.8M, closed 22.1M, open 12.8M, branching 1.6, key 85/173, freemem 1.6B]
+[set 35.7M, closed 22.6M, open 13.2M, branching 1.6, key 98/177, freemem 939.7M]
+[set 36.5M, closed 23.1M, open 13.5M, branching 1.6, key 82/173, freemem 991.9M]
+[set 37.3M, closed 23.6M, open 13.8M, branching 1.6, key 89/177, freemem 1.1B]
+[set 38.2M, closed 24.2M, open 14.0M, branching 1.6, key 88/173, freemem 1.1B]
+[set 39.0M, closed 24.7M, open 14.4M, branching 1.6, key 90/177, freemem 2.0B]
+[set 39.9M, closed 25.2M, open 14.8M, branching 1.6, key 105/175, freemem 1.9B]
+[set 40.7M, closed 25.7M, open 15.0M, branching 1.6, key 94/171, freemem 1.9B]
+[set 41.5M, closed 26.3M, open 15.3M, branching 1.6, key 68/177, freemem 1.9B]
+[set 42.3M, closed 26.8M, open 15.6M, branching 1.6, key 88/177, freemem 1.3B]
+[set 43.2M, closed 27.3M, open 15.9M, branching 1.6, key 74/173, freemem 1.4B]
+[set 44.0M, closed 27.8M, open 16.2M, branching 1.6, key 74/177, freemem 1.8B]
+[set 44.9M, closed 28.4M, open 16.6M, branching 1.6, key 96/171, freemem 1.9B]
+[set 45.1M, closed 28.4M, open 16.7M, branching 1.6, freemem 1.8B]
+Timed out after key: pushes 89, total 175
+FrozenBoxes 35.3M
+
+Level #4 [cells 50, boxes 8, alive 31, complexity 22.8]
+  ###########
+  #     #  @#
+  # $ $$#   #
+  ##$    $$ #
+   #  $ #   #
+###### ######
+#.. ..$ #    
+# ..    #    
+#  ..####    
+######       
+
+[set 775K, closed 524K, open 251K, branching 1.5, key 59/91, freemem 1.5B]
+[set 1.49M, closed 1.05M, open 440K, branching 1.4, key 72/93, freemem 1.2B]
+[set 2.18M, closed 1.58M, open 600K, branching 1.4, key 42/93, freemem 859.7M]
+[set 2.59M, closed 1.94M, open 648K, branching 1.3, freemem 660.4M]
+Found solution in 95 pushes.
+FrozenBoxes 843K
+
+Level #5 [cells 129, boxes 29, alive 97, complexity 65.6]
+  ###########  
+  #    #    #  
+### $ $#$ $ ###
+# #$ $ # $ $# #
+# $  ..#..  $ #
+#  $...#...$  #
+# $ .. * .. $ #
+###### @ ######
+# $ ..   .. $ #
+#  $...#...$  #
+# $  ..#..  $ #
+# #$ $ # $ $# #
+### $ $#$ $ ###
+  #    #    #  
+  ###########  
+
+[set 3.38M, closed 524K, open 2.86M, branching 6.4, key 27/86, freemem 711.2M]
+[set 6.81M, closed 1.05M, open 5.76M, branching 6.5, key 30/86, freemem 800.3M]
+[set 10.2M, closed 1.58M, open 8.58M, branching 6.5, key 27/86, freemem 2.0B]
+[set 13.6M, closed 2.10M, open 11.5M, branching 6.5, key 29/86, freemem 1.6B]
+[set 17.0M, closed 2.63M, open 14.3M, branching 6.5, key 25/86, freemem 2.1B]
+[set 20.3M, closed 3.15M, open 17.1M, branching 6.4, key 23/86, freemem 1.8B]
+[set 23.7M, closed 3.68M, open 20.0M, branching 6.4, key 21/86, freemem 822.0M]
+[set 27.1M, closed 4.20M, open 22.9M, branching 6.4, key 31/86, freemem 2.3B]
+[set 30.5M, closed 4.72M, open 25.7M, branching 6.4, key 28/86, freemem 1.8B]
+[set 33.7M, closed 5.25M, open 28.5M, branching 6.4, key 26/86, freemem 1.5B]
+[set 37.1M, closed 5.77M, open 31.4M, branching 6.4, key 28/86, freemem 1.1B]
+[set 40.6M, closed 6.30M, open 34.3M, branching 6.4, key 24/86, freemem 1.5B]
+[set 43.9M, closed 6.82M, open 37.1M, branching 6.4, key 26/86, freemem 1.2B]
+[set 45.1M, closed 7.00M, open 38.1M, branching 6.4, freemem 1.1B]
+Timed out after key: pushes 23, total 86
+FrozenBoxes 33.1M
+
+Level #6 [cells 54, boxes 13, alive 44, complexity 31.8]
+###########
+#.  .$.  .#
+# $  $  $ #
+## ..$.. ##
+ ##$#$#$## 
+  #.$ $.#  
+  #  @  #  
+  ### ###  
+ ## $ $ ## 
+ #.  $  .# 
+ ### . ### 
+   #####   
+
+[set 292K, closed 124K, open 168K, branching 2.4, freemem 965.6M]
+Found solution in 43 pushes.
+FrozenBoxes 116K
+
+Level #7 [cells 59, boxes 6, alive 33, complexity 21.2]
+           ######  
+    ####  ##    #  
+  ###  #  #  ## ###
+###    #### #   $ #
+#  $ @ ...*..  $  #
+# $ $  ## ###   ###
+### ###   # #####  
+ #      ###        
+ #   ####          
+ #####             
+
+[set 381K, closed 329K, open 52.1K, branching 1.2, freemem 781.6M]
+Found solution in 66 pushes.
+FrozenBoxes 111K
+
+Level #8 [cells 56, boxes 7, alive 29, complexity 21.2]
+    #######  
+    #     ## 
+##### ###  # 
+#       #  ##
+#@$***. ##$ #
+#  #    ## .#
+##  ##  # $ #
+ ##  ####.$.#
+  ##        #
+   ######  ##
+        #### 
+
+[set 3.5K, closed 1.2K, open 2.3K, branching 3.0, freemem 778.6M]
+Found solution in 17 pushes.
+FrozenBoxes 848
+
+Level #9 [cells 32, boxes 5, alive 25, complexity 17.2]
+#########
+#. .    #
+#.$. .  #
+## ###@ #
+ #  $  ##
+ # $$ ## 
+ #  $ #  
+ #  ###  
+ ####    
+
+[set 30.8K, closed 26.4K, open 4.5K, branching 1.2, freemem 760.9M]
+Found solution in 40 pushes.
+FrozenBoxes 23.4K
+
+Level #10 [cells 86, boxes 11, alive 62, complexity 35.2]
+      ######      
+      #    #      
+      # @  ###    
+####  #      #    
+#  ####..#.#$#####
+# $ $ ##...      #
+#     .....#$$   #
+###### ##$## #####
+     #  $    #    
+     #### ####    
+       #  #       
+       #  #####   
+     ### $    #   
+     #  $ $   #   
+     # #$# ####   
+     #     #      
+     #######      
+
+[set 1.20M, closed 524K, open 670K, branching 2.3, key 54/93, freemem 3.6B]
+[set 2.25M, closed 1.05M, open 1.20M, branching 2.1, key 39/93, freemem 3.8B]
+[set 3.34M, closed 1.58M, open 1.76M, branching 2.1, key 33/93, freemem 3.3B]
+[set 4.37M, closed 2.10M, open 2.28M, branching 2.1, key 29/93, freemem 3.5B]
+[set 5.40M, closed 2.63M, open 2.78M, branching 2.1, key 23/93, freemem 3.1B]
+[set 6.29M, closed 3.15M, open 3.15M, branching 2.0, key 54/95, freemem 3.3B]
+[set 7.24M, closed 3.68M, open 3.57M, branching 2.0, key 48/95, freemem 2.9B]
+[set 8.17M, closed 4.20M, open 3.98M, branching 1.9, key 49/95, freemem 3.0B]
+[set 9.08M, closed 4.72M, open 4.37M, branching 1.9, key 47/95, freemem 2.6B]
+[set 10.1M, closed 5.25M, open 4.80M, branching 1.9, key 40/95, freemem 2.2B]
+[set 11.1M, closed 5.77M, open 5.27M, branching 1.9, key 38/95, freemem 1.8B]
+[set 12.1M, closed 6.30M, open 5.72M, branching 1.9, key 41/95, freemem 2.5B]
+[set 13.0M, closed 6.82M, open 6.18M, branching 1.9, key 35/95, freemem 2.5B]
+[set 14.0M, closed 7.35M, open 6.60M, branching 1.9, key 41/95, freemem 2.1B]
+[set 14.9M, closed 7.87M, open 6.99M, branching 1.9, key 37/95, freemem 2.4B]
+[set 15.8M, closed 8.39M, open 7.40M, branching 1.9, key 38/95, freemem 2.0B]
+[set 16.8M, closed 8.92M, open 7.83M, branching 1.9, key 34/95, freemem 1.6B]
+[set 17.8M, closed 9.44M, open 8.27M, branching 1.9, key 25/95, freemem 1.2B]
+[set 18.7M, closed 9.97M, open 8.70M, branching 1.9, key 23/95, freemem 1.9B]
+[set 19.7M, closed 10.5M, open 9.13M, branching 1.9, key 43/95, freemem 1.6B]
+[set 20.6M, closed 11.1M, open 9.57M, branching 1.9, key 30/95, freemem 1.8B]
+[set 21.5M, closed 11.6M, open 9.88M, branching 1.9, key 61/97, freemem 1.5B]
+[set 22.3M, closed 12.1M, open 10.2M, branching 1.8, key 54/97, freemem 1.7B]
+[set 23.2M, closed 12.6M, open 10.6M, branching 1.8, key 56/97, freemem 1.3B]
+[set 24.1M, closed 13.2M, open 10.9M, branching 1.8, key 50/97, freemem 1.6B]
+[set 24.9M, closed 13.7M, open 11.3M, branching 1.8, key 49/97, freemem 1.2B]
+[set 25.8M, closed 14.2M, open 11.7M, branching 1.8, key 48/97, freemem 3.2B]
+[set 26.7M, closed 14.7M, open 12.1M, branching 1.8, key 49/97, freemem 2.8B]
+[set 27.6M, closed 15.3M, open 12.4M, branching 1.8, key 45/97, freemem 2.4B]
+[set 28.5M, closed 15.8M, open 12.8M, branching 1.8, key 51/97, freemem 2.9B]
+[set 29.4M, closed 16.3M, open 13.2M, branching 1.8, key 43/97, freemem 3.1B]
+[set 30.4M, closed 16.8M, open 13.6M, branching 1.8, key 43/97, freemem 2.7B]
+[set 31.3M, closed 17.4M, open 14.0M, branching 1.8, key 42/97, freemem 2.9B]
+[set 32.3M, closed 17.9M, open 14.4M, branching 1.8, key 55/97, freemem 2.5B]
+[set 33.2M, closed 18.4M, open 14.8M, branching 1.8, key 41/97, freemem 2.7B]
+[set 34.2M, closed 18.9M, open 15.3M, branching 1.8, key 42/97, freemem 2.3B]
+[set 35.1M, closed 19.4M, open 15.7M, branching 1.8, key 40/97, freemem 2.5B]
+[set 36.1M, closed 20.0M, open 16.1M, branching 1.8, key 39/97, freemem 2.0B]
+[set 37.0M, closed 20.5M, open 16.6M, branching 1.8, key 42/97, freemem 2.2B]
+[set 38.0M, closed 21.0M, open 17.0M, branching 1.8, key 47/97, freemem 1.8B]
+[set 38.9M, closed 21.5M, open 17.4M, branching 1.8, key 37/97, freemem 2.0B]
+[set 39.9M, closed 22.1M, open 17.8M, branching 1.8, key 39/97, freemem 1.6B]
+[set 40.8M, closed 22.6M, open 18.3M, branching 1.8, key 36/97, freemem 1.2B]
+[set 41.7M, closed 23.1M, open 18.7M, branching 1.8, key 37/97, freemem 1.9B]
+[set 42.7M, closed 23.6M, open 19.1M, branching 1.8, key 41/97, freemem 1.5B]
+[set 43.6M, closed 24.2M, open 19.5M, branching 1.8, key 44/97, freemem 1.7B]
+[set 44.5M, closed 24.7M, open 19.9M, branching 1.8, key 36/97, freemem 1.3B]
+[set 45.1M, closed 25.0M, open 20.1M, branching 1.8, freemem 1.7B]
+Timed out after key: pushes 34, total 97
+FrozenBoxes 9.43M
+
+Level #11 [cells 36, boxes 6, alive 24, complexity 18.1]
+  ####     
+###  ####  
+#   @   #  
+# #. .#.###
+# $$$ $$$ #
+###.#.#.# #
+  #       #
+  ####  ###
+     ####  
+
+[set 21.2K, closed 13.7K, open 7.5K, branching 1.5, freemem 1.7B]
+Found solution in 28 pushes.
+FrozenBoxes 13.7K
+
+Level #12 [cells 99, boxes 15, alive 57, complexity 38.9]
+              #####        
+              #   #        
+    #####     #   #######  
+    #   ##### #   ..... #  
+##### # ##  # #     # # #  
+# $ $ $ $ $ # ##   ## $ #  
+# # ##......#### ### $$ ###
+#      ## * #    # #  $$  #
+##########+$$   ## #      #
+         #.$ $# #  ########
+         #.##   #          
+         ########          
+
+[set 802K, closed 524K, open 278K, branching 1.5, key 23/76, freemem 1.4B]
+[set 1.64M, closed 1.05M, open 583K, branching 1.6, key 42/78, freemem 1.6B]
+[set 2.51M, closed 1.58M, open 937K, branching 1.6, key 29/76, freemem 1.2B]
+[set 3.39M, closed 2.10M, open 1.29M, branching 1.6, key 23/78, freemem 4.2B]
+[set 4.26M, closed 2.63M, open 1.64M, branching 1.6, key 29/78, freemem 3.8B]
+[set 5.15M, closed 3.15M, open 2.00M, branching 1.6, key 33/78, freemem 3.4B]
+[set 6.04M, closed 3.68M, open 2.37M, branching 1.6, key 39/78, freemem 3.0B]
+[set 6.94M, closed 4.20M, open 2.74M, branching 1.7, key 25/72, freemem 3.7B]
+[set 7.84M, closed 4.72M, open 3.12M, branching 1.7, key 32/78, freemem 3.3B]
+[set 8.74M, closed 5.25M, open 3.50M, branching 1.7, key 32/78, freemem 3.6B]
+[set 9.47M, closed 5.77M, open 3.70M, branching 1.6, key 45/80, freemem 3.2B]
+[set 10.3M, closed 6.30M, open 3.99M, branching 1.6, key 43/80, freemem 3.4B]
+[set 11.2M, closed 6.82M, open 4.32M, branching 1.6, key 54/80, freemem 3.0B]
+[set 12.1M, closed 7.35M, open 4.67M, branching 1.6, key 35/80, freemem 3.2B]
+[set 13.0M, closed 7.87M, open 5.04M, branching 1.6, key 36/80, freemem 3.1B]
+[set 13.9M, closed 8.39M, open 5.42M, branching 1.6, key 40/80, freemem 2.7B]
+[set 14.8M, closed 8.92M, open 5.80M, branching 1.7, key 33/80, freemem 2.9B]
+[set 15.7M, closed 9.44M, open 6.19M, branching 1.7, key 35/80, freemem 2.5B]
+[set 16.6M, closed 9.97M, open 6.58M, branching 1.7, key 33/80, freemem 2.7B]
+[set 17.5M, closed 10.5M, open 6.96M, branching 1.7, key 44/80, freemem 2.3B]
+[set 18.4M, closed 11.1M, open 7.35M, branching 1.7, key 30/80, freemem 2.5B]
+[set 19.3M, closed 11.6M, open 7.73M, branching 1.7, key 38/78, freemem 2.7B]
+[set 20.2M, closed 12.1M, open 8.10M, branching 1.7, key 32/80, freemem 2.3B]
+[set 21.1M, closed 12.6M, open 8.47M, branching 1.7, key 44/78, freemem 2.5B]
+[set 22.0M, closed 13.2M, open 8.83M, branching 1.7, key 33/80, freemem 2.1B]
+[set 22.9M, closed 13.7M, open 9.18M, branching 1.7, key 30/78, freemem 2.3B]
+[set 23.7M, closed 14.2M, open 9.54M, branching 1.7, key 25/80, freemem 1.9B]
+[set 24.6M, closed 14.7M, open 9.88M, branching 1.7, key 39/80, freemem 2.1B]
+[set 25.5M, closed 15.3M, open 10.3M, branching 1.7, key 24/80, freemem 1.8B]
+[set 26.3M, closed 15.8M, open 10.6M, branching 1.7, key 28/78, freemem 1.4B]
+[set 27.2M, closed 16.3M, open 11.0M, branching 1.7, key 35/80, freemem 1.7B]
+[set 28.1M, closed 16.8M, open 11.3M, branching 1.7, key 36/80, freemem 1.3B]
+[set 28.9M, closed 17.4M, open 11.6M, branching 1.7, key 29/80, freemem 3.1B]
+[set 29.8M, closed 17.9M, open 12.0M, branching 1.7, key 35/80, freemem 2.7B]
+[set 30.7M, closed 18.4M, open 12.3M, branching 1.7, key 27/76, freemem 2.3B]
+[set 31.6M, closed 18.9M, open 12.7M, branching 1.7, key 28/80, freemem 1.9B]
+[set 32.4M, closed 19.4M, open 13.0M, branching 1.7, key 29/78, freemem 2.7B]
+[set 33.3M, closed 20.0M, open 13.4M, branching 1.7, key 32/78, freemem 2.3B]
+[set 34.2M, closed 20.5M, open 13.7M, branching 1.7, key 27/74, freemem 2.6B]
+[set 35.1M, closed 21.0M, open 14.1M, branching 1.7, key 38/80, freemem 2.2B]
+[set 36.0M, closed 21.5M, open 14.5M, branching 1.7, key 30/80, freemem 2.4B]
+[set 36.8M, closed 22.1M, open 14.8M, branching 1.7, key 30/80, freemem 2.0B]
+[set 37.7M, closed 22.6M, open 15.2M, branching 1.7, key 19/80, freemem 2.2B]
+[set 38.6M, closed 23.1M, open 15.6M, branching 1.7, key 23/74, freemem 2.4B]
+[set 39.6M, closed 23.6M, open 16.0M, branching 1.7, key 33/80, freemem 2.0B]
+[set 40.5M, closed 24.2M, open 16.3M, branching 1.7, key 48/82, freemem 1.7B]
+[set 41.4M, closed 24.7M, open 16.7M, branching 1.7, key 55/76, freemem 1.3B]
+[set 42.3M, closed 25.2M, open 17.1M, branching 1.7, key 46/82, freemem 2.0B]
+[set 43.2M, closed 25.7M, open 17.5M, branching 1.7, key 44/82, freemem 1.5B]
+[set 44.1M, closed 26.3M, open 17.9M, branching 1.7, key 44/82, freemem 1.7B]
+[set 45.0M, closed 26.8M, open 18.3M, branching 1.7, key 46/82, freemem 1.3B]
+[set 45.1M, closed 26.8M, open 18.3M, branching 1.7, freemem 1.3B]
+Timed out after key: pushes 47, total 82
+FrozenBoxes 21.7M
+
+Level #13 [cells 65, boxes 10, alive 39, complexity 27.6]
+   #######  
+ ###     ## 
+ #   ###  # 
+ #      # # 
+###$#@  # # 
+#   ##### # 
+#   #  *. # 
+##$$#  *.## 
+ #     *..# 
+ #### #...##
+    # #$$$ #
+    #   $  #
+    #####  #
+        ####
+
+[set 392K, closed 189K, open 203K, branching 2.1, freemem 1.7B]
+Found solution in 46 pushes.
+FrozenBoxes 181K
+
+Level #14 [cells 31, boxes 6, alive 15, complexity 13.9]
+ #######  
+##     #  
+#  *.$.#  
+#  *.#.###
+# #$@$$  #
+#   ## # #
+######   #
+     #####
+
+[set 550, closed 368, open 180, branching 1.5, freemem 1.7B]
+Found solution in 15 pushes.
+FrozenBoxes 269
+
+Level #15 [cells 31, boxes 6, alive 20, complexity 16.4]
+   ####  
+   #@ #  
+  ##  #  
+  # .$#  
+  #$. #  
+###..$###
+#  ..$  #
+# $ $ # #
+##### # #
+    #   #
+    #####
+
+[set 11.0K, closed 9.2K, open 1.8K, branching 1.2, freemem 1.7B]
+Found solution in 41 pushes.
+FrozenBoxes 12.4K
+
+Level #16 [cells 77, boxes 11, alive 51, complexity 32.5]
+    ####       
+   ##  #       
+  ##   ##      
+ ##   $.#      
+##  $ $.##     
+# #####. ##    
+#     $. @#    
+#     $. ####  
+### # #*# # ###
+  #### .$     #
+    #  .$     #
+    ## .##### #
+     ##.$ $  ##
+      #.$   ## 
+      ##   ##  
+       #  ##   
+       ####    
+
+[set 765K, closed 524K, open 241K, branching 1.5, key 20/38, freemem 1.4B]
+[set 1.51M, closed 1.05M, open 457K, branching 1.4, key 21/40, freemem 1.7B]
+[set 2.23M, closed 1.58M, open 651K, branching 1.4, key 16/40, freemem 1.4B]
+[set 2.97M, closed 2.10M, open 866K, branching 1.4, key 22/42, freemem 987.7M]
+[set 3.68M, closed 2.63M, open 1.06M, branching 1.4, key 20/42, freemem 4.1B]
+[set 4.37M, closed 3.15M, open 1.22M, branching 1.4, key 34/44, freemem 3.8B]
+[set 5.12M, closed 3.68M, open 1.45M, branching 1.4, key 25/44, freemem 4.0B]
+[set 5.83M, closed 4.20M, open 1.64M, branching 1.4, key 26/44, freemem 3.7B]
+[set 6.54M, closed 4.72M, open 1.82M, branching 1.4, key 22/44, freemem 3.9B]
+[set 7.24M, closed 5.25M, open 2.00M, branching 1.4, key 20/44, freemem 3.6B]
+[set 7.89M, closed 5.77M, open 2.12M, branching 1.4, key 20/44, freemem 3.9B]
+[set 8.61M, closed 6.30M, open 2.32M, branching 1.4, key 28/46, freemem 3.6B]
+[set 9.36M, closed 6.82M, open 2.54M, branching 1.4, key 28/46, freemem 3.2B]
+[set 10.1M, closed 7.35M, open 2.71M, branching 1.4, key 26/46, freemem 3.5B]
+[set 10.8M, closed 7.87M, open 2.89M, branching 1.4, key 24/46, freemem 3.2B]
+[set 11.5M, closed 8.39M, open 3.05M, branching 1.4, key 25/46, freemem 3.5B]
+[set 12.2M, closed 8.92M, open 3.21M, branching 1.4, key 22/46, freemem 3.2B]
+[set 12.9M, closed 9.44M, open 3.38M, branching 1.4, key 22/46, freemem 3.3B]
+[set 13.5M, closed 9.97M, open 3.51M, branching 1.4, key 19/46, freemem 3.0B]
+[set 14.2M, closed 10.5M, open 3.62M, branching 1.3, key 34/48, freemem 3.3B]
+[set 14.9M, closed 11.1M, open 3.84M, branching 1.3, key 30/48, freemem 2.9B]
+[set 15.6M, closed 11.6M, open 4.05M, branching 1.4, key 29/48, freemem 3.2B]
+[set 16.4M, closed 12.1M, open 4.25M, branching 1.4, key 29/48, freemem 2.9B]
+[set 17.0M, closed 12.6M, open 4.42M, branching 1.4, key 27/48, freemem 3.1B]
+[set 17.7M, closed 13.2M, open 4.58M, branching 1.3, key 27/48, freemem 2.8B]
+[set 18.4M, closed 13.7M, open 4.77M, branching 1.3, key 29/48, freemem 2.5B]
+[set 19.1M, closed 14.2M, open 4.91M, branching 1.3, key 25/48, freemem 2.8B]
+[set 19.8M, closed 14.7M, open 5.04M, branching 1.3, key 25/48, freemem 2.5B]
+[set 20.5M, closed 15.3M, open 5.21M, branching 1.3, key 25/48, freemem 2.7B]
+[set 21.1M, closed 15.8M, open 5.34M, branching 1.3, key 23/48, freemem 2.4B]
+[set 21.7M, closed 16.3M, open 5.44M, branching 1.3, key 24/48, freemem 2.7B]
+[set 22.4M, closed 16.8M, open 5.59M, branching 1.3, key 24/48, freemem 2.4B]
+[set 23.0M, closed 17.4M, open 5.67M, branching 1.3, key 19/48, freemem 2.0B]
+[set 23.7M, closed 17.9M, open 5.82M, branching 1.3, key 33/50, freemem 2.3B]
+[set 24.4M, closed 18.4M, open 6.01M, branching 1.3, key 32/50, freemem 2.0B]
+[set 25.1M, closed 18.9M, open 6.22M, branching 1.3, key 31/50, freemem 2.3B]
+[set 25.8M, closed 19.4M, open 6.37M, branching 1.3, key 30/50, freemem 2.1B]
+[set 26.6M, closed 20.0M, open 6.60M, branching 1.3, key 31/50, freemem 1.7B]
+[set 27.2M, closed 20.5M, open 6.73M, branching 1.3, key 29/50, freemem 1.4B]
+[set 28.0M, closed 21.0M, open 6.95M, branching 1.3, key 29/50, freemem 1.7B]
+[set 28.6M, closed 21.5M, open 7.05M, branching 1.3, key 28/50, freemem 1.3B]
+[set 29.3M, closed 22.1M, open 7.28M, branching 1.3, key 29/50, freemem 1.6B]
+[set 30.0M, closed 22.6M, open 7.38M, branching 1.3, key 28/50, freemem 1.3B]
+[set 30.7M, closed 23.1M, open 7.57M, branching 1.3, key 27/50, freemem 3.2B]
+[set 31.3M, closed 23.6M, open 7.70M, branching 1.3, key 30/50, freemem 2.9B]
+[set 32.0M, closed 24.2M, open 7.83M, branching 1.3, key 26/50, freemem 3.2B]
+[set 32.7M, closed 24.7M, open 7.98M, branching 1.3, key 28/50, freemem 2.8B]
+[set 33.3M, closed 25.2M, open 8.06M, branching 1.3, key 25/50, freemem 3.1B]
+[set 34.0M, closed 25.7M, open 8.24M, branching 1.3, key 28/50, freemem 2.8B]
+[set 34.6M, closed 26.3M, open 8.32M, branching 1.3, key 26/50, freemem 2.4B]
+[set 35.2M, closed 26.8M, open 8.46M, branching 1.3, key 24/50, freemem 2.7B]
+[set 35.9M, closed 27.3M, open 8.58M, branching 1.3, key 24/50, freemem 2.4B]
+[set 36.5M, closed 27.8M, open 8.66M, branching 1.3, key 22/50, freemem 2.7B]
+[set 37.1M, closed 28.4M, open 8.71M, branching 1.3, key 19/50, freemem 2.4B]
+[set 37.7M, closed 28.9M, open 8.85M, branching 1.3, key 37/52, freemem 2.7B]
+[set 38.4M, closed 29.4M, open 9.03M, branching 1.3, key 34/52, freemem 2.4B]
+[set 39.2M, closed 29.9M, open 9.23M, branching 1.3, key 34/52, freemem 2.1B]
+[set 39.8M, closed 30.5M, open 9.37M, branching 1.3, key 34/52, freemem 2.4B]
+[set 40.6M, closed 31.0M, open 9.59M, branching 1.3, key 34/52, freemem 2.1B]
+[set 41.3M, closed 31.5M, open 9.77M, branching 1.3, key 32/52, freemem 2.3B]
+[set 41.9M, closed 32.0M, open 9.83M, branching 1.3, key 31/52, freemem 2.0B]
+[set 42.7M, closed 32.6M, open 10.2M, branching 1.3, key 32/52, freemem 2.3B]
+[set 43.4M, closed 33.1M, open 10.3M, branching 1.3, key 35/52, freemem 1.9B]
+[set 43.9M, closed 33.6M, open 10.4M, branching 1.3, key 33/52, freemem 1.6B]
+[set 44.7M, closed 34.1M, open 10.6M, branching 1.3, key 31/52, freemem 1.9B]
+[set 45.1M, closed 34.4M, open 10.7M, branching 1.3, freemem 1.7B]
+Timed out after key: pushes 31, total 52
+FrozenBoxes 38.6M
+
+Level #17 [cells 106, boxes 13, alive 80, complexity 42.1]
+    ###########        
+   ## . . . . ###      
+   #  $$ $ $ $  #      
+   #   ######## # #####
+ #### ##  $     # #   #
+ #    #  $ $ #  ### # #
+##  # #   ####     $  #
+#...  ##### $  #### ###
+#... @     $     #    #
+#...############ $  $ #
+#####          #####  #
+                   ####
+
+[set 1.11M, closed 524K, open 579K, branching 2.1, key 49/220, freemem 1.9B]
+[set 2.22M, closed 1.05M, open 1.17M, branching 2.1, key 87/222, freemem 1.5B]
+[set 3.49M, closed 1.58M, open 1.91M, branching 2.2, key 122/222, freemem 1.6B]
+[set 4.72M, closed 2.10M, open 2.62M, branching 2.2, key 102/222, freemem 4.3B]
+[set 5.91M, closed 2.63M, open 3.29M, branching 2.3, key 84/222, freemem 3.9B]
+[set 7.07M, closed 3.15M, open 3.93M, branching 2.2, key 86/222, freemem 3.3B]
+[set 8.21M, closed 3.68M, open 4.54M, branching 2.2, key 88/222, freemem 4.0B]
+[set 9.33M, closed 4.20M, open 5.14M, branching 2.2, key 84/222, freemem 3.5B]
+[set 10.5M, closed 4.72M, open 5.71M, branching 2.2, key 89/222, freemem 3.7B]
+[set 11.5M, closed 5.25M, open 6.26M, branching 2.2, key 81/222, freemem 3.3B]
+[set 12.6M, closed 5.77M, open 6.77M, branching 2.2, key 78/222, freemem 3.4B]
+[set 13.6M, closed 6.30M, open 7.29M, branching 2.2, key 81/222, freemem 3.4B]
+[set 14.7M, closed 6.82M, open 7.81M, branching 2.1, key 75/222, freemem 3.0B]
+[set 15.7M, closed 7.35M, open 8.32M, branching 2.1, key 84/222, freemem 3.2B]
+[set 16.7M, closed 7.87M, open 8.82M, branching 2.1, key 95/222, freemem 2.7B]
+[set 17.7M, closed 8.39M, open 9.31M, branching 2.1, key 67/222, freemem 2.9B]
+[set 18.8M, closed 8.92M, open 9.79M, branching 2.1, key 68/222, freemem 2.5B]
+[set 19.8M, closed 9.44M, open 10.3M, branching 2.1, key 78/222, freemem 2.7B]
+[set 20.8M, closed 9.97M, open 10.8M, branching 2.1, key 99/222, freemem 2.8B]
+[set 21.7M, closed 10.5M, open 11.3M, branching 2.1, key 79/222, freemem 2.4B]
+[set 22.8M, closed 11.1M, open 11.8M, branching 2.1, key 67/222, freemem 2.6B]
+[set 23.8M, closed 11.6M, open 12.2M, branching 2.1, key 98/222, freemem 2.2B]
+[set 24.8M, closed 12.1M, open 12.7M, branching 2.1, key 67/222, freemem 2.3B]
+[set 25.8M, closed 12.6M, open 13.2M, branching 2.0, key 83/222, freemem 2.0B]
+[set 26.8M, closed 13.2M, open 13.7M, branching 2.0, key 68/222, freemem 1.6B]
+[set 27.8M, closed 13.7M, open 14.1M, branching 2.0, key 81/222, freemem 1.8B]
+[set 28.8M, closed 14.2M, open 14.7M, branching 2.0, key 69/222, freemem 1.4B]
+[set 29.9M, closed 14.7M, open 15.2M, branching 2.0, key 89/222, freemem 1.5B]
+[set 30.9M, closed 15.3M, open 15.7M, branching 2.0, key 70/222, freemem 1.8B]
+[set 31.9M, closed 15.8M, open 16.2M, branching 2.0, key 58/220, freemem 1.4B]
+[set 33.0M, closed 16.3M, open 16.7M, branching 2.0, key 65/222, freemem 2.2B]
+[set 34.1M, closed 16.8M, open 17.3M, branching 2.0, key 86/222, freemem 1.8B]
+[set 35.1M, closed 17.4M, open 17.8M, branching 2.0, key 58/222, freemem 1.5B]
+[set 36.1M, closed 17.9M, open 18.3M, branching 2.0, key 70/222, freemem 1.1B]
+[set 37.2M, closed 18.4M, open 18.8M, branching 2.0, key 68/222, freemem 1.6B]
+[set 38.3M, closed 18.9M, open 19.4M, branching 2.0, key 58/222, freemem 1.2B]
+[set 39.3M, closed 19.4M, open 19.9M, branching 2.0, key 68/222, freemem 1.4B]
+[set 40.3M, closed 20.0M, open 20.4M, branching 2.0, key 68/222, freemem 1.6B]
+[set 41.4M, closed 20.5M, open 20.9M, branching 2.0, key 67/222, freemem 1.2B]
+[set 42.4M, closed 21.0M, open 21.4M, branching 2.0, key 78/222, freemem 1.4B]
+[set 43.4M, closed 21.5M, open 21.9M, branching 2.0, key 65/222, freemem 923.7M]
+[set 44.4M, closed 22.1M, open 22.4M, branching 2.0, key 63/222, freemem 1.1B]
+[set 45.1M, closed 22.4M, open 22.7M, branching 2.0, freemem 854.7M]
+Timed out after key: pushes 63, total 222
+FrozenBoxes 30.9M
+
+Level #18 [cells 70, boxes 24, alive 64, complexity 47.6]
+    ####
+#####  #
+#      #
+#$ $ $ #
+#.*.*.*#
+#*.*.*.#
+# $ $ $#
+#......#
+#.*.*.*#
+#$ $ $ #
+# $ $ $#
+#$ $ $ #
+#      #
+#@ #####
+####    
+
+[set 2.29M, closed 524K, open 1.76M, branching 4.4, key 17/34, freemem 4.1B]
+[set 4.70M, closed 1.05M, open 3.65M, branching 4.5, key 24/36, freemem 3.7B]
+[set 6.43M, closed 1.58M, open 4.86M, branching 4.1, key 20/36, freemem 3.3B]
+[set 8.42M, closed 2.10M, open 6.32M, branching 4.0, key 19/36, freemem 2.9B]
+[set 10.5M, closed 2.63M, open 7.85M, branching 4.0, key 18/36, freemem 3.1B]
+[set 12.7M, closed 3.15M, open 9.46M, branching 4.0, key 17/36, freemem 2.6B]
+[set 14.9M, closed 3.68M, open 11.2M, branching 4.0, key 16/36, freemem 2.7B]
+[set 17.1M, closed 4.20M, open 12.9M, branching 4.1, key 16/36, freemem 2.3B]
+[set 19.4M, closed 4.72M, open 14.7M, branching 4.1, key 14/36, freemem 1.8B]
+[set 21.8M, closed 5.25M, open 16.5M, branching 4.1, key 12/36, freemem 1.9B]
+[set 24.2M, closed 5.77M, open 18.4M, branching 4.2, key 10/36, freemem 1.5B]
+[set 26.7M, closed 6.30M, open 20.4M, branching 4.2, key 28/38, freemem 1.1B]
+[set 28.0M, closed 6.82M, open 21.2M, branching 4.1, key 24/38, freemem 2.6B]
+[set 29.4M, closed 7.35M, open 22.1M, branching 4.0, key 23/38, freemem 2.4B]
+[set 31.1M, closed 7.87M, open 23.2M, branching 3.9, key 23/38, freemem 1.6B]
+[set 32.7M, closed 8.39M, open 24.3M, branching 3.9, key 22/38, freemem 2.5B]
+[set 34.4M, closed 8.92M, open 25.5M, branching 3.9, key 22/38, freemem 2.2B]
+[set 35.8M, closed 9.44M, open 26.4M, branching 3.8, key 24/38, freemem 1.9B]
+[set 37.8M, closed 9.97M, open 27.9M, branching 3.8, key 21/38, freemem 1.6B]
+[set 39.5M, closed 10.5M, open 29.1M, branching 3.8, key 21/38, freemem 1.9B]
+[set 41.0M, closed 11.1M, open 30.0M, branching 3.7, key 21/38, freemem 1.6B]
+[set 43.1M, closed 11.6M, open 31.5M, branching 3.7, key 20/38, freemem 1.4B]
+[set 45.0M, closed 12.1M, open 32.9M, branching 3.7, key 20/38, freemem 955.1M]
+[set 45.1M, closed 12.1M, open 33.0M, branching 3.7, freemem 930.5M]
+Timed out after key: pushes 20, total 38
+FrozenBoxes 29.5M
+
+Level #19 [cells 99, boxes 7, alive 64, complexity 28.8]
+#####                    
+#   #######              
+#  $      ##             
+## ######  ##            
+ # #    # # ########     
+ # # ##    $       ##    
+ # #.   #@###### $  ##   
+ # #.#  ###    ## $  ##  
+ # #.    #      ## $  ## 
+ # #.#   #       ## $  ##
+## #.#  ##        ## $  #
+#  #.#   #         ##   #
+#   .# # #          #####
+######   #               
+     #####               
+
+[set 622K, closed 524K, open 97.5K, branching 1.2, key 117/165, freemem 4.3B]
+[set 1.26M, closed 1.05M, open 203K, branching 1.2, key 106/167, freemem 4.1B]
+[set 1.89M, closed 1.58M, open 308K, branching 1.2, key 90/167, freemem 3.9B]
+[set 2.51M, closed 2.10M, open 407K, branching 1.2, key 120/169, freemem 3.7B]
+[set 3.11M, closed 2.63M, open 488K, branching 1.2, key 118/169, freemem 3.5B]
+[set 3.74M, closed 3.15M, open 592K, branching 1.2, key 104/169, freemem 3.2B]
+[set 4.36M, closed 3.68M, open 684K, branching 1.2, key 140/171, freemem 3.0B]
+[set 4.97M, closed 4.20M, open 767K, branching 1.2, key 126/171, freemem 3.9B]
+[set 5.57M, closed 4.72M, open 844K, branching 1.2, key 100/171, freemem 3.7B]
+[set 6.19M, closed 5.25M, open 942K, branching 1.2, key 114/171, freemem 3.5B]
+[set 6.81M, closed 5.77M, open 1.05M, branching 1.2, key 128/173, freemem 3.8B]
+[set 7.43M, closed 6.30M, open 1.14M, branching 1.2, key 137/173, freemem 3.6B]
+[set 8.04M, closed 6.82M, open 1.22M, branching 1.2, key 115/173, freemem 3.4B]
+[set 8.63M, closed 7.35M, open 1.29M, branching 1.2, key 103/173, freemem 3.1B]
+[set 9.24M, closed 7.87M, open 1.38M, branching 1.2, key 93/173, freemem 3.6B]
+[set 9.85M, closed 8.39M, open 1.46M, branching 1.2, key 156/175, freemem 3.3B]
+[set 10.5M, closed 8.92M, open 1.59M, branching 1.2, key 126/175, freemem 3.1B]
+[set 11.2M, closed 9.44M, open 1.68M, branching 1.2, key 129/175, freemem 2.9B]
+[set 11.8M, closed 9.97M, open 1.77M, branching 1.2, key 127/175, freemem 2.6B]
+[set 12.4M, closed 10.5M, open 1.83M, branching 1.2, key 123/175, freemem 2.4B]
+[set 12.9M, closed 11.1M, open 1.89M, branching 1.2, key 99/175, freemem 3.1B]
+[set 13.6M, closed 11.6M, open 1.98M, branching 1.2, key 111/175, freemem 2.9B]
+[set 14.2M, closed 12.1M, open 2.06M, branching 1.2, key 139/177, freemem 2.7B]
+[set 14.8M, closed 12.6M, open 2.17M, branching 1.2, key 128/177, freemem 2.9B]
+[set 15.4M, closed 13.2M, open 2.26M, branching 1.2, key 138/177, freemem 2.7B]
+[set 16.0M, closed 13.7M, open 2.33M, branching 1.2, key 117/177, freemem 2.5B]
+[set 16.6M, closed 14.2M, open 2.39M, branching 1.2, key 112/177, freemem 2.9B]
+[set 17.2M, closed 14.7M, open 2.45M, branching 1.2, key 105/177, freemem 2.6B]
+[set 17.8M, closed 15.3M, open 2.51M, branching 1.2, key 94/177, freemem 2.4B]
+[set 18.4M, closed 15.8M, open 2.60M, branching 1.2, key 146/179, freemem 2.2B]
+[set 19.0M, closed 16.3M, open 2.70M, branching 1.2, key 135/179, freemem 1.9B]
+[set 19.6M, closed 16.8M, open 2.80M, branching 1.2, key 128/179, freemem 1.6B]
+[set 20.2M, closed 17.4M, open 2.88M, branching 1.2, key 123/179, freemem 2.5B]
+[set 20.8M, closed 17.9M, open 2.95M, branching 1.2, key 128/179, freemem 2.3B]
+[set 21.4M, closed 18.4M, open 3.00M, branching 1.2, key 113/179, freemem 2.0B]
+[set 22.0M, closed 18.9M, open 3.05M, branching 1.2, key 108/179, freemem 2.4B]
+[set 22.5M, closed 19.4M, open 3.09M, branching 1.2, key 108/179, freemem 2.2B]
+[set 23.1M, closed 20.0M, open 3.17M, branching 1.2, key 150/181, freemem 1.9B]
+[set 23.8M, closed 20.5M, open 3.28M, branching 1.2, key 140/181, freemem 2.2B]
+[set 24.4M, closed 21.0M, open 3.37M, branching 1.2, key 132/181, freemem 1.9B]
+[set 25.0M, closed 21.5M, open 3.46M, branching 1.2, key 127/181, freemem 2.3B]
+[set 25.6M, closed 22.1M, open 3.52M, branching 1.2, key 122/181, freemem 1.7B]
+[set 26.2M, closed 22.6M, open 3.57M, branching 1.2, key 117/181, freemem 1.9B]
+[set 26.7M, closed 23.1M, open 3.61M, branching 1.2, key 114/181, freemem 1.6B]
+[set 27.3M, closed 23.6M, open 3.64M, branching 1.2, key 106/181, freemem 1.4B]
+[set 27.8M, closed 24.2M, open 3.67M, branching 1.2, key 92/181, freemem 3.5B]
+[set 28.1M, closed 24.4M, open 3.69M, branching 1.2, freemem 3.4B]
+Found solution in 183 pushes.
+FrozenBoxes 5.72M
+
+Level #20 [cells 30, boxes 9, alive 24, complexity 19.8]
+     ####
+     #  #
+######$.#
+#   $ $.#
+# $@$...#
+# $$$..##
+#  $ ..# 
+######## 
+
+[set 71.5K, closed 54.3K, open 17.3K, branching 1.3, freemem 3.3B]
+Found solution in 36 pushes.
+FrozenBoxes 82.2K
+
+Level #21 [cells 40, boxes 8, alive 28, complexity 21.4]
+##### ######## 
+#   ### . $  # 
+#   $ *.. #$ ##
+## $# ..* $  @#
+ #  $ . ###   #
+ ######## #####
+
+[set 63.9K, closed 36.2K, open 27.8K, branching 1.8, freemem 3.3B]
+Found solution in 36 pushes.
+FrozenBoxes 22.7K
+
+Level #22 [cells 76, boxes 8, alive 36, complexity 24.8]
+   ##### ####  
+   #@ .###  ###
+####  $$ $    #
+#   # . . ##  #
+#  $ # . . ## #
+## .  $ $$  # #
+ # #  ###.  # #
+ # #### ##### #
+ #       #    #
+ ####### # ####
+       # .$ #  
+       ##   #  
+        #####  
+
+[set 596K, closed 297K, open 299K, branching 2.0, freemem 3.0B]
+Found solution in 36 pushes.
+FrozenBoxes 164K
+
+Level #23 [cells 71, boxes 14, alive 53, complexity 36.2]
+     #######     
+######     ######
+#  . ..$#$.. .  #
+#  $ $  .  $ $  #
+###$####@####$###
+#  $ $  .  $ $  #
+#  . ..$#$.. .  #
+######     ######
+     #######     
+
+[set 1.71M, closed 524K, open 1.18M, branching 3.2, key 32/64, freemem 3.0B]
+[set 3.26M, closed 1.05M, open 2.21M, branching 3.1, key 40/66, freemem 2.8B]
+[set 4.65M, closed 1.58M, open 3.08M, branching 3.0, key 31/66, freemem 2.8B]
+[set 5.96M, closed 2.10M, open 3.86M, branching 2.8, key 28/66, freemem 2.2B]
+[set 7.30M, closed 2.63M, open 4.68M, branching 2.8, key 30/66, freemem 2.6B]
+[set 8.66M, closed 3.15M, open 5.51M, branching 2.8, key 33/66, freemem 2.0B]
+[set 10.1M, closed 3.68M, open 6.39M, branching 2.7, key 21/66, freemem 2.0B]
+[set 11.5M, closed 4.20M, open 7.28M, branching 2.7, key 22/66, freemem 1.9B]
+[set 13.0M, closed 4.72M, open 8.21M, branching 2.7, key 18/66, freemem 1.8B]
+[set 14.5M, closed 5.25M, open 9.17M, branching 2.7, key 19/66, freemem 1.6B]
+[set 15.9M, closed 5.77M, open 10.2M, branching 2.8, key 28/66, freemem 4.2B]
+[set 17.4M, closed 6.30M, open 11.1M, branching 2.8, key 40/68, freemem 4.2B]
+[set 18.7M, closed 6.82M, open 11.9M, branching 2.7, key 37/68, freemem 4.1B]
+[set 20.0M, closed 7.35M, open 12.7M, branching 2.7, key 35/68, freemem 4.1B]
+[set 21.4M, closed 7.87M, open 13.5M, branching 2.7, key 35/68, freemem 3.5B]
+[set 22.8M, closed 8.39M, open 14.4M, branching 2.7, key 33/68, freemem 3.0B]
+[set 24.3M, closed 8.92M, open 15.3M, branching 2.7, key 33/68, freemem 3.3B]
+[set 25.7M, closed 9.44M, open 16.2M, branching 2.7, key 31/68, freemem 3.1B]
+[set 27.1M, closed 9.97M, open 17.1M, branching 2.7, key 31/68, freemem 2.8B]
+[set 28.6M, closed 10.5M, open 18.1M, branching 2.7, key 31/68, freemem 2.8B]
+[set 30.0M, closed 11.1M, open 19.0M, branching 2.7, key 30/68, freemem 2.7B]
+[set 31.5M, closed 11.6M, open 19.9M, branching 2.7, key 35/68, freemem 2.7B]
+[set 32.9M, closed 12.1M, open 20.9M, branching 2.7, key 37/68, freemem 2.6B]
+[set 34.4M, closed 12.6M, open 21.9M, branching 2.7, key 30/68, freemem 2.0B]
+[set 35.9M, closed 13.2M, open 22.8M, branching 2.7, key 37/68, freemem 2.0B]
+[set 37.3M, closed 13.7M, open 23.7M, branching 2.7, key 33/68, freemem 1.9B]
+[set 38.8M, closed 14.2M, open 24.6M, branching 2.7, key 27/68, freemem 1.9B]
+[set 40.2M, closed 14.7M, open 25.5M, branching 2.7, key 27/68, freemem 1.8B]
+[set 41.8M, closed 15.3M, open 26.6M, branching 2.7, key 40/68, freemem 1.7B]
+[set 43.3M, closed 15.8M, open 27.5M, branching 2.7, key 27/68, freemem 1.7B]
+[set 44.6M, closed 16.3M, open 28.4M, branching 2.7, key 28/68, freemem 1.1B]
+[set 45.1M, closed 16.5M, open 28.6M, branching 2.7, freemem 1.4B]
+Timed out after key: pushes 25, total 68
+FrozenBoxes 49.4M
+
+Level #24 [cells 75, boxes 13, alive 56, complexity 36.2]
+        ##### 
+        #   ##
+  ####### $  #
+  # $ $ $ #$ #
+  #   #. $   #
+ ####.#.# $###
+ #   ..... #  
+ #  $ ..##$#  
+### ## ..  #  
+#  $.#$ # $#  
+#   $   #  #  
+##@  #  ####  
+ ##  ####     
+  ####        
+
+[set 1.29M, closed 524K, open 765K, branching 2.5, key 40/82, freemem 890.8M]
+[set 2.72M, closed 1.05M, open 1.67M, branching 2.6, key 38/82, freemem 4.2B]
+[set 4.08M, closed 1.58M, open 2.51M, branching 2.6, key 34/82, freemem 3.7B]
+[set 5.36M, closed 2.10M, open 3.27M, branching 2.6, key 34/82, freemem 3.8B]
+[set 6.82M, closed 2.63M, open 4.19M, branching 2.6, key 38/82, freemem 3.8B]
+[set 8.27M, closed 3.15M, open 5.13M, branching 2.6, key 40/82, freemem 3.3B]
+[set 9.49M, closed 3.68M, open 5.82M, branching 2.6, key 25/82, freemem 2.9B]
+[set 10.9M, closed 4.20M, open 6.70M, branching 2.6, key 43/82, freemem 3.4B]
+[set 12.4M, closed 4.72M, open 7.67M, branching 2.6, key 31/82, freemem 2.9B]
+[set 13.8M, closed 5.25M, open 8.50M, branching 2.6, key 41/82, freemem 2.3B]
+[set 15.1M, closed 5.77M, open 9.30M, branching 2.6, key 44/82, freemem 2.9B]
+[set 15.4M, closed 5.89M, open 9.48M, branching 2.6, freemem 2.8B]
+Found solution in 82 pushes.
+FrozenBoxes 5.74M
+
+Level #25 [cells 87, boxes 19, alive 71, complexity 47.2]
+         ####     
+     #####  ##### 
+     #  .#$   $ # 
+     # #. $$$ @ ##
+     #  .#$   $  #
+     ###.#  $ $  #
+       #.  ##$ ###
+ #######*###.$ #  
+ # $    ....####  
+## #$#$$....#     
+#  $ $   #..#     
+#     $  #..#     
+#  ##########     
+####              
+
+[set 1.38M, closed 524K, open 846K, branching 2.6, key 17/156, freemem 2.8B]
+[set 2.69M, closed 1.05M, open 1.64M, branching 2.6, key 35/158, freemem 2.2B]
+[set 3.93M, closed 1.58M, open 2.36M, branching 2.5, key 33/158, freemem 2.1B]
+[set 5.35M, closed 2.10M, open 3.25M, branching 2.5, key 34/158, freemem 2.1B]
+[set 6.92M, closed 2.63M, open 4.30M, branching 2.6, key 31/158, freemem 2.1B]
+[set 8.42M, closed 3.15M, open 5.28M, branching 2.7, key 61/158, freemem 2.0B]
+[set 10.1M, closed 3.68M, open 6.34M, branching 2.7, key 28/158, freemem 1.9B]
+[set 11.5M, closed 4.20M, open 7.29M, branching 2.7, key 67/158, freemem 4.5B]
+[set 13.1M, closed 4.72M, open 8.36M, branching 2.8, key 26/158, freemem 4.2B]
+[set 14.6M, closed 5.25M, open 9.35M, branching 2.8, key 24/158, freemem 3.6B]
+[set 16.1M, closed 5.77M, open 10.3M, branching 2.8, key 59/158, freemem 3.6B]
+[set 17.7M, closed 6.30M, open 11.4M, branching 2.8, key 34/158, freemem 3.5B]
+[set 19.2M, closed 6.82M, open 12.4M, branching 2.8, key 55/158, freemem 3.5B]
+[set 20.9M, closed 7.35M, open 13.6M, branching 2.8, key 22/158, freemem 3.3B]
+[set 22.7M, closed 7.87M, open 14.8M, branching 2.9, key 51/158, freemem 2.8B]
+[set 24.3M, closed 8.39M, open 15.9M, branching 2.9, key 56/158, freemem 3.1B]
+[set 25.8M, closed 8.92M, open 16.9M, branching 2.9, key 47/158, freemem 2.7B]
+[set 27.7M, closed 9.44M, open 18.3M, branching 2.9, key 23/158, freemem 2.3B]
+[set 29.4M, closed 9.97M, open 19.4M, branching 2.9, key 21/158, freemem 2.2B]
+[set 31.1M, closed 10.5M, open 20.7M, branching 3.0, key 49/158, freemem 2.1B]
+[set 32.8M, closed 11.1M, open 21.8M, branching 3.0, key 25/158, freemem 2.0B]
+[set 34.5M, closed 11.6M, open 22.9M, branching 3.0, key 43/158, freemem 1.9B]
+[set 36.2M, closed 12.1M, open 24.2M, branching 3.0, key 61/158, freemem 1.8B]
+[set 37.9M, closed 12.6M, open 25.4M, branching 3.0, key 42/158, freemem 2.2B]
+[set 39.6M, closed 13.2M, open 26.5M, branching 3.0, key 50/158, freemem 2.1B]
+[set 41.3M, closed 13.7M, open 27.6M, branching 3.0, key 31/158, freemem 1.5B]
+[set 43.0M, closed 14.2M, open 28.8M, branching 3.0, key 21/158, freemem 1.4B]
+[set 44.8M, closed 14.7M, open 30.1M, branching 3.0, key 36/158, freemem 585.9M]
+[set 45.1M, closed 14.8M, open 30.3M, branching 3.0, freemem 487.3M]
+Timed out after key: pushes 29, total 158
+FrozenBoxes 32.8M
+
+Level #26 [cells 75, boxes 12, alive 66, complexity 37.4]
+          ####   
+###########  #   
+#  $ $ $ $   #   
+#  # # # # #$#   
+##. . . . . .#   
+ #$# # # # #$####
+ #. . . . . .   #
+ #$# # # # # @  #
+ #   $ $ $ $  ###
+ #  ###########  
+ ####            
+
+[set 2.24M, closed 524K, open 1.72M, branching 4.3, key 57/196, freemem 1.4B]
+[set 4.28M, closed 1.05M, open 3.24M, branching 4.1, key 75/198, freemem 4.2B]
+[set 5.76M, closed 1.58M, open 4.19M, branching 3.7, key 66/198, freemem 3.4B]
+[set 7.15M, closed 2.10M, open 5.05M, branching 3.4, key 61/198, freemem 3.7B]
+[set 8.52M, closed 2.63M, open 5.89M, branching 3.2, key 57/198, freemem 3.5B]
+[set 9.82M, closed 3.15M, open 6.68M, branching 3.1, key 53/198, freemem 3.3B]
+[set 11.2M, closed 3.68M, open 7.45M, branching 3.0, key 49/198, freemem 3.1B]
+[set 12.5M, closed 4.20M, open 8.21M, branching 3.0, key 44/198, freemem 3.0B]
+[set 14.1M, closed 4.72M, open 9.36M, branching 3.0, key 93/198, freemem 3.2B]
+[set 16.2M, closed 5.25M, open 11.0M, branching 3.1, key 95/198, freemem 2.9B]
+[set 18.4M, closed 5.77M, open 12.7M, branching 3.2, key 97/198, freemem 2.6B]
+[set 20.4M, closed 6.30M, open 14.2M, branching 3.2, key 101/198, freemem 2.4B]
+[set 22.8M, closed 6.82M, open 16.0M, branching 3.3, key 97/198, freemem 2.1B]
+[set 24.9M, closed 7.35M, open 17.5M, branching 3.4, key 71/198, freemem 1.9B]
+[set 26.8M, closed 7.87M, open 18.9M, branching 3.4, key 79/198, freemem 1.7B]
+[set 29.0M, closed 8.39M, open 20.6M, branching 3.5, key 74/198, freemem 2.9B]
+[set 31.0M, closed 8.92M, open 22.1M, branching 3.5, key 71/198, freemem 2.6B]
+[set 33.2M, closed 9.44M, open 23.8M, branching 3.5, key 60/198, freemem 2.4B]
+[set 35.4M, closed 9.97M, open 25.4M, branching 3.5, key 91/198, freemem 1.7B]
+[set 37.5M, closed 10.5M, open 27.0M, branching 3.6, key 82/198, freemem 1.8B]
+[set 39.8M, closed 11.1M, open 28.8M, branching 3.6, key 69/198, freemem 1.6B]
+[set 42.2M, closed 11.6M, open 30.7M, branching 3.7, key 88/198, freemem 1.3B]
+[set 44.3M, closed 12.1M, open 32.3M, branching 3.7, key 80/198, freemem 1.1B]
+[set 45.1M, closed 12.3M, open 32.8M, branching 3.7, freemem 1.4B]
+Timed out after key: pushes 60, total 198
+FrozenBoxes 44.9M
+
+Level #27 [cells 165, boxes 12, alive 86, complexity 42.0]
+      ########          
+ ######      ########## 
+## $     ###          ##
+# $ $ ## #  #########  #
+#  $  #              # #
+# $ $ # #  ######### # #
+#  $  #  # #. . . .  # #
+# $ $ # #    . . . .## #
+#  $  # # # . . . . #  #
+##$ $## #  #### # #   ##
+ #   #@ #       #  #### 
+ ######  #####  #  #    
+      ##     #  #  #    
+       #####  ##  ##    
+           ##    ##     
+            ######      
+
+[set 1.70M, closed 524K, open 1.18M, branching 3.2, key 47/260, freemem 4.3B]
+[set 4.04M, closed 1.05M, open 2.99M, branching 3.8, key 50/260, freemem 3.9B]
+[set 5.97M, closed 1.58M, open 4.40M, branching 3.8, key 42/260, freemem 3.7B]
+[set 8.02M, closed 2.10M, open 5.92M, branching 3.8, key 93/260, freemem 3.5B]
+[set 9.88M, closed 2.63M, open 7.26M, branching 3.8, key 115/260, freemem 3.3B]
+[set 11.9M, closed 3.15M, open 8.70M, branching 3.8, key 187/260, freemem 3.1B]
+[set 14.2M, closed 3.68M, open 10.5M, branching 3.9, key 155/260, freemem 2.7B]
+[set 16.7M, closed 4.20M, open 12.5M, branching 4.0, key 159/260, freemem 2.4B]
+[set 19.1M, closed 4.72M, open 14.4M, branching 4.0, key 160/260, freemem 2.1B]
+[set 21.2M, closed 5.25M, open 15.9M, branching 4.0, key 186/260, freemem 2.0B]
+[set 23.3M, closed 5.77M, open 17.6M, branching 4.0, key 155/260, freemem 1.8B]
+[set 25.8M, closed 6.30M, open 19.5M, branching 4.1, key 155/260, freemem 1.5B]
+[set 28.1M, closed 6.82M, open 21.3M, branching 4.1, key 163/260, freemem 1.3B]
+[set 30.3M, closed 7.35M, open 23.0M, branching 4.1, key 186/260, freemem 2.6B]
+[set 32.4M, closed 7.87M, open 24.5M, branching 4.1, key 160/260, freemem 2.4B]
+[set 34.7M, closed 8.39M, open 26.3M, branching 4.1, key 141/260, freemem 2.2B]
+[set 36.5M, closed 8.92M, open 27.6M, branching 4.1, key 174/260, freemem 1.5B]
+[set 38.4M, closed 9.44M, open 29.0M, branching 4.1, key 181/260, freemem 1.9B]
+[set 40.3M, closed 9.97M, open 30.4M, branching 4.0, key 163/260, freemem 1.2B]
+[set 42.4M, closed 10.5M, open 31.9M, branching 4.0, key 144/260, freemem 914.0M]
+[set 44.6M, closed 11.1M, open 33.6M, branching 4.1, key 154/260, freemem 1.2B]
+[set 45.1M, closed 11.2M, open 33.9M, branching 4.1, freemem 1.1B]
+Timed out after key: pushes 156, total 260
+FrozenBoxes 18.6M
+
+Level #28 [cells 100, boxes 17, alive 64, complexity 43.1]
+       ######        
+       #    ###      
+   ##### $ $  #      
+####   #.#    #      
+#  $ #$#.##$#####    
+# $$. .#.$      #    
+#  $.#.#.#####  #### 
+##  ....... @#     # 
+ ####$ #.### #$###$##
+   # $  .  #  $ $ $ #
+   # $ ###          #
+   #   # ############
+   #####             
+
+[set 1.28M, closed 524K, open 746K, branching 2.4, key 28/110, freemem 4.3B]
+[set 2.57M, closed 1.05M, open 1.52M, branching 2.4, key 20/110, freemem 3.9B]
+[set 3.91M, closed 1.58M, open 2.34M, branching 2.5, key 30/110, freemem 3.4B]
+[set 5.23M, closed 2.10M, open 3.13M, branching 2.5, key 19/110, freemem 4.0B]
+[set 6.61M, closed 2.63M, open 3.98M, branching 2.5, key 10/110, freemem 3.5B]
+[set 7.98M, closed 3.15M, open 4.83M, branching 2.5, key 28/110, freemem 3.6B]
+[set 9.46M, closed 3.68M, open 5.79M, branching 2.6, key 18/110, freemem 3.1B]
+[set 11.0M, closed 4.20M, open 6.76M, branching 2.6, key 12/110, freemem 3.2B]
+[set 12.4M, closed 4.72M, open 7.60M, branching 2.6, key 47/112, freemem 3.2B]
+[set 13.7M, closed 5.25M, open 8.43M, branching 2.6, key 41/112, freemem 3.0B]
+[set 15.0M, closed 5.77M, open 9.22M, branching 2.6, key 46/112, freemem 2.4B]
+[set 16.3M, closed 6.30M, open 10.1M, branching 2.6, key 38/112, freemem 1.9B]
+[set 17.6M, closed 6.82M, open 10.8M, branching 2.6, key 40/112, freemem 2.5B]
+[set 18.9M, closed 7.35M, open 11.6M, branching 2.6, key 39/112, freemem 2.6B]
+[set 20.2M, closed 7.87M, open 12.4M, branching 2.6, key 41/112, freemem 2.1B]
+[set 21.5M, closed 8.39M, open 13.1M, branching 2.6, key 36/112, freemem 2.2B]
+[set 22.8M, closed 8.92M, open 13.9M, branching 2.6, key 39/112, freemem 2.3B]
+[set 24.2M, closed 9.44M, open 14.7M, branching 2.6, key 37/112, freemem 1.8B]
+[set 25.4M, closed 9.97M, open 15.5M, branching 2.5, key 33/112, freemem 1.6B]
+[set 26.8M, closed 10.5M, open 16.3M, branching 2.5, key 43/112, freemem 1.5B]
+[set 28.1M, closed 11.1M, open 17.1M, branching 2.5, key 32/112, freemem 3.2B]
+[set 29.4M, closed 11.6M, open 17.8M, branching 2.5, key 35/112, freemem 2.8B]
+[set 30.7M, closed 12.1M, open 18.6M, branching 2.5, key 34/112, freemem 2.8B]
+[set 32.0M, closed 12.6M, open 19.4M, branching 2.5, key 33/112, freemem 2.4B]
+[set 33.3M, closed 13.2M, open 20.2M, branching 2.5, key 31/112, freemem 2.4B]
+[set 34.6M, closed 13.7M, open 21.0M, branching 2.5, key 32/112, freemem 2.1B]
+[set 35.9M, closed 14.2M, open 21.7M, branching 2.5, key 36/112, freemem 1.7B]
+[set 37.2M, closed 14.7M, open 22.5M, branching 2.5, key 35/112, freemem 2.1B]
+[set 38.5M, closed 15.3M, open 23.3M, branching 2.5, key 35/112, freemem 2.2B]
+[set 39.8M, closed 15.8M, open 24.1M, branching 2.5, key 29/112, freemem 1.7B]
+[set 41.0M, closed 16.3M, open 24.8M, branching 2.5, key 30/112, freemem 1.8B]
+[set 42.3M, closed 16.8M, open 25.6M, branching 2.5, key 46/112, freemem 1.9B]
+[set 43.6M, closed 17.4M, open 26.3M, branching 2.5, key 32/112, freemem 1.5B]
+[set 44.9M, closed 17.9M, open 27.0M, branching 2.5, key 30/112, freemem 1.6B]
+[set 45.1M, closed 18.0M, open 27.1M, branching 2.5, freemem 1.5B]
+Timed out after key: pushes 31, total 112
+FrozenBoxes 15.7M
+
+Level #29 [cells 139, boxes 18, alive 93, complexity 52.5]
+####                  
+#  #              ####
+#  ######## #######  #
+#         ###  ##  $ #
+##.###### ...     #. #
+ #.#      # .#   # $ #
+ #$$$$#$$$ #.#   ##. #
+ #.# $   $ #..      ##
+ #.#  $  $   # #   ## 
+ #  #   $$ #   #####  
+ #.  ##$  ######      
+ #.   #  $.  #        
+##. @ ###.#$ #        
+#     # #    #        
+#    ## ######        
+######                
+
+[set 2.31M, closed 524K, open 1.79M, branching 4.4, key 54/128, freemem 4.1B]
+[set 4.41M, closed 1.05M, open 3.37M, branching 4.2, key 58/128, freemem 3.9B]
+[set 6.50M, closed 1.58M, open 4.93M, branching 4.1, key 59/128, freemem 3.6B]
+[set 8.58M, closed 2.10M, open 6.48M, branching 4.1, key 50/128, freemem 2.9B]
+[set 10.7M, closed 2.63M, open 8.05M, branching 4.1, key 51/128, freemem 3.2B]
+[set 12.8M, closed 3.15M, open 9.59M, branching 4.0, key 49/128, freemem 2.9B]
+[set 14.9M, closed 3.68M, open 11.2M, branching 4.0, key 49/128, freemem 2.7B]
+[set 17.0M, closed 4.20M, open 12.8M, branching 4.0, key 48/128, freemem 2.5B]
+[set 19.0M, closed 4.72M, open 14.3M, branching 4.0, key 45/128, freemem 2.3B]
+[set 21.1M, closed 5.25M, open 15.9M, branching 4.0, key 49/128, freemem 2.1B]
+[set 23.1M, closed 5.77M, open 17.4M, branching 4.0, key 38/128, freemem 1.9B]
+[set 25.2M, closed 6.30M, open 18.9M, branching 4.0, key 40/128, freemem 1.1B]
+[set 27.2M, closed 6.82M, open 20.4M, branching 4.0, key 72/130, freemem 1.4B]
+[set 28.4M, closed 7.35M, open 21.1M, branching 3.9, key 64/130, freemem 914.2M]
+[set 29.7M, closed 7.87M, open 21.8M, branching 3.8, key 65/130, freemem 987.0M]
+[set 31.0M, closed 8.39M, open 22.6M, branching 3.7, key 62/130, freemem 2.3B]
+[set 32.4M, closed 8.92M, open 23.5M, branching 3.6, key 61/130, freemem 1.8B]
+[set 33.7M, closed 9.44M, open 24.2M, branching 3.6, key 61/130, freemem 1.8B]
+[set 35.1M, closed 9.97M, open 25.1M, branching 3.5, key 60/130, freemem 1.8B]
+[set 36.4M, closed 10.5M, open 25.9M, branching 3.5, key 60/130, freemem 1.9B]
+[set 37.9M, closed 11.1M, open 26.9M, branching 3.4, key 59/130, freemem 1.3B]
+[set 39.3M, closed 11.6M, open 27.8M, branching 3.4, key 59/130, freemem 1.5B]
+[set 40.7M, closed 12.1M, open 28.7M, branching 3.4, key 60/130, freemem 1.5B]
+[set 42.2M, closed 12.6M, open 29.6M, branching 3.4, key 59/130, freemem 1.5B]
+[set 43.6M, closed 13.2M, open 30.5M, branching 3.3, key 58/130, freemem 849.7M]
+[set 45.1M, closed 13.7M, open 31.4M, branching 3.3, freemem 847.4M]
+Timed out after key: pushes 59, total 130
+FrozenBoxes 16.0M
+
+Level #30 [cells 97, boxes 13, alive 66, complexity 39.1]
+     #####                
+     #   #                
+     #   #        ######  
+   ###  ##        #    ###
+   #    #        ## #$$  #
+  ##$   ########## $  $  #
+###  ## ..........$  #$$@#
+#    # $$# ####### $     #
+#   $  #...#     ###  ####
+#   #   $ ###      ####   
+########    #             
+       #    #             
+       #    #             
+       ######             
+
+[set 976K, closed 524K, open 452K, branching 1.9, key 52/110, freemem 4.1B]
+[set 1.83M, closed 1.05M, open 778K, branching 1.7, key 51/110, freemem 4.2B]
+[set 2.65M, closed 1.58M, open 1.08M, branching 1.7, key 44/112, freemem 3.8B]
+[set 3.38M, closed 2.10M, open 1.29M, branching 1.6, key 34/112, freemem 3.3B]
+[set 4.56M, closed 2.63M, open 1.93M, branching 1.7, key 47/112, freemem 4.0B]
+[set 5.25M, closed 3.15M, open 2.10M, branching 1.7, key 49/114, freemem 3.5B]
+[set 5.94M, closed 3.68M, open 2.27M, branching 1.6, key 46/114, freemem 3.7B]
+[set 6.64M, closed 4.20M, open 2.45M, branching 1.6, key 40/114, freemem 3.2B]
+[set 7.43M, closed 4.72M, open 2.71M, branching 1.6, key 34/114, freemem 3.4B]
+[set 8.32M, closed 5.25M, open 3.08M, branching 1.6, key 63/114, freemem 3.6B]
+[set 9.67M, closed 5.77M, open 3.90M, branching 1.7, key 63/116, freemem 3.1B]
+[set 10.3M, closed 6.30M, open 3.96M, branching 1.6, key 53/116, freemem 3.3B]
+[set 10.9M, closed 6.82M, open 4.05M, branching 1.6, key 49/116, freemem 3.5B]
+[set 11.5M, closed 7.35M, open 4.16M, branching 1.6, key 49/116, freemem 3.1B]
+[set 12.2M, closed 7.87M, open 4.30M, branching 1.5, key 44/116, freemem 3.2B]
+[set 12.9M, closed 8.39M, open 4.46M, branching 1.5, key 42/116, freemem 3.2B]
+[set 13.7M, closed 8.92M, open 4.70M, branching 1.5, key 40/116, freemem 2.8B]
+[set 14.4M, closed 9.44M, open 4.95M, branching 1.5, key 37/116, freemem 2.9B]
+[set 15.2M, closed 9.97M, open 5.21M, branching 1.5, key 35/116, freemem 2.5B]
+[set 16.0M, closed 10.5M, open 5.49M, branching 1.5, key 30/116, freemem 2.1B]
+[set 17.3M, closed 11.1M, open 6.26M, branching 1.6, key 35/116, freemem 1.6B]
+[set 18.3M, closed 11.6M, open 6.77M, branching 1.6, key 60/118, freemem 2.3B]
+[set 18.9M, closed 12.1M, open 6.81M, branching 1.6, key 55/118, freemem 2.5B]
+[set 19.5M, closed 12.6M, open 6.85M, branching 1.5, key 54/118, freemem 2.1B]
+[set 20.1M, closed 13.2M, open 6.92M, branching 1.5, key 50/118, freemem 2.3B]
+[set 20.7M, closed 13.7M, open 6.98M, branching 1.5, key 49/118, freemem 1.9B]
+[set 21.3M, closed 14.2M, open 7.07M, branching 1.5, key 47/118, freemem 2.1B]
+[set 21.9M, closed 14.7M, open 7.15M, branching 1.5, key 45/118, freemem 2.3B]
+[set 22.5M, closed 15.3M, open 7.28M, branching 1.5, key 44/118, freemem 1.9B]
+[set 23.2M, closed 15.8M, open 7.41M, branching 1.5, key 44/118, freemem 1.7B]
+[set 24.0M, closed 16.3M, open 7.65M, branching 1.5, key 42/118, freemem 1.2B]
+[set 24.7M, closed 16.8M, open 7.91M, branching 1.5, key 49/118, freemem 1.9B]
+[set 25.5M, closed 17.4M, open 8.14M, branching 1.5, key 38/118, freemem 1.6B]
+[set 26.3M, closed 17.9M, open 8.46M, branching 1.5, key 37/118, freemem 1.6B]
+[set 27.1M, closed 18.4M, open 8.75M, branching 1.5, key 37/118, freemem 1.2B]
+[set 28.1M, closed 18.9M, open 9.21M, branching 1.5, key 38/118, freemem 1.4B]
+[set 29.1M, closed 19.4M, open 9.69M, branching 1.5, key 39/118, freemem 869.0M]
+[set 30.4M, closed 20.0M, open 10.4M, branching 1.5, key 57/118, freemem 993.1M]
+[set 31.7M, closed 20.5M, open 11.2M, branching 1.5, key 55/118, freemem 2.9B]
+[set 33.0M, closed 21.0M, open 12.0M, branching 1.6, key 57/118, freemem 2.4B]
+[set 34.5M, closed 21.5M, open 13.0M, branching 1.6, key 38/118, freemem 2.4B]
+[set 35.8M, closed 22.1M, open 13.8M, branching 1.6, key 51/118, freemem 2.5B]
+[set 37.1M, closed 22.6M, open 14.6M, branching 1.6, key 78/120, freemem 2.0B]
+[set 38.0M, closed 23.1M, open 14.9M, branching 1.6, key 67/120, freemem 2.1B]
+[set 38.9M, closed 23.6M, open 15.3M, branching 1.6, key 64/120, freemem 2.2B]
+[set 39.7M, closed 24.2M, open 15.6M, branching 1.6, key 65/120, freemem 1.7B]
+[set 40.6M, closed 24.7M, open 15.9M, branching 1.6, key 60/120, freemem 1.9B]
+[set 41.4M, closed 25.2M, open 16.2M, branching 1.6, key 59/120, freemem 2.0B]
+[set 42.2M, closed 25.7M, open 16.5M, branching 1.6, key 60/120, freemem 1.6B]
+[set 43.0M, closed 26.3M, open 16.8M, branching 1.6, key 56/120, freemem 1.7B]
+[set 43.8M, closed 26.8M, open 17.1M, branching 1.6, key 55/120, freemem 1.9B]
+[set 44.6M, closed 27.3M, open 17.3M, branching 1.6, key 54/120, freemem 1.4B]
+[set 45.1M, closed 27.6M, open 17.5M, branching 1.6, freemem 1.8B]
+Timed out after key: pushes 55, total 120
+FrozenBoxes 26.1M
+
+Level #31 [cells 69, boxes 16, alive 45, complexity 34.5]
+         ######        
+       ###    #   #### 
+#####  #    * ##  #  # 
+#   #### ****  ####$.##
+# .$      *@*      $. #
+##.$####  **** ####   #
+ #  #  ## *    #  #####
+ ####   #    ###       
+        ######         
+
+[set 3.21M, closed 524K, open 2.68M, branching 6.1, key 13/46, freemem 460.1M]
+[set 5.67M, closed 1.05M, open 4.62M, branching 5.4, key 18/48, freemem 1.2B]
+[set 8.45M, closed 1.58M, open 6.88M, branching 5.4, key 15/48, freemem 3.7B]
+[set 10.9M, closed 2.10M, open 8.77M, branching 5.2, key 13/48, freemem 3.3B]
+[set 13.0M, closed 2.63M, open 10.4M, branching 5.0, key 12/48, freemem 3.4B]
+[set 14.8M, closed 3.15M, open 11.7M, branching 4.7, key 10/48, freemem 3.0B]
+[set 17.2M, closed 3.68M, open 13.5M, branching 4.7, key 19/50, freemem 2.6B]
+[set 19.7M, closed 4.20M, open 15.5M, branching 4.7, key 17/50, freemem 2.7B]
+[set 21.9M, closed 4.72M, open 17.1M, branching 4.6, key 16/50, freemem 1.7B]
+[set 24.2M, closed 5.25M, open 19.0M, branching 4.6, key 17/50, freemem 2.4B]
+[set 26.3M, closed 5.77M, open 20.6M, branching 4.6, key 15/50, freemem 1.7B]
+[set 28.3M, closed 6.30M, open 22.0M, branching 4.5, key 15/50, freemem 1.7B]
+[set 30.3M, closed 6.82M, open 23.5M, branching 4.4, key 14/50, freemem 2.4B]
+[set 32.1M, closed 7.35M, open 24.8M, branching 4.4, key 14/50, freemem 2.1B]
+[set 33.9M, closed 7.87M, open 26.0M, branching 4.3, key 13/50, freemem 1.9B]
+[set 35.6M, closed 8.39M, open 27.2M, branching 4.2, key 13/50, freemem 1.7B]
+[set 37.2M, closed 8.92M, open 28.3M, branching 4.2, key 12/50, freemem 1.5B]
+[set 38.7M, closed 9.44M, open 29.3M, branching 4.1, key 12/50, freemem 1.3B]
+[set 40.2M, closed 9.97M, open 30.2M, branching 4.0, key 10/50, freemem 524.6M]
+[set 42.0M, closed 10.5M, open 31.5M, branching 4.0, key 21/52, freemem 1.5B]
+[set 44.5M, closed 11.1M, open 33.5M, branching 4.0, key 20/52, freemem 1.1B]
+[set 45.1M, closed 11.2M, open 33.9M, branching 4.0, freemem 723.3M]
+Timed out after key: pushes 20, total 52
+FrozenBoxes 16.9M
+
+Level #32 [cells 116, boxes 14, alive 69, complexity 41.3]
+                   #####
+                   #   #
+           ######### $ #
+    ###### #   #   #   #
+    #    # # $     $ #@#
+  ### ## #### ### ## ###
+  #   $  $     #   #   #
+  #  $  $ # #$ # $$ $$ #
+ ######  $  #  #   #   #
+##    ## ###############
+#  .#   $ #             
+#..    #  #             
+#...####  #             
+#....# ####             
+#....#                  
+######                  
+
+[set 1.24M, closed 524K, open 706K, branching 2.3, key 54/340, freemem 4.0B]
+[set 2.29M, closed 1.05M, open 1.24M, branching 2.2, key 66/342, freemem 4.2B]
+[set 3.33M, closed 1.58M, open 1.75M, branching 2.1, key 36/342, freemem 3.7B]
+[set 4.46M, closed 2.10M, open 2.36M, branching 2.1, key 49/342, freemem 3.9B]
+[set 5.60M, closed 2.63M, open 2.98M, branching 2.1, key 68/344, freemem 3.4B]
+[set 6.30M, closed 3.15M, open 3.16M, branching 2.0, key 58/344, freemem 3.5B]
+[set 7.26M, closed 3.68M, open 3.59M, branching 2.0, key 57/344, freemem 3.1B]
+[set 8.20M, closed 4.20M, open 4.01M, branching 2.0, key 50/344, freemem 3.2B]
+[set 9.12M, closed 4.72M, open 4.40M, branching 1.9, key 47/344, freemem 3.4B]
+[set 10.1M, closed 5.25M, open 4.78M, branching 1.9, key 43/344, freemem 3.0B]
+[set 11.0M, closed 5.77M, open 5.20M, branching 1.9, key 39/344, freemem 2.8B]
+[set 12.0M, closed 6.30M, open 5.67M, branching 1.9, key 49/344, freemem 2.3B]
+[set 13.0M, closed 6.82M, open 6.10M, branching 1.9, key 28/344, freemem 2.8B]
+[set 14.0M, closed 7.35M, open 6.63M, branching 1.9, key 53/344, freemem 2.9B]
+[set 15.5M, closed 7.87M, open 7.62M, branching 2.0, key 50/344, freemem 2.4B]
+[set 16.2M, closed 8.39M, open 7.75M, branching 1.9, key 70/346, freemem 2.6B]
+[set 16.8M, closed 8.92M, open 7.88M, branching 1.9, key 66/346, freemem 2.2B]
+[set 17.5M, closed 9.44M, open 8.00M, branching 1.8, key 63/346, freemem 2.5B]
+[set 18.2M, closed 9.97M, open 8.20M, branching 1.8, key 79/346, freemem 2.1B]
+[set 19.0M, closed 10.5M, open 8.48M, branching 1.8, key 57/346, freemem 2.3B]
+[set 19.9M, closed 11.1M, open 8.80M, branching 1.8, key 59/346, freemem 1.9B]
+[set 20.7M, closed 11.6M, open 9.11M, branching 1.8, key 55/346, freemem 2.1B]
+[set 21.5M, closed 12.1M, open 9.42M, branching 1.8, key 56/344, freemem 1.6B]
+[set 22.4M, closed 12.6M, open 9.72M, branching 1.8, key 50/346, freemem 1.8B]
+[set 23.2M, closed 13.2M, open 10.1M, branching 1.8, key 48/346, freemem 2.0B]
+[set 24.4M, closed 13.7M, open 10.8M, branching 1.8, key 79/346, freemem 1.6B]
+[set 25.6M, closed 14.2M, open 11.5M, branching 1.8, key 71/346, freemem 1.5B]
+[set 26.9M, closed 14.7M, open 12.2M, branching 1.8, key 88/346, freemem 3.3B]
+[set 28.4M, closed 15.3M, open 13.2M, branching 1.9, key 93/346, freemem 2.8B]
+[set 29.8M, closed 15.8M, open 14.1M, branching 1.9, key 72/346, freemem 2.8B]
+[set 31.3M, closed 16.3M, open 15.0M, branching 1.9, key 68/344, freemem 2.9B]
+[set 32.6M, closed 16.8M, open 15.8M, branching 1.9, key 95/346, freemem 2.5B]
+[set 33.8M, closed 17.4M, open 16.5M, branching 1.9, key 45/346, freemem 2.6B]
+[set 35.2M, closed 17.9M, open 17.4M, branching 2.0, key 79/346, freemem 2.2B]
+[set 36.6M, closed 18.4M, open 18.2M, branching 2.0, key 76/346, freemem 2.3B]
+[set 38.0M, closed 18.9M, open 19.1M, branching 2.0, key 81/346, freemem 2.4B]
+[set 39.4M, closed 19.4M, open 20.0M, branching 2.0, key 47/346, freemem 1.9B]
+[set 40.7M, closed 20.0M, open 20.8M, branching 2.0, key 76/346, freemem 1.5B]
+[set 42.0M, closed 20.5M, open 21.5M, branching 2.1, key 81/346, freemem 1.1B]
+[set 43.3M, closed 21.0M, open 22.3M, branching 2.1, key 43/346, freemem 1.7B]
+[set 44.5M, closed 21.5M, open 23.0M, branching 2.1, key 85/346, freemem 1.3B]
+[set 45.1M, closed 21.8M, open 23.3M, branching 2.1, freemem 1.7B]
+Timed out after key: pushes 65, total 346
+FrozenBoxes 10.9M
+
+Level #33 [cells 137, boxes 19, alive 97, complexity 54.8]
+   #######               
+  ##     ##              
+  #  ###  #              
+  # ## $  ####           
+  # # .#   $.####        
+  # # * *###.$  #        
+  # # *#   ### #####     
+  # # @ * *  # #   #     
+  # #  ### #*#  *  #     
+  # ## #  * *.# # #######
+  # #  #     ....$  $   #
+  # # ## $# $####$      #
+###*   *     #    #######
+#   ########## ####      
+#              #         
+##  ############         
+ ####                    
+
+[set 1.29M, closed 524K, open 757K, branching 2.4, key 13/42, freemem 1.1B]
+[set 2.46M, closed 1.05M, open 1.41M, branching 2.3, key 18/44, freemem 4.0B]
+[set 3.61M, closed 1.58M, open 2.04M, branching 2.3, key 15/44, freemem 3.3B]
+[set 4.85M, closed 2.10M, open 2.75M, branching 2.3, key 12/44, freemem 3.9B]
+[set 6.07M, closed 2.63M, open 3.45M, branching 2.3, key 22/46, freemem 3.9B]
+[set 7.16M, closed 3.15M, open 4.02M, branching 2.3, key 20/46, freemem 3.3B]
+[set 8.29M, closed 3.68M, open 4.62M, branching 2.3, key 23/46, freemem 3.3B]
+[set 9.39M, closed 4.20M, open 5.20M, branching 2.2, key 24/46, freemem 3.4B]
+[set 10.6M, closed 4.72M, open 5.88M, branching 2.2, key 17/46, freemem 3.4B]
+[set 11.9M, closed 5.25M, open 6.57M, branching 2.3, key 19/46, freemem 3.3B]
+[set 13.1M, closed 5.77M, open 7.26M, branching 2.3, key 15/46, freemem 3.1B]
+[set 14.3M, closed 6.30M, open 7.94M, branching 2.3, key 16/46, freemem 2.5B]
+[set 15.5M, closed 6.82M, open 8.65M, branching 2.3, key 15/46, freemem 1.8B]
+[set 16.8M, closed 7.35M, open 9.37M, branching 2.3, key 27/48, freemem 2.5B]
+[set 18.0M, closed 7.87M, open 10.2M, branching 2.3, key 24/48, freemem 2.5B]
+[set 19.2M, closed 8.39M, open 10.9M, branching 2.3, key 32/48, freemem 1.9B]
+[set 20.4M, closed 8.92M, open 11.5M, branching 2.3, key 26/48, freemem 2.0B]
+[set 21.6M, closed 9.44M, open 12.2M, branching 2.3, key 27/48, freemem 2.0B]
+[set 22.7M, closed 9.97M, open 12.8M, branching 2.3, key 21/48, freemem 2.0B]
+[set 24.0M, closed 10.5M, open 13.5M, branching 2.3, key 21/48, freemem 2.1B]
+[set 25.0M, closed 11.1M, open 14.0M, branching 2.3, key 21/48, freemem 1.5B]
+[set 26.3M, closed 11.6M, open 14.7M, branching 2.3, key 25/48, freemem 2.6B]
+[set 27.4M, closed 12.1M, open 15.4M, branching 2.3, key 20/48, freemem 2.0B]
+[set 28.4M, closed 12.6M, open 15.8M, branching 2.3, key 20/48, freemem 2.5B]
+[set 29.7M, closed 13.2M, open 16.6M, branching 2.3, key 19/48, freemem 2.0B]
+[set 30.9M, closed 13.7M, open 17.2M, branching 2.3, key 23/48, freemem 2.4B]
+[set 31.9M, closed 14.2M, open 17.7M, branching 2.2, key 19/48, freemem 1.9B]
+[set 33.1M, closed 14.7M, open 18.5M, branching 2.3, key 18/48, freemem 1.9B]
+[set 34.4M, closed 15.3M, open 19.2M, branching 2.3, key 18/48, freemem 1.9B]
+[set 35.4M, closed 15.8M, open 19.7M, branching 2.2, key 18/48, freemem 1.9B]
+[set 36.6M, closed 16.3M, open 20.4M, branching 2.2, key 17/48, freemem 1.9B]
+[set 37.9M, closed 16.8M, open 21.1M, branching 2.3, key 17/48, freemem 1.3B]
+[set 38.9M, closed 17.4M, open 21.6M, branching 2.2, key 17/48, freemem 1.6B]
+[set 40.2M, closed 17.9M, open 22.4M, branching 2.3, key 18/48, freemem 1.5B]
+[set 41.4M, closed 18.4M, open 23.0M, branching 2.3, key 16/48, freemem 886.6M]
+[set 42.5M, closed 18.9M, open 23.7M, branching 2.3, key 17/48, freemem 882.5M]
+[set 43.7M, closed 19.4M, open 24.3M, branching 2.3, key 19/48, freemem 850.6M]
+[set 44.9M, closed 20.0M, open 25.0M, branching 2.3, key 14/48, freemem 221.9M]
+[set 45.1M, closed 20.0M, open 25.1M, branching 2.3, freemem 162.2M]
+Timed out after key: pushes 18, total 48
+FrozenBoxes 18.1M
+
+Level #34 [cells 161, boxes 19, alive 120, complexity 59.7]
+            #####         
+            # ..########  
+            # ......#  #  
+            #.. ##$$  $#  
+         #####.##   $  #  
+         #  ....# $  $$#  
+#####    #  .. .#$  $  #  
+#   #    # ##.###  $$ $###
+#   ###  # ## #  $  #    #
+# @   #### #  # # ###$ # #
+#             #  $    $  #
+#   ####      ### ####$$##
+#  ##  ####     #       # 
+#  #      ##    ######  # 
+####       ##     # # $ # 
+            ##    # #   # 
+             ###### ##### 
+
+[set 2.41M, closed 524K, open 1.89M, branching 4.6, key 59/315, freemem 3.9B]
+[set 4.83M, closed 1.05M, open 3.78M, branching 4.6, key 48/315, freemem 3.8B]
+[set 7.62M, closed 1.58M, open 6.05M, branching 4.8, key 48/315, freemem 3.1B]
+[set 10.1M, closed 2.10M, open 7.99M, branching 4.8, key 56/313, freemem 3.2B]
+[set 12.3M, closed 2.63M, open 9.64M, branching 4.7, key 50/313, freemem 2.6B]
+[set 14.6M, closed 3.15M, open 11.5M, branching 4.6, key 49/313, freemem 2.4B]
+[set 17.1M, closed 3.68M, open 13.5M, branching 4.7, key 54/313, freemem 2.4B]
+[set 19.6M, closed 4.20M, open 15.4M, branching 4.7, key 38/313, freemem 1.8B]
+[set 22.3M, closed 4.72M, open 17.6M, branching 4.7, key 39/313, freemem 1.2B]
+[set 25.1M, closed 5.25M, open 19.8M, branching 4.8, key 44/313, freemem 1.7B]
+[set 27.4M, closed 5.77M, open 21.6M, branching 4.7, key 67/315, freemem 2.3B]
+[set 29.4M, closed 6.30M, open 23.2M, branching 4.7, key 63/315, freemem 2.5B]
+[set 31.6M, closed 6.82M, open 24.8M, branching 4.6, key 62/315, freemem 1.4B]
+[set 33.7M, closed 7.35M, open 26.4M, branching 4.6, key 64/315, freemem 2.1B]
+[set 35.9M, closed 7.87M, open 28.1M, branching 4.6, key 67/315, freemem 1.6B]
+[set 38.1M, closed 8.39M, open 29.7M, branching 4.5, key 66/315, freemem 1.2B]
+[set 40.4M, closed 8.92M, open 31.5M, branching 4.5, key 58/315, freemem 1.2B]
+[set 42.7M, closed 9.44M, open 33.2M, branching 4.5, key 60/315, freemem 1.3B]
+[set 44.7M, closed 9.97M, open 34.8M, branching 4.5, key 63/315, freemem 1.1B]
+[set 45.1M, closed 10.1M, open 35.0M, branching 4.5, freemem 866.7M]
+Timed out after key: pushes 56, total 315
+FrozenBoxes 23.1M
+
+Level #35 [cells 156, boxes 31, alive 134, complexity 79.4]
+ #####                   
+ #   #                   
+## # #####               
+#    ##  #######         
+# #     $      ####      
+#   #### $  $$ #  #      
+#####  # $$$ $ #$ #      
+       # $  $ $ $ ###### 
+     ###$   #$ $  $    # 
+     # $ $$      ### @ ##
+     #  $ $$$$####...   #
+     #  $     $ #. .#...#
+     ### $$$$   ......  #
+       #      ##..#.....#
+       ###### ##.....####
+            #   .....#   
+            ##########   
+
+[set 5.98M, closed 524K, open 5.45M, branching 11.4, key 47/443, freemem 3.3B]
+[set 11.0M, closed 1.05M, open 9.88M, branching 10.4, key 41/443, freemem 2.9B]
+[set 16.9M, closed 1.58M, open 15.3M, branching 10.7, key 93/445, freemem 2.1B]
+[set 23.8M, closed 2.10M, open 21.7M, branching 11.3, key 86/445, freemem 1.8B]
+[set 30.7M, closed 2.63M, open 28.1M, branching 11.7, key 88/445, freemem 2.5B]
+[set 37.6M, closed 3.15M, open 34.5M, branching 11.9, key 73/445, freemem 1.6B]
+[set 44.2M, closed 3.68M, open 40.5M, branching 12.0, key 94/445, freemem 758.7M]
+[set 45.1M, closed 3.75M, open 41.3M, branching 12.0, freemem 821.0M]
+Timed out after key: pushes 73, total 445
+FrozenBoxes 9.57M
+
+Level #36 [cells 148, boxes 15, alive 102, complexity 49.7]
+               #####       
+   ####        #   ######  
+   #  #        # $    $ #  
+   #  ####     #  $##$  ###
+   #     #########  # $ $ #
+   #      ..........#   $ #
+ ###### ##....@###  # $$  #
+ #    # #####.## # ##   $ #
+ #            #  #$  $$ $ #
+#### #  ##### #  #  $  #  #
+#    # #      #  ###   ####
+#      #  #   #    #####   
+#   #     #####            
+#####     #                
+    #######                
+
+[set 1.82M, closed 524K, open 1.30M, branching 3.5, key 20/270, freemem 4.5B]
+[set 3.66M, closed 1.05M, open 2.61M, branching 3.5, key 26/270, freemem 4.1B]
+[set 5.51M, closed 1.58M, open 3.94M, branching 3.5, key 33/270, freemem 3.2B]
+[set 7.39M, closed 2.10M, open 5.29M, branching 3.5, key 16/270, freemem 3.4B]
+[set 9.30M, closed 2.63M, open 6.68M, branching 3.5, key 25/270, freemem 3.1B]
+[set 11.2M, closed 3.15M, open 7.98M, branching 3.5, key 22/270, freemem 3.4B]
+[set 13.0M, closed 3.68M, open 9.29M, branching 3.5, key 24/270, freemem 3.0B]
+[set 14.8M, closed 4.20M, open 10.6M, branching 3.5, key 36/270, freemem 2.6B]
+[set 16.7M, closed 4.72M, open 12.0M, branching 3.5, key 36/270, freemem 2.3B]
+[set 18.6M, closed 5.25M, open 13.4M, branching 3.5, key 35/270, freemem 2.6B]
+[set 20.0M, closed 5.77M, open 14.2M, branching 3.5, key 45/272, freemem 2.0B]
+[set 21.2M, closed 6.30M, open 14.9M, branching 3.4, key 42/272, freemem 2.2B]
+[set 22.6M, closed 6.82M, open 15.7M, branching 3.3, key 36/272, freemem 2.0B]
+[set 23.8M, closed 7.35M, open 16.5M, branching 3.2, key 38/272, freemem 1.9B]
+[set 25.2M, closed 7.87M, open 17.4M, branching 3.2, key 36/272, freemem 1.4B]
+[set 26.6M, closed 8.39M, open 18.2M, branching 3.2, key 36/272, freemem 1.6B]
+[set 27.9M, closed 8.92M, open 19.0M, branching 3.1, key 34/272, freemem 2.8B]
+[set 29.3M, closed 9.44M, open 19.9M, branching 3.1, key 36/272, freemem 2.6B]
+[set 30.8M, closed 9.97M, open 20.8M, branching 3.1, key 34/272, freemem 2.3B]
+[set 32.0M, closed 10.5M, open 21.5M, branching 3.0, key 35/272, freemem 2.1B]
+[set 33.6M, closed 11.1M, open 22.5M, branching 3.0, key 36/272, freemem 1.9B]
+[set 34.9M, closed 11.6M, open 23.4M, branching 3.0, key 32/272, freemem 1.7B]
+[set 36.2M, closed 12.1M, open 24.1M, branching 3.0, key 31/272, freemem 1.5B]
+[set 37.8M, closed 12.6M, open 25.2M, branching 3.0, key 32/272, freemem 1.8B]
+[set 39.2M, closed 13.2M, open 26.1M, branching 3.0, key 31/272, freemem 1.6B]
+[set 40.6M, closed 13.7M, open 26.9M, branching 3.0, key 31/272, freemem 1.4B]
+[set 42.0M, closed 14.2M, open 27.8M, branching 3.0, key 30/272, freemem 1.2B]
+[set 43.5M, closed 14.7M, open 28.8M, branching 3.0, key 30/272, freemem 1.2B]
+[set 45.0M, closed 15.3M, open 29.8M, branching 3.0, key 33/272, freemem 907.0M]
+[set 45.1M, closed 15.3M, open 29.8M, branching 3.0, freemem 865.9M]
+Timed out after key: pushes 32, total 272
+FrozenBoxes 36.5M
+
+Level #37 [cells 191, boxes 30, alive 161, complexity 84.9]
+  #####       #########      
+  #   #       #       #      
+### #$### ##### # # # #####  
+# $. .  # #    . . . .    #  
+# # # #$### # # # # # # #$#  
+#  . . . .  $ $ $ $  . .  #  
+###$# # #$###########$# #$#  
+  #  . .  #         #  .  #  
+  ###$# #$#######   #$# #$###
+    #  . .$ $ $ #   #  . .  #
+    #$# # # # # #####$# # # #
+    #  . . . . .  $  . . .  #
+    ### # # # # # # # # # # #
+      # $ $. . .$ $ $ $ $ $ #
+      ##### # # #############
+          #  @  #            
+          #######            
+
+[set 4.19M, closed 524K, open 3.66M, branching 8.0, key 80/172, freemem 3.9B]
+[set 8.06M, closed 1.05M, open 7.01M, branching 7.7, key 71/172, freemem 3.4B]
+[set 11.6M, closed 1.58M, open 9.97M, branching 7.3, key 94/172, freemem 3.1B]
+[set 15.5M, closed 2.10M, open 13.4M, branching 7.4, key 92/172, freemem 2.4B]
+[set 19.2M, closed 2.63M, open 16.6M, branching 7.3, key 86/172, freemem 2.0B]
+[set 23.0M, closed 3.15M, open 19.8M, branching 7.3, key 80/172, freemem 1.6B]
+[set 26.4M, closed 3.68M, open 22.8M, branching 7.2, key 70/172, freemem 2.7B]
+[set 30.0M, closed 4.20M, open 25.8M, branching 7.1, key 82/172, freemem 1.9B]
+[set 33.8M, closed 4.72M, open 29.0M, branching 7.1, key 79/172, freemem 1.5B]
+[set 37.5M, closed 5.25M, open 32.2M, branching 7.1, key 86/172, freemem 1.1B]
+[set 40.8M, closed 5.77M, open 35.0M, branching 7.1, key 92/172, freemem 1.2B]
+[set 44.5M, closed 6.30M, open 38.2M, branching 7.1, key 80/172, freemem 767.9M]
+[set 45.1M, closed 6.38M, open 38.7M, branching 7.1, freemem 950.0M]
+Timed out after key: pushes 86, total 172
+FrozenBoxes 13.6M
+
+Level #38 [cells 178, boxes 25, alive 133, complexity 71.6]
+                      ####
+  ####         ########  #
+###@ ##        #      #  #
+#     #        # ### $ $ #
+# ....##########   #  #..#
+# . #  ## $   $ $# #  #..#
+### #     $  $$$ # # $ $ #
+  # ...# $  $$   # #  #  #
+  #  ..# $   $ $ # # ##  #
+  ##...#  $ $$ $ #$# #####
+   #   ## $  $ $   # #    
+   ### ######  ### # ###  
+   # .   #  #### .   . #  
+  ##   . #     # #.#.# #  
+  #  .   #     #   #   #  
+  # . ####     #########  
+  #  ##                   
+  ####                    
+
+[set 2.87M, closed 524K, open 2.35M, branching 5.5, key 73/317, freemem 3.5B]
+[set 6.99M, closed 1.05M, open 5.94M, branching 6.7, key 59/317, freemem 3.4B]
+[set 11.4M, closed 1.58M, open 9.76M, branching 7.2, key 80/317, freemem 3.4B]
+[set 15.6M, closed 2.10M, open 13.5M, branching 7.4, key 72/317, freemem 2.6B]
+[set 19.9M, closed 2.63M, open 17.3M, branching 7.6, key 75/317, freemem 2.0B]
+[set 24.2M, closed 3.15M, open 21.1M, branching 7.7, key 69/317, freemem 1.9B]
+[set 28.4M, closed 3.68M, open 24.7M, branching 7.7, key 76/317, freemem 2.4B]
+[set 32.6M, closed 4.20M, open 28.4M, branching 7.8, key 60/317, freemem 1.8B]
+[set 36.8M, closed 4.72M, open 32.1M, branching 7.8, key 78/317, freemem 1.9B]
+[set 41.0M, closed 5.25M, open 35.8M, branching 7.8, key 71/317, freemem 1.4B]
+[set 45.1M, closed 5.74M, open 39.3M, branching 7.8, freemem 1.1B]
+Timed out after key: pushes 81, total 317
+FrozenBoxes 29.3M
+
+Level #39 [cells 124, boxes 20, alive 90, complexity 54.3]
+   ####           #####
+   #  #######  ####   #
+   # @  $   ####   $  #
+   #  ###.#    #  $$  #
+ ###.## $ #$ #    #  ##
+ #  ..# $ ...# ###  ## 
+ # $ ...$##.##     ##  
+ ##.###$ $..   $$ ##   
+  #.  #. .### $ $ #    
+  #  $...## ## #  #    
+ ## ######   #   ##    
+##   ##      #####     
+# $$  #                
+#   $ #                
+### $ #                
+  #  ##                
+  ####                 
+
+[set 1.30M, closed 524K, open 775K, branching 2.5, key 40/142, freemem 4.5B]
+[set 2.48M, closed 1.05M, open 1.43M, branching 2.4, key 42/142, freemem 4.1B]
+[set 3.70M, closed 1.58M, open 2.13M, branching 2.3, key 36/142, freemem 3.6B]
+[set 4.99M, closed 2.10M, open 2.90M, branching 2.4, key 28/142, freemem 3.2B]
+[set 6.59M, closed 2.63M, open 3.96M, branching 2.5, key 27/142, freemem 3.7B]
+[set 8.04M, closed 3.15M, open 4.89M, branching 2.6, key 40/142, freemem 3.8B]
+[set 9.35M, closed 3.68M, open 5.68M, branching 2.5, key 39/142, freemem 3.3B]
+[set 10.6M, closed 4.20M, open 6.32M, branching 2.5, key 25/142, freemem 3.5B]
+[set 11.7M, closed 4.72M, open 6.94M, branching 2.5, key 48/142, freemem 3.1B]
+[set 12.8M, closed 5.25M, open 7.56M, branching 2.4, key 32/142, freemem 3.2B]
+[set 14.0M, closed 5.77M, open 8.23M, branching 2.4, key 35/142, freemem 3.2B]
+[set 15.3M, closed 6.30M, open 8.92M, branching 2.4, key 47/142, freemem 2.8B]
+[set 16.4M, closed 6.82M, open 9.54M, branching 2.4, key 40/142, freemem 2.4B]
+[set 17.5M, closed 7.35M, open 10.2M, branching 2.4, key 45/142, freemem 2.0B]
+[set 18.6M, closed 7.87M, open 10.8M, branching 2.4, key 37/142, freemem 2.7B]
+[set 19.8M, closed 8.39M, open 11.4M, branching 2.3, key 41/142, freemem 2.3B]
+[set 20.9M, closed 8.92M, open 12.0M, branching 2.3, key 39/142, freemem 2.5B]
+[set 22.1M, closed 9.44M, open 12.6M, branching 2.3, key 32/142, freemem 2.1B]
+[set 23.2M, closed 9.97M, open 13.2M, branching 2.3, key 25/142, freemem 2.3B]
+[set 24.4M, closed 10.5M, open 13.9M, branching 2.3, key 34/142, freemem 1.9B]
+[set 25.5M, closed 11.1M, open 14.4M, branching 2.3, key 20/142, freemem 1.9B]
+[set 26.6M, closed 11.6M, open 15.0M, branching 2.3, key 35/142, freemem 1.9B]
+[set 27.9M, closed 12.1M, open 15.8M, branching 2.3, key 30/142, freemem 1.5B]
+[set 29.1M, closed 12.6M, open 16.5M, branching 2.3, key 27/142, freemem 3.0B]
+[set 30.4M, closed 13.2M, open 17.3M, branching 2.3, key 33/142, freemem 2.6B]
+[set 31.6M, closed 13.7M, open 18.0M, branching 2.3, key 37/142, freemem 2.8B]
+[set 33.0M, closed 14.2M, open 18.8M, branching 2.3, key 40/142, freemem 2.3B]
+[set 34.1M, closed 14.7M, open 19.4M, branching 2.3, key 35/142, freemem 2.5B]
+[set 35.2M, closed 15.3M, open 20.0M, branching 2.3, key 40/142, freemem 2.1B]
+[set 36.4M, closed 15.8M, open 20.6M, branching 2.3, key 31/142, freemem 2.3B]
+[set 37.5M, closed 16.3M, open 21.2M, branching 2.3, key 35/142, freemem 1.9B]
+[set 38.7M, closed 16.8M, open 21.9M, branching 2.3, key 27/142, freemem 1.5B]
+[set 39.8M, closed 17.4M, open 22.5M, branching 2.3, key 30/142, freemem 2.2B]
+[set 40.9M, closed 17.9M, open 23.1M, branching 2.3, key 35/142, freemem 1.8B]
+[set 42.3M, closed 18.4M, open 23.9M, branching 2.3, key 33/142, freemem 2.0B]
+[set 43.6M, closed 18.9M, open 24.7M, branching 2.3, key 43/142, freemem 1.5B]
+[set 44.7M, closed 19.4M, open 25.3M, branching 2.3, key 41/142, freemem 1.7B]
+[set 45.1M, closed 19.6M, open 25.5M, branching 2.3, freemem 1.6B]
+Timed out after key: pushes 33, total 142
+FrozenBoxes 8.40M
+
+Level #40 [cells 131, boxes 24, alive 98, complexity 61.2]
+     #######            
+#### #     #            
+#  ### $$$ #            
+#  ....$  #####         
+#  ..# $  #  @#         
+###$##$#### # # ####    
+ #.*....$  $  ###  #####
+ # ..#####  ##   $ $   #
+ #....*.... #  $$  # $ #
+ ########## #$$ ## #   #
+    # $.###        $  ##
+    #       $###$# #  # 
+    #####   $    $ #### 
+        ####    ####    
+           ######       
+
+[set 1.75M, closed 524K, open 1.23M, branching 3.3, key 11/333, freemem 1.4B]
+[set 3.18M, closed 1.05M, open 2.13M, branching 3.0, key 35/335, freemem 4.3B]
+[set 4.60M, closed 1.58M, open 3.03M, branching 2.9, key 40/335, freemem 3.6B]
+[set 6.11M, closed 2.10M, open 4.01M, branching 2.9, key 36/335, freemem 4.1B]
+[set 7.66M, closed 2.63M, open 5.04M, branching 2.9, key 28/335, freemem 3.9B]
+[set 9.27M, closed 3.15M, open 6.13M, branching 2.9, key 36/335, freemem 3.7B]
+[set 10.9M, closed 3.68M, open 7.22M, branching 3.0, key 26/335, freemem 3.6B]
+[set 12.5M, closed 4.20M, open 8.29M, branching 3.0, key 17/335, freemem 3.5B]
+[set 14.2M, closed 4.72M, open 9.39M, branching 3.0, key 55/337, freemem 3.1B]
+[set 15.6M, closed 5.25M, open 10.4M, branching 3.0, key 53/337, freemem 3.0B]
+[set 17.1M, closed 5.77M, open 11.3M, branching 3.0, key 47/337, freemem 2.9B]
+[set 18.5M, closed 6.30M, open 12.2M, branching 2.9, key 49/337, freemem 2.8B]
+[set 19.9M, closed 6.82M, open 13.1M, branching 2.9, key 53/337, freemem 2.1B]
+[set 21.3M, closed 7.35M, open 14.0M, branching 2.9, key 45/337, freemem 2.1B]
+[set 22.7M, closed 7.87M, open 14.9M, branching 2.9, key 42/337, freemem 2.0B]
+[set 24.1M, closed 8.39M, open 15.7M, branching 2.9, key 49/337, freemem 1.4B]
+[set 25.5M, closed 8.92M, open 16.6M, branching 2.9, key 48/337, freemem 1.5B]
+[set 26.9M, closed 9.44M, open 17.5M, branching 2.8, key 44/337, freemem 1.2B]
+[set 28.4M, closed 9.97M, open 18.4M, branching 2.8, key 45/337, freemem 1.2B]
+[set 29.8M, closed 10.5M, open 19.3M, branching 2.8, key 39/337, freemem 1.1B]
+[set 31.2M, closed 11.1M, open 20.2M, branching 2.8, key 47/337, freemem 2.2B]
+[set 32.6M, closed 11.6M, open 21.1M, branching 2.8, key 39/337, freemem 2.1B]
+[set 34.0M, closed 12.1M, open 22.0M, branching 2.8, key 36/337, freemem 2.0B]
+[set 35.4M, closed 12.6M, open 22.8M, branching 2.8, key 35/337, freemem 2.0B]
+[set 36.9M, closed 13.2M, open 23.8M, branching 2.8, key 35/337, freemem 1.8B]
+[set 38.3M, closed 13.7M, open 24.7M, branching 2.8, key 35/337, freemem 1.7B]
+[set 39.7M, closed 14.2M, open 25.6M, branching 2.8, key 36/337, freemem 1.6B]
+[set 41.2M, closed 14.7M, open 26.5M, branching 2.8, key 36/337, freemem 901.1M]
+[set 42.6M, closed 15.3M, open 27.4M, branching 2.8, key 44/337, freemem 856.5M]
+[set 44.0M, closed 15.8M, open 28.2M, branching 2.8, key 33/337, freemem 1.1B]
+[set 45.1M, closed 16.2M, open 28.9M, branching 2.8, freemem 1.1B]
+Timed out after key: pushes 36, total 337
+FrozenBoxes 22.2M
+
+Level #41 [cells 41, boxes 8, alive 29, complexity 21.8]
+    #####  
+    #   #  
+    #   #  
+ ####$ $###
+##  $...$ #
+#    .@.  #
+#   $...$ #
+#####$ $###
+    #   #  
+    #####  
+
+[set 34.8K, closed 12.0K, open 22.8K, branching 2.9, freemem 1.1B]
+Found solution in 18 pushes.
+FrozenBoxes 5.6K
+
+Level #42 [cells 121, boxes 14, alive 86, complexity 45.0]
+####               
+#  ######          
+#       ####       
+# $ $   #  #####   
+##### ###    $ #   
+ #  #   $  #   #   
+ #      ##$#####   
+ # $###  # ...#    
+ ## #@#$ ##.#.#    
+ #    #   #...#    
+ # $ ##$ $#...#####
+ ### ##   #...    #
+  #  #  $ $ $ # # #
+  # $### ###### # #
+  #             # #
+  #############   #
+              #####
+
+[set 1.88M, closed 524K, open 1.35M, branching 3.6, key 75/456, freemem 4.1B]
+[set 3.68M, closed 1.05M, open 2.63M, branching 3.5, key 71/456, freemem 4.0B]
+[set 5.62M, closed 1.58M, open 4.05M, branching 3.6, key 121/456, freemem 3.9B]
+[set 7.61M, closed 2.10M, open 5.51M, branching 3.6, key 85/456, freemem 3.3B]
+[set 9.46M, closed 2.63M, open 6.84M, branching 3.6, key 130/456, freemem 3.2B]
+[set 11.3M, closed 3.15M, open 8.14M, branching 3.6, key 115/456, freemem 3.1B]
+[set 13.2M, closed 3.68M, open 9.48M, branching 3.6, key 99/456, freemem 2.9B]
+[set 15.3M, closed 4.20M, open 11.1M, branching 3.6, key 116/456, freemem 2.7B]
+[set 17.4M, closed 4.72M, open 12.7M, branching 3.7, key 106/456, freemem 2.6B]
+[set 19.3M, closed 5.25M, open 14.1M, branching 3.7, key 122/456, freemem 2.5B]
+[set 21.4M, closed 5.77M, open 15.6M, branching 3.7, key 123/456, freemem 1.8B]
+[set 23.3M, closed 6.30M, open 17.0M, branching 3.7, key 109/456, freemem 1.7B]
+[set 25.2M, closed 6.82M, open 18.4M, branching 3.7, key 112/456, freemem 1.7B]
+[set 27.1M, closed 7.35M, open 19.7M, branching 3.7, key 100/456, freemem 1.1B]
+[set 28.9M, closed 7.87M, open 21.0M, branching 3.7, key 122/456, freemem 2.8B]
+[set 30.9M, closed 8.39M, open 22.6M, branching 3.7, key 126/456, freemem 2.1B]
+[set 32.9M, closed 8.92M, open 24.0M, branching 3.7, key 113/456, freemem 2.5B]
+[set 34.9M, closed 9.44M, open 25.5M, branching 3.7, key 98/456, freemem 2.4B]
+[set 36.7M, closed 9.97M, open 26.7M, branching 3.7, key 87/456, freemem 1.8B]
+[set 38.8M, closed 10.5M, open 28.3M, branching 3.7, key 99/456, freemem 1.7B]
+[set 40.6M, closed 11.1M, open 29.6M, branching 3.7, key 76/456, freemem 1.6B]
+[set 43.0M, closed 11.6M, open 31.4M, branching 3.7, key 102/456, freemem 1.5B]
+[set 45.1M, closed 12.0M, open 33.1M, branching 3.8, freemem 1.4B]
+Timed out after key: pushes 117, total 456
+FrozenBoxes 7.65M
+
+Level #43 [cells 188, boxes 22, alive 138, complexity 68.0]
+   ####                       
+  ##  #############           
+ ##    .......... #           
+##    #  ####$### ##          
+#      # #      #  ##         
+#     #  # $$$  # # #####     
+#####  # . .# ### . . . ##    
+    #   $. .#  # $$ $ $ @#    
+   ####### ### #   #######    
+   # $   $   # ## ##          
+   #    $  $ #  # #    ####   
+   # $### ####  # #   ##  ####
+   #  $ $$$  # ## #  ##      #
+   ##        # ## #### $$$   #
+    ## ####### .....     #####
+    #  $         ######  #    
+    #   ######  ##    ####    
+    #####    ####             
+
+[set 1.68M, closed 524K, open 1.15M, branching 3.2, key 55/190, freemem 4.1B]
+[set 3.25M, closed 1.05M, open 2.21M, branching 3.1, key 68/190, freemem 3.9B]
+[set 5.16M, closed 1.58M, open 3.59M, branching 3.3, key 72/190, freemem 3.5B]
+[set 6.67M, closed 2.10M, open 4.57M, branching 3.2, key 64/190, freemem 3.4B]
+[set 8.28M, closed 2.63M, open 5.66M, branching 3.2, key 57/190, freemem 3.2B]
+[set 9.88M, closed 3.15M, open 6.73M, branching 3.1, key 60/190, freemem 3.1B]
+[set 11.5M, closed 3.68M, open 7.76M, branching 3.1, key 61/190, freemem 2.9B]
+[set 13.1M, closed 4.20M, open 8.85M, branching 3.1, key 53/190, freemem 3.1B]
+[set 14.7M, closed 4.72M, open 9.95M, branching 3.1, key 52/190, freemem 2.9B]
+[set 16.3M, closed 5.25M, open 11.0M, branching 3.1, key 45/190, freemem 2.8B]
+[set 17.8M, closed 5.77M, open 12.1M, branching 3.1, key 52/190, freemem 2.6B]
+[set 19.6M, closed 6.30M, open 13.3M, branching 3.1, key 66/190, freemem 2.4B]
+[set 21.1M, closed 6.82M, open 14.3M, branching 3.1, key 66/190, freemem 2.3B]
+[set 22.8M, closed 7.35M, open 15.4M, branching 3.1, key 64/190, freemem 2.1B]
+[set 24.7M, closed 7.87M, open 16.8M, branching 3.1, key 64/190, freemem 1.5B]
+[set 26.6M, closed 8.39M, open 18.2M, branching 3.2, key 69/190, freemem 1.1B]
+[set 28.2M, closed 8.92M, open 19.3M, branching 3.2, key 66/190, freemem 857.1M]
+[set 29.7M, closed 9.44M, open 20.3M, branching 3.1, key 66/190, freemem 2.1B]
+[set 31.2M, closed 9.97M, open 21.2M, branching 3.1, key 61/190, freemem 2.0B]
+[set 32.7M, closed 10.5M, open 22.2M, branching 3.1, key 61/190, freemem 1.8B]
+[set 34.1M, closed 11.1M, open 23.1M, branching 3.1, key 65/190, freemem 1.7B]
+[set 35.9M, closed 11.6M, open 24.4M, branching 3.1, key 63/190, freemem 1.5B]
+[set 37.5M, closed 12.1M, open 25.4M, branching 3.1, key 68/190, freemem 1.3B]
+[set 38.8M, closed 12.6M, open 26.2M, branching 3.1, key 52/190, freemem 1.2B]
+[set 40.2M, closed 13.2M, open 27.1M, branching 3.1, key 43/190, freemem 1.1B]
+[set 41.8M, closed 13.7M, open 28.1M, branching 3.1, key 60/190, freemem 977.1M]
+[set 43.4M, closed 14.2M, open 29.2M, branching 3.1, key 47/190, freemem 516.0M]
+[set 45.0M, closed 14.7M, open 30.3M, branching 3.1, key 49/190, freemem 324.1M]
+[set 45.1M, closed 14.7M, open 30.4M, branching 3.1, freemem 791.1M]
+Timed out after key: pushes 62, total 190
+FrozenBoxes 22.1M
+
+Level #44 [cells 156, boxes 23, alive 112, complexity 63.9]
+ #############          
+##       #   ###        
+#  $ $$$$$     #        
+### $   $  ### #        
+  # $ $ $### # #        
+  ##   $ ##  # ###      
+   ####   ####   #      
+      ##       # ###    
+   ####   ####     #    
+   #@ $   # #  #.# #####
+   # $ $ ## #  ....    #
+   # $$ ##  ####.....  #
+  ## $  #     #..#.##  #
+  # $ $ ##    #......  #
+  #  $ $ #    # . ..# ##
+  ##  $  #    ## ##.# # 
+   #    ##     #      # 
+   ######      ######## 
+
+[set 2.37M, closed 524K, open 1.85M, branching 4.5, key 45/517, freemem 3.3B]
+[set 4.79M, closed 1.05M, open 3.74M, branching 4.6, key 46/517, freemem 3.4B]
+[set 7.12M, closed 1.58M, open 5.55M, branching 4.5, key 38/517, freemem 3.2B]
+[set 9.36M, closed 2.10M, open 7.26M, branching 4.5, key 32/517, freemem 3.3B]
+[set 11.8M, closed 2.63M, open 9.17M, branching 4.5, key 25/517, freemem 2.8B]
+[set 13.5M, closed 3.15M, open 10.4M, branching 4.3, key 62/519, freemem 2.8B]
+[set 15.0M, closed 3.68M, open 11.4M, branching 4.1, key 54/519, freemem 2.4B]
+[set 16.6M, closed 4.20M, open 12.4M, branching 4.0, key 53/519, freemem 2.1B]
+[set 18.3M, closed 4.72M, open 13.6M, branching 3.9, key 53/519, freemem 2.3B]
+[set 20.0M, closed 5.25M, open 14.7M, branching 3.8, key 50/519, freemem 2.0B]
+[set 21.6M, closed 5.77M, open 15.8M, branching 3.7, key 49/519, freemem 1.6B]
+[set 23.3M, closed 6.30M, open 17.0M, branching 3.7, key 48/519, freemem 1.8B]
+[set 25.0M, closed 6.82M, open 18.2M, branching 3.7, key 47/519, freemem 1.4B]
+[set 26.7M, closed 7.35M, open 19.4M, branching 3.6, key 46/519, freemem 954.3M]
+[set 28.5M, closed 7.87M, open 20.6M, branching 3.6, key 45/519, freemem 2.4B]
+[set 30.1M, closed 8.39M, open 21.7M, branching 3.6, key 44/519, freemem 2.6B]
+[set 31.8M, closed 8.92M, open 22.9M, branching 3.6, key 44/519, freemem 2.2B]
+[set 33.6M, closed 9.44M, open 24.2M, branching 3.6, key 43/519, freemem 2.4B]
+[set 35.3M, closed 9.97M, open 25.4M, branching 3.5, key 47/519, freemem 2.0B]
+[set 37.1M, closed 10.5M, open 26.6M, branching 3.5, key 57/519, freemem 1.7B]
+[set 39.0M, closed 11.1M, open 28.0M, branching 3.5, key 42/519, freemem 1.9B]
+[set 40.8M, closed 11.6M, open 29.3M, branching 3.5, key 41/519, freemem 1.5B]
+[set 42.7M, closed 12.1M, open 30.6M, branching 3.5, key 44/519, freemem 1.1B]
+[set 44.4M, closed 12.6M, open 31.9M, branching 3.5, key 40/519, freemem 1.2B]
+[set 45.1M, closed 12.8M, open 32.3M, branching 3.5, freemem 824.1M]
+Timed out after key: pushes 42, total 519
+FrozenBoxes 18.7M
+
+Level #45 [cells 175, boxes 21, alive 117, complexity 62.3]
+  ####      ########   
+  #  ##### ##   #  #   
+  #    $ ### $  $  #   
+  #  $ # ##    $   ####
+  ###  #    # ###$##  #
+#####  ###  ####   $  #
+#   # $  $$## .. ##$  #
+#  $$   # $          ##
+##  # $##  #### # #### 
+### #  ##$ ###..#..#   
+#   ###..  #  .....### 
+#   #  *.### #  #..  # 
+##$$#  *.##@ #  #    # 
+ #     *. ####  ###  # 
+ ######   #  #       # 
+      #####  ##    ### 
+              #  ###   
+              ####     
+
+[set 1.16M, closed 524K, open 629K, branching 2.2, key 45/251, freemem 4.0B]
+[set 2.56M, closed 1.05M, open 1.51M, branching 2.4, key 41/251, freemem 4.0B]
+[set 3.79M, closed 1.58M, open 2.22M, branching 2.4, key 56/253, freemem 4.0B]
+[set 4.94M, closed 2.10M, open 2.84M, branching 2.4, key 49/253, freemem 3.5B]
+[set 6.13M, closed 2.63M, open 3.51M, branching 2.3, key 48/253, freemem 3.6B]
+[set 7.30M, closed 3.15M, open 4.16M, branching 2.3, key 43/253, freemem 3.5B]
+[set 8.41M, closed 3.68M, open 4.74M, branching 2.3, key 41/253, freemem 3.1B]
+[set 9.45M, closed 4.20M, open 5.26M, branching 2.3, key 50/253, freemem 3.2B]
+[set 11.2M, closed 4.72M, open 6.48M, branching 2.4, key 95/253, freemem 3.1B]
+[set 14.9M, closed 5.25M, open 9.60M, branching 2.8, key 82/253, freemem 2.6B]
+[set 18.0M, closed 5.77M, open 12.2M, branching 3.1, key 105/253, freemem 2.0B]
+[set 20.5M, closed 6.30M, open 14.2M, branching 3.2, key 99/253, freemem 2.1B]
+[set 23.1M, closed 6.82M, open 16.2M, branching 3.4, key 97/253, freemem 1.7B]
+[set 25.7M, closed 7.35M, open 18.3M, branching 3.5, key 119/253, freemem 2.9B]
+[set 28.5M, closed 7.87M, open 20.6M, branching 3.6, key 93/253, freemem 2.3B]
+[set 31.2M, closed 8.39M, open 22.8M, branching 3.7, key 93/253, freemem 1.8B]
+[set 34.1M, closed 8.92M, open 25.1M, branching 3.8, key 84/253, freemem 1.8B]
+[set 36.8M, closed 9.44M, open 27.4M, branching 3.9, key 97/253, freemem 1.3B]
+[set 39.7M, closed 9.97M, open 29.8M, branching 4.0, key 83/253, freemem 1.3B]
+[set 42.6M, closed 10.5M, open 32.1M, branching 4.1, key 92/253, freemem 832.0M]
+[set 45.1M, closed 10.8M, open 34.3M, branching 4.2, freemem 1.1B]
+Timed out after key: pushes 94, total 253
+FrozenBoxes 18.0M
+
+Level #46 [cells 213, boxes 24, alive 140, complexity 71.7]
+      #### ###################
+  #####  ###            .$   #
+###  $.       #####$####   # #
+#    $.  #### #     .   ### .#
+#  $ $.###  # # #### #  $.# $#
+###  $.#    # # #  #  # $ #  #
+  ######    # #$ $ ##   #. # #
+        ##### #.#.  #  ### # #
+        #   # ### ###   #    #
+        #     .#  #   #$$*  ##
+       ### ## ## ## #  .#. ## 
+       #  .$ .# $.$.## ### #  
+       # #.####     # $.   ## 
+       # $$   ### ###   ##  ##
+       # #   . $@$  #######. #
+       # ### ####.#        $ #
+       #     #  ###########  #
+       #######            ####
+
+[set 1.79M, closed 524K, open 1.26M, branching 3.4, key 17/55, freemem 4.2B]
+[set 3.38M, closed 1.05M, open 2.33M, branching 3.2, key 13/55, freemem 3.5B]
+[set 5.02M, closed 1.58M, open 3.44M, branching 3.2, key 19/55, freemem 3.9B]
+[set 6.75M, closed 2.10M, open 4.66M, branching 3.2, key 11/55, freemem 3.7B]
+[set 8.55M, closed 2.63M, open 5.93M, branching 3.3, key 38/57, freemem 3.6B]
+[set 10.2M, closed 3.15M, open 7.01M, branching 3.2, key 33/57, freemem 3.5B]
+[set 11.8M, closed 3.68M, open 8.09M, branching 3.2, key 30/57, freemem 2.8B]
+[set 13.5M, closed 4.20M, open 9.22M, branching 3.2, key 28/57, freemem 2.6B]
+[set 15.1M, closed 4.72M, open 10.4M, branching 3.2, key 30/57, freemem 2.4B]
+[set 16.8M, closed 5.25M, open 11.6M, branching 3.2, key 28/57, freemem 2.3B]
+[set 18.5M, closed 5.77M, open 12.8M, branching 3.2, key 32/57, freemem 2.2B]
+[set 20.3M, closed 6.30M, open 14.0M, branching 3.2, key 29/57, freemem 2.0B]
+[set 22.1M, closed 6.82M, open 15.3M, branching 3.2, key 29/57, freemem 1.9B]
+[set 23.9M, closed 7.35M, open 16.6M, branching 3.3, key 25/57, freemem 1.7B]
+[set 25.8M, closed 7.87M, open 17.9M, branching 3.3, key 28/57, freemem 1.2B]
+[set 27.7M, closed 8.39M, open 19.3M, branching 3.3, key 28/57, freemem 2.3B]
+[set 29.5M, closed 8.92M, open 20.6M, branching 3.3, key 23/57, freemem 1.6B]
+[set 31.3M, closed 9.44M, open 21.9M, branching 3.3, key 21/57, freemem 1.9B]
+[set 33.0M, closed 9.97M, open 23.1M, branching 3.3, key 25/57, freemem 1.8B]
+[set 34.8M, closed 10.5M, open 24.3M, branching 3.3, key 22/57, freemem 1.6B]
+[set 36.4M, closed 11.1M, open 25.4M, branching 3.3, key 32/57, freemem 1.5B]
+[set 38.1M, closed 11.6M, open 26.6M, branching 3.3, key 19/57, freemem 1.5B]
+[set 39.7M, closed 12.1M, open 27.7M, branching 3.3, key 22/57, freemem 1.4B]
+[set 41.3M, closed 12.6M, open 28.7M, branching 3.3, key 18/57, freemem 1.3B]
+[set 43.0M, closed 13.2M, open 29.9M, branching 3.3, key 18/57, freemem 972.4M]
+[set 44.6M, closed 13.7M, open 30.9M, branching 3.3, key 23/57, freemem 907.6M]
+[set 45.1M, closed 13.9M, open 31.2M, branching 3.3, freemem 869.9M]
+Timed out after key: pushes 18, total 57
+FrozenBoxes 11.5M
+
+Level #47 [cells 160, boxes 33, alive 115, complexity 75.7]
+#########             
+#       #    ######   
+#   $   ######    ### 
+# #$#$ $ $  # $     # 
+# $   $@$  $ $ $ $$ # 
+# $ $# $ #     $$$  # 
+#  $ $ #######   #####
+##    ###....##### ..#
+ ###$$# $$$$ #...* ..#
+  #         ##   #.. #
+  #  #  #$###....##*##
+  #   ##..$. ....    #
+  ### .*   .#....#   #
+    ##################
+
+[set 3.23M, closed 524K, open 2.70M, branching 6.1, key 41/647, freemem 3.8B]
+[set 6.48M, closed 1.05M, open 5.43M, branching 6.2, key 36/647, freemem 3.6B]
+[set 9.86M, closed 1.58M, open 8.28M, branching 6.3, key 35/647, freemem 3.3B]
+[set 13.2M, closed 2.10M, open 11.1M, branching 6.3, key 28/647, freemem 2.9B]
+[set 16.5M, closed 2.63M, open 13.9M, branching 6.3, key 34/647, freemem 2.2B]
+[set 19.8M, closed 3.15M, open 16.6M, branching 6.3, key 33/647, freemem 2.0B]
+[set 22.9M, closed 3.68M, open 19.3M, branching 6.2, key 43/647, freemem 1.9B]
+[set 25.6M, closed 4.20M, open 21.4M, branching 6.1, key 41/647, freemem 2.8B]
+[set 28.3M, closed 4.72M, open 23.6M, branching 6.0, key 37/647, freemem 2.5B]
+[set 31.0M, closed 5.25M, open 25.8M, branching 5.9, key 36/647, freemem 2.5B]
+[set 34.4M, closed 5.77M, open 28.6M, branching 6.0, key 49/647, freemem 1.8B]
+[set 37.5M, closed 6.30M, open 31.2M, branching 6.0, key 42/647, freemem 1.7B]
+[set 40.7M, closed 6.82M, open 33.9M, branching 6.0, key 38/647, freemem 1.6B]
+[set 44.1M, closed 7.35M, open 36.8M, branching 6.0, key 41/647, freemem 775.8M]
+[set 45.1M, closed 7.52M, open 37.5M, branching 6.0, freemem 849.4M]
+Timed out after key: pushes 45, total 647
+FrozenBoxes 34.1M
+
+Level #48 [cells 174, boxes 15, alive 115, complexity 52.0]
+   #### ####           
+  ##  # #  #  #######  
+###   ###$ ## #     ###
+#  $      $ ###       #
+# $ $ ###$   #  #     #
+### ### #    #   #    #
+#  $ #  ## ###    # ###
+#    $   # #@        # 
+# $# # ### ###   #   # 
+#  $ # # $ $ #  #  # # 
+##   #    $  # #.    # 
+ ##  # #   ####..  ### 
+  ## # #  ####... ##   
+ ### # #### #....##    
+ #          $.*.##     
+ ############..##      
+            ####       
+
+[set 829K, closed 524K, open 305K, branching 1.6, key 46/417, freemem 4.1B]
+[set 1.80M, closed 1.05M, open 750K, branching 1.7, key 53/419, freemem 4.2B]
+[set 2.52M, closed 1.58M, open 937K, branching 1.6, key 44/419, freemem 4.3B]
+[set 3.36M, closed 2.10M, open 1.26M, branching 1.6, key 46/419, freemem 3.8B]
+[set 4.19M, closed 2.63M, open 1.57M, branching 1.6, key 44/419, freemem 3.8B]
+[set 5.05M, closed 3.15M, open 1.91M, branching 1.6, key 23/419, freemem 4.0B]
+[set 5.88M, closed 3.68M, open 2.21M, branching 1.6, key 30/413, freemem 3.5B]
+[set 6.73M, closed 4.20M, open 2.53M, branching 1.6, key 37/419, freemem 3.5B]
+[set 7.61M, closed 4.72M, open 2.89M, branching 1.6, key 53/421, freemem 3.6B]
+[set 8.28M, closed 5.25M, open 3.04M, branching 1.6, key 47/421, freemem 3.7B]
+[set 9.00M, closed 5.77M, open 3.23M, branching 1.6, key 45/421, freemem 3.2B]
+[set 9.71M, closed 6.30M, open 3.42M, branching 1.5, key 44/421, freemem 3.3B]
+[set 10.5M, closed 6.82M, open 3.64M, branching 1.5, key 43/421, freemem 3.4B]
+[set 11.2M, closed 7.35M, open 3.86M, branching 1.5, key 39/421, freemem 2.9B]
+[set 11.9M, closed 7.87M, open 4.04M, branching 1.5, key 35/421, freemem 2.5B]
+[set 12.7M, closed 8.39M, open 4.29M, branching 1.5, key 31/421, freemem 3.0B]
+[set 13.5M, closed 8.92M, open 4.57M, branching 1.5, key 32/415, freemem 3.0B]
+[set 14.3M, closed 9.44M, open 4.83M, branching 1.5, key 52/423, freemem 2.6B]
+[set 15.0M, closed 9.97M, open 5.03M, branching 1.5, key 49/423, freemem 2.8B]
+[set 15.7M, closed 10.5M, open 5.21M, branching 1.5, key 47/423, freemem 2.9B]
+[set 16.5M, closed 11.1M, open 5.45M, branching 1.5, key 46/423, freemem 2.3B]
+[set 17.2M, closed 11.6M, open 5.67M, branching 1.5, key 45/423, freemem 2.4B]
+[set 18.0M, closed 12.1M, open 5.87M, branching 1.5, key 44/423, freemem 2.6B]
+[set 18.7M, closed 12.6M, open 6.06M, branching 1.5, key 43/423, freemem 2.0B]
+[set 19.5M, closed 13.2M, open 6.31M, branching 1.5, key 44/395, freemem 2.2B]
+[set 20.2M, closed 13.7M, open 6.50M, branching 1.5, key 39/423, freemem 2.3B]
+[set 20.9M, closed 14.2M, open 6.70M, branching 1.5, key 38/423, freemem 1.8B]
+[set 21.7M, closed 14.7M, open 6.94M, branching 1.5, key 35/423, freemem 2.0B]
+[set 22.4M, closed 15.3M, open 7.19M, branching 1.5, key 32/423, freemem 1.5B]
+[set 23.3M, closed 15.8M, open 7.48M, branching 1.5, key 49/417, freemem 2.1B]
+[set 24.0M, closed 16.3M, open 7.73M, branching 1.5, key 54/421, freemem 1.6B]
+[set 24.8M, closed 16.8M, open 7.96M, branching 1.5, key 56/423, freemem 1.8B]
+[set 25.5M, closed 17.4M, open 8.18M, branching 1.5, key 47/417, freemem 1.5B]
+[set 26.3M, closed 17.9M, open 8.41M, branching 1.5, key 47/423, freemem 1.5B]
+[set 27.1M, closed 18.4M, open 8.74M, branching 1.5, key 53/423, freemem 931.5M]
+[set 27.9M, closed 18.9M, open 8.97M, branching 1.5, key 50/415, freemem 1.1B]
+[set 28.6M, closed 19.4M, open 9.18M, branching 1.5, key 48/419, freemem 1.3B]
+[set 29.4M, closed 20.0M, open 9.41M, branching 1.5, key 56/401, freemem 790.9M]
+[set 30.2M, closed 20.5M, open 9.71M, branching 1.5, key 50/423, freemem 2.7B]
+[set 31.0M, closed 21.0M, open 9.94M, branching 1.5, key 45/409, freemem 2.8B]
+[set 31.7M, closed 21.5M, open 10.2M, branching 1.5, key 56/411, freemem 2.3B]
+[set 32.5M, closed 22.1M, open 10.4M, branching 1.5, key 47/421, freemem 2.4B]
+[set 33.2M, closed 22.6M, open 10.7M, branching 1.5, key 50/423, freemem 2.5B]
+[set 34.1M, closed 23.1M, open 11.0M, branching 1.5, key 47/413, freemem 2.0B]
+[set 34.8M, closed 23.6M, open 11.2M, branching 1.5, key 44/417, freemem 2.2B]
+[set 35.5M, closed 24.2M, open 11.4M, branching 1.5, key 53/421, freemem 2.3B]
+[set 36.3M, closed 24.7M, open 11.7M, branching 1.5, key 47/421, freemem 1.9B]
+[set 37.0M, closed 25.2M, open 11.9M, branching 1.5, key 51/423, freemem 2.0B]
+[set 37.8M, closed 25.7M, open 12.1M, branching 1.5, key 49/423, freemem 2.2B]
+[set 38.5M, closed 26.3M, open 12.3M, branching 1.5, key 44/419, freemem 1.7B]
+[set 39.5M, closed 26.8M, open 12.7M, branching 1.5, key 49/423, freemem 1.9B]
+[set 40.4M, closed 27.3M, open 13.2M, branching 1.5, key 48/401, freemem 1.4B]
+[set 41.2M, closed 27.8M, open 13.4M, branching 1.5, key 42/423, freemem 916.9M]
+[set 42.0M, closed 28.4M, open 13.7M, branching 1.5, key 60/425, freemem 1.7B]
+[set 42.6M, closed 28.9M, open 13.8M, branching 1.5, key 57/425, freemem 1.2B]
+[set 43.3M, closed 29.4M, open 13.9M, branching 1.5, key 55/425, freemem 1.4B]
+[set 43.9M, closed 29.9M, open 14.0M, branching 1.5, key 54/425, freemem 1.6B]
+[set 44.6M, closed 30.5M, open 14.2M, branching 1.5, key 54/425, freemem 1.1B]
+[set 45.1M, closed 30.9M, open 14.2M, branching 1.5, freemem 1.4B]
+Timed out after key: pushes 53, total 425
+FrozenBoxes 29.0M
+
+Level #49 [cells 168, boxes 9, alive 108, complexity 38.7]
+#########################
+#  #  #  #  #  #  #  #  #
+# $#$ # $#$ # $#$ # $#$ #
+#  #  #  #  #  #  #  #  #
+## # ### # ### # ### # ##
+#  #  #  #  #  #  #  #  #
+#     #     #     #     #
+# ### # ### # ### # ### #
+#  #  #  #  #  #  #  #  #
+#  #     #  $  #     #  #
+#  # ### # ### # ### #  #
+#  . . .  . + .  . . .  #
+#########################
+
+[set 1.05M, closed 524K, open 519K, branching 2.0, key 48/104, freemem 978.4M]
+[set 1.94M, closed 1.05M, open 888K, branching 1.8, key 43/104, freemem 1.3B]
+[set 2.94M, closed 1.58M, open 1.36M, branching 1.9, key 53/104, freemem 899.3M]
+[set 4.11M, closed 2.10M, open 2.01M, branching 2.0, key 64/104, freemem 4.1B]
+[set 5.41M, closed 2.63M, open 2.79M, branching 2.1, key 80/104, freemem 3.7B]
+[set 6.63M, closed 3.15M, open 3.48M, branching 2.1, key 61/104, freemem 3.7B]
+[set 7.84M, closed 3.68M, open 4.17M, branching 2.1, key 64/104, freemem 3.4B]
+[set 9.04M, closed 4.20M, open 4.85M, branching 2.2, key 62/104, freemem 3.5B]
+[set 10.1M, closed 4.72M, open 5.32M, branching 2.1, key 69/104, freemem 3.1B]
+[set 11.2M, closed 5.25M, open 5.88M, branching 2.1, key 66/104, freemem 3.3B]
+[set 12.2M, closed 5.77M, open 6.42M, branching 2.1, key 70/104, freemem 3.0B]
+[set 13.2M, closed 6.30M, open 6.88M, branching 2.1, key 56/104, freemem 3.0B]
+[set 14.3M, closed 6.82M, open 7.43M, branching 2.1, key 68/104, freemem 2.7B]
+[set 15.3M, closed 7.35M, open 7.88M, branching 2.1, key 50/104, freemem 2.8B]
+[set 16.3M, closed 7.87M, open 8.36M, branching 2.1, key 59/104, freemem 2.5B]
+[set 17.4M, closed 8.39M, open 8.93M, branching 2.1, key 68/104, freemem 2.7B]
+[set 18.5M, closed 8.92M, open 9.53M, branching 2.1, key 78/104, freemem 2.3B]
+[set 19.4M, closed 9.44M, open 9.95M, branching 2.1, key 57/104, freemem 2.5B]
+[set 20.4M, closed 9.97M, open 10.4M, branching 2.0, key 55/104, freemem 2.2B]
+[set 21.3M, closed 10.5M, open 10.8M, branching 2.0, key 67/104, freemem 1.9B]
+[set 22.3M, closed 11.1M, open 11.3M, branching 2.0, key 75/104, freemem 2.1B]
+[set 23.2M, closed 11.6M, open 11.6M, branching 2.0, key 61/104, freemem 1.9B]
+[set 24.1M, closed 12.1M, open 12.1M, branching 2.0, key 55/104, freemem 2.1B]
+[set 25.3M, closed 12.6M, open 12.7M, branching 2.0, key 69/104, freemem 1.8B]
+[set 26.3M, closed 13.2M, open 13.2M, branching 2.0, key 77/104, freemem 1.4B]
+[set 27.3M, closed 13.7M, open 13.7M, branching 2.0, key 67/104, freemem 1.1B]
+[set 28.2M, closed 14.2M, open 14.1M, branching 2.0, key 62/104, freemem 2.7B]
+[set 29.1M, closed 14.7M, open 14.4M, branching 2.0, key 53/104, freemem 2.4B]
+[set 30.0M, closed 15.3M, open 14.8M, branching 2.0, key 54/104, freemem 2.1B]
+[set 30.9M, closed 15.8M, open 15.2M, branching 2.0, key 48/104, freemem 1.8B]
+[set 31.9M, closed 16.3M, open 15.6M, branching 2.0, key 62/104, freemem 1.5B]
+[set 32.7M, closed 16.8M, open 16.0M, branching 1.9, key 57/104, freemem 2.3B]
+[set 33.6M, closed 17.4M, open 16.3M, branching 1.9, key 44/104, freemem 2.0B]
+[set 34.5M, closed 17.9M, open 16.7M, branching 1.9, key 51/104, freemem 2.2B]
+[set 35.4M, closed 18.4M, open 17.1M, branching 1.9, key 47/104, freemem 1.9B]
+[set 36.3M, closed 18.9M, open 17.5M, branching 1.9, key 62/104, freemem 1.7B]
+[set 37.2M, closed 19.4M, open 17.8M, branching 1.9, key 69/104, freemem 1.9B]
+[set 38.1M, closed 20.0M, open 18.2M, branching 1.9, key 58/104, freemem 1.6B]
+[set 39.0M, closed 20.5M, open 18.5M, branching 1.9, key 40/104, freemem 2.0B]
+[set 39.8M, closed 21.0M, open 18.9M, branching 1.9, key 69/104, freemem 1.7B]
+[set 40.9M, closed 21.5M, open 19.4M, branching 1.9, key 52/104, freemem 1.4B]
+[set 41.8M, closed 22.1M, open 19.7M, branching 1.9, key 49/104, freemem 1.6B]
+[set 42.9M, closed 22.6M, open 20.3M, branching 1.9, key 70/104, freemem 1.2B]
+[set 43.8M, closed 23.1M, open 20.8M, branching 1.9, key 69/104, freemem 1.5B]
+[set 44.8M, closed 23.6M, open 21.2M, branching 1.9, key 50/104, freemem 1.2B]
+[set 45.1M, closed 23.8M, open 21.3M, branching 1.9, freemem 1.1B]
+Timed out after key: pushes 59, total 104
+FrozenBoxes 4.06M
+
+Level #50 [cells 239, boxes 36, alive 203, complexity 102.7]
+ ######################### 
+## # # # # # # # # # # # ##
+#   .$    . $.  . $   .$  #
+## $# #$# # # #$# # # #  ##
+#  .  .    $.  .  .$ .  . #
+## #$# # # # #$#$ $# #$# ##
+# .     .$ .$    . $.  .  #
+## $# # # # #@# # # # #$ ##
+#  .  .$ .    $. $.     . #
+## #$# #$ $#$# # # # #$# ##
+# .  . $.  .  .$    .  .  #
+##  # # # #$# # # #$# #$ ##
+#  $.   $ .  .$ .    $.   #
+## # # # # # # # # # # # ##
+ ######################### 
+
+[set 15.5M, closed 524K, open 15.0M, branching 29.4, key 48/60, freemem 2.3B]
+[set 29.6M, closed 1.05M, open 28.5M, branching 28.1, key 43/60, freemem 1.9B]
+[set 43.6M, closed 1.58M, open 42.0M, branching 27.7, key 43/60, freemem 746.2M]
+
+Flat profile of 11134.21 secs (722691 total ticks): Thread-5
+
+  Interpreted + native   Method                        
+  0.0%     0  +    13    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     0  +     4    sun.misc.Unsafe.compareAndSwapObject
+  0.0%     0  +     1    java.lang.Double.doubleToRawLongBits
+  0.0%     1  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     1  +     0    java.util.Formatter$FormatSpecifier.checkGeneral
+  0.0%     1  +     0    java.lang.ref.Reference.<init>
+  0.0%     1  +     0    Search$Runner.run
+  0.0%     1  +     0    java.lang.String.toCharArray
+  0.0%     1  +     0    Search.print
+  0.0%     1  +     0    java.lang.ref.Reference.get
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.exchange
+  0.0%     1  +     0    Search.human
+  0.0%     0  +     1    java.lang.Double.longBitsToDouble
+  0.0%     0  +     1    java.lang.Runtime.freeMemory
+  0.0%     0  +     1    java.lang.Object.wait
+  0.0%     9  +    21    Total interpreted
+
+     Compiled + native   Method                        
+ 52.9% 275579  +     0   base.KeyUtil.frozenBoxes
+ 28.0% 145816  +     0   heuristic.SimpleBipartiteHeuristic.estimate
+  7.1%  7091  + 30016    Search$Runner.computePushes
+  2.3% 12149  +     0    base.KeyUtil.reachable
+  2.0% 10626  +    27    base.KeyUtil.computePushes
+  1.3%  6527  +    19    base.KeyUtil.getBoxes
+  0.6%   492  +  2528    ConcurrentWorkPriorityQueue.exchange
+  0.5%  2647  +    11    base.KeySet.resize
+  0.1%   446  +     0    Search$Runner.run
+  0.0%    27  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     0  +    23    java.util.Arrays.copyOf
+  0.0%    18  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+ 94.9% 461418  + 32624   Total compiled
+
+         Stub + native   Method                        
+  5.1%     0  + 26662    java.lang.Object.notify
+  0.0%     0  +     4    java.lang.System.arraycopy
+  0.0%     0  +     2    java.lang.Thread.currentThread
+  5.1%     0  + 26668    Total stub
+
+  Thread-local ticks:
+ 27.9% 201951            Blocked (of total)
+
+Exception in thread "Thread-5" 
+Flat profile of 11226.56 secs (722691 total ticks): Thread-0
+
+  Interpreted + native   Method                        
+  0.0%     0  +    11    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     0  +     3    java.io.FileOutputStream.writeBytes
+  0.0%     3  +     0    Search$Runner.run
+  0.0%     0  +     3    sun.misc.Unsafe.compareAndSwapObject
+  0.0%     2  +     0    java.util.Formatter.parse
+  0.0%     1  +     0    java.util.Arrays.copyOfRange
+  0.0%     1  +     0    java.lang.String.toCharArray
+  0.0%     1  +     0    java.util.Formatter$FormatSpecifier.checkGeneral
+  0.0%     1  +     0    base.KeyUtil.computePushes
+  0.0%     1  +     0    java.util.regex.Matcher.find
+  0.0%     0  +     1    java.lang.Object.wait
+  0.0%    10  +    18    Total interpreted
+
+     Compiled + native   Method                        
+ 52.9% 272269  +     0   base.KeyUtil.frozenBoxes
+ 28.4% 146166  +     0   heuristic.SimpleBipartiteHeuristic.estimate
+  7.2%  7037  + 29986    Search$Runner.computePushes
+  2.3% 11637  +     0    base.KeyUtil.reachable
+  2.0% 10312  +    24    base.KeyUtil.computePushes
+  1.2%  6340  +    25    base.KeyUtil.getBoxes
+  0.5%   472  +  2214    ConcurrentWorkPriorityQueue.exchange
+  0.4%  2224  +     9    base.KeySet.resize
+  0.1%   421  +     0    Search$Runner.run
+  0.0%    40  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%    29  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     0  +    16    java.util.Arrays.copyOf
+ 95.0% 456947  + 32274   Total compiled
+
+         Stub + native   Method                        
+  5.0%     0  + 25528    java.lang.Object.notify
+  0.0%     0  +     4    java.lang.System.arraycopy
+  0.0%     0  +     1    java.lang.Thread.currentThread
+  5.0%     0  + 25533    Total stub
+
+  Thread-local ticks:
+ 28.8% 207909            Blocked (of total)
+
+Exception in thread "Thread-0" 
+Flat profile of 11257.29 secs (722691 total ticks): Thread-6
+
+  Interpreted + native   Method                        
+  0.0%     0  +    11    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     0  +     3    sun.misc.Unsafe.compareAndSwapObject
+  0.0%     2  +     0    java.lang.String.toCharArray
+  0.0%     1  +     0    java.util.Formatter$FormatSpecifier.checkGeneral
+  0.0%     1  +     0    java.util.Formatter.parse
+  0.0%     1  +     0    java.lang.ThreadLocal$ThreadLocalMap.cleanSomeSlots
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.exchange
+  0.0%     1  +     0    Search.human
+  0.0%     1  +     0    java.lang.CharacterData.of
+  0.0%     0  +     1    java.io.FileOutputStream.writeBytes
+  0.0%     1  +     0    Search$Runner.computePushes
+  0.0%     0  +     1    java.lang.Object.notify
+  0.0%     9  +    16    Total interpreted
+
+     Compiled + native   Method                        
+ 52.1% 270078  +     0   base.KeyUtil.frozenBoxes
+ 28.2% 146052  +     0   heuristic.SimpleBipartiteHeuristic.estimate
+  7.3%  6951  + 31134    Search$Runner.computePushes
+  2.2% 11421  +     0    base.KeyUtil.reachable
+  2.0% 10329  +    46    base.KeyUtil.computePushes
+  1.2%  6364  +    29    base.KeyUtil.getBoxes
+  0.8%  3930  +    22    base.KeySet.resize
+  0.6%   406  +  2662    ConcurrentWorkPriorityQueue.exchange
+  0.1%   378  +     0    Search$Runner.run
+  0.0%    24  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%    14  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     0  +    14    java.util.Arrays.copyOf
+  0.0%     1  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+  0.0%     0  +     1    java.util.regex.Pattern$Branch.match
+ 94.5% 455948  + 33908   Total compiled
+
+         Stub + native   Method                        
+  5.5%     0  + 28649    java.lang.Object.notify
+  0.0%     0  +     2    java.lang.System.arraycopy
+  5.5%     0  + 28651    Total stub
+
+  Thread-local ticks:
+ 28.2% 204159            Blocked (of total)
+
+
+Flat profile of 11288.10 secs (722691 total ticks): Thread-2
+
+  Interpreted + native   Method                        
+  0.0%     0  +    11    sun.misc.Unsafe.compareAndSwapInException in thread "Thread-6" t
+  0.0%     0  +    10    java.io.FileOutputStream.writeBytes
+  0.0%     0  +     5    java.lang.Runtime.freeMemory
+  0.0%     0  +     4    sun.misc.Unsafe.compareAndSwapObject
+  0.0%     4  +     0    java.lang.String.toCharArray
+  0.0%     3  +     0    Search.print
+  0.0%     2  +     0    java.lang.ThreadLocal$ThreadLocalMap.cleanSomeSlots
+  0.0%     2  +     0    java.lang.Double.<init>
+  0.0%     2  +     0    Search$Runner.run
+  0.0%     1  +     0    base.KeyUtil.computePushes
+  0.0%     1  +     0    java.util.Formatter$FormatSpecifier.mantissa
+  0.0%     1  +     0    java.util.Formatter$FormatSpecifier.checkBadFlags
+  0.0%     1  +     0    java.nio.charset.CoderResult.isUnderflow
+  0.0%     1  +     0    java.util.Formatter.parse
+  0.0%     1  +     0    java.io.BufferedWriter.min
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.abort
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.exchange
+  0.0%     1  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  0.0%     0  +     1    java.lang.Object.wait
+  0.0%     0  +     1    java.lang.Double.doubleToRawLongBits
+  0.0%     1  +     0    java.util.regex.Matcher.<init>
+  0.0%    23  +    32    Total interpreted
+
+     Compiled + native   Method                        
+ 53.0% 273952  +     0   base.KeyUtil.frozenBoxes
+ 28.2% 145739  +     0   heuristic.SimpleBipartiteHeuristic.estimate
+  7.0%  7008  + 29176    Search$Runner.computePushes
+  2.3% 11683  +     0    base.KeyUtil.reachable
+  2.1% 10665  +    35    base.KeyUtil.computePushes
+  1.3%  6616  +    17    base.KeyUtil.getBoxes
+  0.5%   438  +  2324    ConcurrentWorkPriorityQueue.exchange
+  0.5%  2666  +    14    base.KeySet.resize
+  0.1%   438  +     0    Search$Runner.run
+  0.0%    26  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     0  +    20    java.util.Arrays.copyOf
+  0.0%    17  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+ 94.9% 459248  + 31586   Total compiled
+
+         Stub + native   Method                        
+  5.1%     0  + 26453    java.lang.Object.notify
+  0.0%     0  +     2    java.lang.System.arraycopy
+  0.0%     0  +     2    java.lang.Thread.currentThread
+  5.1%     0  + 26457    Total stub
+
+  Thread-local ticks:
+ 28.4% 205345            Blocked (of total)
+
+Exception in thread "Thread-2" 
+Flat profile of 11472.77 secs (722692 total ticks): Thread-3
+
+  Interpreted + native   Method                        
+  0.0%     0  +    11    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     0  +     3    sun.misc.Unsafe.compareAndSwapObject
+  0.0%     0  +     2    java.lang.Object.wait
+  0.0%     2  +     0    Search$Runner.computePushes
+  0.0%     2  +     0    java.lang.AbstractStringBuilder.<init>
+  0.0%     1  +     0    base.KeyUtil.computePushes
+  0.0%     1  +     0    java.io.BufferedWriter.write
+  0.0%     1  +     0    java.util.regex.ASCII.getType
+  0.0%     1  +     0    java.lang.String.substring
+  0.0%     1  +     0    java.util.Formatter.parse
+  0.0%     1  +     0    base.Key.push
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.exchange
+  0.0%     1  +     0    java.lang.ThreadLocal.get
+  0.0%     1  +     0    Search.human
+  0.0%     1  +     0    java.util.ArrayList.<init>
+  0.0%     1  +     0    java.util.ArrayList.toArray
+  0.0%     1  +     0    Search$Runner.run
+  0.0%    16  +    16    Total interpreted
+
+     Compiled + native   Method                        
+ 52.6% 270850  +     0   base.KeyUtil.frozenBoxes
+ 27.7% 142386  +     0   heuristic.SimpleBipartiteHeuristic.estimate
+  6.9%  7588  + 28074    Search$Runner.computePushes
+  2.4% 12145  +     0    base.KeyUtil.reachable
+  2.1% 10812  +    35    base.KeyUtil.computePushes
+  1.4%  7096  +    22    base.KeyUtil.getBoxes
+  0.6%  2947  +    13    base.KeySet.resize
+  0.6%   538  +  2316    ConcurrentWorkPriorityQueue.exchange
+  0.1%   521  +     0    Search$Runner.run
+  0.0%    37  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%    33  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     0  +    19    java.util.Arrays.copyOf
+ 94.3% 454953  + 30479   Total compiled
+
+         Stub + native   Method                        
+  5.7%     0  + 29163    java.lang.Object.notify
+  0.0%     0  +     4    java.lang.System.arraycopy
+  0.0%     0  +     1    java.lang.Thread.currentThread
+  5.7%     0  + 29168    Total stub
+
+  Thread-local ticks:
+ 28.8% 208060            Blocked (of total)
+
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+
+Flat profile of 11505.69 secs (722692 total ticks): Thread-4
+
+  Interpreted + native   Method                        
+  0.0%     0  +    12    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     0  +     4    sun.misc.Unsafe.compareAndSwapObject
+  0.0%     0  +     3    java.lang.Object.wait
+  0.0%     2  +     0    ConcurrentWorkPriorityQueue.exchange
+  0.0%     0  +     2    java.io.FileOutputStream.writeBytes
+  0.0%     2  +     0    Search$Runner.run
+  0.0%     2  +     0    java.lang.String.toCharArray
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.abort
+  0.0%     1  +     0    java.lang.ThreadLocal$ThreadLocalMap.cleanSomeSlots
+  0.0%     1  +     0    Search.human
+  0.0%     1  +     0    Search.print
+  0.0%     1  +     0    java.lang.CharacterDataLatin1.getProperties
+  0.0%     1  +     0    sun.nio.cs.StreamEncoder.writeBytes
+  0.0%     1  +     0    java.util.Formatter$FormatSpecifier.print
+  0.0%    13  +    21    Total interpreted
+
+     Compiled + native   Method                        
+ 52.3% 269402  +     0   base.KeyUtil.frozenBoxes
+ 28.3% 145744  +     0   heuristic.SimpleBipartiteHeuristic.estimate
+  7.5%  6803  + 31638    Search$Runner.computePushes
+  2.2% 11478  +     0    base.KeyUtil.reachable
+  2.0% 10045  +    29    base.KeyUtil.computePushes
+  1.2%  6219  +    12    base.KeyUtil.getBoxes
+  0.6%   372  +  2521    ConcurrentWorkPriorityQueue.exchange
+  0.5%  2354  +    10    base.KeySet.resize
+  0.1%   389  +     0    Search$Runner.run
+  0.0%    21  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     0  +    18    java.util.Arrays.copyOf
+  0.0%    12  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+ 94.6% 452839  + 34228   Total compiled
+
+         Stub + native   Method                        
+  5.4%     0  + 27809    java.lang.Object.notify
+  0.0%     0  +     1    java.lang.System.arraycopy
+  5.4%     0  + 27810    Total stub
+
+  Thread-local ticks:
+ 28.8% 207781            Blocked (of total)
+
+	at base.KeyUtil.getBoxes(KeyUtil.java:62)
+	at base.Key.boxes(Key.java:175)
+	at heuristic.SimpleBipartiteHeuristic.estimate(SimpleBipartiteHeuristic.java:10)
+	at Search$Runner.computePushes(Search.java:216)
+	at Search$Runner.run(Search.java:169)
+Exception in thread "Thread-4" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "Thread-3" java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at base.KeyUtil.getBoxes(KeyUtil.java:62)
+	at base.Key.boxes(Key.java:175)
+	at heuristic.SimpleBipartiteHeuristic.estimate(SimpleBipartiteHeuristic.java:10)
+	at Search$Runner.computePushes(Search.java:216)
+	at Search$Runner.run(Search.java:169)
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at base.KeyUtil.getBoxes(KeyUtil.java:62)
+	at base.Key.boxes(Key.java:175)
+	at heuristic.SimpleBipartiteHeuristic.estimate(SimpleBipartiteHeuristic.java:10)
+	at Search$Runner.computePushes(Search.java:216)
+	at Search$Runner.run(Search.java:169)
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+
+Flat profile of 11602.60 secs (722692 total ticks): Thread-7
+
+  Interpreted + native   Method                        
+  0.0%     0  +    13    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     0  +     3    sun.misc.Unsafe.compareAndSwapObject
+  0.0%     0  +     3    java.io.FileOutputStream.writeBytes
+  0.0%     1  +     0    java.lang.AbstractStringBuilder.<init>
+  0.0%     1  +     0    java.util.Formatter$FormatSpecifier.checkGeneral
+  0.0%     1  +     0    base.CellSearch.<init>
+  0.0%     1  +     0    java.util.Formatter.parse
+  0.0%     1  +     0    java.lang.ThreadLocal$ThreadLocalMap.getEntry
+  0.0%     1  +     0    Search.human
+  0.0%     1  +     0    java.util.ArrayList.<init>
+  0.0%     0  +     1    sun.misc.Unsafe.park
+  0.0%     1  +     0    java.util.ArrayList.<init>
+  0.0%     8  +    20    Total interpreted
+
+     Compiled + native   Method                        
+ 56.0% 305501  +     0   base.KeyUtil.frozenBoxes
+ 27.4% 149193  +     0   heuristic.SimpleBipartiteHeuristic.estimate
+  5.7%  9490  + 21586    Search$Runner.computePushes
+  2.8% 15253  +     0    base.KeyUtil.reachable
+  2.3% 12760  +    29    base.KeyUtil.computePushes
+  1.3%  7167  +    10    base.KeyUtil.getBoxes
+  0.7%  1776  +  2258    ConcurrentWorkPriorityQueue.exchange
+  0.6%  3286  +    11    base.KeySet.resize
+  0.1%   655  +     0    Search$Runner.run
+  0.0%   164  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%    47  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     0  +    17    java.util.Arrays.copyOf
+  0.0%     2  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+ 97.0% 505294  + 23911   Total compiled
+
+         Stub + native   Method                        
+  3.0%     0  + 16252    java.lang.Object.notify
+  0.0%     0  +     3    java.lang.System.arraycopy
+  3.0%     0  + 16255    Total stub
+
+  Thread-local ticks:
+ 24.5% 177204            Blocked (of total)
+
+Exception in thread "Thread-7" java.lang.OutOfMemoryError: GC overhead limit exceeded
+
+Flat profile of 11666.39 secs (722697 total ticks): Thread-1
+
+  Interpreted + native   Method                        
+  0.0%     0  +    12    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     0  +     4    java.io.FileOutputStream.writeBytes
+  0.0%     0  +     3    sun.misc.Unsafe.compareAndSwapObject
+  0.0%     3  +     0    java.lang.String.toCharArray
+  0.0%     2  +     0    Search$Runner.computePushes
+  0.0%     2  +     0    ConcurrentWorkPriorityQueue.abort
+  0.0%     1  +     0    java.lang.AbstractStringBuilder.<init>
+  0.0%     1  +     0    java.lang.StringBuilder.append
+  0.0%     1  +     0    base.KeyUtil.getBoxes
+  0.0%     1  +     0    Search$Runner.run
+  0.0%     1  +     0    java.util.ArrayList.grow
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.exchange
+  0.0%     1  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  0.0%     1  +     0    base.CellSearch2.<init>
+  0.0%     1  +     0    base.Cells.get
+  0.0%     1  +     0    java.util.regex.Matcher.<init>
+  0.0%     1  +     0    java.util.Arrays.copyOfRange
+  0.0%    18  +    19    Total interpreted
+
+     Compiled + native   Method                        
+ 52.3% 268778  +     0   base.KeyUtil.frozenBoxes
+ 28.3% 145566  +     0   heuristic.SimpleBipartiteHeuristic.estimate
+  7.3%  7189  + 30338    Search$Runner.computePushes
+  2.2% 11321  +     0    base.KeyUtil.reachable
+  2.0% 10342  +    32    base.KeyUtil.computePushes
+  1.3%  6507  +    22    base.KeyUtil.getBoxes
+  0.6%  3027  +    19    base.KeySet.resize
+  0.5%   386  +  2324    ConcurrentWorkPriorityQueue.exchange
+  0.1%   388  +     0    Search$Runner.run
+  0.0%    22  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%    20  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     0  +    20    java.util.Arrays.copyOf
+ 94.6% 453546  + 32755   Total compiled
+
+         Stub + native   Method                        
+  5.4%     0  + 27700    java.lang.Object.notify
+  0.0%     0  +     2    java.lang.System.arraycopy
+  5.4%     0  + 27702    Total stub
+
+  Thread-local ticks:
+ 28.9% 208657            Blocked (of total)
+
+Exception in thread "Thread-1" java.lang.OutOfMemoryError: GC overhead limit exceeded

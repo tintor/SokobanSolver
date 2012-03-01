@@ -1,0 +1,2583 @@
+Level #1 [cells 56, boxes 6, alive 41, complexity 22.8]
+    #####          
+    #   #          
+    #$  #          
+  ###  $##         
+  #  $ $ #         
+### # ## #   ######
+#   # ## #####  ..#
+# $  $          ..#
+##### ### #@##  ..#
+    #     #########
+    #######        
+
+[set 6.2K, closed 2.4K, open 3.9K, branching 2.7]
+Found solution in 101 pushes.
+FrozenBoxes 1.1K
+
+Level #2 [cells 70, boxes 10, alive 46, complexity 29.8]
+############  
+#..  #     ###
+#..  # $  $  #
+#..  #$####  #
+#..    @ ##  #
+#..  # #  $ ##
+###### ##$ $ #
+  # $  $ $ $ #
+  #    #     #
+  ############
+
+[set 1.47M, closed 524K, open 942K, branching 2.8, key 53/131]
+[set 2.84M, closed 1.05M, open 1.80M, branching 2.7, key 42/131]
+[set 4.27M, closed 1.58M, open 2.70M, branching 2.7, key 40/131]
+[set 5.62M, closed 2.10M, open 3.53M, branching 2.7, key 30/131]
+[set 5.71M, closed 2.14M, open 3.58M, branching 2.7]
+Found solution in 133 pushes.
+FrozenBoxes 1.79M
+
+Level #3 [cells 56, boxes 11, alive 43, complexity 29.7]
+        ######## 
+        #     @# 
+        # $#$ ## 
+        # $  $#  
+        ##$ $ #  
+######### $ # ###
+#....  ## $  $  #
+##...    $  $   #
+#....  ##########
+########         
+
+[set 1.68M, closed 524K, open 1.15M, branching 3.2, key 63/132]
+[set 3.30M, closed 1.05M, open 2.25M, branching 3.1, key 54/132]
+[set 4.93M, closed 1.58M, open 3.35M, branching 3.1, key 52/132]
+[set 6.53M, closed 2.10M, open 4.44M, branching 3.1, key 49/132]
+[set 8.03M, closed 2.63M, open 5.41M, branching 3.1, key 49/132]
+[set 9.61M, closed 3.15M, open 6.47M, branching 3.1, key 34/132]
+[set 10.1M, closed 3.30M, open 6.71M, branching 3.0]
+Timed out after key: pushes 26, total 132
+FrozenBoxes 4.14M
+
+Level #4 [cells 112, boxes 20, alive 77, complexity 50.4]
+           ########
+           #  ....#
+############  ....#
+#    #  $ $   ....#
+# $$$#$  $ #  ....#
+#  $     $ #  ....#
+# $$ #$ $ $########
+#  $ #     #       
+## #########       
+#    #    #        
+#     $   ##       
+#  $$#$$  @#       
+#    #    ##       
+###########        
+
+[set 1.89M, closed 524K, open 1.37M, branching 3.6, key 75/337]
+[set 3.76M, closed 1.05M, open 2.71M, branching 3.6, key 55/337]
+[set 5.65M, closed 1.58M, open 4.07M, branching 3.6, key 67/337]
+[set 7.52M, closed 2.10M, open 5.43M, branching 3.6, key 54/337]
+[set 9.70M, closed 2.63M, open 7.08M, branching 3.7, key 53/337]
+[set 10.1M, closed 2.70M, open 7.31M, branching 3.7]
+Timed out after key: pushes 49, total 337
+FrozenBoxes 1.44M
+
+Level #5 [cells 71, boxes 12, alive 54, complexity 34.4]
+        #####    
+        #   #####
+        # #$##  #
+        #     $ #
+######### ###   #
+#....  ## $  $###
+#....    $ $$ ## 
+#....  ##$  $ @# 
+#########  $  ## 
+        # $ $  # 
+        ### ## # 
+          #    # 
+          ###### 
+
+[set 3.31M, closed 524K, open 2.79M, branching 6.3, key 75/139]
+[set 5.27M, closed 1.05M, open 4.22M, branching 5.0, key 62/139]
+[set 7.38M, closed 1.58M, open 5.80M, branching 4.7, key 57/139]
+[set 9.53M, closed 2.10M, open 7.43M, branching 4.5, key 59/139]
+[set 10.1M, closed 2.22M, open 7.79M, branching 4.5]
+Timed out after key: pushes 59, total 139
+FrozenBoxes 845K
+
+Level #6 [cells 60, boxes 10, alive 41, complexity 28.2]
+######  ### 
+#..  # ##@##
+#..  ###   #
+#..     $$ #
+#..  # # $ #
+#..### # $ #
+#### $ #$  #
+   #  $# $ #
+   # $  $  #
+   #  ##   #
+   #########
+
+[set 434K, closed 228K, open 206K, branching 1.9]
+Found solution in 110 pushes.
+FrozenBoxes 473K
+
+Level #7 [cells 64, boxes 11, alive 43, complexity 29.9]
+       ##### 
+ #######   ##
+## # @## $$ #
+#    $      #
+#  $  ###   #
+### #####$###
+# $  ### ..# 
+# $ $ $ ...# 
+#    ###...# 
+# $$ # #...# 
+#  ### ##### 
+####         
+
+[set 1.70M, closed 424K, open 1.28M, branching 4.0]
+Found solution in 88 pushes.
+FrozenBoxes 193K
+
+Level #8 [cells 109, boxes 18, alive 85, complexity 50.3]
+  ####          
+  #  ###########
+  #    $   $ $ #
+  # $# $ #  $  #
+  #  $ $  #    #
+### $# #  #### #
+#@#$ $ $  ##   #
+#    $ #$#   # #
+#   $    $ $ $ #
+#####  #########
+  #      #      
+  #      #      
+  #......#      
+  #......#      
+  #......#      
+  ########      
+
+[set 1.94M, closed 524K, open 1.42M, branching 3.7, key 65/224]
+[set 3.93M, closed 1.05M, open 2.88M, branching 3.7, key 84/224]
+[set 5.67M, closed 1.58M, open 4.09M, branching 3.6, key 74/224]
+[set 7.31M, closed 2.10M, open 5.22M, branching 3.5, key 68/224]
+[set 9.05M, closed 2.63M, open 6.43M, branching 3.5, key 77/224]
+[set 10.1M, closed 2.92M, open 7.09M, branching 3.4]
+Timed out after key: pushes 79, total 224
+FrozenBoxes 5.72M
+
+Level #9 [cells 83, boxes 14, alive 60, complexity 38.5]
+          #######
+          #  ...#
+      #####  ...#
+      #      . .#
+      #  ##  ...#
+      ## ##  ...#
+     ### ########
+     # $$$ ##    
+ #####  $ $ #####
+##   #$ $   #   #
+#@ $  $    $  $ #
+###### $$ $ #####
+     #      #    
+     ########    
+
+[set 5.55M, closed 524K, open 5.03M, branching 10.6, key 96/219]
+[set 10.1M, closed 951K, open 9.05M, branching 10.5]
+Timed out after key: pushes 92, total 219
+FrozenBoxes 1.20M
+
+Level #10 [cells 172, boxes 32, alive 116, complexity 75.2]
+ ###  #############
+##@####       #   #
+# $$   $$  $ $ ...#
+#  $$$#    $  #...#
+# $   # $$ $$ #...#
+###   #  $    #...#
+#     # $ $ $ #...#
+#    ###### ###...#
+## #  #  $ $  #...#
+#  ## # $$ $ $##..#
+# ..# #  $      #.#
+# ..# # $$$ $$$ #.#
+##### #       # #.#
+    # ######### #.#
+    #           #.#
+    ###############
+
+[set 1.69M, closed 524K, open 1.17M, branching 3.2, key 33/506]
+[set 3.25M, closed 1.05M, open 2.20M, branching 3.1, key 20/506]
+[set 4.84M, closed 1.58M, open 3.27M, branching 3.1, key 19/506]
+[set 6.38M, closed 2.10M, open 4.28M, branching 3.0, key 34/506]
+[set 7.95M, closed 2.63M, open 5.33M, branching 3.0, key 28/506]
+[set 9.59M, closed 3.15M, open 6.45M, branching 3.0, key 27/506]
+[set 10.1M, closed 3.27M, open 6.74M, branching 3.1]
+Timed out after key: pushes 98, total 508
+FrozenBoxes 8.85M
+
+Level #11 [cells 93, boxes 14, alive 68, complexity 40.8]
+          ####     
+     #### #  #     
+   ### @###$ #     
+  ##      $  #     
+ ##  $ $$## ##     
+ #  #$##     #     
+ # # $ $$ # ###    
+ #   $ #  # $ #####
+ ###    #  $$ #   #
+#### ## $         #
+#.    ###  ########
+#.. ..# ####       
+#...#.#            
+#.....#            
+#######            
+
+[set 1.19M, closed 524K, open 656K, branching 2.3, key 33/215]
+[set 2.18M, closed 1.05M, open 1.13M, branching 2.1, key 40/217]
+[set 3.25M, closed 1.58M, open 1.68M, branching 2.1, key 35/217]
+[set 4.74M, closed 2.10M, open 2.64M, branching 2.3, key 34/217]
+[set 6.05M, closed 2.63M, open 3.43M, branching 2.3, key 61/219]
+[set 7.26M, closed 3.15M, open 4.12M, branching 2.3, key 54/219]
+[set 8.51M, closed 3.68M, open 4.84M, branching 2.3, key 46/219]
+[set 9.75M, closed 4.20M, open 5.56M, branching 2.3, key 45/219]
+[set 10.1M, closed 4.31M, open 5.70M, branching 2.3]
+Timed out after key: pushes 48, total 219
+FrozenBoxes 10.9M
+
+Level #12 [cells 104, boxes 15, alive 66, complexity 41.6]
+################ 
+#              # 
+# # ######     # 
+# #  $ $ $ $#  # 
+# #   $@$   ## ##
+# #  $ $ $###...#
+# #   $ $  ##...#
+# ###$$$ $ ##...#
+#     # ## ##...#
+#####   ## ##...#
+    #####     ###
+        #     #  
+        #######  
+
+[set 3.28M, closed 524K, open 2.76M, branching 6.3, key 51/210]
+[set 6.75M, closed 1.05M, open 5.70M, branching 6.4, key 73/210]
+[set 10.1M, closed 1.57M, open 8.44M, branching 6.4]
+Timed out after key: pushes 86, total 210
+FrozenBoxes 4.23M
+
+Level #13 [cells 118, boxes 16, alive 78, complexity 46.1]
+   #########       
+  ##   ##  ######  
+###     #  #    ###
+#  $ #$ #  #  ... #
+# # $#@$## # #.#. #
+#  # #$  #    . . #
+# $    $ # # #.#. #
+#   ##  ##$ $ . . #
+# $ #   #  #$#.#. #
+## $  $   $  $... #
+ #$ ######    ##  #
+ #  #    ##########
+ ####              
+
+[set 2.73M, closed 524K, open 2.20M, branching 5.2, key 38/220]
+[set 4.31M, closed 1.05M, open 3.26M, branching 4.1, key 32/220]
+[set 6.05M, closed 1.58M, open 4.48M, branching 3.8, key 30/220]
+[set 8.11M, closed 2.10M, open 6.01M, branching 3.9, key 39/220]
+[set 9.58M, closed 2.63M, open 6.96M, branching 3.7, key 33/220]
+[set 10.1M, closed 2.75M, open 7.26M, branching 3.6]
+Timed out after key: pushes 28, total 220
+FrozenBoxes 5.77M
+
+Level #14 [cells 121, boxes 18, alive 85, complexity 50.5]
+       #######    
+ #######     #    
+ #     # $@$ #    
+ #$$ #   #########
+ # ###......##   #
+ #   $......## # #
+ # ###......     #
+##   #### ### #$##
+#  #$   #  $  # # 
+#  $ $$$  # $## # 
+#   $ $ ###$$ # # 
+#####     $   # # 
+    ### ###   # # 
+      #     #   # 
+      ########  # 
+             #### 
+
+[set 1.79M, closed 524K, open 1.27M, branching 3.4, key 25/233]
+[set 4.01M, closed 1.05M, open 2.97M, branching 3.8, key 63/235]
+[set 6.70M, closed 1.58M, open 5.12M, branching 4.3, key 65/235]
+[set 9.28M, closed 2.10M, open 7.18M, branching 4.4, key 66/235]
+[set 10.1M, closed 2.24M, open 7.77M, branching 4.5]
+Timed out after key: pushes 59, total 235
+FrozenBoxes 3.31M
+
+Level #15 [cells 104, boxes 15, alive 77, complexity 44.4]
+   ########      
+   #   #  #      
+   #  $   #      
+ ### #$   ####   
+ #  $  ##$   #   
+ #  # @ $ # $#   
+ #  #      $ ####
+ ## ####$##     #
+ # $#.....# #   #
+ #  $..**. $# ###
+##  #.....#   #  
+#   ### #######  
+# $$  #  #       
+#  #     #       
+######   #       
+     #####       
+
+[set 2.25M, closed 524K, open 1.73M, branching 4.3, key 33/102]
+[set 4.66M, closed 1.05M, open 3.61M, branching 4.4, key 23/102]
+[set 6.44M, closed 1.58M, open 4.87M, branching 4.1, key 47/104]
+[set 8.12M, closed 2.10M, open 6.02M, branching 3.9, key 45/104]
+[set 9.82M, closed 2.63M, open 7.20M, branching 3.7, key 41/104]
+[set 10.1M, closed 2.68M, open 7.33M, branching 3.7]
+Timed out after key: pushes 41, total 104
+FrozenBoxes 1.85M
+
+Level #16 [cells 81, boxes 15, alive 55, complexity 38.0]
+#####         
+#   ##        
+#    #  ####  
+# $  ####  #  
+#  $$ $   $#  
+###@ #$    ## 
+ #  ##  $ $ ##
+ # $  ## ## .#
+ #  #$##$  #.#
+ ###   $..##.#
+  #    #.*...#
+  # $$ #.....#
+  #  #########
+  #  #        
+  ####        
+
+[set 1.15M, closed 524K, open 621K, branching 2.2, key 44/170]
+[set 2.24M, closed 1.05M, open 1.19M, branching 2.1, key 41/170]
+[set 3.37M, closed 1.58M, open 1.79M, branching 2.1, key 32/170]
+[set 4.62M, closed 2.10M, open 2.52M, branching 2.2, key 37/170]
+[set 5.92M, closed 2.63M, open 3.30M, branching 2.3, key 46/170]
+[set 7.17M, closed 3.15M, open 4.02M, branching 2.3, key 51/172]
+[set 8.35M, closed 3.68M, open 4.68M, branching 2.3, key 48/172]
+[set 9.50M, closed 4.20M, open 5.31M, branching 2.3, key 45/172]
+[set 10.1M, closed 4.43M, open 5.58M, branching 2.3]
+Timed out after key: pushes 53, total 172
+FrozenBoxes 5.69M
+
+Level #17 [cells 87, boxes 6, alive 53, complexity 25.2]
+   ##########   
+   #..  #   #   
+   #..      #   
+   #..  #  #### 
+  #######  #  ##
+  #            #
+  #  #  ##  #  #
+#### ##  #### ##
+#  $  ##### #  #
+# # $  $  # $  #
+# @$  $   #   ##
+#### ## ####### 
+   #    #       
+   ######       
+
+[set 620K, closed 524K, open 95.5K, branching 1.2, key 50/209]
+[set 1.24M, closed 1.05M, open 190K, branching 1.2, key 73/195]
+[set 1.82M, closed 1.58M, open 242K, branching 1.2, key 86/201]
+[set 2.37M, closed 2.10M, open 269K, branching 1.1, key 87/191]
+[set 2.95M, closed 2.63M, open 322K, branching 1.1, key 87/213]
+[set 3.59M, closed 3.15M, open 436K, branching 1.1, key 105/211]
+[set 4.26M, closed 3.68M, open 590K, branching 1.2, key 96/203]
+[set 4.96M, closed 4.20M, open 766K, branching 1.2, key 85/211]
+[set 5.66M, closed 4.72M, open 935K, branching 1.2, key 31/213]
+[set 5.73M, closed 4.82M, open 905K, branching 1.2]
+Found solution in 215 pushes.
+FrozenBoxes 1.70M
+
+Level #18 [cells 105, boxes 11, alive 70, complexity 37.0]
+     ###########   
+     #  .  #   #   
+     # #.    @ #   
+ ##### ##..# ####  
+##  # ..###     ###
+# $ #...   $ #  $ #
+#    .. ##  ## ## #
+####$##$# $ #   # #
+  ## #    #$ $$ # #
+  #  $ # #  # $## #
+  #               #
+  #  ###########  #
+  ####         ####
+
+[set 1.40M, closed 524K, open 867K, branching 2.7, key 68/112]
+[set 2.92M, closed 1.05M, open 1.87M, branching 2.8, key 33/112]
+[set 4.63M, closed 1.58M, open 3.05M, branching 2.9, key 50/110]
+[set 6.30M, closed 2.10M, open 4.21M, branching 3.0, key 74/112]
+[set 8.29M, closed 2.63M, open 5.67M, branching 3.2, key 69/112]
+[set 9.94M, closed 3.15M, open 6.79M, branching 3.2, key 70/112]
+[set 10.1M, closed 3.17M, open 6.84M, branching 3.2]
+Timed out after key: pushes 63, total 112
+FrozenBoxes 4.67M
+
+Level #19 [cells 123, boxes 15, alive 84, complexity 46.2]
+  ######           
+  #   @####        
+##### $   #        
+#   ##    ####     
+# $ #  ##    #     
+# $ #  ##### #     
+## $  $    # #     
+ # $ $ ### # #     
+ # #  $  # # #     
+ # # #$#   # #     
+## ###   # # ######
+#  $  #### # #....#
+#    $    $   ..#.#
+####$  $# $   ....#
+#       #  ## ....#
+###################
+
+[set 2.20M, closed 524K, open 1.67M, branching 4.2, key 41/290]
+[set 4.15M, closed 1.05M, open 3.10M, branching 4.0, key 34/290]
+[set 6.03M, closed 1.58M, open 4.45M, branching 3.8, key 30/290]
+[set 7.87M, closed 2.10M, open 5.77M, branching 3.7, key 34/290]
+[set 9.69M, closed 2.63M, open 7.07M, branching 3.7, key 26/290]
+[set 10.1M, closed 2.72M, open 7.29M, branching 3.7]
+Timed out after key: pushes 24, total 290
+FrozenBoxes 2.98M
+
+Level #20 [cells 151, boxes 18, alive 96, complexity 53.3]
+    ##########     
+#####        ####  
+#     #   $  #@ #  
+# #######$####  ###
+# #    ## #  #$ ..#
+# # $     #  #  #.#
+# # $  #     #$ ..#
+# #  ### ##     #.#
+# ###  #  #  #$ ..#
+# #    #  ####  #.#
+# #$   $  $  #$ ..#
+#    $ # $ $ #  #.#
+#### $###    #$ ..#
+   #    $$ ###....#
+   #      ## ######
+   ########        
+
+[set 677K, closed 524K, open 153K, branching 1.3, key 48/446]
+[set 1.30M, closed 1.05M, open 251K, branching 1.2, key 52/416]
+[set 1.91M, closed 1.58M, open 329K, branching 1.2, key 47/444]
+[set 2.54M, closed 2.10M, open 435K, branching 1.2, key 46/412]
+[set 3.19M, closed 2.63M, open 569K, branching 1.2, key 43/430]
+[set 3.83M, closed 3.15M, open 677K, branching 1.2, key 52/438]
+[set 4.45M, closed 3.68M, open 773K, branching 1.2, key 45/410]
+[set 5.06M, closed 4.20M, open 863K, branching 1.2, key 39/392]
+[set 5.67M, closed 4.72M, open 950K, branching 1.2, key 41/406]
+[set 6.28M, closed 5.25M, open 1.04M, branching 1.2, key 42/422]
+[set 6.88M, closed 5.77M, open 1.12M, branching 1.2, key 39/432]
+[set 7.49M, closed 6.30M, open 1.20M, branching 1.2, key 39/444]
+[set 8.10M, closed 6.82M, open 1.28M, branching 1.2, key 44/426]
+[set 8.69M, closed 7.35M, open 1.35M, branching 1.2, key 54/434]
+[set 9.29M, closed 7.87M, open 1.43M, branching 1.2, key 38/414]
+[set 9.96M, closed 8.39M, open 1.57M, branching 1.2, key 50/436]
+[set 10.1M, closed 8.43M, open 1.58M, branching 1.2]
+Timed out after key: pushes 37, total 446
+FrozenBoxes 7.02M
+
+Level #21 [cells 94, boxes 13, alive 64, complexity 38.5]
+#########      
+#       #      
+#       ####   
+## #### #  #   
+## #@##    #   
+# $$$ $  $$#   
+#  # ## $  #   
+#  # ##  $ ####
+####  $$$ $#  #
+ #   ##   ....#
+ # #   # #.. .#
+ #   # # ##...#
+ ##### $  #...#
+     ##   #####
+      #####    
+
+[set 1.36M, closed 524K, open 835K, branching 2.6, key 56/137]
+[set 3.19M, closed 1.05M, open 2.14M, branching 3.0, key 87/139]
+[set 4.82M, closed 1.58M, open 3.24M, branching 3.1, key 60/139]
+[set 6.31M, closed 2.10M, open 4.21M, branching 3.0, key 55/139]
+[set 7.75M, closed 2.63M, open 5.13M, branching 3.0, key 60/139]
+[set 9.19M, closed 3.15M, open 6.04M, branching 2.9, key 45/139]
+[set 10.1M, closed 3.45M, open 6.56M, branching 2.9]
+Timed out after key: pushes 45, total 139
+FrozenBoxes 7.29M
+
+Level #22 [cells 167, boxes 27, alive 116, complexity 69.9]
+######     ####    
+#    #######  #####
+#   $#  #  $  #   #
+#  $  $  $ # $ $  #
+##$ $   # @# $    #
+#  $ ########### ##
+# #   #.......# $# 
+# ##  # ......#  # 
+# #   $........$ # 
+# # $ #.... ..#  # 
+#  $ $####$#### $# 
+# $   ### $   $  ##
+# $     $ $  $    #
+## ###### $ ##### #
+#         #       #
+###################
+
+[set 901K, closed 524K, open 377K, branching 1.7, key 43/310]
+[set 1.79M, closed 1.05M, open 735K, branching 1.7, key 26/310]
+[set 2.67M, closed 1.58M, open 1.10M, branching 1.7, key 41/310]
+[set 3.49M, closed 2.10M, open 1.39M, branching 1.7, key 40/312]
+[set 4.32M, closed 2.63M, open 1.70M, branching 1.6, key 36/312]
+[set 5.15M, closed 3.15M, open 2.01M, branching 1.6, key 35/312]
+[set 5.99M, closed 3.68M, open 2.32M, branching 1.6, key 35/312]
+[set 6.85M, closed 4.20M, open 2.65M, branching 1.6, key 31/312]
+[set 7.69M, closed 4.72M, open 2.97M, branching 1.6, key 37/312]
+[set 8.54M, closed 5.25M, open 3.30M, branching 1.6, key 35/312]
+[set 9.39M, closed 5.77M, open 3.62M, branching 1.6, key 34/312]
+[set 10.1M, closed 6.14M, open 3.87M, branching 1.6]
+Timed out after key: pushes 18, total 312
+FrozenBoxes 6.82M
+
+Level #23 [cells 127, boxes 18, alive 104, complexity 54.8]
+    #######        
+    #  #  ####     
+##### $#$ #  ##    
+#.. #  #  #   #    
+#.. # $#$ #  $#### 
+#.  #     #$  #  # 
+#..   $#  # $    # 
+#..@#  #$ #$  #  # 
+#.. # $#     $#  # 
+#.. #  #$$#$  #  ##
+#.. # $#  #  $#$  #
+#.. #  #  #   #   #
+##. ####  #####   #
+ ####  ####   #####
+
+[set 1.03M, closed 524K, open 502K, branching 2.0, key 30/392]
+[set 1.88M, closed 1.05M, open 825K, branching 1.8, key 42/400]
+[set 2.65M, closed 1.58M, open 1.08M, branching 1.7, key 40/406]
+[set 3.59M, closed 2.10M, open 1.50M, branching 1.7, key 45/416]
+[set 4.64M, closed 2.63M, open 2.02M, branching 1.8, key 38/416]
+[set 5.50M, closed 3.15M, open 2.36M, branching 1.7, key 46/416]
+[set 6.24M, closed 3.68M, open 2.57M, branching 1.7, key 30/402]
+[set 7.27M, closed 4.20M, open 3.08M, branching 1.7, key 41/416]
+[set 8.22M, closed 4.72M, open 3.50M, branching 1.7, key 29/380]
+[set 8.99M, closed 5.25M, open 3.74M, branching 1.7, key 43/384]
+[set 9.84M, closed 5.77M, open 4.07M, branching 1.7, key 37/416]
+[set 10.1M, closed 5.88M, open 4.13M, branching 1.7]
+Timed out after key: pushes 43, total 384
+FrozenBoxes 11.3M
+
+Level #24 [cells 157, boxes 22, alive 113, complexity 62.8]
+###############    
+#..........  .#### 
+#..........$$.#  # 
+###########$ #   ##
+#      $  $     $ #
+## ####   #  $ #  #
+#      #   ##  # ##
+#  $#  # ##  ### # 
+# $ #$###    # # # 
+###  $ #  #  ### # 
+ ##    $ ## #  # ##
+ # $  #  $  $ $   #
+ #  $  $#$$$  #   #
+ #  #  $      #####
+ # @##  #  #  #    
+ ##############    
+
+[set 2.53M, closed 524K, open 2.01M, branching 4.8, key 68/518]
+[set 4.52M, closed 1.05M, open 3.47M, branching 4.3, key 46/518]
+[set 6.59M, closed 1.58M, open 5.01M, branching 4.2, key 63/518]
+[set 8.53M, closed 2.10M, open 6.44M, branching 4.1, key 57/518]
+[set 10.1M, closed 2.49M, open 7.52M, branching 4.0]
+Timed out after key: pushes 71, total 518
+FrozenBoxes 1.34M
+
+Level #25 [cells 140, boxes 19, alive 88, complexity 52.7]
+####               
+#  ##############  
+#  #   ..#......#  
+#  # # ##### ...#  
+##$#    ........#  
+#   ##$######  ####
+# $ #     # ####@ #
+##$ # $   ######  #
+#  $ #$$$##       #
+#      #    #$#$###
+# #### #$$$$$    # 
+# #    $     #   # 
+# #   ##        ###
+# ######$###### $ #
+#        #    #   #
+##########    #####
+
+[set 1.66M, closed 524K, open 1.13M, branching 3.2, key 24/364]
+[set 3.35M, closed 1.05M, open 2.30M, branching 3.2, key 24/364]
+[set 4.89M, closed 1.58M, open 3.31M, branching 3.1, key 38/366]
+[set 6.19M, closed 2.10M, open 4.09M, branching 2.9, key 34/366]
+[set 7.46M, closed 2.63M, open 4.84M, branching 2.8, key 32/366]
+[set 8.73M, closed 3.15M, open 5.59M, branching 2.8, key 32/366]
+[set 9.95M, closed 3.68M, open 6.28M, branching 2.7, key 30/366]
+[set 10.1M, closed 3.70M, open 6.31M, branching 2.7]
+Timed out after key: pushes 29, total 366
+FrozenBoxes 6.83M
+
+Level #26 [cells 80, boxes 13, alive 58, complexity 36.8]
+ #######       
+ #  #  #####   
+##  #  #...### 
+#  $#  #...  # 
+# $ #$$ ...  # 
+#  $#  #... .# 
+#   # $########
+##$       $ $ #
+ #  #  $$ #   #
+ ######  ##$$@#
+      #      ##
+      ######## 
+
+[set 1.41M, closed 524K, open 885K, branching 2.7, key 60/163]
+[set 3.00M, closed 1.05M, open 1.95M, branching 2.9, key 54/165]
+[set 4.39M, closed 1.58M, open 2.81M, branching 2.8, key 38/165]
+[set 5.46M, closed 2.10M, open 3.36M, branching 2.6, key 73/167]
+[set 6.55M, closed 2.63M, open 3.93M, branching 2.5, key 64/167]
+[set 7.57M, closed 3.15M, open 4.42M, branching 2.4, key 56/167]
+[set 8.66M, closed 3.68M, open 4.99M, branching 2.4, key 50/167]
+[set 9.69M, closed 4.20M, open 5.50M, branching 2.3, key 41/167]
+[set 10.1M, closed 4.36M, open 5.65M, branching 2.3]
+Timed out after key: pushes 34, total 167
+FrozenBoxes 2.80M
+
+Level #27 [cells 122, boxes 20, alive 92, complexity 54.8]
+ ################# 
+ #...   #    #   ##
+##.....  $## # #$ #
+#......#  $  #    #
+#......#  #  # #  #
+######### $  $ $  #
+  #     #$##$ ##$##
+ ##   $    # $    #
+ #  ## ### #  ##$ #
+ # $ $$     $  $  #
+ # $    $##$ ######
+ #######  @ ##     
+       ######      
+
+[set 1.20M, closed 524K, open 672K, branching 2.3, key 33/355]
+[set 2.43M, closed 1.05M, open 1.38M, branching 2.3, key 28/355]
+[set 3.49M, closed 1.58M, open 1.92M, branching 2.2, key 40/357]
+[set 4.47M, closed 2.10M, open 2.37M, branching 2.1, key 36/357]
+[set 5.50M, closed 2.63M, open 2.88M, branching 2.1, key 38/357]
+[set 6.57M, closed 3.15M, open 3.43M, branching 2.1, key 39/357]
+[set 7.67M, closed 3.68M, open 4.00M, branching 2.1, key 40/357]
+[set 8.92M, closed 4.20M, open 4.72M, branching 2.1, key 37/357]
+[set 10.1M, closed 4.63M, open 5.38M, branching 2.2]
+Timed out after key: pushes 31, total 357
+FrozenBoxes 5.86M
+
+Level #28 [cells 112, boxes 20, alive 85, complexity 52.8]
+         #####   
+     #####   #   
+    ## $  $  ####
+##### $  $ $ ##.#
+#       $$  ##..#
+#  ###### ###.. #
+## #  #    #... #
+# $   #    #... #
+#@ #$ ## ####...#
+####  $ $$  ##..#
+   ##  $ $  $...#
+    # $$  $ #  .#
+    #   $ $  ####
+    ######   #   
+         #####   
+
+[set 1.23M, closed 524K, open 704K, branching 2.3, key 19/290]
+[set 2.67M, closed 1.05M, open 1.62M, branching 2.5, key 35/290]
+[set 4.82M, closed 1.58M, open 3.25M, branching 3.1, key 83/290]
+[set 6.98M, closed 2.10M, open 4.88M, branching 3.3, key 88/290]
+[set 9.00M, closed 2.63M, open 6.38M, branching 3.4, key 84/290]
+[set 10.1M, closed 2.87M, open 7.14M, branching 3.5]
+Timed out after key: pushes 90, total 290
+FrozenBoxes 4.65M
+
+Level #29 [cells 107, boxes 16, alive 59, complexity 40.6]
+#####              
+#   ##             
+# $  #########     
+## # #       ######
+## #   $#$#@  #   #
+#  #      $ #   $ #
+#  ### ######### ##
+#  ## ..*..... # # 
+## ## *.*..*.* # ##
+# $########## ##$ #
+#  $   $  $    $  #
+#  #   #   #   #  #
+###################
+
+[set 1.10M, closed 524K, open 566K, branching 2.1, key 29/132]
+[set 2.22M, closed 1.05M, open 1.17M, branching 2.1, key 21/132]
+[set 3.12M, closed 1.58M, open 1.55M, branching 2.0, key 33/134]
+[set 4.07M, closed 2.10M, open 1.97M, branching 1.9, key 32/134]
+[set 5.10M, closed 2.63M, open 2.48M, branching 1.9, key 33/134]
+[set 6.16M, closed 3.15M, open 3.02M, branching 2.0, key 23/134]
+[set 7.24M, closed 3.68M, open 3.57M, branching 2.0, key 25/134]
+[set 8.31M, closed 4.20M, open 4.11M, branching 2.0, key 17/134]
+[set 9.35M, closed 4.72M, open 4.63M, branching 2.0, key 49/136]
+[set 10.00M, closed 5.25M, open 4.76M, branching 1.9, key 39/136]
+[set 10.1M, closed 5.25M, open 4.76M, branching 1.9]
+Timed out after key: pushes 44, total 136
+FrozenBoxes 2.55M
+
+Level #30 [cells 119, boxes 18, alive 78, complexity 48.6]
+       ########### 
+       #   #     # 
+#####  #     $ $ # 
+#   ##### $## # ## 
+# $ ##   # ## $  # 
+# $  @$$ # ##$$$ # 
+## ###   # ##    # 
+ # #   ### #####$# 
+## #     $  #....# 
+#  ### ## $ #....##
+# $   $ #   #..$. #
+#  ## $ #  ##.... #
+#####   ######...##
+    #####    ##### 
+
+[set 1.13M, closed 524K, open 604K, branching 2.2, key 23/371]
+[set 2.29M, closed 1.05M, open 1.24M, branching 2.2, key 45/373]
+[set 3.28M, closed 1.58M, open 1.71M, branching 2.1, key 29/373]
+[set 4.23M, closed 2.10M, open 2.13M, branching 2.0, key 27/373]
+[set 5.18M, closed 2.63M, open 2.56M, branching 2.0, key 20/373]
+[set 6.43M, closed 3.15M, open 3.28M, branching 2.0, key 22/373]
+[set 7.86M, closed 3.68M, open 4.19M, branching 2.1, key 23/373]
+[set 9.30M, closed 4.20M, open 5.11M, branching 2.2, key 21/373]
+[set 10.00M, closed 4.72M, open 5.28M, branching 2.1, key 40/375]
+[set 10.1M, closed 4.74M, open 5.27M, branching 2.1]
+Timed out after key: pushes 40, total 375
+FrozenBoxes 4.28M
+
+Level #31 [cells 110, boxes 20, alive 85, complexity 52.8]
+  ####            
+  #  #########    
+ ##  ##  #   #    
+ #  $# $@$   #### 
+ #$  $  # $ $#  ##
+##  $## #$ $     #
+#  #  # #   $$$  #
+# $    $  $## ####
+# $ $ #$#  #  #   
+##  ###  ###$ #   
+ #  #....     #   
+ ####......####   
+   #....####      
+   #...##         
+   #...#          
+   #####          
+
+[set 3.25M, closed 524K, open 2.73M, branching 6.2, key 52/236]
+[set 6.56M, closed 1.05M, open 5.51M, branching 6.3, key 42/236]
+[set 9.55M, closed 1.58M, open 7.97M, branching 6.1, key 57/236]
+[set 10.1M, closed 1.67M, open 8.34M, branching 6.0]
+Timed out after key: pushes 36, total 236
+FrozenBoxes 2.84M
+
+Level #32 [cells 73, boxes 15, alive 59, complexity 39.2]
+      ####   
+  #####  #   
+ ##     $#   
+## $  ## ### 
+#@$ $ # $  # 
+#### ##   $# 
+ #....#$ $ # 
+ #....#   $# 
+ #....  $$ ##
+ #... # $   #
+ ######$ $  #
+      #   ###
+      #$ ##  
+      #  #   
+      ####   
+
+[set 2.36M, closed 524K, open 1.83M, branching 4.5, key 61/117]
+[set 4.61M, closed 1.05M, open 3.56M, branching 4.4, key 52/117]
+[set 6.95M, closed 1.58M, open 5.38M, branching 4.4, key 42/117]
+[set 8.99M, closed 2.10M, open 6.89M, branching 4.3, key 50/117]
+[set 10.1M, closed 2.36M, open 7.65M, branching 4.2]
+Timed out after key: pushes 29, total 117
+FrozenBoxes 3.12M
+
+Level #33 [cells 93, boxes 15, alive 62, complexity 40.4]
+ ###########
+ #     ##  #
+ #   $   $ #
+#### ## $$ #
+#   $ #    #
+# $$$ # ####
+#   # # $ ##
+#  #  #  $ #
+# $# $#    #
+#   ..# ####
+####.. $ #@#
+#.....# $# #
+##....#  $ #
+ ##..##    #
+  ##########
+
+[set 1.06M, closed 524K, open 534K, branching 2.0, key 18/156]
+[set 2.15M, closed 1.05M, open 1.10M, branching 2.0, key 33/158]
+[set 3.20M, closed 1.58M, open 1.63M, branching 2.0, key 32/158]
+[set 4.21M, closed 2.10M, open 2.11M, branching 2.0, key 22/158]
+[set 5.24M, closed 2.63M, open 2.62M, branching 2.0, key 27/158]
+[set 6.26M, closed 3.15M, open 3.12M, branching 2.0, key 21/158]
+[set 7.29M, closed 3.68M, open 3.62M, branching 2.0, key 20/158]
+[set 8.34M, closed 4.20M, open 4.14M, branching 2.0, key 23/158]
+[set 9.43M, closed 4.72M, open 4.71M, branching 2.0, key 56/158]
+[set 10.1M, closed 4.93M, open 5.08M, branching 2.0]
+Timed out after key: pushes 59, total 158
+FrozenBoxes 4.37M
+
+Level #34 [cells 93, boxes 14, alive 62, complexity 39.2]
+ #########    
+ #....   ##   
+ #.#.#  $ ##  
+##....# # @## 
+# ....#  #  ##
+#     #$ ##$ #
+## ###  $    #
+ #$  $ $ $#  #
+ # #  $ $ ## #
+ #  ###  ##  #
+ #    ## ## ##
+ #  $ #  $  # 
+ ###$ $   ### 
+   #  #####   
+   ####       
+
+[set 1.71M, closed 524K, open 1.18M, branching 3.2, key 32/162]
+[set 3.33M, closed 1.05M, open 2.29M, branching 3.2, key 24/162]
+[set 4.99M, closed 1.58M, open 3.41M, branching 3.2, key 54/164]
+[set 6.82M, closed 2.10M, open 4.72M, branching 3.2, key 46/164]
+[set 8.54M, closed 2.63M, open 5.92M, branching 3.3, key 42/164]
+[set 10.1M, closed 3.08M, open 6.93M, branching 3.3]
+Timed out after key: pushes 38, total 164
+FrozenBoxes 5.35M
+
+Level #35 [cells 150, boxes 17, alive 101, complexity 52.8]
+############ ######
+#   #    # ###....#
+#   $$#   @  .....#
+#   # ###   # ....#
+## ## ###  #  ....#
+ # $ $     # # ####
+ #  $ $##  #      #
+#### #  #### # ## #
+#  # #$   ## #    #
+# $  $  # ## #   ##
+# # $ $    # #   # 
+#  $ ## ## # ##### 
+# $$     $$  #     
+## ## ### $  #     
+ #    # #    #     
+ ###### ######     
+
+[set 2.84M, closed 524K, open 2.32M, branching 5.4, key 147/368]
+[set 5.44M, closed 1.05M, open 4.39M, branching 5.2, key 148/368]
+[set 8.18M, closed 1.58M, open 6.60M, branching 5.2, key 185/368]
+[set 10.1M, closed 1.91M, open 8.10M, branching 5.2]
+Timed out after key: pushes 155, total 368
+FrozenBoxes 1.50M
+
+Level #36 [cells 124, boxes 21, alive 92, complexity 56.0]
+            #####  
+#####  ######   #  
+#   ####  $ $ $ #  
+# $   ## ## ##  ## 
+#   $ $     $  $ # 
+### $  ## ##     ##
+  # ##### #####$$ #
+ ##$### # @##     #
+ # $  ###$### $  ##
+ # $  #   ###  ### 
+ # $$ $ #   $$ #   
+ #     #   ##  #   
+ #######.. .####   
+    #.........#    
+    #.........#    
+    ###########    
+
+[set 2.49M, closed 524K, open 1.96M, branching 4.7, key 26/503]
+[set 4.51M, closed 1.05M, open 3.46M, branching 4.3, key 25/503]
+[set 6.76M, closed 1.58M, open 5.18M, branching 4.3, key 20/503]
+[set 9.12M, closed 2.10M, open 7.03M, branching 4.3, key 23/503]
+[set 10.1M, closed 2.29M, open 7.72M, branching 4.4]
+Timed out after key: pushes 22, total 503
+FrozenBoxes 3.92M
+
+Level #37 [cells 130, boxes 20, alive 91, complexity 54.6]
+###########        
+#......   #########
+#......   #  ##   #
+#..### $    $     #
+#... $ $ #   ##   #
+#...#$#####    #  #
+###    #   #$  #$ #
+  #  $$ $ $  $##  #
+  #  $   #$#$ ##$ #
+  ### ## #    ##  #
+   #  $ $ ## ######
+   #    $  $  #    
+   ##   # #   #    
+    #####@#####    
+        ###        
+
+[set 3.82M, closed 524K, open 3.30M, branching 7.3, key 37/236]
+[set 8.00M, closed 1.05M, open 6.95M, branching 7.6, key 38/236]
+[set 10.1M, closed 1.34M, open 8.67M, branching 7.5]
+Timed out after key: pushes 40, total 236
+FrozenBoxes 3.92M
+
+Level #38 [cells 49, boxes 8, alive 40, complexity 25.3]
+      #### 
+####### @# 
+#     $  # 
+#   $## $# 
+##$#...# # 
+ # $...  # 
+ # #. .# ##
+ #   # #$ #
+ #$  $    #
+ #  #######
+ ####      
+
+[set 98.7K, closed 27.5K, open 71.2K, branching 3.6]
+Found solution in 81 pushes.
+FrozenBoxes 38.8K
+
+Level #39 [cells 142, boxes 25, alive 105, complexity 64.4]
+             ######
+ #############....#
+##   ##     ##....#
+#  $$##  $ @##....#
+#      $$ $#  ....#
+#  $ ## $$ # # ...#
+#  $ ## $  #  ....#
+## ##### ### ##.###
+##   $  $ ##   .  #
+# $###  # ##### ###
+#   $   #       #  
+#  $ #$ $ $###  #  
+# $$$# $   # ####  
+#    #  $$ #       
+######   ###       
+     #####         
+
+[set 1.49M, closed 524K, open 966K, branching 2.8, key 131/660]
+[set 3.97M, closed 1.05M, open 2.92M, branching 3.8, key 136/660]
+[set 5.70M, closed 1.58M, open 4.13M, branching 3.6, key 122/660]
+[set 8.04M, closed 2.10M, open 5.95M, branching 3.8, key 117/660]
+[set 10.1M, closed 2.53M, open 7.48M, branching 4.0]
+Timed out after key: pushes 162, total 660
+FrozenBoxes 4.11M
+
+Level #40 [cells 107, boxes 16, alive 77, complexity 45.8]
+    ############ 
+    #          ##
+    #  # #$$ $  #
+    #$ #$#  ## @#
+   ## ## # $ # ##
+   #   $ #$  # # 
+   #   # $   # # 
+   ## $ $   ## # 
+   #  #  ##  $ # 
+   #    ## $$# # 
+######$$   #   # 
+#....#  ######## 
+#.#... ##        
+#....   #        
+#....   #        
+#########        
+
+[set 2.11M, closed 524K, open 1.59M, branching 4.0, key 42/314]
+[set 4.18M, closed 1.05M, open 3.13M, branching 4.0, key 40/314]
+[set 6.26M, closed 1.58M, open 4.69M, branching 4.0, key 30/314]
+[set 8.39M, closed 2.10M, open 6.30M, branching 4.0, key 41/314]
+[set 10.1M, closed 2.48M, open 7.53M, branching 4.0]
+Timed out after key: pushes 27, total 314
+FrozenBoxes 6.43M
+
+Level #41 [cells 94, boxes 15, alive 67, complexity 41.8]
+           #####   
+          ##   ##  
+         ##     #  
+        ##  $$  #  
+       ## $$  $ #  
+       # $    $ #  
+####   #   $$ #####
+#  ######## ##    #
+#.            $$$@#
+#.# ####### ##   ##
+#.# #######. #$ $##
+#........... #    #
+##############  $ #
+             ##  ##
+              #### 
+
+[set 785K, closed 524K, open 260K, branching 1.5, key 20/219]
+[set 1.54M, closed 1.05M, open 490K, branching 1.5, key 85/225]
+[set 2.41M, closed 1.58M, open 828K, branching 1.5, key 66/221]
+[set 3.14M, closed 2.10M, open 1.04M, branching 1.5, key 60/219]
+[set 3.87M, closed 2.63M, open 1.25M, branching 1.5, key 44/221]
+[set 4.60M, closed 3.15M, open 1.45M, branching 1.5, key 33/219]
+[set 5.32M, closed 3.68M, open 1.65M, branching 1.4, key 45/221]
+[set 5.99M, closed 4.20M, open 1.79M, branching 1.4, key 46/219]
+[set 7.74M, closed 4.72M, open 3.02M, branching 1.6, key 92/219]
+[set 9.49M, closed 5.25M, open 4.25M, branching 1.8, key 108/227]
+[set 10.1M, closed 5.40M, open 4.61M, branching 1.9]
+Timed out after key: pushes 92, total 227
+FrozenBoxes 4.44M
+
+Level #42 [cells 118, boxes 24, alive 98, complexity 61.0]
+     ########     
+  ####      ######
+  #    ## $ $   @#
+  # ## ##$#$ $ $##
+### ......#  $$ ##
+#   ......#  #   #
+# # ......#$  $  #
+# #$...... $$# $ #
+#   ### ###$  $ ##
+###  $  $  $  $ # 
+  #  $  $  $  $ # 
+  ######   ###### 
+       #####      
+
+[set 3.20M, closed 524K, open 2.67M, branching 6.1, key 40/208]
+[set 5.84M, closed 1.05M, open 4.79M, branching 5.6, key 43/208]
+[set 8.93M, closed 1.58M, open 7.35M, branching 5.7, key 64/208]
+[set 10.1M, closed 1.68M, open 8.33M, branching 6.0]
+Timed out after key: pushes 77, total 208
+FrozenBoxes 5.71M
+
+Level #43 [cells 88, boxes 9, alive 61, complexity 31.9]
+        #######    
+    #####  #  #### 
+    #   #   $    # 
+ #### #$$ ## ##  # 
+##      # #  ## ###
+#  ### $#$  $  $  #
+#...    # ##  #   #
+#...#    @ # ### ##
+#...#  ###  $  $  #
+######## ##   #   #
+          #########
+
+[set 1.54M, closed 524K, open 1.01M, branching 2.9, key 54/138]
+[set 3.11M, closed 1.05M, open 2.06M, branching 3.0, key 36/138]
+[set 4.09M, closed 1.58M, open 2.51M, branching 2.6, key 65/140]
+[set 5.17M, closed 2.10M, open 3.07M, branching 2.5, key 63/140]
+[set 6.41M, closed 2.63M, open 3.79M, branching 2.4, key 51/140]
+[set 7.55M, closed 3.15M, open 4.41M, branching 2.4, key 48/140]
+[set 8.75M, closed 3.68M, open 5.08M, branching 2.4, key 43/140]
+[set 10.1M, closed 4.15M, open 5.86M, branching 2.4]
+Timed out after key: pushes 60, total 140
+FrozenBoxes 7.99M
+
+Level #44 [cells 95, boxes 9, alive 64, complexity 32.5]
+ #####             
+ #   #             
+ # # ######        
+ #      $@######   
+ # $ ##$ ###   #   
+ # #### $    $ #   
+ # ## ## #  #$ ####
+##  #### ##$      #
+#  $#  $  # ## ## #
+#         # #...# #
+######  ###  ...  #
+     #### # #...# #
+          # ### # #
+          #       #
+          #########
+
+[set 1.71M, closed 524K, open 1.19M, branching 3.3, key 46/169]
+[set 3.48M, closed 1.05M, open 2.43M, branching 3.3, key 49/169]
+[set 5.30M, closed 1.58M, open 3.72M, branching 3.4, key 41/169]
+[set 7.15M, closed 2.10M, open 5.05M, branching 3.4, key 26/169]
+[set 9.02M, closed 2.63M, open 6.40M, branching 3.4, key 40/169]
+[set 10.1M, closed 2.90M, open 7.11M, branching 3.5]
+Timed out after key: pushes 33, total 169
+FrozenBoxes 1.30M
+
+Level #45 [cells 98, boxes 17, alive 68, complexity 44.4]
+##### ####      
+#...# #  ####   
+#...###  $  #   
+#....## $  $### 
+##....##   $  # 
+###... ## $ $ # 
+# ##    #  $  # 
+#  ## # ### ####
+# $ # #$  $    #
+#  $ @ $    $  #
+#   # $ $$ $ ###
+#  ######  ###  
+# ##    ####    
+###             
+
+[set 1.49M, closed 524K, open 962K, branching 2.8, key 33/288]
+[set 2.85M, closed 1.05M, open 1.81M, branching 2.7, key 36/288]
+[set 4.17M, closed 1.58M, open 2.60M, branching 2.6, key 30/288]
+[set 5.47M, closed 2.10M, open 3.37M, branching 2.6, key 24/288]
+[set 6.76M, closed 2.63M, open 4.14M, branching 2.6, key 19/288]
+[set 8.09M, closed 3.15M, open 4.95M, branching 2.6, key 14/288]
+[set 9.57M, closed 3.68M, open 5.90M, branching 2.6, key 47/290]
+[set 10.1M, closed 3.93M, open 6.08M, branching 2.5]
+Timed out after key: pushes 40, total 290
+FrozenBoxes 4.36M
+
+Level #46 [cells 97, boxes 14, alive 68, complexity 40.9]
+##########    
+#        #### 
+# ###### #  ##
+# # $ $ $  $ #
+#       #$   #
+###$  $$#  ###
+  #  ## # $## 
+  ##$#   $ @# 
+   #  $ $ ### 
+   # #   $  # 
+   # ##   # # 
+  ##  ##### # 
+  #         # 
+  #.......### 
+  #.......#   
+  #########   
+
+[set 2.32M, closed 524K, open 1.79M, branching 4.4, key 48/227]
+[set 4.66M, closed 1.05M, open 3.61M, branching 4.4, key 43/227]
+[set 5.79M, closed 1.58M, open 4.22M, branching 3.7, key 60/229]
+[set 6.72M, closed 2.10M, open 4.62M, branching 3.2, key 54/229]
+[set 7.73M, closed 2.63M, open 5.11M, branching 2.9, key 49/229]
+[set 8.77M, closed 3.15M, open 5.62M, branching 2.8, key 45/229]
+[set 9.85M, closed 3.68M, open 6.18M, branching 2.7, key 42/229]
+[set 10.1M, closed 3.74M, open 6.27M, branching 2.7]
+Timed out after key: pushes 40, total 229
+FrozenBoxes 15.4M
+
+Level #47 [cells 85, boxes 16, alive 73, complexity 44.5]
+         ####     
+ #########  ##    
+##  $      $ #####
+#   ## ##   ##...#
+# #$$ $ $$#$##...#
+# #   @   #   ...#
+#  $# ###$$   ...#
+# $  $$  $ ##....#
+###$       #######
+  #  #######      
+  ####            
+
+[set 2.98M, closed 524K, open 2.46M, branching 5.7, key 78/203]
+[set 5.96M, closed 1.05M, open 4.91M, branching 5.7, key 63/203]
+[set 8.91M, closed 1.58M, open 7.34M, branching 5.7, key 76/203]
+[set 10.1M, closed 1.77M, open 8.24M, branching 5.7]
+Timed out after key: pushes 68, total 203
+FrozenBoxes 7.67M
+
+Level #48 [cells 94, boxes 34, alive 84, complexity 62.3]
+  #########  
+  #*.*#*.*#  
+  #.*.*.*.#  
+  #*.*.*.*#  
+  #.*.*.*.#  
+  #*.*.*.*#  
+  ###   ###  
+    #   #    
+###### ######
+#           #
+# $ $ $ $ $ #
+## $ $ $ $ ##
+ #$ $ $ $ $# 
+ #   $@$   # 
+ #  #####  # 
+ ####   #### 
+
+[set 1.91M, closed 524K, open 1.39M, branching 3.6, key 53/200]
+[set 4.42M, closed 1.05M, open 3.37M, branching 4.2, key 44/200]
+[set 6.85M, closed 1.58M, open 5.28M, branching 4.4, key 48/200]
+[set 8.89M, closed 2.10M, open 6.79M, branching 4.2, key 52/200]
+[set 10.1M, closed 2.36M, open 7.65M, branching 4.2]
+Timed out after key: pushes 68, total 200
+FrozenBoxes 5.25M
+
+Level #49 [cells 81, boxes 12, alive 57, complexity 35.3]
+       ####     
+       #  ##    
+       #   ##   
+       # $$ ##  
+     ###$  $ ## 
+  ####    $   # 
+###  # #####  # 
+#    # #....$ # 
+# #   $ ....# # 
+#  $ # #.*..# # 
+###  #### ### # 
+  #### @$  ##$##
+     ### $     #
+       #  ##   #
+       #########
+
+[set 1.36M, closed 524K, open 834K, branching 2.6, key 31/110]
+[set 2.71M, closed 1.05M, open 1.66M, branching 2.6, key 55/112]
+[set 3.89M, closed 1.58M, open 2.32M, branching 2.5, key 40/112]
+[set 5.08M, closed 2.10M, open 2.98M, branching 2.4, key 40/112]
+[set 6.29M, closed 2.63M, open 3.66M, branching 2.4, key 32/112]
+[set 7.53M, closed 3.15M, open 4.39M, branching 2.4, key 35/112]
+[set 8.84M, closed 3.68M, open 5.17M, branching 2.4, key 21/112]
+[set 9.87M, closed 4.20M, open 5.67M, branching 2.4, key 59/114]
+[set 10.1M, closed 4.28M, open 5.73M, branching 2.3]
+Timed out after key: pushes 58, total 114
+FrozenBoxes 5.65M
+
+Level #50 [cells 134, boxes 16, alive 95, complexity 50.0]
+      ############ 
+     ##..    #   # 
+    ##..* $    $ # 
+   ##..*.# # # $## 
+   #..*.# # # $  # 
+####...#  #    # # 
+#  ## #          # 
+# @$ $ ###  #   ## 
+# $   $   # #   #  
+###$$   # # # # #  
+  #   $   # # #####
+  # $# #####      #
+  #$   #   #    # #
+  #  ###   ##     #
+  #  #      #    ##
+  ####      ###### 
+
+[set 2.02M, closed 524K, open 1.50M, branching 3.9, key 26/102]
+[set 4.13M, closed 1.05M, open 3.08M, branching 3.9, key 29/102]
+[set 5.69M, closed 1.58M, open 4.11M, branching 3.6, key 41/104]
+[set 6.90M, closed 2.10M, open 4.80M, branching 3.3, key 37/104]
+[set 8.15M, closed 2.63M, open 5.53M, branching 3.1, key 37/104]
+[set 9.48M, closed 3.15M, open 6.33M, branching 3.0, key 34/104]
+[set 10.1M, closed 3.34M, open 6.67M, branching 3.0]
+Timed out after key: pushes 32, total 104
+FrozenBoxes 3.81M
+
+Level #51 [cells 72, boxes 14, alive 54, complexity 36.6]
+ #########    
+ #       #    
+ # $ $$ $#    
+### #  $ #    
+#.#   $$ ##   
+#.###   $ #   
+#.#. $ ## ####
+#...  $## $  #
+#...$   $    #
+#..###$### #@#
+#..# #     ###
+#### #######  
+
+[set 2.42M, closed 524K, open 1.89M, branching 4.6, key 43/118]
+[set 4.57M, closed 1.05M, open 3.52M, branching 4.4, key 54/118]
+[set 6.16M, closed 1.58M, open 4.59M, branching 3.9, key 52/118]
+[set 8.03M, closed 2.10M, open 5.93M, branching 3.8, key 61/118]
+[set 10.1M, closed 2.58M, open 7.43M, branching 3.9]
+Timed out after key: pushes 57, total 118
+FrozenBoxes 3.55M
+
+Level #52 [cells 132, boxes 18, alive 99, complexity 53.8]
+           ########
+           #......#
+   ####    #......#
+   #  #########...#
+   # $   $    #...#
+   #  # # # # #   #
+##### # # #@# #   #
+#   # ### ### ## ##
+#    $ # $ $ $ # # 
+# $$$  $   #     # 
+#   # ###$###$## # 
+### #  $   #     # 
+ ## $  # $ $ $ ### 
+ #  # ### ### ##   
+ # $          #    
+ #  ###########    
+ ####              
+
+[set 1.20M, closed 524K, open 667K, branching 2.3, key 24/377]
+[set 2.47M, closed 1.05M, open 1.42M, branching 2.3, key 19/377]
+[set 3.80M, closed 1.58M, open 2.23M, branching 2.4, key 15/377]
+[set 5.83M, closed 2.10M, open 3.73M, branching 2.8, key 56/379]
+[set 7.84M, closed 2.63M, open 5.22M, branching 3.0, key 49/379]
+[set 9.64M, closed 3.15M, open 6.49M, branching 3.1, key 44/379]
+[set 10.1M, closed 3.26M, open 6.75M, branching 3.1]
+Timed out after key: pushes 44, total 379
+FrozenBoxes 5.35M
+
+Level #53 [cells 133, boxes 15, alive 76, complexity 44.5]
+##################  
+#                ## 
+# $#   $ ##  $    # 
+#    $###    # $$ # 
+#.###     $ $ ##  ##
+#...#  #  #    #$  #
+#..##$$#### $  #   #
+#...#      $ ##  ###
+#...$  ###  #    # #
+##..  $#  ##   ##@ #
+ ##.#              #
+  ##################
+
+[set 2.60M, closed 524K, open 2.08M, branching 4.9, key 63/186]
+[set 5.06M, closed 1.05M, open 4.01M, branching 4.8, key 67/186]
+[set 7.47M, closed 1.58M, open 5.90M, branching 4.7, key 72/186]
+[set 9.97M, closed 2.10M, open 7.87M, branching 4.8, key 51/186]
+[set 10.1M, closed 2.11M, open 7.90M, branching 4.7]
+Timed out after key: pushes 64, total 186
+FrozenBoxes 5.52M
+
+Level #54 [cells 135, boxes 16, alive 82, complexity 47.2]
+####################
+#   #    #   #   #@#
+# $      $   $   # #
+## ###..## ###     #
+#   #....#$#  $### #
+# $ #....#  $  $ $ #
+#   #....# # # $ $ #
+#   ##..##   #$#   #
+##$##    ##  #  #$##
+#   $  $     #  #  #
+#   #    #   #     #
+####################
+
+[set 1.49M, closed 524K, open 957K, branching 2.8, key 42/177]
+[set 3.41M, closed 1.05M, open 2.36M, branching 3.2, key 25/177]
+[set 5.11M, closed 1.58M, open 3.53M, branching 3.2, key 68/179]
+[set 7.22M, closed 2.10M, open 5.12M, branching 3.4, key 80/179]
+[set 9.30M, closed 2.63M, open 6.68M, branching 3.5, key 68/179]
+[set 10.1M, closed 2.87M, open 7.14M, branching 3.5]
+Timed out after key: pushes 51, total 179
+FrozenBoxes 3.16M
+
+Level #55 [cells 128, boxes 12, alive 72, complexity 39.2]
+################### 
+#    @##      #   # 
+#    ##    $    $ # 
+#  ###....# # #  ###
+#   #....# # # $   #
+### #...#  #       #
+ #  ##.#     $   $ #
+ #  $ $ ###  # # ###
+ # $       # # $   #
+ ### $  $# # # # $ #
+   #         # #  ##
+   ################ 
+
+[set 4.28M, closed 524K, open 3.75M, branching 8.1, key 18/118]
+[set 7.80M, closed 1.05M, open 6.75M, branching 7.4, key 18/118]
+[set 10.1M, closed 1.37M, open 8.64M, branching 7.3]
+Timed out after key: pushes 30, total 118
+FrozenBoxes 1.70M
+
+Level #56 [cells 123, boxes 16, alive 82, complexity 47.1]
+##################  
+#  #  ##    #   @###
+##    $    # $###  #
+##$# $ ##$# $ $    #
+#   $#    $      ###
+# ##   $ ###  #....#
+# # $# # # # #....##
+#    $ $ #  #....## 
+##$ ###  $ #....##  
+#  # $        ###   
+#      # #    #     
+###############     
+
+[set 2.83M, closed 524K, open 2.31M, branching 5.4, key 64/191]
+[set 5.81M, closed 1.05M, open 4.77M, branching 5.5, key 65/191]
+[set 8.72M, closed 1.58M, open 7.14M, branching 5.5, key 73/191]
+[set 10.1M, closed 1.83M, open 8.18M, branching 5.5]
+Timed out after key: pushes 51, total 191
+FrozenBoxes 6.88M
+
+Level #57 [cells 130, boxes 16, alive 90, complexity 48.9]
+######## ###########
+#@     ###   #  #  #
+# # #  #  $  $     #
+#####     # $ $#$# #
+#.#..#    ##$ $    #
+#.....    $   #   ##
+#.....    ###$##$###
+#.#..#    $    #   #
+#####     #  #$  $ #
+    #  #  $    $ $ #
+    #  #  #  #  #  #
+    ################
+
+[set 3.80M, closed 524K, open 3.28M, branching 7.2, key 55/221]
+[set 7.46M, closed 1.05M, open 6.41M, branching 7.1, key 48/221]
+[set 10.1M, closed 1.45M, open 8.56M, branching 6.9]
+Timed out after key: pushes 57, total 221
+FrozenBoxes 4.26M
+
+Level #58 [cells 135, boxes 15, alive 92, complexity 47.9]
+ ###################
+##...   ## #    #  #
+#....         $ ## #
+#....# # #$###$    #
+#...#    #       # #
+##.#  #$ #     $## #
+#  #  # $ $ ###  $ #
+#     $  $ #  # ## #
+## # ## #$$# $#  # #
+#  #   $ $ #      ##
+#    #     #  #   @#
+####################
+
+[set 3.82M, closed 524K, open 3.30M, branching 7.3, key 57/193]
+[set 7.40M, closed 1.05M, open 6.35M, branching 7.1, key 55/193]
+[set 10.1M, closed 1.42M, open 8.59M, branching 7.1]
+Timed out after key: pushes 49, total 193
+FrozenBoxes 1.82M
+
+Level #59 [cells 122, boxes 16, alive 81, complexity 46.9]
+################    
+#   #  #@# ##  #    
+# # #  $    $  ###  
+# #    ###### $  ###
+#   #  #....#  $$  #
+##$##$##....#      #
+#      #....##$##$##
+#  $$  #....#      #
+# $  $  #  #  ###  #
+#####  $   $    $  #
+    # #    #  #   ##
+    ############### 
+
+[set 2.10M, closed 524K, open 1.57M, branching 4.0, key 36/218]
+[set 3.95M, closed 1.05M, open 2.90M, branching 3.8, key 31/218]
+[set 5.96M, closed 1.58M, open 4.39M, branching 3.8, key 34/218]
+[set 8.59M, closed 2.10M, open 6.50M, branching 4.1, key 39/218]
+[set 10.1M, closed 2.42M, open 7.59M, branching 4.1]
+Timed out after key: pushes 57, total 218
+FrozenBoxes 10.4M
+
+Level #60 [cells 121, boxes 13, alive 77, complexity 41.7]
+####################
+# #     #          #
+#       $  ## ### ##
+#####  ##   $  $   #
+##..##  # # $ # #  #
+#....  $     ##$# ##
+#....  $#####   #$##
+##..# #  #   #  $  #
+ ##.# #  $   $  # @#
+ #  $  $ #   #  ####
+ #       ########   
+ #########          
+
+[set 1.06M, closed 524K, open 532K, branching 2.0, key 37/150]
+[set 1.87M, closed 1.05M, open 814K, branching 1.8, key 20/150]
+[set 4.02M, closed 1.58M, open 2.44M, branching 2.6, key 87/152]
+[set 5.94M, closed 2.10M, open 3.85M, branching 2.8, key 126/152]
+[set 7.99M, closed 2.63M, open 5.37M, branching 3.0, key 79/152]
+[set 10.1M, closed 3.14M, open 6.87M, branching 3.2]
+Timed out after key: pushes 86, total 152
+FrozenBoxes 2.91M
+
+Level #61 [cells 131, boxes 20, alive 82, complexity 52.1]
+####### #### #######
+#     # #..# #     #
+# $$  ###..###  $@ #
+#  # ##......#  $  #
+#     #......#  $  #
+####  ###..######$ #
+#   $$$ #..#    #  #
+# $#   $  $  $$ #$ #
+#  #  ## $  ##  #  #
+# $    $ ## $    $ #
+#  #  ##    ##  #  #
+####################
+
+[set 1.20M, closed 524K, open 668K, branching 2.3, key 28/247]
+[set 2.29M, closed 1.05M, open 1.24M, branching 2.2, key 20/247]
+[set 3.57M, closed 1.58M, open 1.99M, branching 2.3, key 17/247]
+[set 5.29M, closed 2.10M, open 3.19M, branching 2.5, key 103/247]
+[set 7.09M, closed 2.63M, open 4.47M, branching 2.7, key 51/247]
+[set 9.23M, closed 3.15M, open 6.08M, branching 2.9, key 42/247]
+[set 10.1M, closed 3.35M, open 6.66M, branching 3.0]
+Timed out after key: pushes 74, total 247
+FrozenBoxes 4.25M
+
+Level #62 [cells 126, boxes 16, alive 86, complexity 48.1]
+####################
+#    #  # #  #  #  #
+# @# # ## $   $   ##
+#### #    #  # $   #
+#    # ## #$ ## ## #
+#      $   $   $   #
+#..###$$## $##$ ## #
+#..#.#  # $   $ #  #
+#....# $$   ##$ ####
+#....#  #####      #
+#...###        ##  #
+##### ##############
+
+[set 3.36M, closed 524K, open 2.84M, branching 6.4, key 111/241]
+[set 6.95M, closed 1.05M, open 5.90M, branching 6.6, key 83/241]
+[set 10.1M, closed 1.54M, open 8.47M, branching 6.5]
+Timed out after key: pushes 112, total 241
+FrozenBoxes 2.24M
+
+Level #63 [cells 140, boxes 17, alive 94, complexity 51.3]
+####################
+#....#       #  #  #
+#....# # $  $      #
+#.... ##  $# # $#$ #
+#...#   $   $#  $  #
+#..####  # $   $$  #
+#      #### #### ###
+#        #   #     #
+# ##   #   $ # $ $ #
+# ##    $ ## $  $  #
+#     @#     #   # #
+####################
+
+[set 2.98M, closed 524K, open 2.46M, branching 5.7, key 69/427]
+[set 6.17M, closed 1.05M, open 5.12M, branching 5.9, key 59/427]
+[set 9.29M, closed 1.58M, open 7.72M, branching 5.9, key 60/427]
+[set 10.1M, closed 1.70M, open 8.31M, branching 5.9]
+Timed out after key: pushes 56, total 427
+FrozenBoxes 1.17M
+
+Level #64 [cells 117, boxes 16, alive 82, complexity 47.1]
+###### #############
+#....# #           #
+#....# ### #  #$# ##
+#....# #   #$  $   #
+#....# #    $  #$$##
+##  ## # $#  #$ $  #
+##  #  #  $  $  #  #
+#@  ####$###$## $  #
+##        #  #  $  #
+ #   ###  #  $  ####
+ ##### #  #  #     #
+       #############
+
+[set 2.33M, closed 524K, open 1.80M, branching 4.4, key 120/373]
+[set 4.56M, closed 1.05M, open 3.51M, branching 4.3, key 110/373]
+[set 6.86M, closed 1.58M, open 5.29M, branching 4.4, key 108/373]
+[set 9.16M, closed 2.10M, open 7.06M, branching 4.4, key 104/373]
+[set 10.1M, closed 2.30M, open 7.71M, branching 4.4]
+Timed out after key: pushes 111, total 373
+FrozenBoxes 3.51M
+
+Level #65 [cells 130, boxes 15, alive 80, complexity 45.4]
+##################  
+#     #     @#...## 
+#     #      ##...##
+# # # ##$## ## ....#
+#   $ #   $$$  ....#
+###$### $$  ### ##.#
+#     $  #    # ####
+#  $  #  ###  # #  #
+## #$##    $  $$   #
+#   $ ##   #  # #  #
+#     #    #  #    #
+####################
+
+[set 2.00M, closed 524K, open 1.48M, branching 3.8, key 70/199]
+[set 3.76M, closed 1.05M, open 2.71M, branching 3.6, key 60/199]
+[set 5.51M, closed 1.58M, open 3.94M, branching 3.5, key 79/199]
+[set 7.30M, closed 2.10M, open 5.20M, branching 3.5, key 70/199]
+[set 9.11M, closed 2.63M, open 6.49M, branching 3.5, key 72/199]
+[set 10.1M, closed 2.88M, open 7.13M, branching 3.5]
+Timed out after key: pushes 67, total 199
+FrozenBoxes 803K
+
+Level #66 [cells 144, boxes 18, alive 89, complexity 51.7]
+####################
+#     #  #...#@    #
+# #       ....#    #
+#  $  #   #....#   #
+# ##$#### ##....#  #
+# $   $  #  #...#  #
+# $$ #   #   # $$  #
+###  $$$#   $$  $  #
+# $  #  #    # $#  #
+#   $#  #       $  #
+#  #    #    #  #  #
+####################
+
+[set 1.28M, closed 524K, open 749K, branching 2.4, key 21/191]
+[set 2.52M, closed 1.05M, open 1.47M, branching 2.4, key 31/193]
+[set 3.65M, closed 1.58M, open 2.07M, branching 2.3, key 25/193]
+[set 4.86M, closed 2.10M, open 2.76M, branching 2.3, key 22/193]
+[set 6.24M, closed 2.63M, open 3.62M, branching 2.4, key 21/193]
+[set 7.81M, closed 3.15M, open 4.66M, branching 2.5, key 20/193]
+[set 9.41M, closed 3.68M, open 5.74M, branching 2.6, key 50/193]
+[set 10.1M, closed 3.84M, open 6.17M, branching 2.6]
+Timed out after key: pushes 18, total 193
+FrozenBoxes 1.80M
+
+Level #67 [cells 121, boxes 20, alive 82, complexity 52.0]
+   ### ############
+   #@###.##...##  #
+  ##$  ..#...#    #
+ ##    ......#  $ #
+##  $ #.....## # ##
+#  $$# #####  $ $ #
+# $# $    ##  $$  #
+#  #  #    # $  $ #
+#   $$ ### #$##   #
+# $#      $ $  $ ##
+##    #    #    ## 
+ ################  
+
+[set 2.25M, closed 524K, open 1.73M, branching 4.3, key 78/379]
+[set 4.32M, closed 1.05M, open 3.27M, branching 4.1, key 84/379]
+[set 6.39M, closed 1.58M, open 4.82M, branching 4.1, key 73/379]
+[set 8.47M, closed 2.10M, open 6.38M, branching 4.0, key 84/379]
+[set 10.1M, closed 2.49M, open 7.52M, branching 4.0]
+Timed out after key: pushes 75, total 379
+FrozenBoxes 3.85M
+
+Level #68 [cells 132, boxes 15, alive 84, complexity 46.2]
+####################
+#@     #   #       #
+## ### ##  #### # ##
+#    # #  $$       #
+#  # # # $ # $ ## ##
+#     $ #  #$$ #   #
+#  ###  #      ## ##
+#..#.# $ #  $ #    #
+#..#.#  $ # ## $$  #
+#....##   $$  $  # #
+#.....##        #  #
+####################
+
+[set 1.70M, closed 524K, open 1.17M, branching 3.2, key 33/327]
+[set 4.72M, closed 1.05M, open 3.67M, branching 4.5, key 166/329]
+[set 7.90M, closed 1.58M, open 6.33M, branching 5.0, key 128/329]
+[set 10.1M, closed 1.93M, open 8.08M, branching 5.2]
+Timed out after key: pushes 151, total 329
+FrozenBoxes 805K
+
+Level #69 [cells 139, boxes 18, alive 82, complexity 49.9]
+################### 
+#  #      #   #   ##
+# $# $ $ ##...$  $ #
+#  $  # ##....# $  #
+# ## $ ##....#   $ #
+# $    #....## $   #
+# $##  #...#       #
+#   $$$##$##  ### ##
+# # #  #   #  #    #
+# $ #  $  ##       #
+#    #    #@       #
+####################
+
+[set 1.74M, closed 524K, open 1.22M, branching 3.3, key 39/219]
+[set 3.62M, closed 1.05M, open 2.57M, branching 3.4, key 36/219]
+[set 5.47M, closed 1.58M, open 3.90M, branching 3.5, key 30/219]
+[set 7.34M, closed 2.10M, open 5.24M, branching 3.5, key 17/219]
+[set 8.90M, closed 2.63M, open 6.28M, branching 3.4, key 95/221]
+[set 10.1M, closed 3.01M, open 7.00M, branching 3.3]
+Timed out after key: pushes 75, total 221
+FrozenBoxes 2.10M
+
+Level #70 [cells 130, boxes 18, alive 84, complexity 50.3]
+####################
+#  #  # #    #  #  #
+#   $      $ $     #
+## #  #$###$##  ## #
+#   $     $  #  $  #
+# ###$##$#   # $   #
+# #   $ $  ###### $#
+# $  $$ $  #@#.#...#
+# #     #  # #.#...#
+# ########## #.....#
+#            #.....#
+####################
+
+[set 1.18M, closed 524K, open 647K, branching 2.2, key 18/329]
+[set 2.35M, closed 1.05M, open 1.30M, branching 2.2, key 30/329]
+[set 3.59M, closed 1.58M, open 2.02M, branching 2.3, key 77/329]
+[set 4.69M, closed 2.10M, open 2.59M, branching 2.2, key 70/329]
+[set 5.88M, closed 2.63M, open 3.25M, branching 2.2, key 96/329]
+[set 6.96M, closed 3.15M, open 3.82M, branching 2.2, key 73/329]
+[set 8.07M, closed 3.68M, open 4.40M, branching 2.2, key 100/329]
+[set 9.33M, closed 4.20M, open 5.14M, branching 2.2, key 124/329]
+[set 10.1M, closed 4.48M, open 5.53M, branching 2.2]
+Timed out after key: pushes 101, total 329
+FrozenBoxes 12.8M
+
+Level #71 [cells 135, boxes 18, alive 76, complexity 48.2]
+################### 
+#  #     #  ##    ##
+# $#   $ #     ##  #
+# $  $  #..#     $ #
+# $ $  #....#   # ##
+# $#  #......### $ #
+#   #  #....#  #$  #
+# $  ####..#   #   #
+## $   ## # # $  $##
+ ## $    $#@$ $#   #
+  ##   #       #   #
+   #################
+
+[set 2.31M, closed 524K, open 1.79M, branching 4.4, key 51/290]
+[set 4.30M, closed 1.05M, open 3.25M, branching 4.1, key 67/292]
+[set 5.94M, closed 1.58M, open 4.36M, branching 3.8, key 62/292]
+[set 7.51M, closed 2.10M, open 5.41M, branching 3.6, key 54/292]
+[set 9.10M, closed 2.63M, open 6.48M, branching 3.5, key 56/292]
+[set 10.1M, closed 2.91M, open 7.10M, branching 3.4]
+Timed out after key: pushes 53, total 292
+FrozenBoxes 560K
+
+Level #72 [cells 132, boxes 16, alive 84, complexity 47.7]
+#################   
+#      ....#    ####
+#      ....        #
+# # ##########     #
+# #$   #      ###..#
+#  $   #$$###   #..#
+# $ ### $   $   #..#
+# $ #   $ $ #  ##..#
+#  #  $$ # $ ##   ##
+#@## $#  $  $     # 
+##       ##   #  ## 
+ #################  
+
+[set 2.99M, closed 524K, open 2.46M, branching 5.7, key 91/288]
+[set 6.04M, closed 1.05M, open 4.99M, branching 5.8, key 55/288]
+[set 9.05M, closed 1.58M, open 7.47M, branching 5.7, key 47/288]
+[set 10.1M, closed 1.75M, open 8.26M, branching 5.7]
+Timed out after key: pushes 48, total 288
+FrozenBoxes 962K
+
+Level #73 [cells 139, boxes 14, alive 88, complexity 45.5]
+####################
+#        #   #@ #  #
+# $$  #$$# # #  ## #
+#  # $ $ #$$ #     #
+## #  #  # # #  #  #
+#   ##       #     #
+#   # $ #   #   #  #
+# $ #$ #   #  $ #..#
+##$ #  ####    #...#
+#  $          #....#
+#   #  #     #.....#
+####################
+
+[set 3.37M, closed 524K, open 2.85M, branching 6.4, key 56/435]
+[set 6.54M, closed 1.05M, open 5.49M, branching 6.2, key 58/435]
+[set 10.1M, closed 1.57M, open 8.44M, branching 6.4]
+Timed out after key: pushes 187, total 435
+FrozenBoxes 1.02M
+
+Level #74 [cells 126, boxes 16, alive 73, complexity 44.9]
+###########   ######
+#     #   #  ##    #
+## $  #   ####  $  #
+#### $$   #..#  #  #
+#  $  $  ##..#### ##
+# $   ###....   $$ #
+#  #$#   ....# # $ #
+# #  # $ ..###$#   #
+# #   $ #..#   ##  #
+#   $#  ####   # $##
+# #  #    @#      # 
+################### 
+
+[set 1.01M, closed 524K, open 482K, branching 1.9, key 56/178]
+[set 1.86M, closed 1.05M, open 802K, branching 1.8, key 36/176]
+[set 2.84M, closed 1.58M, open 1.27M, branching 1.8, key 15/178]
+[set 3.79M, closed 2.10M, open 1.69M, branching 1.8, key 47/180]
+[set 4.62M, closed 2.63M, open 2.00M, branching 1.8, key 51/180]
+[set 5.47M, closed 3.15M, open 2.33M, branching 1.7, key 36/180]
+[set 6.32M, closed 3.68M, open 2.65M, branching 1.7, key 32/180]
+[set 7.22M, closed 4.20M, open 3.03M, branching 1.7, key 30/180]
+[set 8.18M, closed 4.72M, open 3.46M, branching 1.7, key 27/180]
+[set 9.16M, closed 5.25M, open 3.92M, branching 1.7, key 22/180]
+[set 10.1M, closed 5.69M, open 4.32M, branching 1.8]
+Timed out after key: pushes 25, total 178
+FrozenBoxes 3.23M
+
+Level #75 [cells 130, boxes 17, alive 77, complexity 47.3]
+####################
+#   #   #    #   #@#
+#   $  $     # $ # #
+##$# $### #    $$# #
+#  #  #.###  #$ $  #
+#  #$#....#  # ### #
+# $  #.....##    # #
+##$  #.#....#$$ $  #
+#  ######..## #  # #
+#  $         $ ### #
+#   #   #        # #
+####################
+
+[set 971K, closed 524K, open 446K, branching 1.9, key 48/277]
+[set 2.03M, closed 1.05M, open 977K, branching 1.9, key 24/277]
+[set 2.98M, closed 1.58M, open 1.41M, branching 1.9, key 49/279]
+[set 3.80M, closed 2.10M, open 1.71M, branching 1.8, key 41/279]
+[set 4.64M, closed 2.63M, open 2.02M, branching 1.8, key 47/279]
+[set 5.63M, closed 3.15M, open 2.48M, branching 1.8, key 33/279]
+[set 6.74M, closed 3.68M, open 3.07M, branching 1.8, key 41/279]
+[set 7.91M, closed 4.20M, open 3.71M, branching 1.9, key 44/279]
+[set 9.09M, closed 4.72M, open 4.37M, branching 1.9, key 40/279]
+[set 10.1M, closed 5.13M, open 4.88M, branching 2.0]
+Timed out after key: pushes 38, total 279
+FrozenBoxes 2.20M
+
+Level #76 [cells 130, boxes 17, alive 88, complexity 49.9]
+####################
+# # # #   #@##   # #
+#             $    #
+#  ##$# ##### $ # ##
+##    ##.....#  #  #
+##$##$#.....###$#$ #
+#   # ##.....#  # ##
+#  $    ##..##  #  #
+# $ #   $   $  $$$ #
+## $  $# #  #  $   #
+#   ##   #  #      #
+####################
+
+[set 1.45M, closed 524K, open 922K, branching 2.8, key 35/196]
+[set 3.03M, closed 1.05M, open 1.98M, branching 2.9, key 44/196]
+[set 4.44M, closed 1.58M, open 2.87M, branching 2.8, key 22/196]
+[set 5.82M, closed 2.10M, open 3.73M, branching 2.8, key 13/196]
+[set 7.17M, closed 2.63M, open 4.55M, branching 2.7, key 48/198]
+[set 8.65M, closed 3.15M, open 5.50M, branching 2.7, key 48/198]
+[set 10.1M, closed 3.66M, open 6.35M, branching 2.7]
+Timed out after key: pushes 41, total 198
+FrozenBoxes 5.61M
+
+Level #77 [cells 126, boxes 14, alive 80, complexity 43.9]
+####################
+#    ##   #    #   #
+#  $  $     ## $   #
+## #####  .###### ##
+ # ##  ##....#### ##
+## ##$ ###..##     #
+#      #... .# $ $ #
+# $ ## ## . ### ####
+# # $    #.## # #   
+# $ $ #   .#### ##  
+# #  ## # ##  #  ## 
+#######  $##$   $ # 
+      ##      $ #@# 
+       #  ## ###### 
+       #######      
+
+[set 1.37M, closed 524K, open 842K, branching 2.6, key 36/362]
+[set 2.71M, closed 1.05M, open 1.66M, branching 2.6, key 31/362]
+[set 4.08M, closed 1.58M, open 2.50M, branching 2.6, key 27/362]
+[set 5.45M, closed 2.10M, open 3.35M, branching 2.6, key 39/362]
+[set 6.82M, closed 2.63M, open 4.20M, branching 2.6, key 38/362]
+[set 8.19M, closed 3.15M, open 5.04M, branching 2.6, key 23/362]
+[set 9.58M, closed 3.68M, open 5.91M, branching 2.6, key 45/362]
+[set 10.1M, closed 3.85M, open 6.16M, branching 2.6]
+Timed out after key: pushes 42, total 362
+FrozenBoxes 1.63M
+
+Level #78 [cells 90, boxes 8, alive 66, complexity 30.9]
+       ########### 
+       #         # 
+       #    $ $  # 
+###### # $ ##### # 
+#    ##### $  ##$# 
+#       $ $      # 
+#          ## ## # 
+#    ##@##### ## # 
+#    ####   # ## ##
+#....#      # $   #
+#....#      #     #
+######      #######
+
+[set 702K, closed 213K, open 489K, branching 3.3]
+Found solution in 136 pushes.
+FrozenBoxes 307K
+
+Level #79 [cells 100, boxes 12, alive 68, complexity 38.1]
+#############      
+#           #      
+# ### $$    #      
+#   # $  $  #      
+#  $####$######    
+# $ ##        #####
+#  $$ $        ...#
+### ## $$#     ...#
+  # ##   #     ...#
+  #      #     ...#
+  ###@#############
+    ###            
+
+[set 2.19M, closed 524K, open 1.67M, branching 4.2, key 66/170]
+[set 4.38M, closed 1.05M, open 3.33M, branching 4.2, key 78/170]
+[set 6.62M, closed 1.58M, open 5.05M, branching 4.2, key 76/170]
+[set 8.89M, closed 2.10M, open 6.80M, branching 4.2, key 74/170]
+[set 10.1M, closed 2.36M, open 7.65M, branching 4.3]
+Timed out after key: pushes 78, total 170
+FrozenBoxes 5.82M
+
+Level #80 [cells 110, boxes 12, alive 80, complexity 40.5]
+  #################
+###@##         ...#
+#    #         ...#
+# $  #         ...#
+# $$ #         ...#
+## $ ###$##########
+ # ###  $ #        
+##   $  $ #        
+#  $ #  $ #        
+# $  #    #        
+#  $ #    #        
+#    #    #        
+###########        
+
+[set 856K, closed 524K, open 332K, branching 1.6, key 74/231]
+[set 2.47M, closed 1.05M, open 1.42M, branching 2.3, key 58/231]
+[set 3.42M, closed 1.58M, open 1.84M, branching 2.2, key 53/231]
+[set 4.72M, closed 2.10M, open 2.63M, branching 2.2, key 108/231]
+[set 6.15M, closed 2.63M, open 3.53M, branching 2.3, key 117/229]
+[set 7.57M, closed 3.15M, open 4.43M, branching 2.4, key 115/231]
+[set 8.88M, closed 3.68M, open 5.21M, branching 2.4, key 132/231]
+[set 9.84M, closed 4.20M, open 5.64M, branching 2.3, key 119/231]
+[set 10.1M, closed 4.29M, open 5.72M, branching 2.3]
+Timed out after key: pushes 139, total 231
+FrozenBoxes 2.32M
+
+Level #81 [cells 95, boxes 12, alive 72, complexity 38.9]
+              #####
+     ##########   #
+     #        #   #
+     #  $ $    $$ #
+     # ##### ## $ #
+     #$$   #$## $ #
+     # ### # ##$  #
+###### ### $ $    #
+#....        ##   #
+#....        ######
+#....        #     
+###########@##     
+          ###      
+
+[set 1.92M, closed 524K, open 1.39M, branching 3.6, key 47/173]
+[set 4.13M, closed 1.05M, open 3.08M, branching 3.9, key 55/173]
+[set 6.55M, closed 1.58M, open 4.97M, branching 4.2, key 48/173]
+[set 8.67M, closed 2.10M, open 6.58M, branching 4.1, key 37/173]
+[set 10.1M, closed 2.40M, open 7.61M, branching 4.2]
+Timed out after key: pushes 66, total 173
+FrozenBoxes 4.56M
+
+Level #82 [cells 85, boxes 12, alive 65, complexity 37.3]
+    ######       
+ ####    #       
+ #    ## #       
+ # $     #       
+### #### ########
+#  $   $ ##  ...#
+#   $$ $$    ...#
+#    $  $##  ...#
+##@## ## ##  ...#
+ ###  $  ########
+ #   $$  #       
+ #    #  #       
+ #########       
+
+[set 1.94M, closed 524K, open 1.41M, branching 3.7, key 68/137]
+[set 3.66M, closed 1.05M, open 2.61M, branching 3.5, key 71/137]
+[set 5.33M, closed 1.58M, open 3.76M, branching 3.4, key 63/137]
+[set 6.98M, closed 2.10M, open 4.88M, branching 3.3, key 50/137]
+[set 8.73M, closed 2.63M, open 6.10M, branching 3.3, key 52/137]
+[set 10.1M, closed 3.01M, open 7.00M, branching 3.3]
+Timed out after key: pushes 49, total 137
+FrozenBoxes 2.56M
+
+Level #83 [cells 102, boxes 10, alive 66, complexity 34.6]
+####### #########
+#     # #   ##  #
+# ### # #   $   #
+# # $ ###   $   #
+#   $$      ##$ #
+#    ####   ##  #
+#@############ ##
+###..    #  ##$ #
+  #..    ####   #
+  #..       $$  #
+  #..    #### $ #
+  #..    #  #   #
+  ########  #####
+
+[set 2.46M, closed 524K, open 1.94M, branching 4.7, key 76/194]
+[set 4.82M, closed 1.05M, open 3.77M, branching 4.6, key 64/194]
+[set 7.30M, closed 1.58M, open 5.72M, branching 4.6, key 55/194]
+[set 8.79M, closed 2.10M, open 6.69M, branching 4.2, key 103/194]
+[set 9.86M, closed 2.63M, open 7.24M, branching 3.8, key 94/194]
+[set 10.1M, closed 2.70M, open 7.31M, branching 3.7]
+Timed out after key: pushes 91, total 194
+FrozenBoxes 2.46M
+
+Level #84 [cells 104, boxes 12, alive 75, complexity 39.6]
+#######         
+#     ######### 
+#     #    #  ##
+# $   #   $ $  #
+#  $  #  $ ##  #
+# $$  ##$ $    #
+## #  ## #######
+## #  ##    ...#
+#  #$       ...#
+#   $$      ...#
+#     ##@#  ...#
+################
+
+[set 2.13M, closed 524K, open 1.61M, branching 4.1, key 62/149]
+[set 4.34M, closed 1.05M, open 3.29M, branching 4.1, key 67/149]
+[set 6.54M, closed 1.58M, open 4.96M, branching 4.2, key 55/149]
+[set 8.60M, closed 2.10M, open 6.50M, branching 4.1, key 71/149]
+[set 10.1M, closed 2.50M, open 7.51M, branching 4.0]
+Timed out after key: pushes 72, total 149
+FrozenBoxes 1.23M
+
+Level #85 [cells 145, boxes 15, alive 78, complexity 45.0]
+############        
+#      #   ##       
+# $  $   #  ######  
+####  #####      #  
+ #..  #     #### #  
+ #.####  ####    #  
+ #....    #  $ #### 
+ # ...#   # $$$#  ##
+###.#### ##  $@$   #
+#     ##### $ #    #
+# #.# $      $###$ #
+# #.########  #  $ #
+# #..        ##  $ #
+# # ####### $ # #  #
+#   #     #       ##
+#####     ######### 
+
+[set 2.36M, closed 524K, open 1.84M, branching 4.5, key 72/307]
+[set 4.36M, closed 1.05M, open 3.32M, branching 4.2, key 79/307]
+[set 6.31M, closed 1.58M, open 4.74M, branching 4.0, key 78/307]
+[set 8.25M, closed 2.10M, open 6.15M, branching 3.9, key 66/307]
+[set 10.1M, closed 2.58M, open 7.43M, branching 3.9]
+Timed out after key: pushes 60, total 307
+FrozenBoxes 3.85M
+
+Level #86 [cells 75, boxes 10, alive 49, complexity 30.7]
+################ 
+#       #@ #   # 
+# # # # # $  $$# 
+# #...# #$$$   # 
+#  ...# # $  $$##
+# ##.## # ##    #
+# #...     $    #
+# ## ###  #######
+#    # ####      
+######           
+
+[set 1.34M, closed 524K, open 811K, branching 2.5, key 48/128]
+[set 2.63M, closed 1.05M, open 1.58M, branching 2.5, key 42/128]
+[set 4.12M, closed 1.58M, open 2.55M, branching 2.6, key 46/128]
+[set 5.67M, closed 2.10M, open 3.57M, branching 2.7, key 93/130]
+[set 7.07M, closed 2.63M, open 4.45M, branching 2.7, key 90/130]
+[set 8.60M, closed 3.15M, open 5.45M, branching 2.7, key 82/130]
+[set 10.1M, closed 3.63M, open 6.38M, branching 2.8]
+Timed out after key: pushes 73, total 130
+FrozenBoxes 4.77M
+
+Level #87 [cells 111, boxes 12, alive 74, complexity 39.4]
+    #####       
+ ####   ## #####
+ #  $    ###   #
+ # $@$ $    $  #
+ # #$######## ##
+ # #  $  #     #
+ # # $ $ # #   #
+## #  $# # #####
+#  ##    #     #
+#    $ # ###   #
+##### ##  #....#
+#    $     ....#
+#         #....#
+################
+
+[set 1.63M, closed 524K, open 1.11M, branching 3.1, key 83/225]
+[set 3.21M, closed 1.05M, open 2.16M, branching 3.1, key 85/225]
+[set 5.21M, closed 1.58M, open 3.64M, branching 3.3, key 78/225]
+[set 7.03M, closed 2.10M, open 4.93M, branching 3.3, key 70/225]
+[set 8.78M, closed 2.63M, open 6.16M, branching 3.3, key 70/225]
+[set 10.1M, closed 2.96M, open 7.05M, branching 3.4]
+Timed out after key: pushes 79, total 225
+FrozenBoxes 4.61M
+
+Level #88 [cells 133, boxes 23, alive 114, complexity 64.2]
+##########       
+#........####    
+#...#### #  #####
+#...#  ###    $ #
+#...$$     $ $  #
+#  .#  $ $# $  ##
+#...# #$#   $  # 
+#.# # $   $    # 
+#.  #$###$####$# 
+##  #   $ $    # 
+ #  #  $@$  #  # 
+ #  # #### $  $# 
+ #  #    ###   # 
+ #  # $$ # ##### 
+ #  #    #       
+ #########       
+
+[set 1.88M, closed 524K, open 1.36M, branching 3.6, key 27/330]
+[set 4.26M, closed 1.05M, open 3.21M, branching 4.1, key 32/330]
+[set 6.35M, closed 1.58M, open 4.77M, branching 4.0, key 35/330]
+[set 8.96M, closed 2.10M, open 6.87M, branching 4.3, key 30/330]
+[set 10.1M, closed 2.36M, open 7.65M, branching 4.2]
+Timed out after key: pushes 29, total 330
+FrozenBoxes 11.2M
+
+Level #89 [cells 155, boxes 21, alive 104, complexity 59.3]
+ ################## 
+ #   $       ...#.##
+ #       ####..... #
+ # #######  #..... #
+ # #    $ $ ##....##
+ # #  $ # # ###...# 
+ # # $@$ $  ##### # 
+## #  $  $ $$   $ # 
+#  #$# $#   # $## # 
+# ##    ## ## $ # # 
+# # $# $ $  #     # 
+# #         ####### 
+# ########$##   #   
+#        #  $   #   
+########    #####   
+       ###  #       
+         ####       
+
+[set 2.01M, closed 524K, open 1.48M, branching 3.8, key 8/347]
+[set 4.13M, closed 1.05M, open 3.08M, branching 3.9, key 29/347]
+[set 6.22M, closed 1.58M, open 4.65M, branching 4.0, key 20/347]
+[set 8.36M, closed 2.10M, open 6.26M, branching 4.0, key 16/347]
+[set 10.1M, closed 2.58M, open 7.43M, branching 3.9]
+Timed out after key: pushes 37, total 349
+FrozenBoxes 7.36M
+
+Level #90 [cells 181, boxes 25, alive 133, complexity 71.6]
+####################
+#..#    #          #
+#.$  $  #$$  $## $##
+#.$#  ###  ## ##   #
+#  # $ #  $$   $   #
+# ###  # #  #$  ####
+#  ## # $   #@ #   #
+# $    $  ##.##  $ #
+#  # $# $# $     ###
+#  #  #  #   ###   #
+#  ######## #      #
+#           #  #.#.#
+##$########$#   ...#
+#    .*  #    ##.#.#
+# .*...*   $  .....#
+####################
+
+[set 1.09M, closed 524K, open 563K, branching 2.1, key 27/450]
+[set 2.30M, closed 1.05M, open 1.26M, branching 2.2, key 28/450]
+[set 3.59M, closed 1.58M, open 2.02M, branching 2.3, key 35/450]
+[set 4.89M, closed 2.10M, open 2.79M, branching 2.3, key 44/450]
+[set 6.19M, closed 2.63M, open 3.57M, branching 2.4, key 51/450]
+[set 7.49M, closed 3.15M, open 4.34M, branching 2.4, key 46/450]
+[set 8.76M, closed 3.68M, open 5.09M, branching 2.4, key 38/450]
+[set 10.1M, closed 4.18M, open 5.83M, branching 2.4]
+Timed out after key: pushes 23, total 450
+FrozenBoxes 6.79M
+
+Summary:
+Levels 91 (Timeout 83, NoSolution 0, Unsupported 0)
+TotalClosed 7.85M, TotalOpened 6.53M
+TotalSet 14.4M, TotalFrozenBoxes 375.0M
+TotalPushes 864
+Heuristic heuristic.SimpleBipartiteHeuristic
+Concurrent = true
+Simplest level Timeout: 3
+        ######## 
+        #     @# 
+        # $#$ ## 
+        # $  $#  
+        ##$ $ #  
+######### $ # ###
+#....  ## $  $  #
+##...    $  $   #
+#....  ##########
+########         
+
+PrintDeadCells false
+VerboseSearch false
+CheckFrozenBoxes true
+IncludeAgentInHashCode false
+CacheHashCode true
+
+Flat profile of 3665.95 secs (321839 total ticks): main
+
+  Interpreted + native   Method                        
+  1.4%    13  +     0    base.KeyUtil.createBoxset
+  1.2%     0  +    11    java.io.FileInputStream.readBytes
+  1.1%     0  +    10    java.io.FileInputStream.open
+  0.8%     0  +     7    java.io.WinNTFileSystem.getBooleanAttributes
+  0.3%     3  +     0    java.util.ArrayDeque.addLast
+  0.3%     3  +     0    java.util.Arrays.copyOfRange
+  0.3%     3  +     0    java.util.Arrays.copyOf
+  0.3%     3  +     0    java.lang.String.toCharArray
+  0.2%     2  +     0    java.util.ArrayDeque.size
+  0.2%     2  +     0    java.util.Formatter.parse
+  0.2%     2  +     0    java.util.ArrayDeque.clear
+  0.2%     0  +     2    sun.misc.Unsafe.getLong
+  0.2%     2  +     0    java.util.ArrayDeque.pollFirst
+  0.1%     1  +     0    base.KeySet.clear
+  0.1%     0  +     1    java.lang.Class.getDeclaredFields0
+  0.1%     1  +     0    base.Flags.print
+  0.1%     0  +     1    java.lang.ClassLoader.findBootstrapClass
+  0.1%     1  +     0    java.lang.ClassLoader.defineClass1
+  0.1%     0  +     1    java.lang.Thread.currentThread
+  7.7%    36  +    33    Total interpreted
+
+     Compiled + native   Method                        
+ 54.0%   484  +     0    base.KeyUtil.frozenBoxes
+ 31.3%   280  +     1    base.Cells$MinimalPushes.<init>
+  5.0%    45  +     0    base.KeyUtil.reachable
+  0.3%     0  +     3    java.util.Arrays.copyOf
+  0.1%     1  +     0    java.lang.ThreadLocal$ThreadLocalMap.getEntry
+  0.1%     1  +     0    java.lang.ThreadLocal.get
+ 90.9%   811  +     4    Total compiled
+
+         Stub + native   Method                        
+  0.6%     0  +     5    java.lang.System.arraycopy
+  0.1%     0  +     1    java.lang.Object.notify
+  0.1%     0  +     1    java.lang.Thread.currentThread
+  0.8%     0  +     7    Total stub
+
+  Thread-local ticks:
+ 99.7% 320942            Blocked (of total)
+  0.6%     5             Class loader
+  0.1%     1             Unknown: no last frame
+
+
+Flat profile of 0.03 secs (4 total ticks): DestroyJavaVM
+
+  Thread-local ticks:
+ 25.0%     1             Blocked (of total)
+100.0%     3             Class loader
+
+
+Flat profile of 3665.93 secs (321839 total ticks): Thread-7
+
+  Interpreted + native   Method                        
+  0.0%     1  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  0.0%     1  +     0    java.lang.String.substring
+  0.0%     0  +     1    sun.misc.Unsafe.park
+  0.0%     1  +     0    java.util.ArrayList.<init>
+  0.0%     1  +     0    java.util.Locale.equals
+  0.0%     4  +     1    Total interpreted
+
+     Compiled + native   Method                        
+ 62.6% 156655  +     0   base.KeyUtil.frozenBoxes
+ 19.1% 47674  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  5.7%  4100  + 10172    Search$Runner.computePushes
+  3.1%  7817  +     8    base.KeyUtil.computePushes
+  3.1%  7714  +     0    base.KeyUtil.reachable
+  1.3%  3356  +     6    base.KeyUtil.getBoxes
+  0.7%  1641  +    10    base.KeySet.resize
+  0.3%   305  +   565    Search$Runner.run
+  0.1%   373  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%    95  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%    28  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+  0.0%     0  +     7    ConcurrentWorkPriorityQueue.exchange
+  0.0%     0  +     2    java.util.Arrays.copyOf
+ 96.2% 229758  + 10770   Total compiled
+
+         Stub + native   Method                        
+  3.8%     0  +  9548    java.lang.Object.notify
+  3.8%     0  +  9548    Total stub
+
+  Thread-local ticks:
+ 22.3% 71758             Blocked (of total)
+
+
+Flat profile of 3665.93 secs (321839 total ticks): Thread-6
+
+  Interpreted + native   Method                        
+  0.0%     1  +     0    java.lang.String.toCharArray
+  0.0%     1  +     0    ConcurrentWorkPriorityQueue.exchange
+  0.0%     1  +     0    java.lang.CharacterData.of
+  0.0%     3  +     0    Total interpreted
+
+     Compiled + native   Method                        
+ 60.6% 146800  +     0   base.KeyUtil.frozenBoxes
+ 19.3% 46759  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  6.7%  3260  + 12863    Search$Runner.computePushes
+  2.9%  6901  +     7    base.KeyUtil.computePushes
+  2.6%  6276  +     0    base.KeyUtil.reachable
+  1.3%  3149  +     7    base.KeyUtil.getBoxes
+  0.5%  1103  +    10    base.KeySet.resize
+  0.3%   236  +   611    Search$Runner.run
+  0.0%   102  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%    14  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     8  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+  0.0%     0  +     8    java.util.Arrays.copyOf
+  0.0%     0  +     3    ConcurrentWorkPriorityQueue.exchange
+ 94.2% 214608  + 13509   Total compiled
+
+         Stub + native   Method                        
+  5.8%     0  + 13938    java.lang.Object.notify
+  0.0%     0  +     2    java.lang.System.arraycopy
+  5.8%     0  + 13940    Total stub
+
+  Thread-local ticks:
+ 24.8% 79779             Blocked (of total)
+
+
+Flat profile of 3665.93 secs (321839 total ticks): Thread-5
+
+  Interpreted + native   Method                        
+  0.0%     2  +     0    java.util.Arrays.copyOf
+  0.0%     0  +     2    java.lang.Object.wait
+  0.0%     2  +     0    Search$Runner.run
+  0.0%     1  +     0    java.util.regex.Matcher.groupCount
+  0.0%     1  +     0    java.util.Formatter.parse
+  0.0%     6  +     2    Total interpreted
+
+     Compiled + native   Method                        
+ 60.3% 145853  +     0   base.KeyUtil.frozenBoxes
+ 19.0% 45998  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  6.9%  3258  + 13538    Search$Runner.computePushes
+  2.8%  6652  +    12    base.KeyUtil.computePushes
+  2.6%  6168  +     0    base.KeyUtil.reachable
+  1.3%  3252  +     8    base.KeyUtil.getBoxes
+  0.7%  1626  +     9    base.KeySet.resize
+  0.4%   235  +   626    Search$Runner.run
+  0.1%   126  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     0  +    12    ConcurrentWorkPriorityQueue.exchange
+  0.0%    11  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     4  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+  0.0%     0  +     2    java.util.Arrays.copyOf
+ 94.1% 213183  + 14207   Total compiled
+
+         Stub + native   Method                        
+  5.9%     0  + 14363    java.lang.Object.notify
+  5.9%     0  + 14363    Total stub
+
+  Thread-local ticks:
+ 24.9% 80078             Blocked (of total)
+
+
+Flat profile of 3665.93 secs (321839 total ticks): Thread-4
+
+  Interpreted + native   Method                        
+  0.0%     1  +     0    java.lang.String.toCharArray
+  0.0%     1  +     0    java.lang.Math.abs
+  0.0%     1  +     0    Search$Runner.computePushes
+  0.0%     1  +     0    java.util.Formatter.parse
+  0.0%     1  +     0    java.util.Arrays.copyOf
+  0.0%     5  +     0    Total interpreted
+
+     Compiled + native   Method                        
+ 60.9% 147709  +     0   base.KeyUtil.frozenBoxes
+ 19.2% 46514  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  6.6%  3361  + 12622    Search$Runner.computePushes
+  2.8%  6841  +    11    base.KeyUtil.computePushes
+  2.7%  6443  +     0    base.KeyUtil.reachable
+  1.3%  3183  +     2    base.KeyUtil.getBoxes
+  0.6%  1381  +    17    base.KeySet.resize
+  0.3%   207  +   590    Search$Runner.run
+  0.1%   140  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%    17  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%    11  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+  0.0%     0  +    10    ConcurrentWorkPriorityQueue.exchange
+  0.0%     0  +     5    java.util.Arrays.copyOf
+ 94.5% 215807  + 13257   Total compiled
+
+         Stub + native   Method                        
+  5.5%     0  + 13390    java.lang.Object.notify
+  5.5%     0  + 13390    Total stub
+
+  Thread-local ticks:
+ 24.7% 79380             Blocked (of total)
+
+
+Flat profile of 3665.93 secs (321839 total ticks): Thread-3
+
+  Interpreted + native   Method                        
+  0.0%     1  +     0    java.util.regex.Matcher.groupCount
+  0.0%     0  +     1    java.io.FileOutputStream.writeBytes
+  0.0%     1  +     0    Search$Runner.run
+  0.0%     1  +     0    base.CellSearch.<init>
+  0.0%     1  +     0    sun.misc.FormattedFloatingDecimal.dtoa
+  0.0%     1  +     0    java.util.Formatter$FormatSpecifier.print
+  0.0%     5  +     1    Total interpreted
+
+     Compiled + native   Method                        
+ 60.5% 144849  +     0   base.KeyUtil.frozenBoxes
+ 18.8% 44900  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  6.6%  3576  + 12323    Search$Runner.computePushes
+  2.9%  6928  +    15    base.KeyUtil.computePushes
+  2.6%  6201  +     0    base.KeyUtil.reachable
+  1.4%  3237  +     6    base.KeyUtil.getBoxes
+  0.6%  1502  +     9    base.KeySet.resize
+  0.4%   312  +   591    Search$Runner.run
+  0.0%    96  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%    10  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     0  +     9    ConcurrentWorkPriorityQueue.exchange
+  0.0%     0  +     3    java.util.Arrays.copyOf
+  0.0%     3  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+ 93.8% 211614  + 12956   Total compiled
+
+         Stub + native   Method                        
+  6.2%     0  + 14885    java.lang.Object.notify
+  0.0%     0  +     2    java.lang.System.arraycopy
+  6.2%     0  + 14887    Total stub
+
+  Thread-local ticks:
+ 25.6% 82376             Blocked (of total)
+
+
+Flat profile of 3665.93 secs (321839 total ticks): Thread-2
+
+  Interpreted + native   Method                        
+  0.0%     1  +     0    java.util.Arrays.copyOf
+  0.0%     0  +     1    java.lang.Object.wait
+  0.0%     0  +     1    java.lang.Object.getClass
+  0.0%     1  +     0    java.lang.String.toCharArray
+  0.0%     2  +     2    Total interpreted
+
+     Compiled + native   Method                        
+ 60.8% 146642  +     0   base.KeyUtil.frozenBoxes
+ 19.3% 46500  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  6.5%  3189  + 12565    Search$Runner.computePushes
+  2.8%  6811  +     5    base.KeyUtil.computePushes
+  2.6%  6319  +     0    base.KeyUtil.reachable
+  1.3%  3093  +     4    base.KeyUtil.getBoxes
+  0.6%  1408  +     8    base.KeySet.resize
+  0.3%   221  +   518    Search$Runner.run
+  0.0%   108  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     0  +    25    ConcurrentWorkPriorityQueue.exchange
+  0.0%    20  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     0  +     6    java.util.Arrays.copyOf
+  0.0%     3  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+ 94.4% 214314  + 13131   Total compiled
+
+         Stub + native   Method                        
+  5.6%     0  + 13566    java.lang.Object.notify
+  0.0%     0  +     1    java.lang.System.arraycopy
+  5.6%     0  + 13567    Total stub
+
+  Thread-local ticks:
+ 25.1% 80823             Blocked (of total)
+
+
+Flat profile of 3665.93 secs (321839 total ticks): Thread-1
+
+  Interpreted + native   Method                        
+  0.0%     2  +     0    Search$Runner.run
+  0.0%     0  +     1    sun.misc.Unsafe.compareAndSwapInt
+  0.0%     1  +     0    java.lang.String.substring
+  0.0%     1  +     0    base.KeySet.resize
+  0.0%     4  +     1    Total interpreted
+
+     Compiled + native   Method                        
+ 60.8% 146790  +     0   base.KeyUtil.frozenBoxes
+ 19.4% 46716  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  6.6%  3158  + 12742    Search$Runner.computePushes
+  2.8%  6656  +    12    base.KeyUtil.computePushes
+  2.5%  6138  +     0    base.KeyUtil.reachable
+  1.3%  3098  +     6    base.KeyUtil.getBoxes
+  0.6%  1405  +    14    base.KeySet.resize
+  0.3%   209  +   472    Search$Runner.run
+  0.0%   117  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%     0  +    10    ConcurrentWorkPriorityQueue.exchange
+  0.0%     9  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%     0  +     6    java.util.Arrays.copyOf
+  0.0%     5  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+ 94.3% 214301  + 13262   Total compiled
+
+         Stub + native   Method                        
+  5.7%     0  + 13824    java.lang.Object.notify
+  5.7%     0  + 13824    Total stub
+
+  Thread-local ticks:
+ 25.0% 80447             Blocked (of total)
+
+
+Flat profile of 3665.93 secs (321839 total ticks): Thread-0
+
+  Interpreted + native   Method                        
+  0.0%     1  +     0    base.CellSearch.<init>
+  0.0%     1  +     0    java.util.Formatter.parse
+  0.0%     1  +     0    sun.nio.cs.StreamEncoder.implWrite
+  0.0%     0  +     1    java.io.FileOutputStream.writeBytes
+  0.0%     1  +     0    base.CellSearch2.visited
+  0.0%     0  +     1    java.lang.Object.wait
+  0.0%     0  +     1    java.lang.Double.longBitsToDouble
+  0.0%     1  +     0    Search$Runner.computePushes
+  0.0%     0  +     1    java.lang.Object.notify
+  0.0%     5  +     4    Total interpreted
+
+     Compiled + native   Method                        
+ 61.4% 148329  +     0   base.KeyUtil.frozenBoxes
+ 19.3% 46713  +     0    heuristic.SimpleBipartiteHeuristic.estimate
+  6.5%  3330  + 12264    Search$Runner.computePushes
+  2.8%  6826  +    15    base.KeyUtil.computePushes
+  2.6%  6258  +     0    base.KeyUtil.reachable
+  1.3%  3134  +     5    base.KeyUtil.getBoxes
+  0.5%  1178  +     9    base.KeySet.resize
+  0.3%   220  +   424    Search$Runner.run
+  0.1%   131  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.twopass
+  0.0%    27  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.auxMultipass
+  0.0%    14  +     0    tintor.devel.heap.XLiteAuxTwoPassPairingHeap.compressAux
+  0.0%     0  +     7    ConcurrentWorkPriorityQueue.exchange
+  0.0%     0  +     4    java.util.Arrays.copyOf
+ 94.7% 216160  + 12728   Total compiled
+
+         Stub + native   Method                        
+  5.3%     0  + 12757    java.lang.Object.notify
+  0.0%     0  +     1    java.lang.System.arraycopy
+  5.3%     0  + 12758    Total stub
+
+  Thread-local ticks:
+ 24.9% 80184             Blocked (of total)
+
+
+Global summary of 3666.00 seconds:
+100.0% 346088            Received ticks
+  7.0% 24229             Received GC ticks
+  0.0%    61             Compilation
+  0.0%    12             Other VM operations
+  0.0%     8             Class loader
+  0.0%     1             Unknown code

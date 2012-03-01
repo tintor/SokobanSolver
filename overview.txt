@@ -1,0 +1,20 @@
+Components:
+- Parser / Printer
+- Level: Static empty level description
+	- with static analysis info
+- Cell: describes one floor in Level - static data
+	- allows iterating over its neighbors
+	- immutable
+- Builder: constructs Cells/Level from abstract description
+
+- [Normalized] Key: describes positions of boxes in level and position of agent
+	- agent is represented as cloud of reachable positions (not a single one)
+- ?? Need a way to store dynamic analysis data
+
+Principles:
+- DONE no static data
+- [in progress] minimize memory usage
+- DONE benchmark to evaluate different variants on large problem set
+
+- DONE lazy normalization of Keys
+- DONE compare keys by [total, -pushes]
